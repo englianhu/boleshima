@@ -910,7 +910,7 @@ rm(程序包)
 
 ### 开函阅牍/简
 
-马来西亚彩券数据[4Dmoon](https://www.4dmoon.com/zh-cn)
+通过易经（包括广经堂、万年历）与计数编程，分析马来西亚彩券数据[4Dmoon](https://www.4dmoon.com/zh-cn)。
 
 此文献的数据中的默认预测价就是延续上篇使用最基本的季节性指数平滑尤物（Seasonal Exponential Smoothing - Seasonal ETS）计数/机数尤物，而且筹算出使用最少观测值来达到最精准的算卜结果，才来使用较高端的计数/机数尤物，以节省筹算时间与资源：
 
