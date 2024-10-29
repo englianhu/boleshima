@@ -930,11 +930,42 @@ head(万)
 链 %>% read_html %>% html_table
 
 集 <- llply(链, function(迭) {
-  表 = 迭 %>% read_html %>% html_table
-  名 = 迭 %>% read_html %>% 
-    html_nodes(css = "[class = 'panel-body']") %>% 
-    html_text %>% str_split(' - ') %>% .[[1]] %>% .[1]
+  表甲 = 迭 %>% read_html %>% 
+    html_nodes(css = "[class = 'panel panel-primary col-md-3 col-xs-6']") %>% 
+    html_text(trim = TRUE) %>% 
+    # str_squish()
+    str_replace_all('[\n|\t| ]', '') %>% 
+    str_split_fixed('\r', 20) %>% 
+    t() %>% 
+    as_tibble() %>% 
+    plyr::ldply(., function(参) trimws(str_replace_all(参, '([A-Z])', ' \\1'))) %>% 
+    mutate(.id = NULL)
+  表甲[表甲 == ''] <- NA
+  表甲 <- 表甲[, colSums(is.na(表甲)) < nrow(表甲)]
+  names(表甲) <- c('庄', '彩号', '英典', '秦典')
   
+  表乙 = 迭 %>% read_html %>% 
+    html_table(header = TRUE) %>% 
+    .[[1]]
+  names(表乙) <- c('庄', '彩号', '开彩日期', '奖')
+  
+  ## Scraping html table with images using XML R package
+  ## https://stackoverflow.com/a/30913590/3806250
+  表乙$庄 = 迭 %>% 
+    read_html %>% 
+    html_nodes('td > img') %>% 
+    html_attr('src') %>% 
+    str_replace_all('/images/logo_|.gif', '') %>% 
+    mutate(彩票 = sprintf('%04d', 彩号))
+  join(表乙, 表甲)
+  })
+
+链[1] %>% read_html %>% 
+    html_nodes(css = "[class = 'panel panel-primary col-md-3 col-xs-6']") %>% 
+    html_text(trim = TRUE) %>% 
+    str_replace_all('[\n|\t| ]', '') %>% 
+    str_split_fixed('\r', 20) %>% 
+    as_tibble()
 ```
 
 ## 开函阅牍/简
