@@ -964,7 +964,7 @@ rm(程序包)
 
 ## 採撷数据
 
-```{r 採撷中秋数据, eval = FALSE, error = TRUE}
+```{r 採撷中秋网开彩数据, eval = FALSE, error = TRUE}
 ## 商鞅变法与烧饼歌之「月到中秋分外明」
 ## https://www.4dmoon.com/zh-cn/4d-history
 万 <- sprintf('%04d', 0:9999)
@@ -1013,12 +1013,12 @@ head(万)
   表 %<>% .[c('开彩日期', '彩号', '秦庄', '奖', '秦典', '英典')]
   
   if(!dir.exists(paste0(getwd(), '/诸子百家学府/4Dmoon'))) dir.create('./诸子百家学府/4Dmoon')
-  fwrite(表, paste0('./诸子百家学府/4Dmoon/中秋开彩数据_', 迭, '.csv'))
+  fwrite(表, paste0('./诸子百家学府/4Dmoon/中秋网开彩数据_', 迭, '.csv'))
   }) %>% 
   as_tibble()
 ```
 
-```{r 採撷秦统天下数据, eval = FALSE, error = TRUE}
+```{r 採撷秦人牧马开彩网数据, eval = FALSE, error = TRUE}
 ## 秦统天下之父
 ## https://4dresult88.com/history
 万 <- sprintf('%04d', 0:9999)
@@ -1033,7 +1033,7 @@ head(万)
   names(表[[4]]) <- c('彩号', '图译', '秦典')
   
   表 = join_all(表[c(1, 4)]) %>% 
-    tibble()
+    as_tibble()
   表$秦庄 %<>% str_replace_all('Magnum 4D', '萬能')
   表$秦庄 %<>% str_replace_all('Damacai', '大馬彩')
   表$秦庄 %<>% str_replace_all('Sports Toto', '多多')
@@ -1043,7 +1043,7 @@ head(万)
   表$秦庄 %<>% str_replace_all('STC 4D', '山打根馬會')
   
   if(!dir.exists(paste0(getwd(), '/诸子百家学府/4dresult88'))) dir.create('./诸子百家学府/4dresult88')
-  fwrite(表, paste0('./诸子百家学府/4dresult88/秦人牧马开彩数据_', 迭, '.csv'))
+  fwrite(表, paste0('./诸子百家学府/4dresult88/秦人牧马开彩网数据_', 迭, '.csv'))
   }) %>% 
   as_tibble()
 ```
