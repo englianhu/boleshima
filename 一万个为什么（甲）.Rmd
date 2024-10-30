@@ -791,17 +791,49 @@ rm(程序包)
 
 ## 论文简介
 
-此论文使用计数方式通过易经（包括广经堂、万年历）与计数编程，筹算马来西亚彩券开彩概率。
+自古赌庄、酒庄、钱庄、盐商、米商，都是咱们的中国传统行业。
 
-- 万能：钱并非万能，但没钱却万万不能。
-- 大马彩：秦人牧马
-- 多多：韩信点兵，多多益善。
-- 
+- [「馆」中国早在秦汉时期就有了彩票，而且几个朝代都有精彩的彩票故事](http://www.360doc.com/content/21/0822/09/70965819_992099534.shtml)
+- [「问百度」赌场是从什么时候开始有的?哪个朝代？](https://zhidao.baidu.com/question/521659847.html)
 
-由于`forecast`、`fable`系列程序包具有完善的筹算、占卜配套，鉴于[Getting an error "`xreg` and `newxreg` have different numbers of columns"](https://stackoverflow.com/a/37642448/3806250)亦建议用之。
+> **2018年**，到柬埔寨西哈努克港[黄金城娱乐城](https://www.facebook.com/QQ779933300)当客服人员，因为非常危险，有天午休时间二楼宿舍大爆炸和许多枪声后，员工纷纷逃跑到公司，有位小胖经理走来叫我马上飞回国。
 
+*引用：[「鄀客栈」雷欧 ∪ 瑞欧，黄联富](https://rpubs.com/englianhu/ryo-cn)*
 
+> ...当时有位像主播何海其的同事有时会问问东西，然后房间内搬来了位缅甸/果敢同胞，当时他就聊起他们那儿的军政府之类的，当时每天晚上或凌晨都有一些同事在宿舍走楼梯和游荡说要找内鬼之类的，我都不是内鬼也得提防，所以要求换房间一个人睡就批准了，当时连续几天编程采集数据分析时时彩，然后问上头要不要；如大学开学第一周是培训周，由于培训期间每天对着时时彩和福利彩等形形色色、林林种种、五花八门、走马看花的彩券彩种，有天通过这惠普卜威廉廿三三合一电脑（hp Pavilion 23）就分析[「鄀客栈」Lottery 3D Analysis 彩票分析](https://rpubs.com/englianhu/lottery-3D-analysis)，然后上司说分析彩票不重要就阁着，没几天后就因为宿舍大爆炸和枪林弹雨很危险，有位小胖经理就冲冲忙忙、赶紧帮我订购机票乘搭最快航班回国了...
 
+*出处：[「文派」《雪隆江夏堂》-家谱](https://englianhu.wordpress.com/2022/02/22/《雪隆江夏堂》-家谱)*
+
+二零一八年到柬埔寨西哈努克港「黄金城」打工不足一周，如大学开学第一周是培训周，由于培训期间每天对着时时彩和福利彩等形形色色、林林种种、五花八门、走马看花的彩券彩种，有天通过这惠普卜威廉廿三三合一电脑（hp Pavilion 23）就分析[「鄀客栈」Lottery 3D Analysis 彩票分析](https://rpubs.com/englianhu/lottery-3D-analysis)，然后上司说分析彩票不重要就阁着，没几天后就因为宿舍大爆炸和枪林弹雨很危险，有位小胖经理就冲冲忙忙、赶紧帮我订购机票乘搭最快航班回国了。
+
+愚生旧东家乃英国百年老店福布斯五百强之一[立博](https://sports.ladbrokes.com)，英国（此称之为“楚国”，借鉴春秋战国时期楚国历史，包括所有共运会诸侯英殖民地）立博投注站遍布全国。借鉴愚生旧作，英国<ruby>蹴<rp>(</rp><rt>cù</rt><rp>)</rp>鞠<rp>(</rp><rt>jū</rt><rp>)</rp></ruby>赛事与投注开彩日一般上都是周日、周末、周三等、间中周二还会有开彩特别期，有个时间序列规律。
+
+- [「猫城」鄀尤物](https://github.com/englianhu/Rmodel)
+- [「猫城」赔率计数|机数造物（打造尤物）建模与试探蹴鞠彩券商的昏庸、无能、腐败与破绽](https://github.com/scibrokes/odds-modelling-and-testing-inefficiency-of-sports-bookmakers)
+
+[泛马大彩有限公司推出更新版即刮即赢游戏](https://www.woah.my/2024/07/31/fan-ma-da-cai-you-xian-gong)此论文使用计数方式通过易经（包括广经堂、万年历）与计数编程，筹算马来西亚彩券开彩概率。
+
+- [万能](https://www.magnum4d.my/zh-cn)：「钱并非万能，但没钱却万万不能。」
+- [大马彩](https://www.damacai.com.my)：「田忌赛马，秦人牧马。」
+- [多多](https://www.sportstoto.com.my/cn/index.asp)：「韩信点兵，多多益善。」
+- [星池](https://www.singaporepools.com.sg/landing/ch/Pages/index.html)：「周星翅♬」
+- [砂大萬](https://www.cashsweep.my)：「大万洲学论。」
+- [沙巴彩](http://www.diriwan88.com)：「田氏代齐，田忌赛马。」
+- [山打根马会](http://www.stc4d.com/index.aspx)：「田忌赛马，秦人牧马。」
+- [大彩](https://www.bigsweep.com.my)：「手中情♬」
+
+它日再继续科研中国彩票吧。由于`forecast`、`fable`系列程序包具有完善的筹算、占卜、回测、检测配套，鉴于[Getting an error "`xreg` and `newxreg` have different numbers of columns"](https://stackoverflow.com/a/37642448/3806250)亦建议用之。
+
+- [「楼里楼下」马来西亚彩票有哪些，有相关介绍吗？](https://www.yanwo668.com/yanwo-changshi/13660.html)
+- [「中秋」万字积宝 系统投注 投注额表](https://www.4dmoon.com/zh-cn/4d-jackpot-system-play-price-table)
+- [「中秋」赢得4D彩票？ - 如何兑领奖金？](https://www.4dmoon.com/zh-cn/where-to-claim-prize)
+- [「中秋」万能开彩信息](https://www.4dmoon.com/zh-cn/magnum-prize-structure)。
+- [「中秋」大马彩 派彩结构](https://www.4dmoon.com/zh-cn/damacai-prize-structure)
+- [「中秋」多多博彩 派彩结构](https://www.4dmoon.com/zh-cn/sportstoto-prize-structure)
+- [「中秋」新加坡博彩 派彩结构](https://www.4dmoon.com/zh-cn/singapore-prize-structure)
+- [「中秋」山打根赛马会 (STC) 派彩结构](https://www.4dmoon.com/zh-cn/sandakan-prize-structure)
+- [「中秋」沙巴88 派彩结构](https://www.4dmoon.com/zh-cn/sabah88-prize-structure)
+- [「中秋」砂勞越大万 派彩结构](https://www.4dmoon.com/zh-cn/sarawak-cashsweep-prize-structure)
 
 然后在**外因周期性季节性**添加天文历法因素，例如天干地支、廿四节气，下一篇会更详细添加农历月份雅称等参数计算周期。[天干地支纪年法，天干地支五行对照表](https://123.5ikfc.com/ganzhi)叙述一些有关天文历法、天干地支纪年、纪月、纪日、纪时、时辰、十二生肖和生辰八字。
 
@@ -992,7 +1024,7 @@ head(万)
   表$秦庄 %<>% str_replace_all('Magnum 4D', '萬能')
   表$秦庄 %<>% str_replace_all('Damacai', '大馬彩')
   表$秦庄 %<>% str_replace_all('Sports Toto', '多多')
-  表$秦庄 %<>% str_replace_all('Singapore 4D', '新彩')
+  表$秦庄 %<>% str_replace_all('Singapore 4D', '星池')
   表$秦庄 %<>% str_replace_all('Cash Sweep', '砂大萬')
   表$秦庄 %<>% str_replace_all('Sabah 88', '沙巴彩')
   表$秦庄 %<>% str_replace_all('STC 4D', '山打根馬會')
@@ -1022,26 +1054,19 @@ head(万)
 ```
 
 马来西亚彩券数据：
-- 商鞅变法与烧饼歌之「月到中秋分外明」[4Dmoon.com](https://www.4dmoon.com/zh-cn)
-- 秦统天下之父[4dresult88.com](https://4dresult88.com/history)。
+- 商鞅变法与烧饼歌之「月到中秋分外明」[「中秋」4Dmoon.com](https://www.4dmoon.com/zh-cn)
+- 秦统天下之父[「秦国之父」4dresult88.com](https://4dresult88.com/history)。
 
 由于以上4dresult88.com网站数据较完善，故此以之。
 
 ## 开函阅牍/简
 
-以天文学公转周期与自转周期的概念，预测时间单位为一分钟而数据量为十个时辰；**总汇结论（从阳历二零一六年至二零一八年七月七日）**和**总汇阳历二零一八年上半年结论**可以证实将再循环数据量参数设置为`频率 = 1`（**以百分之一个时辰时间单位为一个周期（一分钟单位千皕观测量一个循环周期）**）误差最小、最为精准<span style='color:white; background-color:#DE5D83;'>**最优计数尤物**</span>。为了节省科研时间，它日只需要使用半年汇价数据而非三年半数据。
-
-基于`千皕分钟`为一个最优循环期数据量，此篇文章将样本数据过滤为`2017-12-31 16:01:00 CST（中国标准时间）`至`2018-07-01 00:00:00 CST（中国标准时间）`，这样所预测出来的汇价会从`2018-01-01 00:00:00 CST（中国标准时间）`至`2018-07-01 00:00:00 CST（中国标准时间）`七个月整的汇价数据，再来比较闭市价误差，二零一八年汇价数据第一周并无闭市价，估计是年假休市，再比较误差时会忽略`NA值`时间的数据。
-
-为了方便日后节省时间，这儿再过滤汇价数据量。
+以天文学公转周期与自转周期的概念，。
 
 ```{r 绘制样本数据图表, error=TRUE}
-## 检验是否已设置途径。
-source('函数/汇总上奏.R')
-source('函数/总汇结论.R')
-
+## 检验诸子百家学府书库。
 if(!exist('./诸子百家学府/4Dmoon')) dir.create('./诸子百家学府/4Dmoon')
-if(!exist('./诸子百家学府/4Dmoon')) dir.create('./诸子百家学府/')
+if(!exist('./诸子百家学府/4dresult88')) dir.create('./诸子百家学府/4dresult88')
 
 if (!exists('彩种')) 样本二零一八半年 <- readRDS(paste0(.蜀道, '诸子百家学府/彩种/马来西亚彩券数据.rds'))
 
@@ -1063,6 +1088,35 @@ rm(样本二零一八半年)
 以上首千多个汇价（观测值）都是一样的汇价。
 
 # 计数造物
+
+## 概括
+
+<iframe width="400" height="225" src="https://youtube.com/embed/lNP6aJF-mfI" title="「数学课」时间单位" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+*出处：[「数学课」时间单位](https://youtu.be/lNP6aJF-mfI)*
+
+> | 古人时间 | 年（时间计量单位） |
+> |:--------:|:------------------:|
+> |   一岁   |               一年 |
+> |   一旬^[一、十天叫一旬，一个月分上、中、下三旬。<br>二、十岁也叫一旬。] |  十年 |
+> |   一记   |             十二年 |
+> |   一代   |             廿五年 |
+> |   一世   |               卅年 |
+> |   一甲子 |               圆年 |
+> |   一世纪 |             一百年 |
+> |   一运   |           三百圆年 |
+> |   一会   |       一万零八百年 |
+> |   一元   |   十二万九千六百年 |
+> 
+> <iframe width="400" height="225" src="https://youtube.com/embed/CZMVGJpFVmM" title="道家年份的计量单位" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*出处：[「油管」道家年份的计量单位](https://youtube.com/shorts/CZMVGJpFVmM)*
+
+借鉴以上以“年”为计量单位，就谈及秦史「蕲年宫之变」与春节放鞭炮赶走凶残的年兽的”年“。关于“年”的传说有很多版本，其中一个广为流传的故事是关于一种名为“年”的怪兽。传说中，”年”是一种头长触角、凶猛异常的怪兽，每到除夕便会出来伤人。为了驱赶“年”兽，人们采取了各种方法，如放鞭炮、挂红灯笼等，这些习俗逐渐演变成了春节的庆祝活动。
+
+借鉴[「鄀客栈」Lottery 3D Analysis 彩票分析](https://rpubs.com/englianhu/lottery-3D-analysis)中提及赌庄在开彩概率上占有百分之枯二点七的优势，欲以凯利投注模式获利，估计得花上百万年时间。借鉴「对酒当歌，人生几何？譬如朝露，去日苦多。」，所以得学习计数编程统筹法（环境与系统工程学），也就是咱们道家和民间习俗所说的“风水学”。将周遭所闻所见来实践《万年历》与《广经堂》中彩票辞典的陈腔滥调。
+
+## 计数尤物
 
 # 尤物比较
 
@@ -1321,5 +1375,6 @@ rm(系统信息甲, 系统信息乙)
 - 廿五、[**R Markdown Cookbook** 17.5 Customize the Knit button (*)](https://bookdown.org/yihui/rmarkdown-cookbook/custom-knit.html)
 
 ---
+
 [![](诸子百家考工记/世博量化.png){height=14} Sςιβrοκεrs Trαdιηg®](http://www.scibrokes.com)<br>
 [![](诸子百家考工记/世博量化.png){height=14} 世博量化®](http://www.scibrokes.com)企业知识产权及版权所有，盗版必究。**]{style="color:RoyalBlue"}
