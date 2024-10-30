@@ -973,7 +973,7 @@ head(万)
 集 <- ldply(万, function(迭) {
   链 <- paste0('https://www.4dmoon.com/zh-cn/4d-history/', 迭)
   cat(paste('採撷', 链, '数据\n'))
-  表甲 = 链 %>% read_html %>% 
+  表甲 <- 链 %>% read_html %>% 
     html_nodes(css = "[class = 'panel panel-primary col-md-3 col-xs-6']") %>% 
     html_text(trim = TRUE) %>% 
     # str_squish()
@@ -986,32 +986,34 @@ head(万)
   表甲[表甲 == ''] <- NA
   表甲 <- 表甲[, colSums(is.na(表甲)) < nrow(表甲)]
   names(表甲) <- c('秦庄', '彩号', '英典', '秦典')
-  表甲 %<>% mutate('英庄' = case_when(
-    秦庄 == '萬能' ~ 'toto', 
-    秦庄 == '多多博彩' ~ 'magnum', 
-    秦庄 == '大馬彩' ~ 'damacai', 
-    秦庄 == '大伯公千字' ~ 'dabogong'))
   
-  表乙 = 链 %>% read_html %>% 
+  表乙 <- 链 %>% read_html %>% 
     html_table(header = TRUE) %>% 
     .[[1]]
-  names(表乙) <- c('英庄', '彩号', '开彩日期', '奖')
+  names(表乙) <- c('秦庄', '彩号', '开彩日期', '奖')
   
   ## Scraping html table with images using XML R package
   ## https://stackoverflow.com/a/30913590/3806250
-  表乙$英庄 = 链 %>% 
+  表乙$秦庄 <- 链 %>% 
     read_html %>% 
     html_nodes('td > img') %>% 
     html_attr('src') %>% 
     str_replace_all('/images/logo_|.gif', '')
   表乙 %<>% mutate(彩号 = sprintf('%04d', 彩号))
+  表乙 %<>% mutate('秦庄' = case_when(
+    秦庄 == 'toto' ~ '萬能', 
+    秦庄 == 'magnum' ~ '多多博彩', 
+    秦庄 == 'damacai' ~ '大馬彩', 
+    秦庄 == 'dabogong' ~ '大伯公千字', 
+    秦庄 == 'sg4d' ~ '星池'))
   
   表 <- join(表乙, 表甲) %>% 
-  mutate(开彩日期 = ymd(开彩日期))
-  表 %<>% .[c('开彩日期', '彩号', '秦庄', '英庄', '奖', '秦典', '英典')]
+    as_tibble() %>% 
+    mutate(开彩日期 = ymd(开彩日期))
+  表 %<>% .[c('开彩日期', '彩号', '秦庄', '奖', '秦典', '英典')]
   
-  if(!exist('./诸子百家学府/4Dmoon')) dir.create('./诸子百家学府/4Dmoon')
-  fwrite(表, paste0('./诸子百家学府/4Dmoon/马来西亚彩券数据_', 迭, '.csv'))
+  if(!dir.exists(paste0(getwd(), '/诸子百家学府/4Dmoon'))) dir.create('./诸子百家学府/4Dmoon')
+  fwrite(表, paste0('./诸子百家学府/4Dmoon/中秋开彩数据_', 迭, '.csv'))
   }) %>% 
   as_tibble()
 ```
@@ -1028,7 +1030,7 @@ head(万)
   表 = 链 %>% read_html %>% 
     html_table(header = TRUE, trim = TRUE)
   names(表[[1]]) <- c('彩号', '彩金', '抽奖', '开彩日期', '开彩日', '秦庄')
-  names(表[[4]]) <- c('彩号', '圖譯', '秦典')
+  names(表[[4]]) <- c('彩号', '图译', '秦典')
   
   表 = join_all(表[c(1, 4)]) %>% 
     tibble()
@@ -1040,26 +1042,8 @@ head(万)
   表$秦庄 %<>% str_replace_all('Sabah 88', '沙巴彩')
   表$秦庄 %<>% str_replace_all('STC 4D', '山打根馬會')
   
-  表乙 = 链 %>% read_html %>% 
-    html_table(header = TRUE) %>% 
-    .[[1]]
-  names(表乙) <- c('英庄', '彩号', '开彩日期', '奖')
-  
-  ## Scraping html table with images using XML R package
-  ## https://stackoverflow.com/a/30913590/3806250
-  表乙$英庄 = 链 %>% 
-    read_html %>% 
-    html_nodes('td > img') %>% 
-    html_attr('src') %>% 
-    str_replace_all('https://4dpanda.com/assets/images/lotto/logo_|.gif', '')
-  表乙 %<>% mutate(彩号 = sprintf('%04d', 彩号))
-  
-  表 <- join(表乙, 表甲) %>% 
-  mutate(开彩日期 = ymd(开彩日期))
-  表 %<>% .[c('开彩日期', '彩号', '秦庄', '英庄', '奖', '秦典', '英典')]
-  
-  if(!exist('./诸子百家学府/4Dmoon')) dir.create('./诸子百家学府/4Dmoon')
-  fwrite(表, paste0('./诸子百家学府/4Dmoon/秦人牧马开彩数据_', 迭, '.csv'))
+  if(!dir.exists(paste0(getwd(), '/诸子百家学府/4dresult88'))) dir.create('./诸子百家学府/4dresult88')
+  fwrite(表, paste0('./诸子百家学府/4dresult88/秦人牧马开彩数据_', 迭, '.csv'))
   }) %>% 
   as_tibble()
 ```
@@ -1080,7 +1064,7 @@ head(万)
 if(!exists('./诸子百家学府/4Dmoon')) dir.create('./诸子百家学府/4Dmoon')
 if(!exists('./诸子百家学府/4dresult88')) dir.create('./诸子百家学府/4dresult88')
 
-if (!exists('秦人牧马开彩数据')) 秦人牧马开彩数据 <- readRDS(paste0(.蜀道, '诸子百家学府/彩种/马来西亚彩券数据.rds'))
+if (!exists('秦人牧马开彩数据')) 秦人牧马开彩数据 <- readRDS(paste0(.蜀道, '诸子百家学府/4dresult88/秦人牧马开彩数据.rds'))
 
 ## A data.table and dplyr tour
 ## https://atrebas.github.io/post/2019-03-03-datatable-dplyr/#addupdatedelete-columns
