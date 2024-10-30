@@ -1014,6 +1014,7 @@ head(万)
   
   if(!dir.exists(paste0(getwd(), '/诸子百家学府/4Dmoon'))) dir.create('./诸子百家学府/4Dmoon')
   fwrite(表, paste0('./诸子百家学府/4Dmoon/中秋网开彩数据_', 迭, '.csv'))
+  cat(paste0('./诸子百家学府/4Dmoon/中秋网开彩数据_', 迭, '.csv 已储存！'))
   }) %>% 
   as_tibble()
 ```
@@ -1044,6 +1045,7 @@ head(万)
   
   if(!dir.exists(paste0(getwd(), '/诸子百家学府/4dresult88'))) dir.create('./诸子百家学府/4dresult88')
   fwrite(表, paste0('./诸子百家学府/4dresult88/秦人牧马开彩网数据_', 迭, '.csv'))
+  cat(paste0('./诸子百家学府/4dresult88/秦人牧马开彩网数据_', 迭, '.csv 已储存！'))
   }) %>% 
   as_tibble()
 ```
