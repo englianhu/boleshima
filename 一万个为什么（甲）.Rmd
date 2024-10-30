@@ -822,7 +822,7 @@ rm(程序包)
 - [「猫城」鄀尤物](https://github.com/englianhu/Rmodel)
 - [「猫城」赔率计数|机数造物（打造尤物）建模与试探蹴鞠彩券商的昏庸、无能、腐败与破绽](https://github.com/scibrokes/odds-modelling-and-testing-inefficiency-of-sports-bookmakers)
 
-此论文使用计数方式通过易经（包括广经堂、万年历）与计数编程，筹算马来西亚彩券开彩概率。
+此论文使用计数方式通过易经（包括广经堂、黄历、万年历）与计数编程，筹算马来西亚彩券开彩概率。而数据来源取自于[「中秋」4Dmoon.com](https://www.4dmoon.com/zh-cn)和[「秦国之父」4dresult88.com](https://4dresult88.com/history)，从农历一九八五乙丑年桃月初六至农历二零二四甲辰年菊月廿八（每年农历菊月廿八乃愚生之生日）。
 
 - [万能](https://www.magnum4d.my/zh-cn/)：「钱并非万能，但没钱却万万不能。」
 - [大马彩](https://www.damacai.com.my/zh/home)：「田忌赛马，秦人牧马。」
@@ -963,7 +963,9 @@ rm(程序包)
 - [长篇章回小说,是章与回有什么联系?](https://qb.zuoyebang.com/xfe-question/question/662c6e85e6f061d4ac6d23e23988219a.html)
 - [诗歌的“章、首、节”](https://www.zgshige.com/c/2018-05-18/6215619.shtml)
 
-## 採撷数据
+## <ruby>椠<rp>(</rp><rt>qiàn</rt><rp>)</rp></ruby>
+
+### 採撷数据
 
 ```{r 採撷中秋网开彩数据, eval = FALSE, error = TRUE}
 ## 商鞅变法与烧饼歌之「月到中秋分外明」
@@ -1059,11 +1061,9 @@ head(万)
 
 由于以上4dresult88.com网站数据较完善，故此以之。
 
-## 开函阅牍/简
+### 开函阅牍/开函阅简
 
-以天文学公转周期与自转周期的概念，。
-
-```{r 绘制样本数据图表, error=TRUE}
+```{r 整顿彩票数据, eval = FALSE, error=TRUE}
 ## 检验诸子百家学府书库。
 中秋网开彩数据 <- list.files(paste0(getwd(), '/诸子百家学府/4Dmoon/'))
 中秋网开彩数据 <- llply(中秋网开彩数据, function(参) {
@@ -1071,21 +1071,59 @@ head(万)
   }, .progress = 'text') %>% 
   rbindlist %>% 
   mutate(彩号 = sprintf('%04d', 彩号))
-中秋网开彩数据
+saveRDS(中秋网开彩数据, paste0(getwd(), '/诸子百家学府/中秋网开彩数据.rds'))
 
 秦人牧马开彩网数据 <- list.files(paste0(getwd(), '/诸子百家学府/4dresult88/'))
 秦人牧马开彩网数据 <- llply(秦人牧马开彩网数据, function(参) {
   data.table::fread(paste0(getwd(), '/诸子百家学府/4dresult88/', 参))
   }, .progress = 'text') %>% 
   rbindlist %>% 
-  mutate(彩号 = sprintf('%04d', 彩号), 秦典 = str_replace_all(秦典, '[^\u4E00-\u9FA5]', '')) %>% 
-  dplyr::filter(秦庄 == 秦典)
-秦人牧马开彩网数据
+  mutate(彩号 = sprintf('%04d', 彩号), 秦典 = str_replace_all(秦典, '[^\u4E00-\u9FA5]', '')) #%>% 
+  #dplyr::filter(秦庄 == 秦典)
+saveRDS(秦人牧马开彩网数据, paste0(getwd(), '/诸子百家学府/秦人牧马开彩网数据.rds'))
 ```
 
-以上图表显示数据`年月日时分`，由`r 日内指数平滑数据二零一八年上半年总汇 <- readRDS('/home/englianhu/文档/猫城/binary.com-interview-question-data/诸子百家学府/fx/USDJPY/仓库/日内指数平滑数据二零一八年上半年总汇.rds'); paste(range(日内指数平滑数据二零一八年上半年总汇$年月日时分), collapse = ' 至 ')`，接下来的科研一律使用同样的半年数据，是为了在回测多元计数尤物，才能获知并筛选最优计数尤物。
+```{r 读取彩票数据, error = TRUE}
+(中秋网开彩数据 <- readRDS(paste0(getwd(), '/诸子百家学府/中秋网开彩数据.rds'))) %>% 
+  .[order(开彩日期)]
+range(中秋网开彩数据$开彩日期)
 
-以上首千多个汇价（观测值）都是一样的汇价。
+(秦人牧马开彩网数据 <- readRDS(paste0(getwd(), '/诸子百家学府/秦人牧马开彩网数据.rds'))) %>% 
+  .[order(开彩日期)]
+range(秦人牧马开彩网数据$开彩日期)
+```
+
+```{r 绘制秦人牧马开彩网数据图表, eval = FALSE, results = 'asis'}
+## 绘制秦人牧马开彩网数据图表
+秦人牧马开彩网数据 |> 
+  {\(.) kbl(., caption = '秦人牧马开彩网数据', escape = FALSE)}() |> 
+  ## https://www.w3schools.com/cssref/css_colors.asp
+  ## https://public.tableau.com/en-us/gallery/100-color-palettes?gallery=votd 
+  {\(.) row_spec(., 0, background = 'DimGrey', 
+                 color = 'gold', bold = TRUE)}() |> 
+  {\(.) column_spec(., 1, background = 'CornflowerBlue')}() |> 
+  {\(.) column_spec(., 2, background = 'Gray')}() |> 
+  {\(.) column_spec(., 3, background = 'DarkGrey')}() |> 
+  {\(.) column_spec(., 4, background = 'Gray')}() |> 
+  {\(.) column_spec(., 5, background = 'DarkGrey')}() |> 
+  {\(.) column_spec(., 6, background = '#4897D8')}() |> 
+  {\(.) column_spec(., 7, background = '#92AAC7')}() |> 
+  {\(.) column_spec(., 8, background = '#375E97')}() |> 
+  {\(.) column_spec(., 9, background = 'CornflowerBlue')}() |> 
+  {\(.) column_spec(., 10, background = 'LightGray', 
+                    color = 'goldenrod')}() |> 
+  {\(.) kable_styling(., bootstrap_options = 
+                        c('striped', 'hover', 'condensed', 'responsive'))}() |> 
+  ##`full_width = FALSE`是将每列设置为伸缩性自动调整宽度。
+  {\(.) kable_material(., full_width = FALSE)}() |> 
+  {\(.) scroll_box(., width = '100%', fixed_thead = TRUE, 
+                   height = '490px')}()
+```
+
+## 添加黄历参数
+
+以天文学公转周期与自转周期的概念，。
+
 
 # 计数造物
 
