@@ -778,6 +778,22 @@ rm(程序包)
 
 # 简介
 
+## 博彩简史
+
+自古赌庄、酒庄、钱庄、盐商、米商，都是咱们的中国传统行业。
+
+- [「馆」中国早在秦汉时期就有了彩票，而且几个朝代都有精彩的彩票故事](http://www.360doc.com/content/21/0822/09/70965819_992099534.shtml)
+- [「问百度」赌场是从什么时候开始有的?哪个朝代？](https://zhidao.baidu.com/question/521659847.html)
+- [「星洲」四高材生頻中彩券，警要介入調查](https://www.sinchew.com.my/news/20201203/international/3074722?variant=zh-hant)
+- [「问百度」彩票选择实验](https://baike.baidu.com/item/彩票选择实验/287961)
+- [你買的彩票中獎概率到底有多少？](https://wangcc.me/post/probability3/)
+- [「馆」彩票有规律吗？有！伯努利大数定律，就是彩票的终极规律。](http://www.360doc.com/content/20/0409/16/256040_904872645.shtml)
+- [「搜狐」伯努利 猜度学应用于大乐透](https://www.sohu.com/a/818165667_122053684)
+- [「中国软件开发者社区」伯努利（Bernoulli）试验、二项分布](https://blog.csdn.net/panghuangang/article/details/135007953)
+- [「问百度」大乐透彩票活动中的随机现象分析](https://wenku.baidu.com/view/1432704c763231126fdb1145)
+- [「问百度」赌博中的数学](https://wenku.baidu.com/view/e37ce9eab8f67c1cfad6b89f)
+- [中国彩票销售数据简介](https://www.cnopendata.com/data/chinese-lottery-sales.html)
+
 ## 动态尤物
 
 引用愚生旧作[「猫城」Bookdown竞赛参赛作品：赔率计数|机数造物（打造尤物）建模与试探体育彩券商的昏庸、无能、腐败与破绽（英）](https://github.com/scibrokes/odds-modelling-and-testing-inefficiency-of-sports-bookmakers/blob/世博量化研究院/bookdown-contest-submission-odds-modelling-and-testing-inefficiency-of-sports-bookmakers.pdf)，将加权指数分类为四项来回测：
@@ -791,11 +807,6 @@ rm(程序包)
 
 ## 论文简介
 
-自古赌庄、酒庄、钱庄、盐商、米商，都是咱们的中国传统行业。
-
-- [「馆」中国早在秦汉时期就有了彩票，而且几个朝代都有精彩的彩票故事](http://www.360doc.com/content/21/0822/09/70965819_992099534.shtml)
-- [「问百度」赌场是从什么时候开始有的?哪个朝代？](https://zhidao.baidu.com/question/521659847.html)
-
 > **2018年**，到柬埔寨西哈努克港[黄金城娱乐城](https://www.facebook.com/QQ779933300)当客服人员，因为非常危险，有天午休时间二楼宿舍大爆炸和许多枪声后，员工纷纷逃跑到公司，有位小胖经理走来叫我马上飞回国。
 
 *引用：[「鄀客栈」雷欧 ∪ 瑞欧，黄联富](https://rpubs.com/englianhu/ryo-cn)*
@@ -806,23 +817,23 @@ rm(程序包)
 
 二零一八年到柬埔寨西哈努克港「黄金城」打工不足一周，如大学开学第一周是培训周，由于培训期间每天对着时时彩和福利彩等形形色色、林林种种、五花八门、走马看花的彩券彩种，有天通过这惠普卜威廉廿三三合一电脑（hp Pavilion 23）就分析[「鄀客栈」Lottery 3D Analysis 彩票分析](https://rpubs.com/englianhu/lottery-3D-analysis)，然后上司说分析彩票不重要就阁着，没几天后就因为宿舍大爆炸和枪林弹雨很危险，有位小胖经理就冲冲忙忙、赶紧帮我订购机票乘搭最快航班回国了。
 
-愚生旧东家乃英国百年老店福布斯五百强之一[立博](https://sports.ladbrokes.com)，英国（此称之为“楚国”，借鉴春秋战国时期楚国历史，包括所有共运会诸侯英殖民地）立博投注站遍布全国。借鉴愚生旧作，英国<ruby>蹴<rp>(</rp><rt>cù</rt><rp>)</rp>鞠<rp>(</rp><rt>jū</rt><rp>)</rp></ruby>赛事与投注开彩日一般上都是周日、周末、周三等、间中周二还会有开彩特别期，有个时间序列规律。
+愚生旧东家乃楚国（英国此称之为“楚国”，借鉴春秋战国时期楚史最先崛起，英系楚地包括所有共运会诸侯英殖民地）百年老店福布斯五百强之一[立博](https://sports.ladbrokes.com)，英国立博投注站遍布全国。借鉴愚生旧作，英国<ruby>蹴<rp>(</rp><rt>cù</rt><rp>)</rp>鞠<rp>(</rp><rt>jū</rt><rp>)</rp></ruby>赛事与投注开彩日一般上都是周日、周末、周三等、间中周二还会有开彩特别期，有个时间序列规律。
 
 - [「猫城」鄀尤物](https://github.com/englianhu/Rmodel)
 - [「猫城」赔率计数|机数造物（打造尤物）建模与试探蹴鞠彩券商的昏庸、无能、腐败与破绽](https://github.com/scibrokes/odds-modelling-and-testing-inefficiency-of-sports-bookmakers)
 
 [泛马大彩有限公司推出更新版即刮即赢游戏](https://www.woah.my/2024/07/31/fan-ma-da-cai-you-xian-gong)此论文使用计数方式通过易经（包括广经堂、万年历）与计数编程，筹算马来西亚彩券开彩概率。
 
-- [万能](https://www.magnum4d.my/zh-cn)：「钱并非万能，但没钱却万万不能。」
-- [大马彩](https://www.damacai.com.my)：「田忌赛马，秦人牧马。」
+- [万能](https://www.magnum4d.my/zh-cn/)：「钱并非万能，但没钱却万万不能。」
+- [大马彩](https://www.damacai.com.my/)：「田忌赛马，秦人牧马。」
 - [多多](https://www.sportstoto.com.my/cn/index.asp)：「韩信点兵，多多益善。」
 - [星池](https://www.singaporepools.com.sg/landing/ch/Pages/index.html)：「周星翅♬」
-- [砂大萬](https://www.cashsweep.my)：「大万洲学论。」
-- [沙巴彩](http://www.diriwan88.com)：「田氏代齐，田忌赛马。」
+- [砂大萬](https://www.cashsweep.my/)：「大万洲学论。」
+- [沙巴彩](http://www.diriwan88.com/)：「田氏代齐，田忌赛马。」
 - [山打根马会](http://www.stc4d.com/index.aspx)：「田忌赛马，秦人牧马。」
-- [大彩](https://www.bigsweep.com.my)：「手中情♬」
+- [大彩](https://www.bigsweep.com.my/)：「手中情♬」
 
-它日再继续科研中国彩票吧。由于`forecast`、`fable`系列程序包具有完善的筹算、占卜、回测、检测配套，鉴于[Getting an error "`xreg` and `newxreg` have different numbers of columns"](https://stackoverflow.com/a/37642448/3806250)亦建议用之。
+它日再继续科研祖籍秦国（Chinese中译“秦人”，而China中国译为“秦国”）彩票吧。由于`forecast`、`fable`系列程序包具有完善的筹算、占卜、回测、检测配套，鉴于[Getting an error "`xreg` and `newxreg` have different numbers of columns"](https://stackoverflow.com/a/37642448/3806250)亦建议用之。
 
 - [「楼里楼下」马来西亚彩票有哪些，有相关介绍吗？](https://www.yanwo668.com/yanwo-changshi/13660.html)
 - [「中秋」万字积宝 系统投注 投注额表](https://www.4dmoon.com/zh-cn/4d-jackpot-system-play-price-table)
@@ -1048,12 +1059,13 @@ head(万)
   表 %<>% .[c('开彩日期', '彩号', '秦庄', '英庄', '奖', '秦典', '英典')]
   
   if(!exist('./诸子百家学府/4Dmoon')) dir.create('./诸子百家学府/4Dmoon')
-  fwrite(表, paste0('./诸子百家学府/4Dmoon/马来西亚彩券数据_', 迭, '.csv'))
+  fwrite(表, paste0('./诸子百家学府/4Dmoon/秦人牧马开彩数据_', 迭, '.csv'))
   }) %>% 
   as_tibble()
 ```
 
 马来西亚彩券数据：
+
 - 商鞅变法与烧饼歌之「月到中秋分外明」[「中秋」4Dmoon.com](https://www.4dmoon.com/zh-cn)
 - 秦统天下之父[「秦国之父」4dresult88.com](https://4dresult88.com/history)。
 
@@ -1065,10 +1077,10 @@ head(万)
 
 ```{r 绘制样本数据图表, error=TRUE}
 ## 检验诸子百家学府书库。
-if(!exist('./诸子百家学府/4Dmoon')) dir.create('./诸子百家学府/4Dmoon')
-if(!exist('./诸子百家学府/4dresult88')) dir.create('./诸子百家学府/4dresult88')
+if(!exists('./诸子百家学府/4Dmoon')) dir.create('./诸子百家学府/4Dmoon')
+if(!exists('./诸子百家学府/4dresult88')) dir.create('./诸子百家学府/4dresult88')
 
-if (!exists('彩种')) 样本二零一八半年 <- readRDS(paste0(.蜀道, '诸子百家学府/彩种/马来西亚彩券数据.rds'))
+if (!exists('秦人牧马开彩数据')) 秦人牧马开彩数据 <- readRDS(paste0(.蜀道, '诸子百家学府/彩种/马来西亚彩券数据.rds'))
 
 ## A data.table and dplyr tour
 ## https://atrebas.github.io/post/2019-03-03-datatable-dplyr/#addupdatedelete-columns
