@@ -41,7 +41,7 @@ suppressAll(lib(pkgs))
 rm(pkgs)
 
 ## Modified or call hidden functions in mvrpois.
-l_ply(dir(paste0(getwd(), '/function/')), function(funs) source(paste0(getwd(), '/function/', funs)))#, local = TRUE))
+l_ply(dir(paste0(getwd(), '/函数/')), function(funs) source(paste0(getwd(), '/函数/', funs)))#, local = TRUE))
 ```
 
 # 读取数据
@@ -57,7 +57,7 @@ l_ply(dir(paste0(getwd(), '/function/')), function(funs) source(paste0(getwd(), 
 
 ## http://sports.sina.com.cn/l/tubiao/3d_jibenzoushitu.html ## 快三
 
-ltry_data <- read.xlsx(xlsxFile = './data/lottery_data.xlsx', detectDates = TRUE) %>% .[1:5] %>% tbl_df %>% mutate(Result = as.numeric(paste0(Result1, Result2, Result3)))
+ltry_data <- read.xlsx(xlsxFile = './诸子百家学府/福彩3D/lottery_data.xlsx', detectDates = TRUE) %>% .[1:5] %>% tbl_df %>% mutate(Result = as.numeric(paste0(Result1, Result2, Result3)))
 
 datatable(ltry_data)
 ```
