@@ -791,7 +791,12 @@ rm(程序包)
 
 ## 论文简介
 
-此论文使用计数方式通过易经（包括广经堂、万年历）与计数编程，筹算彩券开彩概率。
+此论文使用计数方式通过易经（包括广经堂、万年历）与计数编程，筹算马来西亚彩券开彩概率。
+
+- 万能：钱并非万能，但没钱却万万不能。
+- 大马彩：秦人牧马
+- 多多：韩信点兵，多多益善。
+- 
 
 由于`forecast`、`fable`系列程序包具有完善的筹算、占卜配套，鉴于[Getting an error "`xreg` and `newxreg` have different numbers of columns"](https://stackoverflow.com/a/37642448/3806250)亦建议用之。
 
@@ -1035,10 +1040,8 @@ head(万)
 source('函数/汇总上奏.R')
 source('函数/总汇结论.R')
 
-if (!exists('.蜀道')) {
-  .蜀道 <- paste0(getwd(), 'binary.com-interview-question-data/')
-}
-if (!exists('.蜀道仓库')) .蜀道仓库 <- paste0(.蜀道, '诸子百家学府/彩种/')
+if(!exist('./诸子百家学府/4Dmoon')) dir.create('./诸子百家学府/4Dmoon')
+if(!exist('./诸子百家学府/4Dmoon')) dir.create('./诸子百家学府/')
 
 if (!exists('彩种')) 样本二零一八半年 <- readRDS(paste0(.蜀道, '诸子百家学府/彩种/马来西亚彩券数据.rds'))
 
