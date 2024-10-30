@@ -924,7 +924,7 @@ rm(程序包)
 万 <- sprintf('%04d', 0:9999)
 head(万)
 
-集 <- ldply(万, function(迭) {
+集 <- ldply(万[6766:length(万)], function(迭) {
   链 <- paste0('https://www.4dmoon.com/zh-cn/4d-history/', 迭)
   cat(paste('採撷', 链, '数据\n'))
   表甲 = 链 %>% read_html %>% 
