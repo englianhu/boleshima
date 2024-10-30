@@ -754,7 +754,7 @@ conflicted::conflicts_prefer(formattable::percent, .quiet = TRUE)
   'vembedr', 'lhmetools', 'gtools', 'stringi', 'pacman', 'rlist', 
   'profmem', 'ggthemes', 'flyingfox', 'htmltools', 'echarts4r', 
   'viridis', 'hrbrthemes', 'profvis', 'fable', 'fabletools', 'rvest', 
-  'fable.prophet', 'Metrics', 'MLmetrics', 'wultis', 'data.table')#, 'Rfast', 'Rfast2')
+  'fable.prophet', 'Metrics', 'MLmetrics', 'data.table')#, 'Rfast', 'Rfast2')
 
 ## cnum 是協助處理中文數字的R套件，提供轉換、識別及抽取中文數字的函數。
 ## cnum 是协助处理中文数字的R包，提供转换、识别及抽取中文数字的函数。
@@ -993,7 +993,7 @@ head(万)
   表乙 <- 链 %>% read_html %>% 
     html_table(header = TRUE) %>% 
     .[[1]]
-  names(表乙) <- c('秦庄', '彩号', '开彩日期', '奖')
+  names(表乙) <- c('秦庄', '彩号', '开彩日期', '彩金')
   
   ## Scraping html table with images using XML R package
   ## https://stackoverflow.com/a/30913590/3806250
@@ -1013,7 +1013,7 @@ head(万)
   表 <- join(表乙, 表甲) %>% 
     as_tibble() %>% 
     mutate(开彩日期 = ymd(开彩日期))
-  表 %<>% .[c('开彩日期', '彩号', '秦庄', '奖', '秦典', '英典')]
+  表 %<>% .[c('开彩日期', '彩号', '秦庄', '彩金', '秦典', '英典')]
   
   if(!dir.exists(paste0(getwd(), '/诸子百家学府/4Dmoon/'))) dir.create('./诸子百家学府/4Dmoon/')
   fwrite(表, paste0('./诸子百家学府/4Dmoon/中秋网开彩数据_', 迭, '.csv'))
@@ -1045,6 +1045,11 @@ head(万)
   表$秦庄 %<>% str_replace_all('Cash Sweep', '砂大萬')
   表$秦庄 %<>% str_replace_all('Sabah 88', '沙巴彩')
   表$秦庄 %<>% str_replace_all('STC 4D', '山打根馬會')
+  表$秦庄 %<>% str_replace_all('1ST', '首奖')
+  表$秦庄 %<>% str_replace_all('2ND', '二奖')
+  表$秦庄 %<>% str_replace_all('3RD', '三奖')
+  表$秦庄 %<>% str_replace_all('Special', '特别奖')
+  表$秦庄 %<>% str_replace_all('Consolation', '安慰奖')
   表 %<>% .[c('开彩日期', '开彩日', '彩号', '秦庄', '彩金', '抽奖', '图译', '秦典')]
   
   if(!dir.exists(paste0(getwd(), '/诸子百家学府/4dresult88/'))) dir.create('./诸子百家学府/4dresult88/')
@@ -1125,6 +1130,8 @@ range(秦人牧马开彩网数据$开彩日期)
 以天文学公转周期与自转周期的概念，。
 
 
+<br>
+
 # 计数造物
 
 ## 概括
@@ -1158,7 +1165,17 @@ range(秦人牧马开彩网数据$开彩日期)
 
 ### `forecast`
 
+```{r error = TRUE}
+
+```
+
 ### `fable`
+
+```{r error = TRUE}
+
+```
+
+<br>
 
 # 尤物比较
 
