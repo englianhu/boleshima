@@ -743,16 +743,16 @@ conflicted::conflicts_prefer(Ipaper::chunk, .quiet = TRUE)
 conflicted::conflicts_prefer(formattable::percent, .quiet = TRUE)
 
 程序包 <- c(
-  'devtools', 'Ipaper', 'knitr', 'kableExtra', 'tint', 'furrr', 
+  'devtools', 'Ipaper', 'knitr', 'kableExtra', 'tint', 'furrr', 'DT', 
   'tidyr', 'readr', 'lubridate', 'reprex', 'stringr', 'feather', 
-  'purrr', 'quantmod', 'tidyquant', 'tibbletime', 'timetk', 
+  'purrr', 'quantmod', 'tidyquant', 'tibbletime', 'timetk', 'readxl', 
   'plyr', 'dplyr', 'dbplyr', 'dtplyr', 'cnum', 'arabic2kansuji', 
-  'sarima', 'tidyverse', 'memoise', 'htmltools', 'formattable', 
+  'sarima', 'tidyverse', 'memoise', 'htmltools', 'formattable', 'tidyr', 
   'zoo', 'forecast', 'seasonal', 'magrittr', 'hms', 'seasonalview', 
   'rjson', 'rugarch', 'rmgarch', 'mfGARCH', 'tidymodels', 'googleVis', 
   'feather', 'sparklyr', 'jcolors', 'microbenchmark', 'dendextend', 
   'vembedr', 'lhmetools', 'gtools', 'stringi', 'pacman', 'rlist', 
-  'profmem', 'ggthemes', 'flyingfox', 'htmltools', 'echarts4r', 
+  'profmem', 'ggthemes', 'flyingfox', 'highcharter', 'echarts4r', 
   'viridis', 'hrbrthemes', 'profvis', 'fable', 'fabletools', 'rvest', 
   'fable.prophet', 'Metrics', 'MLmetrics', 'data.table')#, 'Rfast', 'Rfast2')
 
@@ -833,7 +833,7 @@ rm(程序包)
 - [山打根马会](http://www.stc4d.com/index.aspx)：「田忌赛马，秦人牧马。」
 - [大彩](https://www.bigsweep.com.my/)：「手中情♬」
 
-它日再继续科研祖籍秦国（Chinese中译“秦人”，而China中国译为“秦国”）彩票吧。由于`forecast`、`fable`系列程序包具有完善的筹算、占卜、回测、检测配套，鉴于[Getting an error "`xreg` and `newxreg` have different numbers of columns"](https://stackoverflow.com/a/37642448/3806250)亦建议用之。
+有关马来西亚彩票相关信息，可查阅：
 
 - [「楼里楼下」马来西亚彩票有哪些，有相关介绍吗？](https://www.yanwo668.com/yanwo-changshi/13660.html)
 - [「中秋」万字积宝 系统投注 投注额表](https://www.4dmoon.com/zh-cn/4d-jackpot-system-play-price-table)
@@ -845,9 +845,43 @@ rm(程序包)
 - [「中秋」山打根赛马会 (STC) 派彩结构](https://www.4dmoon.com/zh-cn/sandakan-prize-structure)
 - [「中秋」沙巴88 派彩结构](https://www.4dmoon.com/zh-cn/sabah88-prize-structure)
 - [「中秋」砂勞越大万 派彩结构](https://www.4dmoon.com/zh-cn/sarawak-cashsweep-prize-structure)
-- [泛马大彩有限公司推出更新版即刮即赢游戏](https://www.woah.my/2024/07/31/fan-ma-da-cai-you-xian-gong)
+- [「哇！」泛马大彩有限公司推出更新版即刮即赢游戏](https://www.woah.my/2024/07/31/fan-ma-da-cai-you-xian-gong)
 
-然后在**外因周期性季节性**添加天文历法因素，例如天干地支、廿四节气，下一篇会更详细添加农历月份雅称等参数计算周期。[天干地支纪年法，天干地支五行对照表](https://123.5ikfc.com/ganzhi)叙述一些有关天文历法、天干地支纪年、纪月、纪日、纪时、时辰、十二生肖和生辰八字。
+以下一些彩券数据，是愚生在农历二零一九年菊月到菲律宾会稽（Clark外来语译为“克拉克”，中译“书记”、“秘书”、“掌柜”、“会计”，而最相符的地名是“会稽”）阳城。
+
+- [「鄀客栈」盈利模式——*分析购彩助手数据*](https://rpubs.com/englianhu/goucai)
+- [「鄀客栈」阿里彩票——*分析样本数据*](https://rpubs.com/englianhu/ali)
+- [「鄀客栈」阿里彩票——*彩种报告*](https://rpubs.com/englianhu/ali_bet_type)
+- [「鄀客栈」阿里彩票——*会员报表报告*](https://rpubs.com/englianhu/ali_member)
+- [「鄀客栈」盈利模式——*分析购彩助手数据*](https://rpubs.com/englianhu/goucai)
+
+自从农历二零零八戊子年十月廿五加入[「统计之都」ryusukekenji](https://d.cosx.org/u/ryusukekenji)后就开始和祖国秦国（中国China）同胞学术份子混，也是秦国论坛中唯一一位外国同胞。它日再继续科研祖籍秦国（Chinese中译“秦人”，而China中国译为“秦国”）彩票吧。
+
+> 其实你这么多年来的开发经验 最好在项目实践中学习 楼主在哪个城市？
+我是雪晴数据网的创始人 我们致力于搭建起数据分析和开发技术之间的桥梁 除了在线教育 我们还做些项目
+有兴趣的话可以跟我联系 交个朋友也好`QQ47702091`。
+
+*出处：[「统计之都」陈堰平](https://d.cosx.org/u/ypchen)*
+
+- [「比塔星」刘思喆](https://bjt.name/about/)同行，中国国企福利彩券。
+  - [中国福利彩票](https://www.cwl.gov.cn/)
+  - [「比塔星」从数据看`2008-2009`赛季的火箭队赢球的模式](https://bjt.name/2009/03/05/data-2008-2009-rockets.html)
+  - [「比塔星」从一等奖出现的概率看中国福利彩票的公正性](https://bjt.name/2009/07/26/welfare-lottery-justice.html)
+  - [「比塔星」闲话彩票的误区](https://bjt.name/2012/11/16/something-about-lottery.html)
+  - [「比塔星」桦行代码实现问答型商品推荐系统](https://bjt.name/2024/01/13/local-gpt.html)
+- [颜林林](https://yanlinlin.cn/)
+- [陈晏平](https://github.com/yanping)
+  - [「统计之都」陈堰平](https://d.cosx.org/d/109918-109918/2)
+  - [「元宇宙」Yanping Chen](https://www.facebook.com/yanping.chen.9699)
+  - [「猫城」中国人民大学数据挖掘中心](https://github.com/rucdmc)
+  - [「统计之都」雪晴直播课堂预告：《利用R语言进行数据处理及建模》](https://d.cosx.org/d/417623-417623)
+  - [「猫城」安装 ®StudioとShiny服务器](https://github.com/scibrokes/setup-rstudio-server)
+- [「统计之都」Ihavenothing](https://d.cosx.org/u/Ihavenothing)
+- [「博客」魏太云](http://weitaiyun.blogspot.com/)
+  - [「统计之都」惊喜：发现`picasa`和`blogspot`都可以上了](https://d.cosx.org/d/17213-17213)
+
+由于`forecast`、`fable`系列程序包具有完善的筹算、占卜、回测、检测配套，鉴于[Getting an error "`xreg` and `newxreg` have different numbers of columns"](https://stackoverflow.com/a/37642448/3806250)亦建议用之。
+然后在**外因周期性季节性**添加天文历法因素，例如天干地支、廿四节气、黄历等参数计算周期。[天干地支纪年法，天干地支五行对照表](https://123.5ikfc.com/ganzhi)叙述一些有关天文历法、天干地支纪年、纪月、纪日、纪时、时辰、十二生肖和生辰八字。
 
 <br>
 
@@ -1159,9 +1193,58 @@ range(秦人牧马开彩网数据$开彩日期)
 
 借鉴以上以“年”为计量单位，就谈及秦史「蕲年宫之变」与春节放鞭炮赶走凶残的年兽的”年“。关于“年”的传说有很多版本，其中一个广为流传的故事是关于一种名为“年”的怪兽。传说中，”年”是一种头长触角、凶猛异常的怪兽，每到除夕便会出来伤人。为了驱赶“年”兽，人们采取了各种方法，如放鞭炮、挂红灯笼等，这些习俗逐渐演变成了春节的庆祝活动。
 
-借鉴[「鄀客栈」Lottery 3D Analysis 彩票分析](https://rpubs.com/englianhu/lottery-3D-analysis)中提及赌庄在开彩概率上占有百分之枯二点七的优势，欲以凯利投注模式获利，估计得花上百万年时间。借鉴「对酒当歌，人生几何？譬如朝露，去日苦多。」，所以得学习计数编程统筹法（环境与系统工程学），也就是咱们道家和民间习俗所说的“风水学”。将周遭所闻所见来实践《万年历》与《广经堂》中彩票辞典的陈腔滥调。[在彩票走势图上直接图示分析预测彩票号码的方法](https://patentimages.storage.googleapis.com/38/27/93/c8bb052899e4d9/CN1866302A.pdf)也是科研三位数千字的关系系数。
+借鉴[「鄀客栈」Lottery 3D Analysis 彩票分析](https://rpubs.com/englianhu/lottery-3D-analysis)中提及赌庄在开彩概率上占有百分之枯二点七的优势，欲以凯利投注模式获利，估计得花上百万年时间。借鉴「对酒当歌，人生几何？譬如朝露，去日苦多。」，所以得学习计数编程统筹法（环境与系统工程学），也就是咱们道家和民间习俗所说的“风水学”。将周遭所闻所见来实践《万年历》与《广经堂》中彩票辞典的陈腔滥调。科研三位数千字彩券的关系系数如下：
+
+- [「猫城」在彩票走势图上直接图示分析预测彩票号码的方法（甲）](https://github.com/englianhu/lottery/blob/世博量化研究院/图书馆/在彩票走势图上直接图示分析预测彩票号码的方法（甲）.pdf)
+- [「猫城」在彩票走势图上直接图示分析预测彩票号码的方法（乙）](https://github.com/englianhu/lottery/blob/世博量化研究院/图书馆/在彩票走势图上直接图示分析预测彩票号码的方法（乙）.pdf)
 
 ## 计数尤物
+
+### 数据计数分布
+
+```{r error = TRUE}
+中秋网开彩数据 |> 
+    dplyr::count(彩号) %>% 
+    arrange(n) %>% 
+    e_charts(x = 彩号) %>%
+    e_bar(n, legend = FALSE, name = "彩号开彩中奖次数") %>% 
+    e_labels(position = "right") %>% 
+    e_tooltip() %>% 
+    e_title("中秋网开彩数据", "彩号") %>% 
+    e_flip_coords() %>% 
+    e_y_axis(splitLine = list(show = FALSE)) %>% 
+    e_x_axis(show = FALSE) %>% 
+    e_toolbox_feature(
+        feature = "saveAsImage",
+        title = "Save as image"
+    )
+```
+
+```{r error = TRUE}
+秦人牧马开彩网数据 |> 
+  dplyr::count(彩号) |> 
+  arrange(n) |> 
+  dplyr::mutate(百分比 = n/sum(n)) |> 
+  e_charts(x = 彩号) |>
+  e_bar(n, legend = FALSE, name = "彩号开彩中奖次数") |> 
+  e_labels(position = "right") |> 
+  e_add_nested('extra', 百分比) %>%
+  e_tooltip(formatter = htmlwidgets::JS("
+              function(params) {
+                return('<strong>' + params.value[0] + '</strong><br/>
+                开彩次数：' + params.value[1] + '<br/>
+                百分比：' +  params.data.extra.百分比)  +'%' 
+              }
+            ")) |> 
+    e_title("秦人牧马开彩网数据", "彩号开彩中奖次数") |> 
+    e_flip_coords() |> 
+    e_y_axis(splitLine = list(show = FALSE)) |> 
+    e_x_axis(show = FALSE) |> 
+    e_toolbox_feature(
+        feature = "saveAsImage",
+        title = "Save as image"
+    )
+```
 
 ### `forecast`
 
