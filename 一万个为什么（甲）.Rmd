@@ -1,6 +1,6 @@
 ---
 title: "![](诸子百家考工记/大秦赋 - 时空转移春秋战国（中科红旗中国妞儿）.png){height=240}"
-subtitle: "[「甲」世袭制道教徒赢家黄氏江夏堂十二生肖秦人牧马之道家易经](https://github.com/englianhu/lottery)：一万个为什么？"
+subtitle: "[「猫城」世袭制道教徒赢家黄氏江夏堂十二生肖秦人牧马之道家易经](https://github.com/englianhu/lottery)：一万个为什么？（甲）"
 author: "道家笔者：[<ruby>赢<rp>(</rp><rt>yíng</rt><rp>)</rp>家<rp>(</rp><rt>jiā</rt><rp>)</rp>黄<rp>(</rp><rt>huáng</rt><rp>)</rp>氏<rp>(</rp><rt>shì</rt><rp>)</rp>江<rp>(</rp><rt>jiānɡ</rt><rp>)</rp>夏<rp>(</rp><rt>xià</rt><rp>)</rp>堂<rp>(</rp><rt>táng</rt><rp>)</rp></ruby> ®γσ, ξηg Lιαη Ημ，<ruby>黄<rp>(</rp><rt>huáng</rt><rp>)</rp>联<rp>(</rp><rt>lián</rt><rp>)</rp>富<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>（<ruby>雷<rp>(</rp><rt>léi</rt><rp>)</rp>欧<rp>(</rp><rt>ōu</rt><rp>)</rp></ruby>∪ <ruby>瑞<rp>(</rp><rt>ruì</rt><rp>)</rp>欧<rp>(</rp><rt>ōu</rt><rp>)</rp></ruby>）](https://englianhu.wordpress.com.com) ![](诸子百家考工记/大秦赋 - 北京大学.png){height=14}![](诸子百家考工记/赢家ξng黄氏江夏堂 - 量化对冲（中）.png){height=14}®"
 date: "🔆民国日期：民国一百一十三年菊月廿八<br>☯道家节日：[农历二零二四龙年菊月廿八 甲辰年（龙年）甲戌月丁卯日（愚生生日）](https://mobile.51wnl-cq.com/huangli_tab_h5/?posId=BDSS&STIME=2024-10-30)年年农历生日吃寿面和红鸡蛋"
 output:
@@ -788,13 +788,14 @@ rm(程序包)
 - [「问百度」彩票选择实验](https://baike.baidu.com/item/彩票选择实验/287961)
 - [你買的彩票中獎概率到底有多少？](https://wangcc.me/post/probability3/)
 - [「馆」彩票有规律吗？有！伯努利大数定律，就是彩票的终极规律。](http://www.360doc.com/content/20/0409/16/256040_904872645.shtml)
+- [「新浪」中大奖有捷径？数学家称根据定律可预测彩票奖号](http://sports.sina.com.cn/l/2014-03-24/18557082505.shtml)
 - [「搜狐」伯努利 猜度学应用于大乐透](https://www.sohu.com/a/818165667_122053684)
 - [「中国软件开发者社区」伯努利（Bernoulli）试验、二项分布](https://blog.csdn.net/panghuangang/article/details/135007953)
 - [「问百度」大乐透彩票活动中的随机现象分析](https://wenku.baidu.com/view/1432704c763231126fdb1145)
 - [「问百度」赌博中的数学](https://wenku.baidu.com/view/e37ce9eab8f67c1cfad6b89f)
 - [中国彩票销售数据简介](https://www.cnopendata.com/data/chinese-lottery-sales.html)
 
-## 动态尤物
+## 博彩与算卜
 
 引用愚生旧作[「猫城」Bookdown竞赛参赛作品：赔率计数|机数造物（打造尤物）建模与试探体育彩券商的昏庸、无能、腐败与破绽（英）](https://github.com/scibrokes/odds-modelling-and-testing-inefficiency-of-sports-bookmakers/blob/世博量化研究院/bookdown-contest-submission-odds-modelling-and-testing-inefficiency-of-sports-bookmakers.pdf)，将加权指数分类为四项来回测：
 
@@ -804,8 +805,6 @@ rm(程序包)
 - 跳帧数据动态加权指数
 
 结果**跳帧数据动态加权指数**最为精准，所以以下所有数据都会经过回测、筹算、占卜、才来比较精准度。
-
-## 论文简介
 
 > **2018年**，到柬埔寨西哈努克港[黄金城娱乐城](https://www.facebook.com/QQ779933300)当客服人员，因为非常危险，有天午休时间二楼宿舍大爆炸和许多枪声后，员工纷纷逃跑到公司，有位小胖经理走来叫我马上飞回国。
 
@@ -821,6 +820,8 @@ rm(程序包)
 
 - [「猫城」鄀尤物](https://github.com/englianhu/Rmodel)
 - [「猫城」赔率计数|机数造物（打造尤物）建模与试探蹴鞠彩券商的昏庸、无能、腐败与破绽](https://github.com/scibrokes/odds-modelling-and-testing-inefficiency-of-sports-bookmakers)
+
+## 论文简介
 
 此论文使用计数方式通过易经（包括广经堂、黄历、万年历）与计数编程，筹算马来西亚彩券开彩概率。而数据来源取自于[「中秋」4Dmoon.com](https://www.4dmoon.com/zh-cn)和[「秦国之父」4dresult88.com](https://4dresult88.com/history)，从农历一九八五乙丑年桃月初六至农历二零二四甲辰年菊月廿八（每年农历菊月廿八乃愚生之生日）。
 
@@ -1056,7 +1057,7 @@ head(万)
   as_tibble()
 ```
 
-```{r 採撷秦人牧马开彩网数据, eval = FALSE, error = TRUE}
+```{r 採撷秦人牧马网开彩数据, eval = FALSE, error = TRUE}
 ## 秦统天下之父
 ## https://4dresult88.com/history
 万 <- sprintf('%04d', 0:9999)
@@ -1087,8 +1088,8 @@ head(万)
   表 %<>% .[c('开彩日期', '开彩日', '彩号', '秦庄', '彩金', '抽奖', '图译', '秦典')]
   
   if(!dir.exists(paste0(getwd(), '/诸子百家学府/4dresult88/'))) dir.create('./诸子百家学府/4dresult88/')
-  fwrite(表, paste0('./诸子百家学府/4dresult88/秦人牧马开彩网数据_', 迭, '.csv'))
-  cat(paste0('./诸子百家学府/4dresult88/秦人牧马开彩网数据_', 迭, '.csv 已储存！'))
+  fwrite(表, paste0('./诸子百家学府/4dresult88/秦人牧马网开彩数据_', 迭, '.csv'))
+  cat(paste0('./诸子百家学府/4dresult88/秦人牧马网开彩数据_', 迭, '.csv 已储存！'))
   }) %>% 
   as_tibble()
 ```
@@ -1112,14 +1113,14 @@ head(万)
   mutate(彩号 = sprintf('%04d', 彩号))
 saveRDS(中秋网开彩数据, paste0(getwd(), '/诸子百家学府/中秋网开彩数据.rds'))
 
-秦人牧马开彩网数据 <- list.files(paste0(getwd(), '/诸子百家学府/4dresult88/'))
-秦人牧马开彩网数据 <- llply(秦人牧马开彩网数据, function(参) {
+秦人牧马网开彩数据 <- list.files(paste0(getwd(), '/诸子百家学府/4dresult88/'))
+秦人牧马网开彩数据 <- llply(秦人牧马网开彩数据, function(参) {
   data.table::fread(paste0(getwd(), '/诸子百家学府/4dresult88/', 参))
   }, .progress = 'text') %>% 
   rbindlist %>% 
   mutate(彩号 = sprintf('%04d', 彩号), 秦典 = str_replace_all(秦典, '[^\u4E00-\u9FA5]', '')) #%>% 
   #dplyr::filter(秦庄 == 秦典)
-saveRDS(秦人牧马开彩网数据, paste0(getwd(), '/诸子百家学府/秦人牧马开彩网数据.rds'))
+saveRDS(秦人牧马网开彩数据, paste0(getwd(), '/诸子百家学府/秦人牧马网开彩数据.rds'))
 ```
 
 ```{r 读取彩票数据, error = TRUE}
@@ -1127,15 +1128,15 @@ saveRDS(秦人牧马开彩网数据, paste0(getwd(), '/诸子百家学府/秦人
   .[order(开彩日期)]
 range(中秋网开彩数据$开彩日期)
 
-(秦人牧马开彩网数据 <- readRDS(paste0(getwd(), '/诸子百家学府/秦人牧马开彩网数据.rds'))) %>% 
+(秦人牧马网开彩数据 <- readRDS(paste0(getwd(), '/诸子百家学府/秦人牧马网开彩数据.rds'))) %>% 
   .[order(开彩日期)]
-range(秦人牧马开彩网数据$开彩日期)
+range(秦人牧马网开彩数据$开彩日期)
 ```
 
-```{r 绘制秦人牧马开彩网数据图表, eval = FALSE, results = 'asis'}
-## 绘制秦人牧马开彩网数据图表
-秦人牧马开彩网数据 |> 
-  {\(.) kbl(., caption = '秦人牧马开彩网数据', escape = FALSE)}() |> 
+```{r 绘制秦人牧马网开彩数据图表, eval = FALSE, results = 'asis'}
+## 绘制秦人牧马网开彩数据图表
+秦人牧马网开彩数据 |> 
+  {\(.) kbl(., caption = '秦人牧马网开彩数据', escape = FALSE)}() |> 
   ## https://www.w3schools.com/cssref/css_colors.asp
   ## https://public.tableau.com/en-us/gallery/100-color-palettes?gallery=votd 
   {\(.) row_spec(., 0, background = 'DimGrey', 
@@ -1159,7 +1160,78 @@ range(秦人牧马开彩网数据$开彩日期)
                    height = '490px')}()
 ```
 
-## 添加黄历参数
+## 排版牍简
+
+### 编函成册
+
+```{r error = TRUE}
+中秋网开彩数据 %<>% 
+  dplyr::filter(秦庄 != '星池') %>% 
+  dplyr::mutate(计 = 1)
+
+累计 <- 中秋网开彩数据 |> 
+  dplyr::count(开彩日期, 彩号)
+
+秦人牧马网开彩数据 %<>% 
+  dplyr::filter(秦庄 == 秦典) %>% 
+  dplyr::mutate(计 = 1)
+```
+
+由于牍简中的秦典与秦庄开彩记录参差不齐，故此。
+
+### 计数分布
+
+```{r error = TRUE}
+中秋网开彩数据 |> 
+  dplyr::filter(秦庄 != '星池') |> 
+  dplyr::count(彩号) |> 
+  arrange(n) |> 
+  dplyr::mutate(百分比 = n/sum(n)) |> 
+  e_charts(x = 彩号) |>
+  e_bar(n, bind = 百分比, legend = FALSE, name = "彩号开彩中奖次数") |> 
+  e_labels(position = "right") |> 
+  e_tooltip(
+    formatter = htmlwidgets::JS("
+      function(params) {
+        return('<strong>频率：：' + params.value[0] +
+        '</strong><br/>彩号：' + params.value[1] +
+        '<br/>百分比：' +  100 * params.name)  +'%' 
+      }")) |> 
+    e_title("中秋网开彩数据", "彩号开彩中奖次数") |> 
+    e_flip_coords() |> 
+    e_y_axis(splitLine = list(show = FALSE)) |> 
+    e_x_axis(show = FALSE) |> 
+    e_toolbox_feature(
+        feature = 'saveAsImage',
+        title = '储存图象')
+```
+
+```{r error = TRUE}
+秦人牧马网开彩数据 |> 
+  dplyr::filter(秦庄 == 秦典) |> 
+  dplyr::count(彩号) |> 
+  arrange(n) |> 
+  dplyr::mutate(百分比 = n/sum(n)) |> 
+  e_charts(x = 彩号) |>
+  e_bar(n, bind = 百分比, legend = FALSE, name = "彩号开彩中奖次数") |> 
+  e_labels(position = "right") |> 
+  e_tooltip(
+    formatter = htmlwidgets::JS("
+      function(params) {
+        return('<strong>频率：：' + params.value[0] +
+        '</strong><br/>彩号：' + params.value[1] +
+        '<br/>百分比：' +  100 * params.name)  +'%' 
+      }")) |> 
+    e_title("秦人牧马网开彩数据", "彩号开彩中奖次数") |> 
+    e_flip_coords() |> 
+    e_y_axis(splitLine = list(show = FALSE)) |> 
+    e_x_axis(show = FALSE) |> 
+    e_toolbox_feature(
+        feature = 'saveAsImage',
+        title = '储存图象')
+```
+
+### 添加黄历参数
 
 以天文学公转周期与自转周期的概念，。
 
@@ -1202,49 +1274,7 @@ range(秦人牧马开彩网数据$开彩日期)
 
 ### 数据计数分布
 
-```{r error = TRUE}
-中秋网开彩数据 |> 
-    dplyr::count(彩号) %>% 
-    arrange(n) %>% 
-    e_charts(x = 彩号) %>%
-    e_bar(n, legend = FALSE, name = "彩号开彩中奖次数") %>% 
-    e_labels(position = "right") %>% 
-    e_tooltip() %>% 
-    e_title("中秋网开彩数据", "彩号") %>% 
-    e_flip_coords() %>% 
-    e_y_axis(splitLine = list(show = FALSE)) %>% 
-    e_x_axis(show = FALSE) %>% 
-    e_toolbox_feature(
-        feature = "saveAsImage",
-        title = "Save as image"
-    )
-```
 
-```{r error = TRUE}
-秦人牧马开彩网数据 |> 
-  dplyr::count(彩号) |> 
-  arrange(n) |> 
-  dplyr::mutate(百分比 = n/sum(n)) |> 
-  e_charts(x = 彩号) |>
-  e_bar(n, legend = FALSE, name = "彩号开彩中奖次数") |> 
-  e_labels(position = "right") |> 
-  e_add_nested('extra', 百分比) %>%
-  e_tooltip(formatter = htmlwidgets::JS("
-              function(params) {
-                return('<strong>' + params.value[0] + '</strong><br/>
-                开彩次数：' + params.value[1] + '<br/>
-                百分比：' +  params.data.extra.百分比)  +'%' 
-              }
-            ")) |> 
-    e_title("秦人牧马开彩网数据", "彩号开彩中奖次数") |> 
-    e_flip_coords() |> 
-    e_y_axis(splitLine = list(show = FALSE)) |> 
-    e_x_axis(show = FALSE) |> 
-    e_toolbox_feature(
-        feature = "saveAsImage",
-        title = "Save as image"
-    )
-```
 
 ### `forecast`
 
