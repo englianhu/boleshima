@@ -1,43 +1,127 @@
-开彩日期,彩号,秦庄,彩金,秦典,英典
-2024-08-21,8389,大馬彩,安慰奖,资源分类,Resource Classification
-2024-05-29,8389,大馬彩,安慰奖,资源分类,Resource Classification
-2023-09-17,8389,大馬彩,特别奖,资源分类,Resource Classification
-2022-08-20,8389,多多博彩,特别奖,升旗,Flag Raising
-2019-08-24,8389,多多博彩,安慰奖,升旗,Flag Raising
-2019-06-18,8389,萬能,安慰奖,焦饭味道,Smell Of Burnt Rice
-2019-03-30,8389,大馬彩,安慰奖,资源分类,Resource Classification
-2018-09-09,8389,星池,安慰奖,,
-2018-07-21,8389,萬能,特别奖,焦饭味道,Smell Of Burnt Rice
-2017-06-11,8389,大馬彩,特别奖,资源分类,Resource Classification
-2016-07-02,8389,星池,安慰奖,,
-2016-01-31,8389,星池,安慰奖,,
-2013-03-30,8389,多多博彩,特别奖,升旗,Flag Raising
-2012-09-01,8389,星池,安慰奖,,
-2011-08-17,8389,大馬彩,安慰奖,资源分类,Resource Classification
-2010-07-31,8389,多多博彩,特别奖,升旗,Flag Raising
-2009-12-26,8389,多多博彩,安慰奖,升旗,Flag Raising
-2009-11-25,8389,大馬彩,特别奖,资源分类,Resource Classification
-2008-04-13,8389,萬能,特别奖,焦饭味道,Smell Of Burnt Rice
-2008-03-26,8389,萬能,安慰奖,焦饭味道,Smell Of Burnt Rice
-2007-09-08,8389,多多博彩,安慰奖,升旗,Flag Raising
-2005-04-10,8389,大馬彩,三奖,资源分类,Resource Classification
-2004-12-05,8389,大馬彩,安慰奖,资源分类,Resource Classification
-2004-08-21,8389,萬能,特别奖,焦饭味道,Smell Of Burnt Rice
-2004-02-22,8389,萬能,安慰奖,焦饭味道,Smell Of Burnt Rice
-2002-06-26,8389,萬能,安慰奖,焦饭味道,Smell Of Burnt Rice
-2001-06-17,8389,大馬彩,特别奖,资源分类,Resource Classification
-2000-11-29,8389,萬能,特别奖,焦饭味道,Smell Of Burnt Rice
-2000-11-12,8389,多多博彩,安慰奖,升旗,Flag Raising
-2000-04-30,8389,萬能,安慰奖,焦饭味道,Smell Of Burnt Rice
-2000-01-22,8389,大馬彩,特别奖,资源分类,Resource Classification
-1998-10-14,8389,多多博彩,三奖,升旗,Flag Raising
-1997-12-20,8389,萬能,特别奖,焦饭味道,Smell Of Burnt Rice
-1996-02-04,8389,大馬彩,安慰奖,资源分类,Resource Classification
-1996-01-10,8389,多多博彩,特别奖,升旗,Flag Raising
-1995-04-12,8389,大馬彩,特别奖,资源分类,Resource Classification
-1995-04-01,8389,大馬彩,特别奖,资源分类,Resource Classification
-1993-06-23,8389,萬能,安慰奖,焦饭味道,Smell Of Burnt Rice
-1992-10-08,8389,萬能,安慰奖,焦饭味道,Smell Of Burnt Rice
-1992-07-22,8389,大馬彩,特别奖,资源分类,Resource Classification
-1988-12-05,8389,多多博彩,安慰奖,升旗,Flag Raising
-1988-09-01,8389,多多博彩,特别奖,升旗,Flag Raising
+开彩日期,彩号,秦庄,彩金,史记秦本纪,史记楚辞,史记秦庄
+2024-08-21,8389,大馬彩,安慰奖,焦饭味道,Smell Of Burnt Rice,萬能
+2024-08-21,8389,大馬彩,安慰奖,升旗,Flag Raising,多多博彩
+2024-08-21,8389,大馬彩,安慰奖,资源分类,Resource Classification,大馬彩
+2024-05-29,8389,大馬彩,安慰奖,焦饭味道,Smell Of Burnt Rice,萬能
+2024-05-29,8389,大馬彩,安慰奖,升旗,Flag Raising,多多博彩
+2024-05-29,8389,大馬彩,安慰奖,资源分类,Resource Classification,大馬彩
+2023-09-17,8389,大馬彩,特别奖,焦饭味道,Smell Of Burnt Rice,萬能
+2023-09-17,8389,大馬彩,特别奖,升旗,Flag Raising,多多博彩
+2023-09-17,8389,大馬彩,特别奖,资源分类,Resource Classification,大馬彩
+2022-08-20,8389,多多,特别奖,焦饭味道,Smell Of Burnt Rice,萬能
+2022-08-20,8389,多多,特别奖,升旗,Flag Raising,多多博彩
+2022-08-20,8389,多多,特别奖,资源分类,Resource Classification,大馬彩
+2019-08-24,8389,多多,安慰奖,焦饭味道,Smell Of Burnt Rice,萬能
+2019-08-24,8389,多多,安慰奖,升旗,Flag Raising,多多博彩
+2019-08-24,8389,多多,安慰奖,资源分类,Resource Classification,大馬彩
+2019-06-18,8389,萬能,安慰奖,焦饭味道,Smell Of Burnt Rice,萬能
+2019-06-18,8389,萬能,安慰奖,升旗,Flag Raising,多多博彩
+2019-06-18,8389,萬能,安慰奖,资源分类,Resource Classification,大馬彩
+2019-03-30,8389,大馬彩,安慰奖,焦饭味道,Smell Of Burnt Rice,萬能
+2019-03-30,8389,大馬彩,安慰奖,升旗,Flag Raising,多多博彩
+2019-03-30,8389,大馬彩,安慰奖,资源分类,Resource Classification,大馬彩
+2018-09-09,8389,星池,安慰奖,焦饭味道,Smell Of Burnt Rice,萬能
+2018-09-09,8389,星池,安慰奖,升旗,Flag Raising,多多博彩
+2018-09-09,8389,星池,安慰奖,资源分类,Resource Classification,大馬彩
+2018-07-21,8389,萬能,特别奖,焦饭味道,Smell Of Burnt Rice,萬能
+2018-07-21,8389,萬能,特别奖,升旗,Flag Raising,多多博彩
+2018-07-21,8389,萬能,特别奖,资源分类,Resource Classification,大馬彩
+2017-06-11,8389,大馬彩,特别奖,焦饭味道,Smell Of Burnt Rice,萬能
+2017-06-11,8389,大馬彩,特别奖,升旗,Flag Raising,多多博彩
+2017-06-11,8389,大馬彩,特别奖,资源分类,Resource Classification,大馬彩
+2016-07-02,8389,星池,安慰奖,焦饭味道,Smell Of Burnt Rice,萬能
+2016-07-02,8389,星池,安慰奖,升旗,Flag Raising,多多博彩
+2016-07-02,8389,星池,安慰奖,资源分类,Resource Classification,大馬彩
+2016-01-31,8389,星池,安慰奖,焦饭味道,Smell Of Burnt Rice,萬能
+2016-01-31,8389,星池,安慰奖,升旗,Flag Raising,多多博彩
+2016-01-31,8389,星池,安慰奖,资源分类,Resource Classification,大馬彩
+2013-03-30,8389,多多,特别奖,焦饭味道,Smell Of Burnt Rice,萬能
+2013-03-30,8389,多多,特别奖,升旗,Flag Raising,多多博彩
+2013-03-30,8389,多多,特别奖,资源分类,Resource Classification,大馬彩
+2012-09-01,8389,星池,安慰奖,焦饭味道,Smell Of Burnt Rice,萬能
+2012-09-01,8389,星池,安慰奖,升旗,Flag Raising,多多博彩
+2012-09-01,8389,星池,安慰奖,资源分类,Resource Classification,大馬彩
+2011-08-17,8389,大馬彩,安慰奖,焦饭味道,Smell Of Burnt Rice,萬能
+2011-08-17,8389,大馬彩,安慰奖,升旗,Flag Raising,多多博彩
+2011-08-17,8389,大馬彩,安慰奖,资源分类,Resource Classification,大馬彩
+2010-07-31,8389,多多,特别奖,焦饭味道,Smell Of Burnt Rice,萬能
+2010-07-31,8389,多多,特别奖,升旗,Flag Raising,多多博彩
+2010-07-31,8389,多多,特别奖,资源分类,Resource Classification,大馬彩
+2009-12-26,8389,多多,安慰奖,焦饭味道,Smell Of Burnt Rice,萬能
+2009-12-26,8389,多多,安慰奖,升旗,Flag Raising,多多博彩
+2009-12-26,8389,多多,安慰奖,资源分类,Resource Classification,大馬彩
+2009-11-25,8389,大馬彩,特别奖,焦饭味道,Smell Of Burnt Rice,萬能
+2009-11-25,8389,大馬彩,特别奖,升旗,Flag Raising,多多博彩
+2009-11-25,8389,大馬彩,特别奖,资源分类,Resource Classification,大馬彩
+2008-04-13,8389,萬能,特别奖,焦饭味道,Smell Of Burnt Rice,萬能
+2008-04-13,8389,萬能,特别奖,升旗,Flag Raising,多多博彩
+2008-04-13,8389,萬能,特别奖,资源分类,Resource Classification,大馬彩
+2008-03-26,8389,萬能,安慰奖,焦饭味道,Smell Of Burnt Rice,萬能
+2008-03-26,8389,萬能,安慰奖,升旗,Flag Raising,多多博彩
+2008-03-26,8389,萬能,安慰奖,资源分类,Resource Classification,大馬彩
+2007-09-08,8389,多多,安慰奖,焦饭味道,Smell Of Burnt Rice,萬能
+2007-09-08,8389,多多,安慰奖,升旗,Flag Raising,多多博彩
+2007-09-08,8389,多多,安慰奖,资源分类,Resource Classification,大馬彩
+2005-04-10,8389,大馬彩,三奖,焦饭味道,Smell Of Burnt Rice,萬能
+2005-04-10,8389,大馬彩,三奖,升旗,Flag Raising,多多博彩
+2005-04-10,8389,大馬彩,三奖,资源分类,Resource Classification,大馬彩
+2004-12-05,8389,大馬彩,安慰奖,焦饭味道,Smell Of Burnt Rice,萬能
+2004-12-05,8389,大馬彩,安慰奖,升旗,Flag Raising,多多博彩
+2004-12-05,8389,大馬彩,安慰奖,资源分类,Resource Classification,大馬彩
+2004-08-21,8389,萬能,特别奖,焦饭味道,Smell Of Burnt Rice,萬能
+2004-08-21,8389,萬能,特别奖,升旗,Flag Raising,多多博彩
+2004-08-21,8389,萬能,特别奖,资源分类,Resource Classification,大馬彩
+2004-02-22,8389,萬能,安慰奖,焦饭味道,Smell Of Burnt Rice,萬能
+2004-02-22,8389,萬能,安慰奖,升旗,Flag Raising,多多博彩
+2004-02-22,8389,萬能,安慰奖,资源分类,Resource Classification,大馬彩
+2002-06-26,8389,萬能,安慰奖,焦饭味道,Smell Of Burnt Rice,萬能
+2002-06-26,8389,萬能,安慰奖,升旗,Flag Raising,多多博彩
+2002-06-26,8389,萬能,安慰奖,资源分类,Resource Classification,大馬彩
+2001-06-17,8389,大馬彩,特别奖,焦饭味道,Smell Of Burnt Rice,萬能
+2001-06-17,8389,大馬彩,特别奖,升旗,Flag Raising,多多博彩
+2001-06-17,8389,大馬彩,特别奖,资源分类,Resource Classification,大馬彩
+2000-11-29,8389,萬能,特别奖,焦饭味道,Smell Of Burnt Rice,萬能
+2000-11-29,8389,萬能,特别奖,升旗,Flag Raising,多多博彩
+2000-11-29,8389,萬能,特别奖,资源分类,Resource Classification,大馬彩
+2000-11-12,8389,多多,安慰奖,焦饭味道,Smell Of Burnt Rice,萬能
+2000-11-12,8389,多多,安慰奖,升旗,Flag Raising,多多博彩
+2000-11-12,8389,多多,安慰奖,资源分类,Resource Classification,大馬彩
+2000-04-30,8389,萬能,安慰奖,焦饭味道,Smell Of Burnt Rice,萬能
+2000-04-30,8389,萬能,安慰奖,升旗,Flag Raising,多多博彩
+2000-04-30,8389,萬能,安慰奖,资源分类,Resource Classification,大馬彩
+2000-01-22,8389,大馬彩,特别奖,焦饭味道,Smell Of Burnt Rice,萬能
+2000-01-22,8389,大馬彩,特别奖,升旗,Flag Raising,多多博彩
+2000-01-22,8389,大馬彩,特别奖,资源分类,Resource Classification,大馬彩
+1998-10-14,8389,多多,三奖,焦饭味道,Smell Of Burnt Rice,萬能
+1998-10-14,8389,多多,三奖,升旗,Flag Raising,多多博彩
+1998-10-14,8389,多多,三奖,资源分类,Resource Classification,大馬彩
+1997-12-20,8389,萬能,特别奖,焦饭味道,Smell Of Burnt Rice,萬能
+1997-12-20,8389,萬能,特别奖,升旗,Flag Raising,多多博彩
+1997-12-20,8389,萬能,特别奖,资源分类,Resource Classification,大馬彩
+1996-02-04,8389,大馬彩,安慰奖,焦饭味道,Smell Of Burnt Rice,萬能
+1996-02-04,8389,大馬彩,安慰奖,升旗,Flag Raising,多多博彩
+1996-02-04,8389,大馬彩,安慰奖,资源分类,Resource Classification,大馬彩
+1996-01-10,8389,多多,特别奖,焦饭味道,Smell Of Burnt Rice,萬能
+1996-01-10,8389,多多,特别奖,升旗,Flag Raising,多多博彩
+1996-01-10,8389,多多,特别奖,资源分类,Resource Classification,大馬彩
+1995-04-12,8389,大馬彩,特别奖,焦饭味道,Smell Of Burnt Rice,萬能
+1995-04-12,8389,大馬彩,特别奖,升旗,Flag Raising,多多博彩
+1995-04-12,8389,大馬彩,特别奖,资源分类,Resource Classification,大馬彩
+1995-04-01,8389,大馬彩,特别奖,焦饭味道,Smell Of Burnt Rice,萬能
+1995-04-01,8389,大馬彩,特别奖,升旗,Flag Raising,多多博彩
+1995-04-01,8389,大馬彩,特别奖,资源分类,Resource Classification,大馬彩
+1993-06-23,8389,萬能,安慰奖,焦饭味道,Smell Of Burnt Rice,萬能
+1993-06-23,8389,萬能,安慰奖,升旗,Flag Raising,多多博彩
+1993-06-23,8389,萬能,安慰奖,资源分类,Resource Classification,大馬彩
+1992-10-08,8389,萬能,安慰奖,焦饭味道,Smell Of Burnt Rice,萬能
+1992-10-08,8389,萬能,安慰奖,升旗,Flag Raising,多多博彩
+1992-10-08,8389,萬能,安慰奖,资源分类,Resource Classification,大馬彩
+1992-07-22,8389,大馬彩,特别奖,焦饭味道,Smell Of Burnt Rice,萬能
+1992-07-22,8389,大馬彩,特别奖,升旗,Flag Raising,多多博彩
+1992-07-22,8389,大馬彩,特别奖,资源分类,Resource Classification,大馬彩
+1988-12-05,8389,多多,安慰奖,焦饭味道,Smell Of Burnt Rice,萬能
+1988-12-05,8389,多多,安慰奖,升旗,Flag Raising,多多博彩
+1988-12-05,8389,多多,安慰奖,资源分类,Resource Classification,大馬彩
+1988-09-01,8389,多多,特别奖,焦饭味道,Smell Of Burnt Rice,萬能
+1988-09-01,8389,多多,特别奖,升旗,Flag Raising,多多博彩
+1988-09-01,8389,多多,特别奖,资源分类,Resource Classification,大馬彩

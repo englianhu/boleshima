@@ -1,50 +1,148 @@
-开彩日期,彩号,秦庄,彩金,秦典,英典
-2020-08-19,0435,多多博彩,特别奖,鸦片佬,Man Who Consumes Opium
-2019-10-30,0435,萬能,特别奖,抽鸦片的人,Opium Smoker
-2018-10-10,0435,多多博彩,特别奖,鸦片佬,Man Who Consumes Opium
-2018-09-19,0435,萬能,安慰奖,抽鸦片的人,Opium Smoker
-2018-02-10,0435,大馬彩,安慰奖,鸦片佬,Man Who Smokes Opium
-2017-04-29,0435,星池,安慰奖,,
-2016-07-13,0435,星池,安慰奖,,
-2016-06-26,0435,多多博彩,特别奖,鸦片佬,Man Who Consumes Opium
-2016-06-26,0435,大馬彩,安慰奖,鸦片佬,Man Who Smokes Opium
-2016-05-18,0435,大馬彩,特别奖,鸦片佬,Man Who Smokes Opium
-2016-02-24,0435,星池,首奖,,
-2015-08-16,0435,大馬彩,安慰奖,鸦片佬,Man Who Smokes Opium
-2015-04-05,0435,大馬彩,安慰奖,鸦片佬,Man Who Smokes Opium
-2015-03-18,0435,星池,特别奖,,
-2015-02-04,0435,大馬彩,安慰奖,鸦片佬,Man Who Smokes Opium
-2014-10-18,0435,星池,安慰奖,,
-2014-07-26,0435,星池,特别奖,,
-2014-05-11,0435,大馬彩,安慰奖,鸦片佬,Man Who Smokes Opium
-2013-09-28,0435,星池,安慰奖,,
-2013-06-19,0435,萬能,特别奖,抽鸦片的人,Opium Smoker
-2012-11-21,0435,星池,特别奖,,
-2012-06-30,0435,星池,安慰奖,,
-2012-03-14,0435,星池,特别奖,,
-2011-05-18,0435,星池,安慰奖,,
-2011-03-13,0435,多多博彩,安慰奖,鸦片佬,Man Who Consumes Opium
-2010-05-22,0435,星池,安慰奖,,
-2008-06-25,0435,大馬彩,特别奖,鸦片佬,Man Who Smokes Opium
-2007-02-21,0435,大馬彩,安慰奖,鸦片佬,Man Who Smokes Opium
-2006-03-04,0435,多多博彩,安慰奖,鸦片佬,Man Who Consumes Opium
-2005-07-09,0435,多多博彩,二奖,鸦片佬,Man Who Consumes Opium
-2005-05-01,0435,大馬彩,安慰奖,鸦片佬,Man Who Smokes Opium
-2003-07-26,0435,大馬彩,特别奖,鸦片佬,Man Who Smokes Opium
-2002-10-08,0435,萬能,特别奖,抽鸦片的人,Opium Smoker
-2001-10-03,0435,多多博彩,安慰奖,鸦片佬,Man Who Consumes Opium
-2001-07-31,0435,大馬彩,安慰奖,鸦片佬,Man Who Smokes Opium
-2001-04-21,0435,萬能,安慰奖,抽鸦片的人,Opium Smoker
-2000-05-07,0435,大馬彩,特别奖,鸦片佬,Man Who Smokes Opium
-1999-12-15,0435,多多博彩,特别奖,鸦片佬,Man Who Consumes Opium
-1999-10-23,0435,萬能,特别奖,抽鸦片的人,Opium Smoker
-1999-07-24,0435,大馬彩,特别奖,鸦片佬,Man Who Smokes Opium
-1999-06-27,0435,萬能,安慰奖,抽鸦片的人,Opium Smoker
-1999-04-17,0435,大馬彩,特别奖,鸦片佬,Man Who Smokes Opium
-1997-05-24,0435,多多博彩,特别奖,鸦片佬,Man Who Consumes Opium
-1992-07-08,0435,大馬彩,安慰奖,鸦片佬,Man Who Smokes Opium
-1992-01-11,0435,大馬彩,安慰奖,鸦片佬,Man Who Smokes Opium
-1991-03-02,0435,多多博彩,安慰奖,鸦片佬,Man Who Consumes Opium
-1991-01-24,0435,多多博彩,安慰奖,鸦片佬,Man Who Consumes Opium
-1989-12-04,0435,多多博彩,首奖,鸦片佬,Man Who Consumes Opium
-1986-10-11,0435,多多博彩,特别奖,鸦片佬,Man Who Consumes Opium
+开彩日期,彩号,秦庄,彩金,史记秦本纪,史记楚辞,史记秦庄
+2020-08-19,0435,多多,特别奖,抽鸦片的人,Opium Smoker,萬能
+2020-08-19,0435,多多,特别奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2020-08-19,0435,多多,特别奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2019-10-30,0435,萬能,特别奖,抽鸦片的人,Opium Smoker,萬能
+2019-10-30,0435,萬能,特别奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2019-10-30,0435,萬能,特别奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2018-10-10,0435,多多,特别奖,抽鸦片的人,Opium Smoker,萬能
+2018-10-10,0435,多多,特别奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2018-10-10,0435,多多,特别奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2018-09-19,0435,萬能,安慰奖,抽鸦片的人,Opium Smoker,萬能
+2018-09-19,0435,萬能,安慰奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2018-09-19,0435,萬能,安慰奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2018-02-10,0435,大馬彩,安慰奖,抽鸦片的人,Opium Smoker,萬能
+2018-02-10,0435,大馬彩,安慰奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2018-02-10,0435,大馬彩,安慰奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2017-04-29,0435,星池,安慰奖,抽鸦片的人,Opium Smoker,萬能
+2017-04-29,0435,星池,安慰奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2017-04-29,0435,星池,安慰奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2016-07-13,0435,星池,安慰奖,抽鸦片的人,Opium Smoker,萬能
+2016-07-13,0435,星池,安慰奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2016-07-13,0435,星池,安慰奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2016-06-26,0435,多多,特别奖,抽鸦片的人,Opium Smoker,萬能
+2016-06-26,0435,多多,特别奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2016-06-26,0435,多多,特别奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2016-06-26,0435,大馬彩,安慰奖,抽鸦片的人,Opium Smoker,萬能
+2016-06-26,0435,大馬彩,安慰奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2016-06-26,0435,大馬彩,安慰奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2016-05-18,0435,大馬彩,特别奖,抽鸦片的人,Opium Smoker,萬能
+2016-05-18,0435,大馬彩,特别奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2016-05-18,0435,大馬彩,特别奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2016-02-24,0435,星池,首奖,抽鸦片的人,Opium Smoker,萬能
+2016-02-24,0435,星池,首奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2016-02-24,0435,星池,首奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2015-08-16,0435,大馬彩,安慰奖,抽鸦片的人,Opium Smoker,萬能
+2015-08-16,0435,大馬彩,安慰奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2015-08-16,0435,大馬彩,安慰奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2015-04-05,0435,大馬彩,安慰奖,抽鸦片的人,Opium Smoker,萬能
+2015-04-05,0435,大馬彩,安慰奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2015-04-05,0435,大馬彩,安慰奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2015-03-18,0435,星池,特别奖,抽鸦片的人,Opium Smoker,萬能
+2015-03-18,0435,星池,特别奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2015-03-18,0435,星池,特别奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2015-02-04,0435,大馬彩,安慰奖,抽鸦片的人,Opium Smoker,萬能
+2015-02-04,0435,大馬彩,安慰奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2015-02-04,0435,大馬彩,安慰奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2014-10-18,0435,星池,安慰奖,抽鸦片的人,Opium Smoker,萬能
+2014-10-18,0435,星池,安慰奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2014-10-18,0435,星池,安慰奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2014-07-26,0435,星池,特别奖,抽鸦片的人,Opium Smoker,萬能
+2014-07-26,0435,星池,特别奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2014-07-26,0435,星池,特别奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2014-05-11,0435,大馬彩,安慰奖,抽鸦片的人,Opium Smoker,萬能
+2014-05-11,0435,大馬彩,安慰奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2014-05-11,0435,大馬彩,安慰奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2013-09-28,0435,星池,安慰奖,抽鸦片的人,Opium Smoker,萬能
+2013-09-28,0435,星池,安慰奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2013-09-28,0435,星池,安慰奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2013-06-19,0435,萬能,特别奖,抽鸦片的人,Opium Smoker,萬能
+2013-06-19,0435,萬能,特别奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2013-06-19,0435,萬能,特别奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2012-11-21,0435,星池,特别奖,抽鸦片的人,Opium Smoker,萬能
+2012-11-21,0435,星池,特别奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2012-11-21,0435,星池,特别奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2012-06-30,0435,星池,安慰奖,抽鸦片的人,Opium Smoker,萬能
+2012-06-30,0435,星池,安慰奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2012-06-30,0435,星池,安慰奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2012-03-14,0435,星池,特别奖,抽鸦片的人,Opium Smoker,萬能
+2012-03-14,0435,星池,特别奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2012-03-14,0435,星池,特别奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2011-05-18,0435,星池,安慰奖,抽鸦片的人,Opium Smoker,萬能
+2011-05-18,0435,星池,安慰奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2011-05-18,0435,星池,安慰奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2011-03-13,0435,多多,安慰奖,抽鸦片的人,Opium Smoker,萬能
+2011-03-13,0435,多多,安慰奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2011-03-13,0435,多多,安慰奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2010-05-22,0435,星池,安慰奖,抽鸦片的人,Opium Smoker,萬能
+2010-05-22,0435,星池,安慰奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2010-05-22,0435,星池,安慰奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2008-06-25,0435,大馬彩,特别奖,抽鸦片的人,Opium Smoker,萬能
+2008-06-25,0435,大馬彩,特别奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2008-06-25,0435,大馬彩,特别奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2007-02-21,0435,大馬彩,安慰奖,抽鸦片的人,Opium Smoker,萬能
+2007-02-21,0435,大馬彩,安慰奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2007-02-21,0435,大馬彩,安慰奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2006-03-04,0435,多多,安慰奖,抽鸦片的人,Opium Smoker,萬能
+2006-03-04,0435,多多,安慰奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2006-03-04,0435,多多,安慰奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2005-07-09,0435,多多,二奖,抽鸦片的人,Opium Smoker,萬能
+2005-07-09,0435,多多,二奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2005-07-09,0435,多多,二奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2005-05-01,0435,大馬彩,安慰奖,抽鸦片的人,Opium Smoker,萬能
+2005-05-01,0435,大馬彩,安慰奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2005-05-01,0435,大馬彩,安慰奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2003-07-26,0435,大馬彩,特别奖,抽鸦片的人,Opium Smoker,萬能
+2003-07-26,0435,大馬彩,特别奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2003-07-26,0435,大馬彩,特别奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2002-10-08,0435,萬能,特别奖,抽鸦片的人,Opium Smoker,萬能
+2002-10-08,0435,萬能,特别奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2002-10-08,0435,萬能,特别奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2001-10-03,0435,多多,安慰奖,抽鸦片的人,Opium Smoker,萬能
+2001-10-03,0435,多多,安慰奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2001-10-03,0435,多多,安慰奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2001-07-31,0435,大馬彩,安慰奖,抽鸦片的人,Opium Smoker,萬能
+2001-07-31,0435,大馬彩,安慰奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2001-07-31,0435,大馬彩,安慰奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2001-04-21,0435,萬能,安慰奖,抽鸦片的人,Opium Smoker,萬能
+2001-04-21,0435,萬能,安慰奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2001-04-21,0435,萬能,安慰奖,鸦片佬,Man Who Smokes Opium,大馬彩
+2000-05-07,0435,大馬彩,特别奖,抽鸦片的人,Opium Smoker,萬能
+2000-05-07,0435,大馬彩,特别奖,鸦片佬,Man Who Consumes Opium,多多博彩
+2000-05-07,0435,大馬彩,特别奖,鸦片佬,Man Who Smokes Opium,大馬彩
+1999-12-15,0435,多多,特别奖,抽鸦片的人,Opium Smoker,萬能
+1999-12-15,0435,多多,特别奖,鸦片佬,Man Who Consumes Opium,多多博彩
+1999-12-15,0435,多多,特别奖,鸦片佬,Man Who Smokes Opium,大馬彩
+1999-10-23,0435,萬能,特别奖,抽鸦片的人,Opium Smoker,萬能
+1999-10-23,0435,萬能,特别奖,鸦片佬,Man Who Consumes Opium,多多博彩
+1999-10-23,0435,萬能,特别奖,鸦片佬,Man Who Smokes Opium,大馬彩
+1999-07-24,0435,大馬彩,特别奖,抽鸦片的人,Opium Smoker,萬能
+1999-07-24,0435,大馬彩,特别奖,鸦片佬,Man Who Consumes Opium,多多博彩
+1999-07-24,0435,大馬彩,特别奖,鸦片佬,Man Who Smokes Opium,大馬彩
+1999-06-27,0435,萬能,安慰奖,抽鸦片的人,Opium Smoker,萬能
+1999-06-27,0435,萬能,安慰奖,鸦片佬,Man Who Consumes Opium,多多博彩
+1999-06-27,0435,萬能,安慰奖,鸦片佬,Man Who Smokes Opium,大馬彩
+1999-04-17,0435,大馬彩,特别奖,抽鸦片的人,Opium Smoker,萬能
+1999-04-17,0435,大馬彩,特别奖,鸦片佬,Man Who Consumes Opium,多多博彩
+1999-04-17,0435,大馬彩,特别奖,鸦片佬,Man Who Smokes Opium,大馬彩
+1997-05-24,0435,多多,特别奖,抽鸦片的人,Opium Smoker,萬能
+1997-05-24,0435,多多,特别奖,鸦片佬,Man Who Consumes Opium,多多博彩
+1997-05-24,0435,多多,特别奖,鸦片佬,Man Who Smokes Opium,大馬彩
+1992-07-08,0435,大馬彩,安慰奖,抽鸦片的人,Opium Smoker,萬能
+1992-07-08,0435,大馬彩,安慰奖,鸦片佬,Man Who Consumes Opium,多多博彩
+1992-07-08,0435,大馬彩,安慰奖,鸦片佬,Man Who Smokes Opium,大馬彩
+1992-01-11,0435,大馬彩,安慰奖,抽鸦片的人,Opium Smoker,萬能
+1992-01-11,0435,大馬彩,安慰奖,鸦片佬,Man Who Consumes Opium,多多博彩
+1992-01-11,0435,大馬彩,安慰奖,鸦片佬,Man Who Smokes Opium,大馬彩
+1991-03-02,0435,多多,安慰奖,抽鸦片的人,Opium Smoker,萬能
+1991-03-02,0435,多多,安慰奖,鸦片佬,Man Who Consumes Opium,多多博彩
+1991-03-02,0435,多多,安慰奖,鸦片佬,Man Who Smokes Opium,大馬彩
+1991-01-24,0435,多多,安慰奖,抽鸦片的人,Opium Smoker,萬能
+1991-01-24,0435,多多,安慰奖,鸦片佬,Man Who Consumes Opium,多多博彩
+1991-01-24,0435,多多,安慰奖,鸦片佬,Man Who Smokes Opium,大馬彩
+1989-12-04,0435,多多,首奖,抽鸦片的人,Opium Smoker,萬能
+1989-12-04,0435,多多,首奖,鸦片佬,Man Who Consumes Opium,多多博彩
+1989-12-04,0435,多多,首奖,鸦片佬,Man Who Smokes Opium,大馬彩
+1986-10-11,0435,多多,特别奖,抽鸦片的人,Opium Smoker,萬能
+1986-10-11,0435,多多,特别奖,鸦片佬,Man Who Consumes Opium,多多博彩
+1986-10-11,0435,多多,特别奖,鸦片佬,Man Who Smokes Opium,大馬彩

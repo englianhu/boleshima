@@ -1,53 +1,157 @@
-开彩日期,彩号,秦庄,彩金,秦典,英典
-2022-07-13,0505,大馬彩,特别奖,傻弟弟,Retarded Brother
-2022-02-20,0505,星池,安慰奖,,
-2022-01-23,0505,星池,安慰奖,,
-2021-02-27,0505,多多博彩,安慰奖,傻弟弟,Silly Brother
-2020-10-03,0505,大馬彩,特别奖,傻弟弟,Retarded Brother
-2020-02-29,0505,大馬彩,安慰奖,傻弟弟,Retarded Brother
-2019-12-01,0505,星池,特别奖,,
-2019-04-10,0505,星池,特别奖,,
-2018-09-08,0505,萬能,二奖,神经弟弟,Insane Younger Brother
-2018-05-06,0505,星池,特别奖,,
-2017-10-18,0505,多多博彩,安慰奖,傻弟弟,Silly Brother
-2017-09-16,0505,萬能,首奖,神经弟弟,Insane Younger Brother
-2017-03-01,0505,大馬彩,安慰奖,傻弟弟,Retarded Brother
-2015-04-28,0505,大馬彩,安慰奖,傻弟弟,Retarded Brother
-2015-04-18,0505,多多博彩,安慰奖,傻弟弟,Silly Brother
-2015-02-22,0505,多多博彩,特别奖,傻弟弟,Silly Brother
-2014-09-20,0505,大馬彩,安慰奖,傻弟弟,Retarded Brother
-2014-08-23,0505,萬能,安慰奖,神经弟弟,Insane Younger Brother
-2013-10-20,0505,萬能,安慰奖,神经弟弟,Insane Younger Brother
-2013-08-11,0505,大馬彩,特别奖,傻弟弟,Retarded Brother
-2013-07-20,0505,多多博彩,安慰奖,傻弟弟,Silly Brother
-2013-01-19,0505,多多博彩,安慰奖,傻弟弟,Silly Brother
-2012-12-26,0505,大馬彩,安慰奖,傻弟弟,Retarded Brother
-2012-12-19,0505,星池,安慰奖,,
-2012-03-25,0505,大馬彩,安慰奖,傻弟弟,Retarded Brother
-2012-01-29,0505,萬能,特别奖,神经弟弟,Insane Younger Brother
-2011-08-13,0505,星池,安慰奖,,
-2011-07-03,0505,多多博彩,特别奖,傻弟弟,Silly Brother
-2010-12-22,0505,大馬彩,安慰奖,傻弟弟,Retarded Brother
-2010-12-18,0505,星池,二奖,,
-2010-08-01,0505,萬能,安慰奖,神经弟弟,Insane Younger Brother
-2010-01-31,0505,萬能,安慰奖,神经弟弟,Insane Younger Brother
-2010-01-30,0505,大馬彩,特别奖,傻弟弟,Retarded Brother
-2007-12-12,0505,大馬彩,安慰奖,傻弟弟,Retarded Brother
-2006-01-15,0505,多多博彩,安慰奖,傻弟弟,Silly Brother
-2005-12-25,0505,多多博彩,安慰奖,傻弟弟,Silly Brother
-2002-10-30,0505,萬能,特别奖,神经弟弟,Insane Younger Brother
-2002-08-25,0505,萬能,特别奖,神经弟弟,Insane Younger Brother
-2002-07-31,0505,多多博彩,特别奖,傻弟弟,Silly Brother
-2001-12-15,0505,大馬彩,特别奖,傻弟弟,Retarded Brother
-2001-05-05,0505,多多博彩,二奖,傻弟弟,Silly Brother
-2000-10-07,0505,大馬彩,特别奖,傻弟弟,Retarded Brother
-1996-12-15,0505,多多博彩,特别奖,傻弟弟,Silly Brother
-1996-09-28,0505,多多博彩,安慰奖,傻弟弟,Silly Brother
-1996-06-19,0505,大馬彩,安慰奖,傻弟弟,Retarded Brother
-1995-09-03,0505,多多博彩,安慰奖,傻弟弟,Silly Brother
-1994-10-01,0505,大馬彩,特别奖,傻弟弟,Retarded Brother
-1994-05-22,0505,萬能,三奖,神经弟弟,Insane Younger Brother
-1993-07-15,0505,多多博彩,特别奖,傻弟弟,Silly Brother
-1993-06-26,0505,多多博彩,安慰奖,傻弟弟,Silly Brother
-1992-05-23,0505,多多博彩,安慰奖,傻弟弟,Silly Brother
-1990-02-15,0505,多多博彩,特别奖,傻弟弟,Silly Brother
+开彩日期,彩号,秦庄,彩金,史记秦本纪,史记楚辞,史记秦庄
+2022-07-13,0505,大馬彩,特别奖,神经弟弟,Insane Younger Brother,萬能
+2022-07-13,0505,大馬彩,特别奖,傻弟弟,Silly Brother,多多博彩
+2022-07-13,0505,大馬彩,特别奖,傻弟弟,Retarded Brother,大馬彩
+2022-02-20,0505,星池,安慰奖,神经弟弟,Insane Younger Brother,萬能
+2022-02-20,0505,星池,安慰奖,傻弟弟,Silly Brother,多多博彩
+2022-02-20,0505,星池,安慰奖,傻弟弟,Retarded Brother,大馬彩
+2022-01-23,0505,星池,安慰奖,神经弟弟,Insane Younger Brother,萬能
+2022-01-23,0505,星池,安慰奖,傻弟弟,Silly Brother,多多博彩
+2022-01-23,0505,星池,安慰奖,傻弟弟,Retarded Brother,大馬彩
+2021-02-27,0505,多多,安慰奖,神经弟弟,Insane Younger Brother,萬能
+2021-02-27,0505,多多,安慰奖,傻弟弟,Silly Brother,多多博彩
+2021-02-27,0505,多多,安慰奖,傻弟弟,Retarded Brother,大馬彩
+2020-10-03,0505,大馬彩,特别奖,神经弟弟,Insane Younger Brother,萬能
+2020-10-03,0505,大馬彩,特别奖,傻弟弟,Silly Brother,多多博彩
+2020-10-03,0505,大馬彩,特别奖,傻弟弟,Retarded Brother,大馬彩
+2020-02-29,0505,大馬彩,安慰奖,神经弟弟,Insane Younger Brother,萬能
+2020-02-29,0505,大馬彩,安慰奖,傻弟弟,Silly Brother,多多博彩
+2020-02-29,0505,大馬彩,安慰奖,傻弟弟,Retarded Brother,大馬彩
+2019-12-01,0505,星池,特别奖,神经弟弟,Insane Younger Brother,萬能
+2019-12-01,0505,星池,特别奖,傻弟弟,Silly Brother,多多博彩
+2019-12-01,0505,星池,特别奖,傻弟弟,Retarded Brother,大馬彩
+2019-04-10,0505,星池,特别奖,神经弟弟,Insane Younger Brother,萬能
+2019-04-10,0505,星池,特别奖,傻弟弟,Silly Brother,多多博彩
+2019-04-10,0505,星池,特别奖,傻弟弟,Retarded Brother,大馬彩
+2018-09-08,0505,萬能,二奖,神经弟弟,Insane Younger Brother,萬能
+2018-09-08,0505,萬能,二奖,傻弟弟,Silly Brother,多多博彩
+2018-09-08,0505,萬能,二奖,傻弟弟,Retarded Brother,大馬彩
+2018-05-06,0505,星池,特别奖,神经弟弟,Insane Younger Brother,萬能
+2018-05-06,0505,星池,特别奖,傻弟弟,Silly Brother,多多博彩
+2018-05-06,0505,星池,特别奖,傻弟弟,Retarded Brother,大馬彩
+2017-10-18,0505,多多,安慰奖,神经弟弟,Insane Younger Brother,萬能
+2017-10-18,0505,多多,安慰奖,傻弟弟,Silly Brother,多多博彩
+2017-10-18,0505,多多,安慰奖,傻弟弟,Retarded Brother,大馬彩
+2017-09-16,0505,萬能,首奖,神经弟弟,Insane Younger Brother,萬能
+2017-09-16,0505,萬能,首奖,傻弟弟,Silly Brother,多多博彩
+2017-09-16,0505,萬能,首奖,傻弟弟,Retarded Brother,大馬彩
+2017-03-01,0505,大馬彩,安慰奖,神经弟弟,Insane Younger Brother,萬能
+2017-03-01,0505,大馬彩,安慰奖,傻弟弟,Silly Brother,多多博彩
+2017-03-01,0505,大馬彩,安慰奖,傻弟弟,Retarded Brother,大馬彩
+2015-04-28,0505,大馬彩,安慰奖,神经弟弟,Insane Younger Brother,萬能
+2015-04-28,0505,大馬彩,安慰奖,傻弟弟,Silly Brother,多多博彩
+2015-04-28,0505,大馬彩,安慰奖,傻弟弟,Retarded Brother,大馬彩
+2015-04-18,0505,多多,安慰奖,神经弟弟,Insane Younger Brother,萬能
+2015-04-18,0505,多多,安慰奖,傻弟弟,Silly Brother,多多博彩
+2015-04-18,0505,多多,安慰奖,傻弟弟,Retarded Brother,大馬彩
+2015-02-22,0505,多多,特别奖,神经弟弟,Insane Younger Brother,萬能
+2015-02-22,0505,多多,特别奖,傻弟弟,Silly Brother,多多博彩
+2015-02-22,0505,多多,特别奖,傻弟弟,Retarded Brother,大馬彩
+2014-09-20,0505,大馬彩,安慰奖,神经弟弟,Insane Younger Brother,萬能
+2014-09-20,0505,大馬彩,安慰奖,傻弟弟,Silly Brother,多多博彩
+2014-09-20,0505,大馬彩,安慰奖,傻弟弟,Retarded Brother,大馬彩
+2014-08-23,0505,萬能,安慰奖,神经弟弟,Insane Younger Brother,萬能
+2014-08-23,0505,萬能,安慰奖,傻弟弟,Silly Brother,多多博彩
+2014-08-23,0505,萬能,安慰奖,傻弟弟,Retarded Brother,大馬彩
+2013-10-20,0505,萬能,安慰奖,神经弟弟,Insane Younger Brother,萬能
+2013-10-20,0505,萬能,安慰奖,傻弟弟,Silly Brother,多多博彩
+2013-10-20,0505,萬能,安慰奖,傻弟弟,Retarded Brother,大馬彩
+2013-08-11,0505,大馬彩,特别奖,神经弟弟,Insane Younger Brother,萬能
+2013-08-11,0505,大馬彩,特别奖,傻弟弟,Silly Brother,多多博彩
+2013-08-11,0505,大馬彩,特别奖,傻弟弟,Retarded Brother,大馬彩
+2013-07-20,0505,多多,安慰奖,神经弟弟,Insane Younger Brother,萬能
+2013-07-20,0505,多多,安慰奖,傻弟弟,Silly Brother,多多博彩
+2013-07-20,0505,多多,安慰奖,傻弟弟,Retarded Brother,大馬彩
+2013-01-19,0505,多多,安慰奖,神经弟弟,Insane Younger Brother,萬能
+2013-01-19,0505,多多,安慰奖,傻弟弟,Silly Brother,多多博彩
+2013-01-19,0505,多多,安慰奖,傻弟弟,Retarded Brother,大馬彩
+2012-12-26,0505,大馬彩,安慰奖,神经弟弟,Insane Younger Brother,萬能
+2012-12-26,0505,大馬彩,安慰奖,傻弟弟,Silly Brother,多多博彩
+2012-12-26,0505,大馬彩,安慰奖,傻弟弟,Retarded Brother,大馬彩
+2012-12-19,0505,星池,安慰奖,神经弟弟,Insane Younger Brother,萬能
+2012-12-19,0505,星池,安慰奖,傻弟弟,Silly Brother,多多博彩
+2012-12-19,0505,星池,安慰奖,傻弟弟,Retarded Brother,大馬彩
+2012-03-25,0505,大馬彩,安慰奖,神经弟弟,Insane Younger Brother,萬能
+2012-03-25,0505,大馬彩,安慰奖,傻弟弟,Silly Brother,多多博彩
+2012-03-25,0505,大馬彩,安慰奖,傻弟弟,Retarded Brother,大馬彩
+2012-01-29,0505,萬能,特别奖,神经弟弟,Insane Younger Brother,萬能
+2012-01-29,0505,萬能,特别奖,傻弟弟,Silly Brother,多多博彩
+2012-01-29,0505,萬能,特别奖,傻弟弟,Retarded Brother,大馬彩
+2011-08-13,0505,星池,安慰奖,神经弟弟,Insane Younger Brother,萬能
+2011-08-13,0505,星池,安慰奖,傻弟弟,Silly Brother,多多博彩
+2011-08-13,0505,星池,安慰奖,傻弟弟,Retarded Brother,大馬彩
+2011-07-03,0505,多多,特别奖,神经弟弟,Insane Younger Brother,萬能
+2011-07-03,0505,多多,特别奖,傻弟弟,Silly Brother,多多博彩
+2011-07-03,0505,多多,特别奖,傻弟弟,Retarded Brother,大馬彩
+2010-12-22,0505,大馬彩,安慰奖,神经弟弟,Insane Younger Brother,萬能
+2010-12-22,0505,大馬彩,安慰奖,傻弟弟,Silly Brother,多多博彩
+2010-12-22,0505,大馬彩,安慰奖,傻弟弟,Retarded Brother,大馬彩
+2010-12-18,0505,星池,二奖,神经弟弟,Insane Younger Brother,萬能
+2010-12-18,0505,星池,二奖,傻弟弟,Silly Brother,多多博彩
+2010-12-18,0505,星池,二奖,傻弟弟,Retarded Brother,大馬彩
+2010-08-01,0505,萬能,安慰奖,神经弟弟,Insane Younger Brother,萬能
+2010-08-01,0505,萬能,安慰奖,傻弟弟,Silly Brother,多多博彩
+2010-08-01,0505,萬能,安慰奖,傻弟弟,Retarded Brother,大馬彩
+2010-01-31,0505,萬能,安慰奖,神经弟弟,Insane Younger Brother,萬能
+2010-01-31,0505,萬能,安慰奖,傻弟弟,Silly Brother,多多博彩
+2010-01-31,0505,萬能,安慰奖,傻弟弟,Retarded Brother,大馬彩
+2010-01-30,0505,大馬彩,特别奖,神经弟弟,Insane Younger Brother,萬能
+2010-01-30,0505,大馬彩,特别奖,傻弟弟,Silly Brother,多多博彩
+2010-01-30,0505,大馬彩,特别奖,傻弟弟,Retarded Brother,大馬彩
+2007-12-12,0505,大馬彩,安慰奖,神经弟弟,Insane Younger Brother,萬能
+2007-12-12,0505,大馬彩,安慰奖,傻弟弟,Silly Brother,多多博彩
+2007-12-12,0505,大馬彩,安慰奖,傻弟弟,Retarded Brother,大馬彩
+2006-01-15,0505,多多,安慰奖,神经弟弟,Insane Younger Brother,萬能
+2006-01-15,0505,多多,安慰奖,傻弟弟,Silly Brother,多多博彩
+2006-01-15,0505,多多,安慰奖,傻弟弟,Retarded Brother,大馬彩
+2005-12-25,0505,多多,安慰奖,神经弟弟,Insane Younger Brother,萬能
+2005-12-25,0505,多多,安慰奖,傻弟弟,Silly Brother,多多博彩
+2005-12-25,0505,多多,安慰奖,傻弟弟,Retarded Brother,大馬彩
+2002-10-30,0505,萬能,特别奖,神经弟弟,Insane Younger Brother,萬能
+2002-10-30,0505,萬能,特别奖,傻弟弟,Silly Brother,多多博彩
+2002-10-30,0505,萬能,特别奖,傻弟弟,Retarded Brother,大馬彩
+2002-08-25,0505,萬能,特别奖,神经弟弟,Insane Younger Brother,萬能
+2002-08-25,0505,萬能,特别奖,傻弟弟,Silly Brother,多多博彩
+2002-08-25,0505,萬能,特别奖,傻弟弟,Retarded Brother,大馬彩
+2002-07-31,0505,多多,特别奖,神经弟弟,Insane Younger Brother,萬能
+2002-07-31,0505,多多,特别奖,傻弟弟,Silly Brother,多多博彩
+2002-07-31,0505,多多,特别奖,傻弟弟,Retarded Brother,大馬彩
+2001-12-15,0505,大馬彩,特别奖,神经弟弟,Insane Younger Brother,萬能
+2001-12-15,0505,大馬彩,特别奖,傻弟弟,Silly Brother,多多博彩
+2001-12-15,0505,大馬彩,特别奖,傻弟弟,Retarded Brother,大馬彩
+2001-05-05,0505,多多,二奖,神经弟弟,Insane Younger Brother,萬能
+2001-05-05,0505,多多,二奖,傻弟弟,Silly Brother,多多博彩
+2001-05-05,0505,多多,二奖,傻弟弟,Retarded Brother,大馬彩
+2000-10-07,0505,大馬彩,特别奖,神经弟弟,Insane Younger Brother,萬能
+2000-10-07,0505,大馬彩,特别奖,傻弟弟,Silly Brother,多多博彩
+2000-10-07,0505,大馬彩,特别奖,傻弟弟,Retarded Brother,大馬彩
+1996-12-15,0505,多多,特别奖,神经弟弟,Insane Younger Brother,萬能
+1996-12-15,0505,多多,特别奖,傻弟弟,Silly Brother,多多博彩
+1996-12-15,0505,多多,特别奖,傻弟弟,Retarded Brother,大馬彩
+1996-09-28,0505,多多,安慰奖,神经弟弟,Insane Younger Brother,萬能
+1996-09-28,0505,多多,安慰奖,傻弟弟,Silly Brother,多多博彩
+1996-09-28,0505,多多,安慰奖,傻弟弟,Retarded Brother,大馬彩
+1996-06-19,0505,大馬彩,安慰奖,神经弟弟,Insane Younger Brother,萬能
+1996-06-19,0505,大馬彩,安慰奖,傻弟弟,Silly Brother,多多博彩
+1996-06-19,0505,大馬彩,安慰奖,傻弟弟,Retarded Brother,大馬彩
+1995-09-03,0505,多多,安慰奖,神经弟弟,Insane Younger Brother,萬能
+1995-09-03,0505,多多,安慰奖,傻弟弟,Silly Brother,多多博彩
+1995-09-03,0505,多多,安慰奖,傻弟弟,Retarded Brother,大馬彩
+1994-10-01,0505,大馬彩,特别奖,神经弟弟,Insane Younger Brother,萬能
+1994-10-01,0505,大馬彩,特别奖,傻弟弟,Silly Brother,多多博彩
+1994-10-01,0505,大馬彩,特别奖,傻弟弟,Retarded Brother,大馬彩
+1994-05-22,0505,萬能,三奖,神经弟弟,Insane Younger Brother,萬能
+1994-05-22,0505,萬能,三奖,傻弟弟,Silly Brother,多多博彩
+1994-05-22,0505,萬能,三奖,傻弟弟,Retarded Brother,大馬彩
+1993-07-15,0505,多多,特别奖,神经弟弟,Insane Younger Brother,萬能
+1993-07-15,0505,多多,特别奖,傻弟弟,Silly Brother,多多博彩
+1993-07-15,0505,多多,特别奖,傻弟弟,Retarded Brother,大馬彩
+1993-06-26,0505,多多,安慰奖,神经弟弟,Insane Younger Brother,萬能
+1993-06-26,0505,多多,安慰奖,傻弟弟,Silly Brother,多多博彩
+1993-06-26,0505,多多,安慰奖,傻弟弟,Retarded Brother,大馬彩
+1992-05-23,0505,多多,安慰奖,神经弟弟,Insane Younger Brother,萬能
+1992-05-23,0505,多多,安慰奖,傻弟弟,Silly Brother,多多博彩
+1992-05-23,0505,多多,安慰奖,傻弟弟,Retarded Brother,大馬彩
+1990-02-15,0505,多多,特别奖,神经弟弟,Insane Younger Brother,萬能
+1990-02-15,0505,多多,特别奖,傻弟弟,Silly Brother,多多博彩
+1990-02-15,0505,多多,特别奖,傻弟弟,Retarded Brother,大馬彩

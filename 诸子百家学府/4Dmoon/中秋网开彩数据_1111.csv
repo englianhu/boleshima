@@ -1,47 +1,139 @@
-开彩日期,彩号,秦庄,彩金,秦典,英典
-2024-05-25,1111,星池,特别奖,,
-2024-03-27,1111,萬能,安慰奖,奖学金,Scholarship( Financial Aid)
-2023-10-22,1111,萬能,首奖,奖学金,Scholarship( Financial Aid)
-2023-02-05,1111,星池,特别奖,,
-2023-02-04,1111,萬能,安慰奖,奖学金,Scholarship( Financial Aid)
-2021-03-31,1111,多多博彩,三奖,奖学金,Scholarship
-2021-02-20,1111,星池,特别奖,,
-2019-09-21,1111,多多博彩,安慰奖,奖学金,Scholarship
-2019-06-12,1111,萬能,特别奖,奖学金,Scholarship( Financial Aid)
-2019-01-26,1111,萬能,特别奖,奖学金,Scholarship( Financial Aid)
-2018-05-23,1111,萬能,安慰奖,奖学金,Scholarship( Financial Aid)
-2018-02-04,1111,星池,二奖,,
-2016-11-06,1111,多多博彩,特别奖,奖学金,Scholarship
-2016-10-15,1111,大馬彩,二奖,奖学金,Scholarship
-2014-08-13,1111,星池,特别奖,,
-2013-12-15,1111,星池,安慰奖,,
-2013-07-27,1111,大馬彩,特别奖,奖学金,Scholarship
-2013-05-22,1111,多多博彩,安慰奖,奖学金,Scholarship
-2013-03-03,1111,萬能,特别奖,奖学金,Scholarship( Financial Aid)
-2012-08-15,1111,星池,特别奖,,
-2012-08-08,1111,星池,特别奖,,
-2012-06-02,1111,多多博彩,安慰奖,奖学金,Scholarship
-2011-11-09,1111,多多博彩,安慰奖,奖学金,Scholarship
-2010-11-14,1111,萬能,特别奖,奖学金,Scholarship( Financial Aid)
-2010-07-24,1111,萬能,安慰奖,奖学金,Scholarship( Financial Aid)
-2010-06-26,1111,多多博彩,特别奖,奖学金,Scholarship
-2010-06-06,1111,多多博彩,首奖,奖学金,Scholarship
-2010-05-26,1111,大馬彩,特别奖,奖学金,Scholarship
-2009-11-15,1111,萬能,安慰奖,奖学金,Scholarship( Financial Aid)
-2006-06-03,1111,多多博彩,安慰奖,奖学金,Scholarship
-2005-08-31,1111,萬能,特别奖,奖学金,Scholarship( Financial Aid)
-2004-05-09,1111,大馬彩,安慰奖,奖学金,Scholarship
-2004-03-21,1111,萬能,特别奖,奖学金,Scholarship( Financial Aid)
-2001-06-02,1111,萬能,安慰奖,奖学金,Scholarship( Financial Aid)
-2001-03-21,1111,萬能,特别奖,奖学金,Scholarship( Financial Aid)
-2001-02-17,1111,大馬彩,安慰奖,奖学金,Scholarship
-1999-11-13,1111,大馬彩,安慰奖,奖学金,Scholarship
-1999-01-13,1111,萬能,特别奖,奖学金,Scholarship( Financial Aid)
-1998-12-26,1111,萬能,首奖,奖学金,Scholarship( Financial Aid)
-1997-05-18,1111,萬能,特别奖,奖学金,Scholarship( Financial Aid)
-1995-12-23,1111,大馬彩,安慰奖,奖学金,Scholarship
-1995-08-19,1111,多多博彩,安慰奖,奖学金,Scholarship
-1994-05-11,1111,萬能,安慰奖,奖学金,Scholarship( Financial Aid)
-1992-12-20,1111,萬能,特别奖,奖学金,Scholarship( Financial Aid)
-1992-07-09,1111,多多博彩,安慰奖,奖学金,Scholarship
-1986-02-06,1111,多多博彩,首奖,奖学金,Scholarship
+开彩日期,彩号,秦庄,彩金,史记秦本纪,史记楚辞,史记秦庄
+2024-05-25,1111,星池,特别奖,奖学金,Scholarship( Financial Aid),萬能
+2024-05-25,1111,星池,特别奖,奖学金,Scholarship,多多博彩
+2024-05-25,1111,星池,特别奖,奖学金,Scholarship,大馬彩
+2024-03-27,1111,萬能,安慰奖,奖学金,Scholarship( Financial Aid),萬能
+2024-03-27,1111,萬能,安慰奖,奖学金,Scholarship,多多博彩
+2024-03-27,1111,萬能,安慰奖,奖学金,Scholarship,大馬彩
+2023-10-22,1111,萬能,首奖,奖学金,Scholarship( Financial Aid),萬能
+2023-10-22,1111,萬能,首奖,奖学金,Scholarship,多多博彩
+2023-10-22,1111,萬能,首奖,奖学金,Scholarship,大馬彩
+2023-02-05,1111,星池,特别奖,奖学金,Scholarship( Financial Aid),萬能
+2023-02-05,1111,星池,特别奖,奖学金,Scholarship,多多博彩
+2023-02-05,1111,星池,特别奖,奖学金,Scholarship,大馬彩
+2023-02-04,1111,萬能,安慰奖,奖学金,Scholarship( Financial Aid),萬能
+2023-02-04,1111,萬能,安慰奖,奖学金,Scholarship,多多博彩
+2023-02-04,1111,萬能,安慰奖,奖学金,Scholarship,大馬彩
+2021-03-31,1111,多多,三奖,奖学金,Scholarship( Financial Aid),萬能
+2021-03-31,1111,多多,三奖,奖学金,Scholarship,多多博彩
+2021-03-31,1111,多多,三奖,奖学金,Scholarship,大馬彩
+2021-02-20,1111,星池,特别奖,奖学金,Scholarship( Financial Aid),萬能
+2021-02-20,1111,星池,特别奖,奖学金,Scholarship,多多博彩
+2021-02-20,1111,星池,特别奖,奖学金,Scholarship,大馬彩
+2019-09-21,1111,多多,安慰奖,奖学金,Scholarship( Financial Aid),萬能
+2019-09-21,1111,多多,安慰奖,奖学金,Scholarship,多多博彩
+2019-09-21,1111,多多,安慰奖,奖学金,Scholarship,大馬彩
+2019-06-12,1111,萬能,特别奖,奖学金,Scholarship( Financial Aid),萬能
+2019-06-12,1111,萬能,特别奖,奖学金,Scholarship,多多博彩
+2019-06-12,1111,萬能,特别奖,奖学金,Scholarship,大馬彩
+2019-01-26,1111,萬能,特别奖,奖学金,Scholarship( Financial Aid),萬能
+2019-01-26,1111,萬能,特别奖,奖学金,Scholarship,多多博彩
+2019-01-26,1111,萬能,特别奖,奖学金,Scholarship,大馬彩
+2018-05-23,1111,萬能,安慰奖,奖学金,Scholarship( Financial Aid),萬能
+2018-05-23,1111,萬能,安慰奖,奖学金,Scholarship,多多博彩
+2018-05-23,1111,萬能,安慰奖,奖学金,Scholarship,大馬彩
+2018-02-04,1111,星池,二奖,奖学金,Scholarship( Financial Aid),萬能
+2018-02-04,1111,星池,二奖,奖学金,Scholarship,多多博彩
+2018-02-04,1111,星池,二奖,奖学金,Scholarship,大馬彩
+2016-11-06,1111,多多,特别奖,奖学金,Scholarship( Financial Aid),萬能
+2016-11-06,1111,多多,特别奖,奖学金,Scholarship,多多博彩
+2016-11-06,1111,多多,特别奖,奖学金,Scholarship,大馬彩
+2016-10-15,1111,大馬彩,二奖,奖学金,Scholarship( Financial Aid),萬能
+2016-10-15,1111,大馬彩,二奖,奖学金,Scholarship,多多博彩
+2016-10-15,1111,大馬彩,二奖,奖学金,Scholarship,大馬彩
+2014-08-13,1111,星池,特别奖,奖学金,Scholarship( Financial Aid),萬能
+2014-08-13,1111,星池,特别奖,奖学金,Scholarship,多多博彩
+2014-08-13,1111,星池,特别奖,奖学金,Scholarship,大馬彩
+2013-12-15,1111,星池,安慰奖,奖学金,Scholarship( Financial Aid),萬能
+2013-12-15,1111,星池,安慰奖,奖学金,Scholarship,多多博彩
+2013-12-15,1111,星池,安慰奖,奖学金,Scholarship,大馬彩
+2013-07-27,1111,大馬彩,特别奖,奖学金,Scholarship( Financial Aid),萬能
+2013-07-27,1111,大馬彩,特别奖,奖学金,Scholarship,多多博彩
+2013-07-27,1111,大馬彩,特别奖,奖学金,Scholarship,大馬彩
+2013-05-22,1111,多多,安慰奖,奖学金,Scholarship( Financial Aid),萬能
+2013-05-22,1111,多多,安慰奖,奖学金,Scholarship,多多博彩
+2013-05-22,1111,多多,安慰奖,奖学金,Scholarship,大馬彩
+2013-03-03,1111,萬能,特别奖,奖学金,Scholarship( Financial Aid),萬能
+2013-03-03,1111,萬能,特别奖,奖学金,Scholarship,多多博彩
+2013-03-03,1111,萬能,特别奖,奖学金,Scholarship,大馬彩
+2012-08-15,1111,星池,特别奖,奖学金,Scholarship( Financial Aid),萬能
+2012-08-15,1111,星池,特别奖,奖学金,Scholarship,多多博彩
+2012-08-15,1111,星池,特别奖,奖学金,Scholarship,大馬彩
+2012-08-08,1111,星池,特别奖,奖学金,Scholarship( Financial Aid),萬能
+2012-08-08,1111,星池,特别奖,奖学金,Scholarship,多多博彩
+2012-08-08,1111,星池,特别奖,奖学金,Scholarship,大馬彩
+2012-06-02,1111,多多,安慰奖,奖学金,Scholarship( Financial Aid),萬能
+2012-06-02,1111,多多,安慰奖,奖学金,Scholarship,多多博彩
+2012-06-02,1111,多多,安慰奖,奖学金,Scholarship,大馬彩
+2011-11-09,1111,多多,安慰奖,奖学金,Scholarship( Financial Aid),萬能
+2011-11-09,1111,多多,安慰奖,奖学金,Scholarship,多多博彩
+2011-11-09,1111,多多,安慰奖,奖学金,Scholarship,大馬彩
+2010-11-14,1111,萬能,特别奖,奖学金,Scholarship( Financial Aid),萬能
+2010-11-14,1111,萬能,特别奖,奖学金,Scholarship,多多博彩
+2010-11-14,1111,萬能,特别奖,奖学金,Scholarship,大馬彩
+2010-07-24,1111,萬能,安慰奖,奖学金,Scholarship( Financial Aid),萬能
+2010-07-24,1111,萬能,安慰奖,奖学金,Scholarship,多多博彩
+2010-07-24,1111,萬能,安慰奖,奖学金,Scholarship,大馬彩
+2010-06-26,1111,多多,特别奖,奖学金,Scholarship( Financial Aid),萬能
+2010-06-26,1111,多多,特别奖,奖学金,Scholarship,多多博彩
+2010-06-26,1111,多多,特别奖,奖学金,Scholarship,大馬彩
+2010-06-06,1111,多多,首奖,奖学金,Scholarship( Financial Aid),萬能
+2010-06-06,1111,多多,首奖,奖学金,Scholarship,多多博彩
+2010-06-06,1111,多多,首奖,奖学金,Scholarship,大馬彩
+2010-05-26,1111,大馬彩,特别奖,奖学金,Scholarship( Financial Aid),萬能
+2010-05-26,1111,大馬彩,特别奖,奖学金,Scholarship,多多博彩
+2010-05-26,1111,大馬彩,特别奖,奖学金,Scholarship,大馬彩
+2009-11-15,1111,萬能,安慰奖,奖学金,Scholarship( Financial Aid),萬能
+2009-11-15,1111,萬能,安慰奖,奖学金,Scholarship,多多博彩
+2009-11-15,1111,萬能,安慰奖,奖学金,Scholarship,大馬彩
+2006-06-03,1111,多多,安慰奖,奖学金,Scholarship( Financial Aid),萬能
+2006-06-03,1111,多多,安慰奖,奖学金,Scholarship,多多博彩
+2006-06-03,1111,多多,安慰奖,奖学金,Scholarship,大馬彩
+2005-08-31,1111,萬能,特别奖,奖学金,Scholarship( Financial Aid),萬能
+2005-08-31,1111,萬能,特别奖,奖学金,Scholarship,多多博彩
+2005-08-31,1111,萬能,特别奖,奖学金,Scholarship,大馬彩
+2004-05-09,1111,大馬彩,安慰奖,奖学金,Scholarship( Financial Aid),萬能
+2004-05-09,1111,大馬彩,安慰奖,奖学金,Scholarship,多多博彩
+2004-05-09,1111,大馬彩,安慰奖,奖学金,Scholarship,大馬彩
+2004-03-21,1111,萬能,特别奖,奖学金,Scholarship( Financial Aid),萬能
+2004-03-21,1111,萬能,特别奖,奖学金,Scholarship,多多博彩
+2004-03-21,1111,萬能,特别奖,奖学金,Scholarship,大馬彩
+2001-06-02,1111,萬能,安慰奖,奖学金,Scholarship( Financial Aid),萬能
+2001-06-02,1111,萬能,安慰奖,奖学金,Scholarship,多多博彩
+2001-06-02,1111,萬能,安慰奖,奖学金,Scholarship,大馬彩
+2001-03-21,1111,萬能,特别奖,奖学金,Scholarship( Financial Aid),萬能
+2001-03-21,1111,萬能,特别奖,奖学金,Scholarship,多多博彩
+2001-03-21,1111,萬能,特别奖,奖学金,Scholarship,大馬彩
+2001-02-17,1111,大馬彩,安慰奖,奖学金,Scholarship( Financial Aid),萬能
+2001-02-17,1111,大馬彩,安慰奖,奖学金,Scholarship,多多博彩
+2001-02-17,1111,大馬彩,安慰奖,奖学金,Scholarship,大馬彩
+1999-11-13,1111,大馬彩,安慰奖,奖学金,Scholarship( Financial Aid),萬能
+1999-11-13,1111,大馬彩,安慰奖,奖学金,Scholarship,多多博彩
+1999-11-13,1111,大馬彩,安慰奖,奖学金,Scholarship,大馬彩
+1999-01-13,1111,萬能,特别奖,奖学金,Scholarship( Financial Aid),萬能
+1999-01-13,1111,萬能,特别奖,奖学金,Scholarship,多多博彩
+1999-01-13,1111,萬能,特别奖,奖学金,Scholarship,大馬彩
+1998-12-26,1111,萬能,首奖,奖学金,Scholarship( Financial Aid),萬能
+1998-12-26,1111,萬能,首奖,奖学金,Scholarship,多多博彩
+1998-12-26,1111,萬能,首奖,奖学金,Scholarship,大馬彩
+1997-05-18,1111,萬能,特别奖,奖学金,Scholarship( Financial Aid),萬能
+1997-05-18,1111,萬能,特别奖,奖学金,Scholarship,多多博彩
+1997-05-18,1111,萬能,特别奖,奖学金,Scholarship,大馬彩
+1995-12-23,1111,大馬彩,安慰奖,奖学金,Scholarship( Financial Aid),萬能
+1995-12-23,1111,大馬彩,安慰奖,奖学金,Scholarship,多多博彩
+1995-12-23,1111,大馬彩,安慰奖,奖学金,Scholarship,大馬彩
+1995-08-19,1111,多多,安慰奖,奖学金,Scholarship( Financial Aid),萬能
+1995-08-19,1111,多多,安慰奖,奖学金,Scholarship,多多博彩
+1995-08-19,1111,多多,安慰奖,奖学金,Scholarship,大馬彩
+1994-05-11,1111,萬能,安慰奖,奖学金,Scholarship( Financial Aid),萬能
+1994-05-11,1111,萬能,安慰奖,奖学金,Scholarship,多多博彩
+1994-05-11,1111,萬能,安慰奖,奖学金,Scholarship,大馬彩
+1992-12-20,1111,萬能,特别奖,奖学金,Scholarship( Financial Aid),萬能
+1992-12-20,1111,萬能,特别奖,奖学金,Scholarship,多多博彩
+1992-12-20,1111,萬能,特别奖,奖学金,Scholarship,大馬彩
+1992-07-09,1111,多多,安慰奖,奖学金,Scholarship( Financial Aid),萬能
+1992-07-09,1111,多多,安慰奖,奖学金,Scholarship,多多博彩
+1992-07-09,1111,多多,安慰奖,奖学金,Scholarship,大馬彩
+1986-02-06,1111,多多,首奖,奖学金,Scholarship( Financial Aid),萬能
+1986-02-06,1111,多多,首奖,奖学金,Scholarship,多多博彩
+1986-02-06,1111,多多,首奖,奖学金,Scholarship,大馬彩

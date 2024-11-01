@@ -1,45 +1,133 @@
-开彩日期,彩号,秦庄,彩金,秦典,英典
-2024-06-12,0948,星池,特别奖,,
-2017-11-19,0948,多多博彩,特别奖,怪火柴,Strange Match
-2017-07-23,0948,萬能,安慰奖,折断火柴,Broken Match Stick
-2016-04-09,0948,星池,安慰奖,,
-2016-03-02,0948,萬能,安慰奖,折断火柴,Broken Match Stick
-2015-02-18,0948,星池,安慰奖,,
-2015-01-24,0948,大馬彩,二奖,怪火柴,Weird Match Stick
-2011-10-25,0948,大馬彩,特别奖,怪火柴,Weird Match Stick
-2011-08-03,0948,星池,安慰奖,,
-2011-05-18,0948,多多博彩,二奖,怪火柴,Strange Match
-2011-05-15,0948,多多博彩,首奖,怪火柴,Strange Match
-2009-03-01,0948,多多博彩,特别奖,怪火柴,Strange Match
-2009-01-21,0948,星池,特别奖,,
-2008-06-08,0948,星池,安慰奖,,
-2007-12-05,0948,大馬彩,特别奖,怪火柴,Weird Match Stick
-2007-01-24,0948,萬能,安慰奖,折断火柴,Broken Match Stick
-2006-10-07,0948,多多博彩,二奖,怪火柴,Strange Match
-2006-08-06,0948,大馬彩,特别奖,怪火柴,Weird Match Stick
-2006-04-19,0948,多多博彩,特别奖,怪火柴,Strange Match
-2006-01-08,0948,萬能,二奖,折断火柴,Broken Match Stick
-2005-02-20,0948,大馬彩,特别奖,怪火柴,Weird Match Stick
-2004-01-25,0948,萬能,安慰奖,折断火柴,Broken Match Stick
-2003-11-02,0948,萬能,安慰奖,折断火柴,Broken Match Stick
-2003-10-19,0948,多多博彩,特别奖,怪火柴,Strange Match
-2003-02-05,0948,大馬彩,安慰奖,怪火柴,Weird Match Stick
-2002-12-15,0948,大馬彩,首奖,怪火柴,Weird Match Stick
-2002-07-28,0948,萬能,安慰奖,折断火柴,Broken Match Stick
-2002-07-06,0948,多多博彩,特别奖,怪火柴,Strange Match
-2001-11-10,0948,多多博彩,特别奖,怪火柴,Strange Match
-2001-04-03,0948,大馬彩,特别奖,怪火柴,Weird Match Stick
-2000-11-18,0948,萬能,特别奖,折断火柴,Broken Match Stick
-2000-11-01,0948,萬能,安慰奖,折断火柴,Broken Match Stick
-1999-12-29,0948,大馬彩,安慰奖,怪火柴,Weird Match Stick
-1997-09-03,0948,大馬彩,特别奖,怪火柴,Weird Match Stick
-1997-06-15,0948,多多博彩,特别奖,怪火柴,Strange Match
-1996-09-11,0948,大馬彩,安慰奖,怪火柴,Weird Match Stick
-1996-03-27,0948,多多博彩,特别奖,怪火柴,Strange Match
-1996-01-17,0948,大馬彩,特别奖,怪火柴,Weird Match Stick
-1995-06-04,0948,多多博彩,特别奖,怪火柴,Strange Match
-1992-01-26,0948,大馬彩,二奖,怪火柴,Weird Match Stick
-1992-01-08,0948,大馬彩,特别奖,怪火柴,Weird Match Stick
-1991-06-12,0948,多多博彩,特别奖,怪火柴,Strange Match
-1990-01-15,0948,多多博彩,三奖,怪火柴,Strange Match
-1987-01-31,0948,多多博彩,安慰奖,怪火柴,Strange Match
+开彩日期,彩号,秦庄,彩金,史记秦本纪,史记楚辞,史记秦庄
+2024-06-12,0948,星池,特别奖,折断火柴,Broken Match Stick,萬能
+2024-06-12,0948,星池,特别奖,怪火柴,Strange Match,多多博彩
+2024-06-12,0948,星池,特别奖,怪火柴,Weird Match Stick,大馬彩
+2017-11-19,0948,多多,特别奖,折断火柴,Broken Match Stick,萬能
+2017-11-19,0948,多多,特别奖,怪火柴,Strange Match,多多博彩
+2017-11-19,0948,多多,特别奖,怪火柴,Weird Match Stick,大馬彩
+2017-07-23,0948,萬能,安慰奖,折断火柴,Broken Match Stick,萬能
+2017-07-23,0948,萬能,安慰奖,怪火柴,Strange Match,多多博彩
+2017-07-23,0948,萬能,安慰奖,怪火柴,Weird Match Stick,大馬彩
+2016-04-09,0948,星池,安慰奖,折断火柴,Broken Match Stick,萬能
+2016-04-09,0948,星池,安慰奖,怪火柴,Strange Match,多多博彩
+2016-04-09,0948,星池,安慰奖,怪火柴,Weird Match Stick,大馬彩
+2016-03-02,0948,萬能,安慰奖,折断火柴,Broken Match Stick,萬能
+2016-03-02,0948,萬能,安慰奖,怪火柴,Strange Match,多多博彩
+2016-03-02,0948,萬能,安慰奖,怪火柴,Weird Match Stick,大馬彩
+2015-02-18,0948,星池,安慰奖,折断火柴,Broken Match Stick,萬能
+2015-02-18,0948,星池,安慰奖,怪火柴,Strange Match,多多博彩
+2015-02-18,0948,星池,安慰奖,怪火柴,Weird Match Stick,大馬彩
+2015-01-24,0948,大馬彩,二奖,折断火柴,Broken Match Stick,萬能
+2015-01-24,0948,大馬彩,二奖,怪火柴,Strange Match,多多博彩
+2015-01-24,0948,大馬彩,二奖,怪火柴,Weird Match Stick,大馬彩
+2011-10-25,0948,大馬彩,特别奖,折断火柴,Broken Match Stick,萬能
+2011-10-25,0948,大馬彩,特别奖,怪火柴,Strange Match,多多博彩
+2011-10-25,0948,大馬彩,特别奖,怪火柴,Weird Match Stick,大馬彩
+2011-08-03,0948,星池,安慰奖,折断火柴,Broken Match Stick,萬能
+2011-08-03,0948,星池,安慰奖,怪火柴,Strange Match,多多博彩
+2011-08-03,0948,星池,安慰奖,怪火柴,Weird Match Stick,大馬彩
+2011-05-18,0948,多多,二奖,折断火柴,Broken Match Stick,萬能
+2011-05-18,0948,多多,二奖,怪火柴,Strange Match,多多博彩
+2011-05-18,0948,多多,二奖,怪火柴,Weird Match Stick,大馬彩
+2011-05-15,0948,多多,首奖,折断火柴,Broken Match Stick,萬能
+2011-05-15,0948,多多,首奖,怪火柴,Strange Match,多多博彩
+2011-05-15,0948,多多,首奖,怪火柴,Weird Match Stick,大馬彩
+2009-03-01,0948,多多,特别奖,折断火柴,Broken Match Stick,萬能
+2009-03-01,0948,多多,特别奖,怪火柴,Strange Match,多多博彩
+2009-03-01,0948,多多,特别奖,怪火柴,Weird Match Stick,大馬彩
+2009-01-21,0948,星池,特别奖,折断火柴,Broken Match Stick,萬能
+2009-01-21,0948,星池,特别奖,怪火柴,Strange Match,多多博彩
+2009-01-21,0948,星池,特别奖,怪火柴,Weird Match Stick,大馬彩
+2008-06-08,0948,星池,安慰奖,折断火柴,Broken Match Stick,萬能
+2008-06-08,0948,星池,安慰奖,怪火柴,Strange Match,多多博彩
+2008-06-08,0948,星池,安慰奖,怪火柴,Weird Match Stick,大馬彩
+2007-12-05,0948,大馬彩,特别奖,折断火柴,Broken Match Stick,萬能
+2007-12-05,0948,大馬彩,特别奖,怪火柴,Strange Match,多多博彩
+2007-12-05,0948,大馬彩,特别奖,怪火柴,Weird Match Stick,大馬彩
+2007-01-24,0948,萬能,安慰奖,折断火柴,Broken Match Stick,萬能
+2007-01-24,0948,萬能,安慰奖,怪火柴,Strange Match,多多博彩
+2007-01-24,0948,萬能,安慰奖,怪火柴,Weird Match Stick,大馬彩
+2006-10-07,0948,多多,二奖,折断火柴,Broken Match Stick,萬能
+2006-10-07,0948,多多,二奖,怪火柴,Strange Match,多多博彩
+2006-10-07,0948,多多,二奖,怪火柴,Weird Match Stick,大馬彩
+2006-08-06,0948,大馬彩,特别奖,折断火柴,Broken Match Stick,萬能
+2006-08-06,0948,大馬彩,特别奖,怪火柴,Strange Match,多多博彩
+2006-08-06,0948,大馬彩,特别奖,怪火柴,Weird Match Stick,大馬彩
+2006-04-19,0948,多多,特别奖,折断火柴,Broken Match Stick,萬能
+2006-04-19,0948,多多,特别奖,怪火柴,Strange Match,多多博彩
+2006-04-19,0948,多多,特别奖,怪火柴,Weird Match Stick,大馬彩
+2006-01-08,0948,萬能,二奖,折断火柴,Broken Match Stick,萬能
+2006-01-08,0948,萬能,二奖,怪火柴,Strange Match,多多博彩
+2006-01-08,0948,萬能,二奖,怪火柴,Weird Match Stick,大馬彩
+2005-02-20,0948,大馬彩,特别奖,折断火柴,Broken Match Stick,萬能
+2005-02-20,0948,大馬彩,特别奖,怪火柴,Strange Match,多多博彩
+2005-02-20,0948,大馬彩,特别奖,怪火柴,Weird Match Stick,大馬彩
+2004-01-25,0948,萬能,安慰奖,折断火柴,Broken Match Stick,萬能
+2004-01-25,0948,萬能,安慰奖,怪火柴,Strange Match,多多博彩
+2004-01-25,0948,萬能,安慰奖,怪火柴,Weird Match Stick,大馬彩
+2003-11-02,0948,萬能,安慰奖,折断火柴,Broken Match Stick,萬能
+2003-11-02,0948,萬能,安慰奖,怪火柴,Strange Match,多多博彩
+2003-11-02,0948,萬能,安慰奖,怪火柴,Weird Match Stick,大馬彩
+2003-10-19,0948,多多,特别奖,折断火柴,Broken Match Stick,萬能
+2003-10-19,0948,多多,特别奖,怪火柴,Strange Match,多多博彩
+2003-10-19,0948,多多,特别奖,怪火柴,Weird Match Stick,大馬彩
+2003-02-05,0948,大馬彩,安慰奖,折断火柴,Broken Match Stick,萬能
+2003-02-05,0948,大馬彩,安慰奖,怪火柴,Strange Match,多多博彩
+2003-02-05,0948,大馬彩,安慰奖,怪火柴,Weird Match Stick,大馬彩
+2002-12-15,0948,大馬彩,首奖,折断火柴,Broken Match Stick,萬能
+2002-12-15,0948,大馬彩,首奖,怪火柴,Strange Match,多多博彩
+2002-12-15,0948,大馬彩,首奖,怪火柴,Weird Match Stick,大馬彩
+2002-07-28,0948,萬能,安慰奖,折断火柴,Broken Match Stick,萬能
+2002-07-28,0948,萬能,安慰奖,怪火柴,Strange Match,多多博彩
+2002-07-28,0948,萬能,安慰奖,怪火柴,Weird Match Stick,大馬彩
+2002-07-06,0948,多多,特别奖,折断火柴,Broken Match Stick,萬能
+2002-07-06,0948,多多,特别奖,怪火柴,Strange Match,多多博彩
+2002-07-06,0948,多多,特别奖,怪火柴,Weird Match Stick,大馬彩
+2001-11-10,0948,多多,特别奖,折断火柴,Broken Match Stick,萬能
+2001-11-10,0948,多多,特别奖,怪火柴,Strange Match,多多博彩
+2001-11-10,0948,多多,特别奖,怪火柴,Weird Match Stick,大馬彩
+2001-04-03,0948,大馬彩,特别奖,折断火柴,Broken Match Stick,萬能
+2001-04-03,0948,大馬彩,特别奖,怪火柴,Strange Match,多多博彩
+2001-04-03,0948,大馬彩,特别奖,怪火柴,Weird Match Stick,大馬彩
+2000-11-18,0948,萬能,特别奖,折断火柴,Broken Match Stick,萬能
+2000-11-18,0948,萬能,特别奖,怪火柴,Strange Match,多多博彩
+2000-11-18,0948,萬能,特别奖,怪火柴,Weird Match Stick,大馬彩
+2000-11-01,0948,萬能,安慰奖,折断火柴,Broken Match Stick,萬能
+2000-11-01,0948,萬能,安慰奖,怪火柴,Strange Match,多多博彩
+2000-11-01,0948,萬能,安慰奖,怪火柴,Weird Match Stick,大馬彩
+1999-12-29,0948,大馬彩,安慰奖,折断火柴,Broken Match Stick,萬能
+1999-12-29,0948,大馬彩,安慰奖,怪火柴,Strange Match,多多博彩
+1999-12-29,0948,大馬彩,安慰奖,怪火柴,Weird Match Stick,大馬彩
+1997-09-03,0948,大馬彩,特别奖,折断火柴,Broken Match Stick,萬能
+1997-09-03,0948,大馬彩,特别奖,怪火柴,Strange Match,多多博彩
+1997-09-03,0948,大馬彩,特别奖,怪火柴,Weird Match Stick,大馬彩
+1997-06-15,0948,多多,特别奖,折断火柴,Broken Match Stick,萬能
+1997-06-15,0948,多多,特别奖,怪火柴,Strange Match,多多博彩
+1997-06-15,0948,多多,特别奖,怪火柴,Weird Match Stick,大馬彩
+1996-09-11,0948,大馬彩,安慰奖,折断火柴,Broken Match Stick,萬能
+1996-09-11,0948,大馬彩,安慰奖,怪火柴,Strange Match,多多博彩
+1996-09-11,0948,大馬彩,安慰奖,怪火柴,Weird Match Stick,大馬彩
+1996-03-27,0948,多多,特别奖,折断火柴,Broken Match Stick,萬能
+1996-03-27,0948,多多,特别奖,怪火柴,Strange Match,多多博彩
+1996-03-27,0948,多多,特别奖,怪火柴,Weird Match Stick,大馬彩
+1996-01-17,0948,大馬彩,特别奖,折断火柴,Broken Match Stick,萬能
+1996-01-17,0948,大馬彩,特别奖,怪火柴,Strange Match,多多博彩
+1996-01-17,0948,大馬彩,特别奖,怪火柴,Weird Match Stick,大馬彩
+1995-06-04,0948,多多,特别奖,折断火柴,Broken Match Stick,萬能
+1995-06-04,0948,多多,特别奖,怪火柴,Strange Match,多多博彩
+1995-06-04,0948,多多,特别奖,怪火柴,Weird Match Stick,大馬彩
+1992-01-26,0948,大馬彩,二奖,折断火柴,Broken Match Stick,萬能
+1992-01-26,0948,大馬彩,二奖,怪火柴,Strange Match,多多博彩
+1992-01-26,0948,大馬彩,二奖,怪火柴,Weird Match Stick,大馬彩
+1992-01-08,0948,大馬彩,特别奖,折断火柴,Broken Match Stick,萬能
+1992-01-08,0948,大馬彩,特别奖,怪火柴,Strange Match,多多博彩
+1992-01-08,0948,大馬彩,特别奖,怪火柴,Weird Match Stick,大馬彩
+1991-06-12,0948,多多,特别奖,折断火柴,Broken Match Stick,萬能
+1991-06-12,0948,多多,特别奖,怪火柴,Strange Match,多多博彩
+1991-06-12,0948,多多,特别奖,怪火柴,Weird Match Stick,大馬彩
+1990-01-15,0948,多多,三奖,折断火柴,Broken Match Stick,萬能
+1990-01-15,0948,多多,三奖,怪火柴,Strange Match,多多博彩
+1990-01-15,0948,多多,三奖,怪火柴,Weird Match Stick,大馬彩
+1987-01-31,0948,多多,安慰奖,折断火柴,Broken Match Stick,萬能
+1987-01-31,0948,多多,安慰奖,怪火柴,Strange Match,多多博彩
+1987-01-31,0948,多多,安慰奖,怪火柴,Weird Match Stick,大馬彩

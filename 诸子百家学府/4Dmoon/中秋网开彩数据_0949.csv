@@ -1,45 +1,133 @@
-开彩日期,彩号,秦庄,彩金,秦典,英典
-2024-05-26,0949,多多博彩,安慰奖,怪鸦,Strange Crow
-2023-04-15,0949,大馬彩,安慰奖,怪鸦,Weird Crow
-2022-02-26,0949,多多博彩,二奖,怪鸦,Strange Crow
-2021-12-15,0949,多多博彩,安慰奖,怪鸦,Strange Crow
-2021-07-21,0949,星池,特别奖,,
-2021-01-17,0949,多多博彩,特别奖,怪鸦,Strange Crow
-2021-01-03,0949,大馬彩,特别奖,怪鸦,Weird Crow
-2021-01-02,0949,大馬彩,特别奖,怪鸦,Weird Crow
-2019-11-02,0949,大馬彩,安慰奖,怪鸦,Weird Crow
-2019-08-31,0949,多多博彩,特别奖,怪鸦,Strange Crow
-2019-02-09,0949,多多博彩,安慰奖,怪鸦,Strange Crow
-2019-01-27,0949,星池,首奖,,
-2018-12-29,0949,萬能,特别奖,Hugo Boss名牌产品,Hugo Boss Branded Goods
-2018-07-28,0949,大馬彩,安慰奖,怪鸦,Weird Crow
-2017-03-18,0949,星池,特别奖,,
-2017-01-24,0949,萬能,特别奖,Hugo Boss名牌产品,Hugo Boss Branded Goods
-2014-06-14,0949,多多博彩,安慰奖,怪鸦,Strange Crow
-2014-02-05,0949,大馬彩,特别奖,怪鸦,Weird Crow
-2013-09-21,0949,多多博彩,安慰奖,怪鸦,Strange Crow
-2012-12-02,0949,多多博彩,二奖,怪鸦,Strange Crow
-2012-09-29,0949,多多博彩,安慰奖,怪鸦,Strange Crow
-2012-04-15,0949,多多博彩,安慰奖,怪鸦,Strange Crow
-2012-04-04,0949,萬能,特别奖,Hugo Boss名牌产品,Hugo Boss Branded Goods
-2012-03-07,0949,大馬彩,特别奖,怪鸦,Weird Crow
-2011-07-02,0949,星池,安慰奖,,
-2011-05-31,0949,大馬彩,特别奖,怪鸦,Weird Crow
-2011-02-09,0949,多多博彩,特别奖,怪鸦,Strange Crow
-2008-12-24,0949,星池,安慰奖,,
-2008-11-01,0949,大馬彩,特别奖,怪鸦,Weird Crow
-2008-04-30,0949,星池,安慰奖,,
-2007-02-17,0949,萬能,安慰奖,Hugo Boss名牌产品,Hugo Boss Branded Goods
-2006-12-17,0949,多多博彩,安慰奖,怪鸦,Strange Crow
-2006-09-03,0949,大馬彩,特别奖,怪鸦,Weird Crow
-2004-03-31,0949,多多博彩,特别奖,怪鸦,Strange Crow
-2004-02-04,0949,大馬彩,特别奖,怪鸦,Weird Crow
-2003-08-31,0949,大馬彩,特别奖,怪鸦,Weird Crow
-2003-03-01,0949,萬能,二奖,Hugo Boss名牌产品,Hugo Boss Branded Goods
-2003-01-26,0949,多多博彩,特别奖,怪鸦,Strange Crow
-2002-12-29,0949,大馬彩,特别奖,怪鸦,Weird Crow
-2001-05-26,0949,多多博彩,首奖,怪鸦,Strange Crow
-1998-02-08,0949,萬能,安慰奖,Hugo Boss名牌产品,Hugo Boss Branded Goods
-1995-02-18,0949,多多博彩,特别奖,怪鸦,Strange Crow
-1995-02-15,0949,萬能,特别奖,Hugo Boss名牌产品,Hugo Boss Branded Goods
-1989-09-14,0949,多多博彩,特别奖,怪鸦,Strange Crow
+开彩日期,彩号,秦庄,彩金,史记秦本纪,史记楚辞,史记秦庄
+2024-05-26,0949,多多,安慰奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2024-05-26,0949,多多,安慰奖,怪鸦,Strange Crow,多多博彩
+2024-05-26,0949,多多,安慰奖,怪鸦,Weird Crow,大馬彩
+2023-04-15,0949,大馬彩,安慰奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2023-04-15,0949,大馬彩,安慰奖,怪鸦,Strange Crow,多多博彩
+2023-04-15,0949,大馬彩,安慰奖,怪鸦,Weird Crow,大馬彩
+2022-02-26,0949,多多,二奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2022-02-26,0949,多多,二奖,怪鸦,Strange Crow,多多博彩
+2022-02-26,0949,多多,二奖,怪鸦,Weird Crow,大馬彩
+2021-12-15,0949,多多,安慰奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2021-12-15,0949,多多,安慰奖,怪鸦,Strange Crow,多多博彩
+2021-12-15,0949,多多,安慰奖,怪鸦,Weird Crow,大馬彩
+2021-07-21,0949,星池,特别奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2021-07-21,0949,星池,特别奖,怪鸦,Strange Crow,多多博彩
+2021-07-21,0949,星池,特别奖,怪鸦,Weird Crow,大馬彩
+2021-01-17,0949,多多,特别奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2021-01-17,0949,多多,特别奖,怪鸦,Strange Crow,多多博彩
+2021-01-17,0949,多多,特别奖,怪鸦,Weird Crow,大馬彩
+2021-01-03,0949,大馬彩,特别奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2021-01-03,0949,大馬彩,特别奖,怪鸦,Strange Crow,多多博彩
+2021-01-03,0949,大馬彩,特别奖,怪鸦,Weird Crow,大馬彩
+2021-01-02,0949,大馬彩,特别奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2021-01-02,0949,大馬彩,特别奖,怪鸦,Strange Crow,多多博彩
+2021-01-02,0949,大馬彩,特别奖,怪鸦,Weird Crow,大馬彩
+2019-11-02,0949,大馬彩,安慰奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2019-11-02,0949,大馬彩,安慰奖,怪鸦,Strange Crow,多多博彩
+2019-11-02,0949,大馬彩,安慰奖,怪鸦,Weird Crow,大馬彩
+2019-08-31,0949,多多,特别奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2019-08-31,0949,多多,特别奖,怪鸦,Strange Crow,多多博彩
+2019-08-31,0949,多多,特别奖,怪鸦,Weird Crow,大馬彩
+2019-02-09,0949,多多,安慰奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2019-02-09,0949,多多,安慰奖,怪鸦,Strange Crow,多多博彩
+2019-02-09,0949,多多,安慰奖,怪鸦,Weird Crow,大馬彩
+2019-01-27,0949,星池,首奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2019-01-27,0949,星池,首奖,怪鸦,Strange Crow,多多博彩
+2019-01-27,0949,星池,首奖,怪鸦,Weird Crow,大馬彩
+2018-12-29,0949,萬能,特别奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2018-12-29,0949,萬能,特别奖,怪鸦,Strange Crow,多多博彩
+2018-12-29,0949,萬能,特别奖,怪鸦,Weird Crow,大馬彩
+2018-07-28,0949,大馬彩,安慰奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2018-07-28,0949,大馬彩,安慰奖,怪鸦,Strange Crow,多多博彩
+2018-07-28,0949,大馬彩,安慰奖,怪鸦,Weird Crow,大馬彩
+2017-03-18,0949,星池,特别奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2017-03-18,0949,星池,特别奖,怪鸦,Strange Crow,多多博彩
+2017-03-18,0949,星池,特别奖,怪鸦,Weird Crow,大馬彩
+2017-01-24,0949,萬能,特别奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2017-01-24,0949,萬能,特别奖,怪鸦,Strange Crow,多多博彩
+2017-01-24,0949,萬能,特别奖,怪鸦,Weird Crow,大馬彩
+2014-06-14,0949,多多,安慰奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2014-06-14,0949,多多,安慰奖,怪鸦,Strange Crow,多多博彩
+2014-06-14,0949,多多,安慰奖,怪鸦,Weird Crow,大馬彩
+2014-02-05,0949,大馬彩,特别奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2014-02-05,0949,大馬彩,特别奖,怪鸦,Strange Crow,多多博彩
+2014-02-05,0949,大馬彩,特别奖,怪鸦,Weird Crow,大馬彩
+2013-09-21,0949,多多,安慰奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2013-09-21,0949,多多,安慰奖,怪鸦,Strange Crow,多多博彩
+2013-09-21,0949,多多,安慰奖,怪鸦,Weird Crow,大馬彩
+2012-12-02,0949,多多,二奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2012-12-02,0949,多多,二奖,怪鸦,Strange Crow,多多博彩
+2012-12-02,0949,多多,二奖,怪鸦,Weird Crow,大馬彩
+2012-09-29,0949,多多,安慰奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2012-09-29,0949,多多,安慰奖,怪鸦,Strange Crow,多多博彩
+2012-09-29,0949,多多,安慰奖,怪鸦,Weird Crow,大馬彩
+2012-04-15,0949,多多,安慰奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2012-04-15,0949,多多,安慰奖,怪鸦,Strange Crow,多多博彩
+2012-04-15,0949,多多,安慰奖,怪鸦,Weird Crow,大馬彩
+2012-04-04,0949,萬能,特别奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2012-04-04,0949,萬能,特别奖,怪鸦,Strange Crow,多多博彩
+2012-04-04,0949,萬能,特别奖,怪鸦,Weird Crow,大馬彩
+2012-03-07,0949,大馬彩,特别奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2012-03-07,0949,大馬彩,特别奖,怪鸦,Strange Crow,多多博彩
+2012-03-07,0949,大馬彩,特别奖,怪鸦,Weird Crow,大馬彩
+2011-07-02,0949,星池,安慰奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2011-07-02,0949,星池,安慰奖,怪鸦,Strange Crow,多多博彩
+2011-07-02,0949,星池,安慰奖,怪鸦,Weird Crow,大馬彩
+2011-05-31,0949,大馬彩,特别奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2011-05-31,0949,大馬彩,特别奖,怪鸦,Strange Crow,多多博彩
+2011-05-31,0949,大馬彩,特别奖,怪鸦,Weird Crow,大馬彩
+2011-02-09,0949,多多,特别奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2011-02-09,0949,多多,特别奖,怪鸦,Strange Crow,多多博彩
+2011-02-09,0949,多多,特别奖,怪鸦,Weird Crow,大馬彩
+2008-12-24,0949,星池,安慰奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2008-12-24,0949,星池,安慰奖,怪鸦,Strange Crow,多多博彩
+2008-12-24,0949,星池,安慰奖,怪鸦,Weird Crow,大馬彩
+2008-11-01,0949,大馬彩,特别奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2008-11-01,0949,大馬彩,特别奖,怪鸦,Strange Crow,多多博彩
+2008-11-01,0949,大馬彩,特别奖,怪鸦,Weird Crow,大馬彩
+2008-04-30,0949,星池,安慰奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2008-04-30,0949,星池,安慰奖,怪鸦,Strange Crow,多多博彩
+2008-04-30,0949,星池,安慰奖,怪鸦,Weird Crow,大馬彩
+2007-02-17,0949,萬能,安慰奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2007-02-17,0949,萬能,安慰奖,怪鸦,Strange Crow,多多博彩
+2007-02-17,0949,萬能,安慰奖,怪鸦,Weird Crow,大馬彩
+2006-12-17,0949,多多,安慰奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2006-12-17,0949,多多,安慰奖,怪鸦,Strange Crow,多多博彩
+2006-12-17,0949,多多,安慰奖,怪鸦,Weird Crow,大馬彩
+2006-09-03,0949,大馬彩,特别奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2006-09-03,0949,大馬彩,特别奖,怪鸦,Strange Crow,多多博彩
+2006-09-03,0949,大馬彩,特别奖,怪鸦,Weird Crow,大馬彩
+2004-03-31,0949,多多,特别奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2004-03-31,0949,多多,特别奖,怪鸦,Strange Crow,多多博彩
+2004-03-31,0949,多多,特别奖,怪鸦,Weird Crow,大馬彩
+2004-02-04,0949,大馬彩,特别奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2004-02-04,0949,大馬彩,特别奖,怪鸦,Strange Crow,多多博彩
+2004-02-04,0949,大馬彩,特别奖,怪鸦,Weird Crow,大馬彩
+2003-08-31,0949,大馬彩,特别奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2003-08-31,0949,大馬彩,特别奖,怪鸦,Strange Crow,多多博彩
+2003-08-31,0949,大馬彩,特别奖,怪鸦,Weird Crow,大馬彩
+2003-03-01,0949,萬能,二奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2003-03-01,0949,萬能,二奖,怪鸦,Strange Crow,多多博彩
+2003-03-01,0949,萬能,二奖,怪鸦,Weird Crow,大馬彩
+2003-01-26,0949,多多,特别奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2003-01-26,0949,多多,特别奖,怪鸦,Strange Crow,多多博彩
+2003-01-26,0949,多多,特别奖,怪鸦,Weird Crow,大馬彩
+2002-12-29,0949,大馬彩,特别奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2002-12-29,0949,大馬彩,特别奖,怪鸦,Strange Crow,多多博彩
+2002-12-29,0949,大馬彩,特别奖,怪鸦,Weird Crow,大馬彩
+2001-05-26,0949,多多,首奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+2001-05-26,0949,多多,首奖,怪鸦,Strange Crow,多多博彩
+2001-05-26,0949,多多,首奖,怪鸦,Weird Crow,大馬彩
+1998-02-08,0949,萬能,安慰奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+1998-02-08,0949,萬能,安慰奖,怪鸦,Strange Crow,多多博彩
+1998-02-08,0949,萬能,安慰奖,怪鸦,Weird Crow,大馬彩
+1995-02-18,0949,多多,特别奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+1995-02-18,0949,多多,特别奖,怪鸦,Strange Crow,多多博彩
+1995-02-18,0949,多多,特别奖,怪鸦,Weird Crow,大馬彩
+1995-02-15,0949,萬能,特别奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+1995-02-15,0949,萬能,特别奖,怪鸦,Strange Crow,多多博彩
+1995-02-15,0949,萬能,特别奖,怪鸦,Weird Crow,大馬彩
+1989-09-14,0949,多多,特别奖,Hugo Boss名牌产品,Hugo Boss Branded Goods,萬能
+1989-09-14,0949,多多,特别奖,怪鸦,Strange Crow,多多博彩
+1989-09-14,0949,多多,特别奖,怪鸦,Weird Crow,大馬彩

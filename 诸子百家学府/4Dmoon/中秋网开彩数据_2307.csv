@@ -1,41 +1,121 @@
-开彩日期,彩号,秦庄,彩金,秦典,英典
-2023-12-26,2307,大馬彩,三奖,人造岛,Artificial Island
-2023-11-25,2307,萬能,特别奖,蝙蝠飞进屋里,Bat Flew Into House
-2022-06-04,2307,萬能,首奖,蝙蝠飞进屋里,Bat Flew Into House
-2022-05-29,2307,多多博彩,特别奖,卖包容,Steamed Buns Seller- Rong
-2022-02-27,2307,萬能,安慰奖,蝙蝠飞进屋里,Bat Flew Into House
-2021-05-08,2307,大馬彩,安慰奖,人造岛,Artificial Island
-2021-03-27,2307,星池,特别奖,,
-2019-04-28,2307,大馬彩,安慰奖,人造岛,Artificial Island
-2019-03-10,2307,萬能,特别奖,蝙蝠飞进屋里,Bat Flew Into House
-2017-03-29,2307,多多博彩,安慰奖,卖包容,Steamed Buns Seller- Rong
-2017-03-12,2307,大馬彩,特别奖,人造岛,Artificial Island
-2016-05-28,2307,星池,特别奖,,
-2012-07-11,2307,多多博彩,安慰奖,卖包容,Steamed Buns Seller- Rong
-2011-02-23,2307,萬能,首奖,蝙蝠飞进屋里,Bat Flew Into House
-2010-10-10,2307,大馬彩,安慰奖,人造岛,Artificial Island
-2010-03-10,2307,星池,安慰奖,,
-2009-09-20,2307,星池,安慰奖,,
-2008-03-30,2307,大馬彩,特别奖,人造岛,Artificial Island
-2007-05-30,2307,多多博彩,二奖,卖包容,Steamed Buns Seller- Rong
-2006-06-28,2307,大馬彩,特别奖,人造岛,Artificial Island
-2006-03-11,2307,多多博彩,特别奖,卖包容,Steamed Buns Seller- Rong
-2006-02-19,2307,大馬彩,首奖,人造岛,Artificial Island
-2004-06-05,2307,多多博彩,特别奖,卖包容,Steamed Buns Seller- Rong
-2003-05-10,2307,多多博彩,特别奖,卖包容,Steamed Buns Seller- Rong
-2002-08-17,2307,多多博彩,安慰奖,卖包容,Steamed Buns Seller- Rong
-2002-05-29,2307,萬能,特别奖,蝙蝠飞进屋里,Bat Flew Into House
-2002-01-16,2307,萬能,特别奖,蝙蝠飞进屋里,Bat Flew Into House
-2001-05-06,2307,多多博彩,特别奖,卖包容,Steamed Buns Seller- Rong
-2000-12-31,2307,多多博彩,特别奖,卖包容,Steamed Buns Seller- Rong
-2000-05-31,2307,多多博彩,特别奖,卖包容,Steamed Buns Seller- Rong
-1999-09-08,2307,多多博彩,特别奖,卖包容,Steamed Buns Seller- Rong
-1999-02-24,2307,萬能,三奖,蝙蝠飞进屋里,Bat Flew Into House
-1998-06-20,2307,多多博彩,特别奖,卖包容,Steamed Buns Seller- Rong
-1997-06-04,2307,多多博彩,安慰奖,卖包容,Steamed Buns Seller- Rong
-1997-02-22,2307,多多博彩,安慰奖,卖包容,Steamed Buns Seller- Rong
-1995-12-09,2307,多多博彩,特别奖,卖包容,Steamed Buns Seller- Rong
-1994-08-10,2307,萬能,特别奖,蝙蝠飞进屋里,Bat Flew Into House
-1992-06-04,2307,萬能,特别奖,蝙蝠飞进屋里,Bat Flew Into House
-1991-12-28,2307,多多博彩,安慰奖,卖包容,Steamed Buns Seller- Rong
-1987-03-28,2307,多多博彩,特别奖,卖包容,Steamed Buns Seller- Rong
+开彩日期,彩号,秦庄,彩金,史记秦本纪,史记楚辞,史记秦庄
+2023-12-26,2307,大馬彩,三奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+2023-12-26,2307,大馬彩,三奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+2023-12-26,2307,大馬彩,三奖,人造岛,Artificial Island,大馬彩
+2023-11-25,2307,萬能,特别奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+2023-11-25,2307,萬能,特别奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+2023-11-25,2307,萬能,特别奖,人造岛,Artificial Island,大馬彩
+2022-06-04,2307,萬能,首奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+2022-06-04,2307,萬能,首奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+2022-06-04,2307,萬能,首奖,人造岛,Artificial Island,大馬彩
+2022-05-29,2307,多多,特别奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+2022-05-29,2307,多多,特别奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+2022-05-29,2307,多多,特别奖,人造岛,Artificial Island,大馬彩
+2022-02-27,2307,萬能,安慰奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+2022-02-27,2307,萬能,安慰奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+2022-02-27,2307,萬能,安慰奖,人造岛,Artificial Island,大馬彩
+2021-05-08,2307,大馬彩,安慰奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+2021-05-08,2307,大馬彩,安慰奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+2021-05-08,2307,大馬彩,安慰奖,人造岛,Artificial Island,大馬彩
+2021-03-27,2307,星池,特别奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+2021-03-27,2307,星池,特别奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+2021-03-27,2307,星池,特别奖,人造岛,Artificial Island,大馬彩
+2019-04-28,2307,大馬彩,安慰奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+2019-04-28,2307,大馬彩,安慰奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+2019-04-28,2307,大馬彩,安慰奖,人造岛,Artificial Island,大馬彩
+2019-03-10,2307,萬能,特别奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+2019-03-10,2307,萬能,特别奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+2019-03-10,2307,萬能,特别奖,人造岛,Artificial Island,大馬彩
+2017-03-29,2307,多多,安慰奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+2017-03-29,2307,多多,安慰奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+2017-03-29,2307,多多,安慰奖,人造岛,Artificial Island,大馬彩
+2017-03-12,2307,大馬彩,特别奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+2017-03-12,2307,大馬彩,特别奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+2017-03-12,2307,大馬彩,特别奖,人造岛,Artificial Island,大馬彩
+2016-05-28,2307,星池,特别奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+2016-05-28,2307,星池,特别奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+2016-05-28,2307,星池,特别奖,人造岛,Artificial Island,大馬彩
+2012-07-11,2307,多多,安慰奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+2012-07-11,2307,多多,安慰奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+2012-07-11,2307,多多,安慰奖,人造岛,Artificial Island,大馬彩
+2011-02-23,2307,萬能,首奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+2011-02-23,2307,萬能,首奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+2011-02-23,2307,萬能,首奖,人造岛,Artificial Island,大馬彩
+2010-10-10,2307,大馬彩,安慰奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+2010-10-10,2307,大馬彩,安慰奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+2010-10-10,2307,大馬彩,安慰奖,人造岛,Artificial Island,大馬彩
+2010-03-10,2307,星池,安慰奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+2010-03-10,2307,星池,安慰奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+2010-03-10,2307,星池,安慰奖,人造岛,Artificial Island,大馬彩
+2009-09-20,2307,星池,安慰奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+2009-09-20,2307,星池,安慰奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+2009-09-20,2307,星池,安慰奖,人造岛,Artificial Island,大馬彩
+2008-03-30,2307,大馬彩,特别奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+2008-03-30,2307,大馬彩,特别奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+2008-03-30,2307,大馬彩,特别奖,人造岛,Artificial Island,大馬彩
+2007-05-30,2307,多多,二奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+2007-05-30,2307,多多,二奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+2007-05-30,2307,多多,二奖,人造岛,Artificial Island,大馬彩
+2006-06-28,2307,大馬彩,特别奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+2006-06-28,2307,大馬彩,特别奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+2006-06-28,2307,大馬彩,特别奖,人造岛,Artificial Island,大馬彩
+2006-03-11,2307,多多,特别奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+2006-03-11,2307,多多,特别奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+2006-03-11,2307,多多,特别奖,人造岛,Artificial Island,大馬彩
+2006-02-19,2307,大馬彩,首奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+2006-02-19,2307,大馬彩,首奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+2006-02-19,2307,大馬彩,首奖,人造岛,Artificial Island,大馬彩
+2004-06-05,2307,多多,特别奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+2004-06-05,2307,多多,特别奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+2004-06-05,2307,多多,特别奖,人造岛,Artificial Island,大馬彩
+2003-05-10,2307,多多,特别奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+2003-05-10,2307,多多,特别奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+2003-05-10,2307,多多,特别奖,人造岛,Artificial Island,大馬彩
+2002-08-17,2307,多多,安慰奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+2002-08-17,2307,多多,安慰奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+2002-08-17,2307,多多,安慰奖,人造岛,Artificial Island,大馬彩
+2002-05-29,2307,萬能,特别奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+2002-05-29,2307,萬能,特别奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+2002-05-29,2307,萬能,特别奖,人造岛,Artificial Island,大馬彩
+2002-01-16,2307,萬能,特别奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+2002-01-16,2307,萬能,特别奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+2002-01-16,2307,萬能,特别奖,人造岛,Artificial Island,大馬彩
+2001-05-06,2307,多多,特别奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+2001-05-06,2307,多多,特别奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+2001-05-06,2307,多多,特别奖,人造岛,Artificial Island,大馬彩
+2000-12-31,2307,多多,特别奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+2000-12-31,2307,多多,特别奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+2000-12-31,2307,多多,特别奖,人造岛,Artificial Island,大馬彩
+2000-05-31,2307,多多,特别奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+2000-05-31,2307,多多,特别奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+2000-05-31,2307,多多,特别奖,人造岛,Artificial Island,大馬彩
+1999-09-08,2307,多多,特别奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+1999-09-08,2307,多多,特别奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+1999-09-08,2307,多多,特别奖,人造岛,Artificial Island,大馬彩
+1999-02-24,2307,萬能,三奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+1999-02-24,2307,萬能,三奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+1999-02-24,2307,萬能,三奖,人造岛,Artificial Island,大馬彩
+1998-06-20,2307,多多,特别奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+1998-06-20,2307,多多,特别奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+1998-06-20,2307,多多,特别奖,人造岛,Artificial Island,大馬彩
+1997-06-04,2307,多多,安慰奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+1997-06-04,2307,多多,安慰奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+1997-06-04,2307,多多,安慰奖,人造岛,Artificial Island,大馬彩
+1997-02-22,2307,多多,安慰奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+1997-02-22,2307,多多,安慰奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+1997-02-22,2307,多多,安慰奖,人造岛,Artificial Island,大馬彩
+1995-12-09,2307,多多,特别奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+1995-12-09,2307,多多,特别奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+1995-12-09,2307,多多,特别奖,人造岛,Artificial Island,大馬彩
+1994-08-10,2307,萬能,特别奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+1994-08-10,2307,萬能,特别奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+1994-08-10,2307,萬能,特别奖,人造岛,Artificial Island,大馬彩
+1992-06-04,2307,萬能,特别奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+1992-06-04,2307,萬能,特别奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+1992-06-04,2307,萬能,特别奖,人造岛,Artificial Island,大馬彩
+1991-12-28,2307,多多,安慰奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+1991-12-28,2307,多多,安慰奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+1991-12-28,2307,多多,安慰奖,人造岛,Artificial Island,大馬彩
+1987-03-28,2307,多多,特别奖,蝙蝠飞进屋里,Bat Flew Into House,萬能
+1987-03-28,2307,多多,特别奖,卖包容,Steamed Buns Seller- Rong,多多博彩
+1987-03-28,2307,多多,特别奖,人造岛,Artificial Island,大馬彩

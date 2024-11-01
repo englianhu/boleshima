@@ -1,39 +1,115 @@
-开彩日期,彩号,秦庄,彩金,秦典,英典
-2024-09-08,8518,星池,特别奖,,
-2024-01-10,8518,萬能,特别奖,踩到动物大便,Stepped Onto Animal Faeces
-2022-10-15,8518,大馬彩,特别奖,赞成票,Affirmative Vote
-2022-06-11,8518,大馬彩,特别奖,赞成票,Affirmative Vote
-2022-05-29,8518,星池,安慰奖,,
-2022-02-19,8518,多多博彩,安慰奖,清沟,Ditch Clearance
-2022-01-15,8518,星池,特别奖,,
-2018-09-29,8518,萬能,安慰奖,踩到动物大便,Stepped Onto Animal Faeces
-2015-06-20,8518,大馬彩,特别奖,赞成票,Affirmative Vote
-2014-06-08,8518,多多博彩,安慰奖,清沟,Ditch Clearance
-2012-11-04,8518,萬能,安慰奖,踩到动物大便,Stepped Onto Animal Faeces
-2011-01-15,8518,萬能,特别奖,踩到动物大便,Stepped Onto Animal Faeces
-2010-01-02,8518,大馬彩,特别奖,赞成票,Affirmative Vote
-2009-06-13,8518,大馬彩,安慰奖,赞成票,Affirmative Vote
-2009-03-21,8518,大馬彩,二奖,赞成票,Affirmative Vote
-2008-07-13,8518,星池,三奖,,
-2007-02-18,8518,大馬彩,安慰奖,赞成票,Affirmative Vote
-2005-06-08,8518,多多博彩,安慰奖,清沟,Ditch Clearance
-2004-03-24,8518,萬能,特别奖,踩到动物大便,Stepped Onto Animal Faeces
-2003-02-19,8518,大馬彩,安慰奖,赞成票,Affirmative Vote
-2001-10-03,8518,多多博彩,安慰奖,清沟,Ditch Clearance
-2001-03-10,8518,大馬彩,安慰奖,赞成票,Affirmative Vote
-2000-01-30,8518,多多博彩,安慰奖,清沟,Ditch Clearance
-2000-01-30,8518,萬能,安慰奖,踩到动物大便,Stepped Onto Animal Faeces
-1998-08-30,8518,大馬彩,安慰奖,赞成票,Affirmative Vote
-1998-05-17,8518,多多博彩,特别奖,清沟,Ditch Clearance
-1998-05-02,8518,多多博彩,特别奖,清沟,Ditch Clearance
-1997-08-27,8518,萬能,二奖,踩到动物大便,Stepped Onto Animal Faeces
-1995-03-25,8518,萬能,安慰奖,踩到动物大便,Stepped Onto Animal Faeces
-1994-06-29,8518,大馬彩,安慰奖,赞成票,Affirmative Vote
-1994-06-05,8518,萬能,特别奖,踩到动物大便,Stepped Onto Animal Faeces
-1993-03-11,8518,萬能,安慰奖,踩到动物大便,Stepped Onto Animal Faeces
-1992-12-20,8518,大馬彩,安慰奖,赞成票,Affirmative Vote
-1990-03-03,8518,多多博彩,安慰奖,清沟,Ditch Clearance
-1989-10-09,8518,多多博彩,特别奖,清沟,Ditch Clearance
-1988-12-26,8518,多多博彩,特别奖,清沟,Ditch Clearance
-1988-02-27,8518,多多博彩,安慰奖,清沟,Ditch Clearance
-1986-11-30,8518,多多博彩,安慰奖,清沟,Ditch Clearance
+开彩日期,彩号,秦庄,彩金,史记秦本纪,史记楚辞,史记秦庄
+2024-09-08,8518,星池,特别奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+2024-09-08,8518,星池,特别奖,清沟,Ditch Clearance,多多博彩
+2024-09-08,8518,星池,特别奖,赞成票,Affirmative Vote,大馬彩
+2024-01-10,8518,萬能,特别奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+2024-01-10,8518,萬能,特别奖,清沟,Ditch Clearance,多多博彩
+2024-01-10,8518,萬能,特别奖,赞成票,Affirmative Vote,大馬彩
+2022-10-15,8518,大馬彩,特别奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+2022-10-15,8518,大馬彩,特别奖,清沟,Ditch Clearance,多多博彩
+2022-10-15,8518,大馬彩,特别奖,赞成票,Affirmative Vote,大馬彩
+2022-06-11,8518,大馬彩,特别奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+2022-06-11,8518,大馬彩,特别奖,清沟,Ditch Clearance,多多博彩
+2022-06-11,8518,大馬彩,特别奖,赞成票,Affirmative Vote,大馬彩
+2022-05-29,8518,星池,安慰奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+2022-05-29,8518,星池,安慰奖,清沟,Ditch Clearance,多多博彩
+2022-05-29,8518,星池,安慰奖,赞成票,Affirmative Vote,大馬彩
+2022-02-19,8518,多多,安慰奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+2022-02-19,8518,多多,安慰奖,清沟,Ditch Clearance,多多博彩
+2022-02-19,8518,多多,安慰奖,赞成票,Affirmative Vote,大馬彩
+2022-01-15,8518,星池,特别奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+2022-01-15,8518,星池,特别奖,清沟,Ditch Clearance,多多博彩
+2022-01-15,8518,星池,特别奖,赞成票,Affirmative Vote,大馬彩
+2018-09-29,8518,萬能,安慰奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+2018-09-29,8518,萬能,安慰奖,清沟,Ditch Clearance,多多博彩
+2018-09-29,8518,萬能,安慰奖,赞成票,Affirmative Vote,大馬彩
+2015-06-20,8518,大馬彩,特别奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+2015-06-20,8518,大馬彩,特别奖,清沟,Ditch Clearance,多多博彩
+2015-06-20,8518,大馬彩,特别奖,赞成票,Affirmative Vote,大馬彩
+2014-06-08,8518,多多,安慰奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+2014-06-08,8518,多多,安慰奖,清沟,Ditch Clearance,多多博彩
+2014-06-08,8518,多多,安慰奖,赞成票,Affirmative Vote,大馬彩
+2012-11-04,8518,萬能,安慰奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+2012-11-04,8518,萬能,安慰奖,清沟,Ditch Clearance,多多博彩
+2012-11-04,8518,萬能,安慰奖,赞成票,Affirmative Vote,大馬彩
+2011-01-15,8518,萬能,特别奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+2011-01-15,8518,萬能,特别奖,清沟,Ditch Clearance,多多博彩
+2011-01-15,8518,萬能,特别奖,赞成票,Affirmative Vote,大馬彩
+2010-01-02,8518,大馬彩,特别奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+2010-01-02,8518,大馬彩,特别奖,清沟,Ditch Clearance,多多博彩
+2010-01-02,8518,大馬彩,特别奖,赞成票,Affirmative Vote,大馬彩
+2009-06-13,8518,大馬彩,安慰奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+2009-06-13,8518,大馬彩,安慰奖,清沟,Ditch Clearance,多多博彩
+2009-06-13,8518,大馬彩,安慰奖,赞成票,Affirmative Vote,大馬彩
+2009-03-21,8518,大馬彩,二奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+2009-03-21,8518,大馬彩,二奖,清沟,Ditch Clearance,多多博彩
+2009-03-21,8518,大馬彩,二奖,赞成票,Affirmative Vote,大馬彩
+2008-07-13,8518,星池,三奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+2008-07-13,8518,星池,三奖,清沟,Ditch Clearance,多多博彩
+2008-07-13,8518,星池,三奖,赞成票,Affirmative Vote,大馬彩
+2007-02-18,8518,大馬彩,安慰奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+2007-02-18,8518,大馬彩,安慰奖,清沟,Ditch Clearance,多多博彩
+2007-02-18,8518,大馬彩,安慰奖,赞成票,Affirmative Vote,大馬彩
+2005-06-08,8518,多多,安慰奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+2005-06-08,8518,多多,安慰奖,清沟,Ditch Clearance,多多博彩
+2005-06-08,8518,多多,安慰奖,赞成票,Affirmative Vote,大馬彩
+2004-03-24,8518,萬能,特别奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+2004-03-24,8518,萬能,特别奖,清沟,Ditch Clearance,多多博彩
+2004-03-24,8518,萬能,特别奖,赞成票,Affirmative Vote,大馬彩
+2003-02-19,8518,大馬彩,安慰奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+2003-02-19,8518,大馬彩,安慰奖,清沟,Ditch Clearance,多多博彩
+2003-02-19,8518,大馬彩,安慰奖,赞成票,Affirmative Vote,大馬彩
+2001-10-03,8518,多多,安慰奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+2001-10-03,8518,多多,安慰奖,清沟,Ditch Clearance,多多博彩
+2001-10-03,8518,多多,安慰奖,赞成票,Affirmative Vote,大馬彩
+2001-03-10,8518,大馬彩,安慰奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+2001-03-10,8518,大馬彩,安慰奖,清沟,Ditch Clearance,多多博彩
+2001-03-10,8518,大馬彩,安慰奖,赞成票,Affirmative Vote,大馬彩
+2000-01-30,8518,多多,安慰奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+2000-01-30,8518,多多,安慰奖,清沟,Ditch Clearance,多多博彩
+2000-01-30,8518,多多,安慰奖,赞成票,Affirmative Vote,大馬彩
+2000-01-30,8518,萬能,安慰奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+2000-01-30,8518,萬能,安慰奖,清沟,Ditch Clearance,多多博彩
+2000-01-30,8518,萬能,安慰奖,赞成票,Affirmative Vote,大馬彩
+1998-08-30,8518,大馬彩,安慰奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+1998-08-30,8518,大馬彩,安慰奖,清沟,Ditch Clearance,多多博彩
+1998-08-30,8518,大馬彩,安慰奖,赞成票,Affirmative Vote,大馬彩
+1998-05-17,8518,多多,特别奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+1998-05-17,8518,多多,特别奖,清沟,Ditch Clearance,多多博彩
+1998-05-17,8518,多多,特别奖,赞成票,Affirmative Vote,大馬彩
+1998-05-02,8518,多多,特别奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+1998-05-02,8518,多多,特别奖,清沟,Ditch Clearance,多多博彩
+1998-05-02,8518,多多,特别奖,赞成票,Affirmative Vote,大馬彩
+1997-08-27,8518,萬能,二奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+1997-08-27,8518,萬能,二奖,清沟,Ditch Clearance,多多博彩
+1997-08-27,8518,萬能,二奖,赞成票,Affirmative Vote,大馬彩
+1995-03-25,8518,萬能,安慰奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+1995-03-25,8518,萬能,安慰奖,清沟,Ditch Clearance,多多博彩
+1995-03-25,8518,萬能,安慰奖,赞成票,Affirmative Vote,大馬彩
+1994-06-29,8518,大馬彩,安慰奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+1994-06-29,8518,大馬彩,安慰奖,清沟,Ditch Clearance,多多博彩
+1994-06-29,8518,大馬彩,安慰奖,赞成票,Affirmative Vote,大馬彩
+1994-06-05,8518,萬能,特别奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+1994-06-05,8518,萬能,特别奖,清沟,Ditch Clearance,多多博彩
+1994-06-05,8518,萬能,特别奖,赞成票,Affirmative Vote,大馬彩
+1993-03-11,8518,萬能,安慰奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+1993-03-11,8518,萬能,安慰奖,清沟,Ditch Clearance,多多博彩
+1993-03-11,8518,萬能,安慰奖,赞成票,Affirmative Vote,大馬彩
+1992-12-20,8518,大馬彩,安慰奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+1992-12-20,8518,大馬彩,安慰奖,清沟,Ditch Clearance,多多博彩
+1992-12-20,8518,大馬彩,安慰奖,赞成票,Affirmative Vote,大馬彩
+1990-03-03,8518,多多,安慰奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+1990-03-03,8518,多多,安慰奖,清沟,Ditch Clearance,多多博彩
+1990-03-03,8518,多多,安慰奖,赞成票,Affirmative Vote,大馬彩
+1989-10-09,8518,多多,特别奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+1989-10-09,8518,多多,特别奖,清沟,Ditch Clearance,多多博彩
+1989-10-09,8518,多多,特别奖,赞成票,Affirmative Vote,大馬彩
+1988-12-26,8518,多多,特别奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+1988-12-26,8518,多多,特别奖,清沟,Ditch Clearance,多多博彩
+1988-12-26,8518,多多,特别奖,赞成票,Affirmative Vote,大馬彩
+1988-02-27,8518,多多,安慰奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+1988-02-27,8518,多多,安慰奖,清沟,Ditch Clearance,多多博彩
+1988-02-27,8518,多多,安慰奖,赞成票,Affirmative Vote,大馬彩
+1986-11-30,8518,多多,安慰奖,踩到动物大便,Stepped Onto Animal Faeces,萬能
+1986-11-30,8518,多多,安慰奖,清沟,Ditch Clearance,多多博彩
+1986-11-30,8518,多多,安慰奖,赞成票,Affirmative Vote,大馬彩

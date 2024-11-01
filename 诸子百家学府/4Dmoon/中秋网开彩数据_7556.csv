@@ -1,46 +1,136 @@
-开彩日期,彩号,秦庄,彩金,秦典,英典
-2024-07-20,7556,星池,安慰奖,,
-2024-07-06,7556,星池,安慰奖,,
-2024-05-28,7556,大馬彩,特别奖,招揽生意,Soliciting Business
-2023-10-18,7556,萬能,特别奖,吃榴连,Eating Durian
-2023-02-15,7556,星池,安慰奖,,
-2022-07-10,7556,星池,安慰奖,,
-2022-03-13,7556,多多博彩,安慰奖,清沟锄,Drain Cleaning Hoe
-2022-02-15,7556,多多博彩,特别奖,清沟锄,Drain Cleaning Hoe
-2019-08-31,7556,星池,特别奖,,
-2019-05-01,7556,大馬彩,特别奖,招揽生意,Soliciting Business
-2018-11-14,7556,萬能,特别奖,吃榴连,Eating Durian
-2017-08-05,7556,大馬彩,二奖,招揽生意,Soliciting Business
-2017-01-11,7556,多多博彩,三奖,清沟锄,Drain Cleaning Hoe
-2016-08-14,7556,大馬彩,特别奖,招揽生意,Soliciting Business
-2016-05-03,7556,多多博彩,安慰奖,清沟锄,Drain Cleaning Hoe
-2014-01-22,7556,萬能,安慰奖,吃榴连,Eating Durian
-2011-07-09,7556,大馬彩,特别奖,招揽生意,Soliciting Business
-2011-04-09,7556,星池,特别奖,,
-2011-01-05,7556,萬能,特别奖,吃榴连,Eating Durian
-2010-12-22,7556,大馬彩,二奖,招揽生意,Soliciting Business
-2010-04-06,7556,大馬彩,安慰奖,招揽生意,Soliciting Business
-2010-01-24,7556,大馬彩,安慰奖,招揽生意,Soliciting Business
-2007-12-30,7556,大馬彩,安慰奖,招揽生意,Soliciting Business
-2007-06-20,7556,大馬彩,安慰奖,招揽生意,Soliciting Business
-2007-06-16,7556,大馬彩,安慰奖,招揽生意,Soliciting Business
-2006-12-16,7556,多多博彩,特别奖,清沟锄,Drain Cleaning Hoe
-2006-07-08,7556,大馬彩,安慰奖,招揽生意,Soliciting Business
-2004-07-21,7556,萬能,二奖,吃榴连,Eating Durian
-2004-03-06,7556,多多博彩,特别奖,清沟锄,Drain Cleaning Hoe
-2002-05-05,7556,大馬彩,特别奖,招揽生意,Soliciting Business
-2001-08-19,7556,大馬彩,特别奖,招揽生意,Soliciting Business
-2001-07-03,7556,多多博彩,首奖,清沟锄,Drain Cleaning Hoe
-1999-10-03,7556,大馬彩,特别奖,招揽生意,Soliciting Business
-1999-07-10,7556,大馬彩,安慰奖,招揽生意,Soliciting Business
-1999-03-20,7556,大馬彩,特别奖,招揽生意,Soliciting Business
-1998-05-09,7556,大馬彩,安慰奖,招揽生意,Soliciting Business
-1997-04-30,7556,萬能,安慰奖,吃榴连,Eating Durian
-1997-01-18,7556,萬能,安慰奖,吃榴连,Eating Durian
-1995-05-07,7556,多多博彩,安慰奖,清沟锄,Drain Cleaning Hoe
-1995-04-15,7556,多多博彩,特别奖,清沟锄,Drain Cleaning Hoe
-1994-12-25,7556,多多博彩,安慰奖,清沟锄,Drain Cleaning Hoe
-1994-12-24,7556,多多博彩,特别奖,清沟锄,Drain Cleaning Hoe
-1994-09-29,7556,萬能,安慰奖,吃榴连,Eating Durian
-1991-06-01,7556,多多博彩,特别奖,清沟锄,Drain Cleaning Hoe
-1987-11-26,7556,多多博彩,特别奖,清沟锄,Drain Cleaning Hoe
+开彩日期,彩号,秦庄,彩金,史记秦本纪,史记楚辞,史记秦庄
+2024-07-20,7556,星池,安慰奖,吃榴连,Eating Durian,萬能
+2024-07-20,7556,星池,安慰奖,清沟锄,Drain Cleaning Hoe,多多博彩
+2024-07-20,7556,星池,安慰奖,招揽生意,Soliciting Business,大馬彩
+2024-07-06,7556,星池,安慰奖,吃榴连,Eating Durian,萬能
+2024-07-06,7556,星池,安慰奖,清沟锄,Drain Cleaning Hoe,多多博彩
+2024-07-06,7556,星池,安慰奖,招揽生意,Soliciting Business,大馬彩
+2024-05-28,7556,大馬彩,特别奖,吃榴连,Eating Durian,萬能
+2024-05-28,7556,大馬彩,特别奖,清沟锄,Drain Cleaning Hoe,多多博彩
+2024-05-28,7556,大馬彩,特别奖,招揽生意,Soliciting Business,大馬彩
+2023-10-18,7556,萬能,特别奖,吃榴连,Eating Durian,萬能
+2023-10-18,7556,萬能,特别奖,清沟锄,Drain Cleaning Hoe,多多博彩
+2023-10-18,7556,萬能,特别奖,招揽生意,Soliciting Business,大馬彩
+2023-02-15,7556,星池,安慰奖,吃榴连,Eating Durian,萬能
+2023-02-15,7556,星池,安慰奖,清沟锄,Drain Cleaning Hoe,多多博彩
+2023-02-15,7556,星池,安慰奖,招揽生意,Soliciting Business,大馬彩
+2022-07-10,7556,星池,安慰奖,吃榴连,Eating Durian,萬能
+2022-07-10,7556,星池,安慰奖,清沟锄,Drain Cleaning Hoe,多多博彩
+2022-07-10,7556,星池,安慰奖,招揽生意,Soliciting Business,大馬彩
+2022-03-13,7556,多多,安慰奖,吃榴连,Eating Durian,萬能
+2022-03-13,7556,多多,安慰奖,清沟锄,Drain Cleaning Hoe,多多博彩
+2022-03-13,7556,多多,安慰奖,招揽生意,Soliciting Business,大馬彩
+2022-02-15,7556,多多,特别奖,吃榴连,Eating Durian,萬能
+2022-02-15,7556,多多,特别奖,清沟锄,Drain Cleaning Hoe,多多博彩
+2022-02-15,7556,多多,特别奖,招揽生意,Soliciting Business,大馬彩
+2019-08-31,7556,星池,特别奖,吃榴连,Eating Durian,萬能
+2019-08-31,7556,星池,特别奖,清沟锄,Drain Cleaning Hoe,多多博彩
+2019-08-31,7556,星池,特别奖,招揽生意,Soliciting Business,大馬彩
+2019-05-01,7556,大馬彩,特别奖,吃榴连,Eating Durian,萬能
+2019-05-01,7556,大馬彩,特别奖,清沟锄,Drain Cleaning Hoe,多多博彩
+2019-05-01,7556,大馬彩,特别奖,招揽生意,Soliciting Business,大馬彩
+2018-11-14,7556,萬能,特别奖,吃榴连,Eating Durian,萬能
+2018-11-14,7556,萬能,特别奖,清沟锄,Drain Cleaning Hoe,多多博彩
+2018-11-14,7556,萬能,特别奖,招揽生意,Soliciting Business,大馬彩
+2017-08-05,7556,大馬彩,二奖,吃榴连,Eating Durian,萬能
+2017-08-05,7556,大馬彩,二奖,清沟锄,Drain Cleaning Hoe,多多博彩
+2017-08-05,7556,大馬彩,二奖,招揽生意,Soliciting Business,大馬彩
+2017-01-11,7556,多多,三奖,吃榴连,Eating Durian,萬能
+2017-01-11,7556,多多,三奖,清沟锄,Drain Cleaning Hoe,多多博彩
+2017-01-11,7556,多多,三奖,招揽生意,Soliciting Business,大馬彩
+2016-08-14,7556,大馬彩,特别奖,吃榴连,Eating Durian,萬能
+2016-08-14,7556,大馬彩,特别奖,清沟锄,Drain Cleaning Hoe,多多博彩
+2016-08-14,7556,大馬彩,特别奖,招揽生意,Soliciting Business,大馬彩
+2016-05-03,7556,多多,安慰奖,吃榴连,Eating Durian,萬能
+2016-05-03,7556,多多,安慰奖,清沟锄,Drain Cleaning Hoe,多多博彩
+2016-05-03,7556,多多,安慰奖,招揽生意,Soliciting Business,大馬彩
+2014-01-22,7556,萬能,安慰奖,吃榴连,Eating Durian,萬能
+2014-01-22,7556,萬能,安慰奖,清沟锄,Drain Cleaning Hoe,多多博彩
+2014-01-22,7556,萬能,安慰奖,招揽生意,Soliciting Business,大馬彩
+2011-07-09,7556,大馬彩,特别奖,吃榴连,Eating Durian,萬能
+2011-07-09,7556,大馬彩,特别奖,清沟锄,Drain Cleaning Hoe,多多博彩
+2011-07-09,7556,大馬彩,特别奖,招揽生意,Soliciting Business,大馬彩
+2011-04-09,7556,星池,特别奖,吃榴连,Eating Durian,萬能
+2011-04-09,7556,星池,特别奖,清沟锄,Drain Cleaning Hoe,多多博彩
+2011-04-09,7556,星池,特别奖,招揽生意,Soliciting Business,大馬彩
+2011-01-05,7556,萬能,特别奖,吃榴连,Eating Durian,萬能
+2011-01-05,7556,萬能,特别奖,清沟锄,Drain Cleaning Hoe,多多博彩
+2011-01-05,7556,萬能,特别奖,招揽生意,Soliciting Business,大馬彩
+2010-12-22,7556,大馬彩,二奖,吃榴连,Eating Durian,萬能
+2010-12-22,7556,大馬彩,二奖,清沟锄,Drain Cleaning Hoe,多多博彩
+2010-12-22,7556,大馬彩,二奖,招揽生意,Soliciting Business,大馬彩
+2010-04-06,7556,大馬彩,安慰奖,吃榴连,Eating Durian,萬能
+2010-04-06,7556,大馬彩,安慰奖,清沟锄,Drain Cleaning Hoe,多多博彩
+2010-04-06,7556,大馬彩,安慰奖,招揽生意,Soliciting Business,大馬彩
+2010-01-24,7556,大馬彩,安慰奖,吃榴连,Eating Durian,萬能
+2010-01-24,7556,大馬彩,安慰奖,清沟锄,Drain Cleaning Hoe,多多博彩
+2010-01-24,7556,大馬彩,安慰奖,招揽生意,Soliciting Business,大馬彩
+2007-12-30,7556,大馬彩,安慰奖,吃榴连,Eating Durian,萬能
+2007-12-30,7556,大馬彩,安慰奖,清沟锄,Drain Cleaning Hoe,多多博彩
+2007-12-30,7556,大馬彩,安慰奖,招揽生意,Soliciting Business,大馬彩
+2007-06-20,7556,大馬彩,安慰奖,吃榴连,Eating Durian,萬能
+2007-06-20,7556,大馬彩,安慰奖,清沟锄,Drain Cleaning Hoe,多多博彩
+2007-06-20,7556,大馬彩,安慰奖,招揽生意,Soliciting Business,大馬彩
+2007-06-16,7556,大馬彩,安慰奖,吃榴连,Eating Durian,萬能
+2007-06-16,7556,大馬彩,安慰奖,清沟锄,Drain Cleaning Hoe,多多博彩
+2007-06-16,7556,大馬彩,安慰奖,招揽生意,Soliciting Business,大馬彩
+2006-12-16,7556,多多,特别奖,吃榴连,Eating Durian,萬能
+2006-12-16,7556,多多,特别奖,清沟锄,Drain Cleaning Hoe,多多博彩
+2006-12-16,7556,多多,特别奖,招揽生意,Soliciting Business,大馬彩
+2006-07-08,7556,大馬彩,安慰奖,吃榴连,Eating Durian,萬能
+2006-07-08,7556,大馬彩,安慰奖,清沟锄,Drain Cleaning Hoe,多多博彩
+2006-07-08,7556,大馬彩,安慰奖,招揽生意,Soliciting Business,大馬彩
+2004-07-21,7556,萬能,二奖,吃榴连,Eating Durian,萬能
+2004-07-21,7556,萬能,二奖,清沟锄,Drain Cleaning Hoe,多多博彩
+2004-07-21,7556,萬能,二奖,招揽生意,Soliciting Business,大馬彩
+2004-03-06,7556,多多,特别奖,吃榴连,Eating Durian,萬能
+2004-03-06,7556,多多,特别奖,清沟锄,Drain Cleaning Hoe,多多博彩
+2004-03-06,7556,多多,特别奖,招揽生意,Soliciting Business,大馬彩
+2002-05-05,7556,大馬彩,特别奖,吃榴连,Eating Durian,萬能
+2002-05-05,7556,大馬彩,特别奖,清沟锄,Drain Cleaning Hoe,多多博彩
+2002-05-05,7556,大馬彩,特别奖,招揽生意,Soliciting Business,大馬彩
+2001-08-19,7556,大馬彩,特别奖,吃榴连,Eating Durian,萬能
+2001-08-19,7556,大馬彩,特别奖,清沟锄,Drain Cleaning Hoe,多多博彩
+2001-08-19,7556,大馬彩,特别奖,招揽生意,Soliciting Business,大馬彩
+2001-07-03,7556,多多,首奖,吃榴连,Eating Durian,萬能
+2001-07-03,7556,多多,首奖,清沟锄,Drain Cleaning Hoe,多多博彩
+2001-07-03,7556,多多,首奖,招揽生意,Soliciting Business,大馬彩
+1999-10-03,7556,大馬彩,特别奖,吃榴连,Eating Durian,萬能
+1999-10-03,7556,大馬彩,特别奖,清沟锄,Drain Cleaning Hoe,多多博彩
+1999-10-03,7556,大馬彩,特别奖,招揽生意,Soliciting Business,大馬彩
+1999-07-10,7556,大馬彩,安慰奖,吃榴连,Eating Durian,萬能
+1999-07-10,7556,大馬彩,安慰奖,清沟锄,Drain Cleaning Hoe,多多博彩
+1999-07-10,7556,大馬彩,安慰奖,招揽生意,Soliciting Business,大馬彩
+1999-03-20,7556,大馬彩,特别奖,吃榴连,Eating Durian,萬能
+1999-03-20,7556,大馬彩,特别奖,清沟锄,Drain Cleaning Hoe,多多博彩
+1999-03-20,7556,大馬彩,特别奖,招揽生意,Soliciting Business,大馬彩
+1998-05-09,7556,大馬彩,安慰奖,吃榴连,Eating Durian,萬能
+1998-05-09,7556,大馬彩,安慰奖,清沟锄,Drain Cleaning Hoe,多多博彩
+1998-05-09,7556,大馬彩,安慰奖,招揽生意,Soliciting Business,大馬彩
+1997-04-30,7556,萬能,安慰奖,吃榴连,Eating Durian,萬能
+1997-04-30,7556,萬能,安慰奖,清沟锄,Drain Cleaning Hoe,多多博彩
+1997-04-30,7556,萬能,安慰奖,招揽生意,Soliciting Business,大馬彩
+1997-01-18,7556,萬能,安慰奖,吃榴连,Eating Durian,萬能
+1997-01-18,7556,萬能,安慰奖,清沟锄,Drain Cleaning Hoe,多多博彩
+1997-01-18,7556,萬能,安慰奖,招揽生意,Soliciting Business,大馬彩
+1995-05-07,7556,多多,安慰奖,吃榴连,Eating Durian,萬能
+1995-05-07,7556,多多,安慰奖,清沟锄,Drain Cleaning Hoe,多多博彩
+1995-05-07,7556,多多,安慰奖,招揽生意,Soliciting Business,大馬彩
+1995-04-15,7556,多多,特别奖,吃榴连,Eating Durian,萬能
+1995-04-15,7556,多多,特别奖,清沟锄,Drain Cleaning Hoe,多多博彩
+1995-04-15,7556,多多,特别奖,招揽生意,Soliciting Business,大馬彩
+1994-12-25,7556,多多,安慰奖,吃榴连,Eating Durian,萬能
+1994-12-25,7556,多多,安慰奖,清沟锄,Drain Cleaning Hoe,多多博彩
+1994-12-25,7556,多多,安慰奖,招揽生意,Soliciting Business,大馬彩
+1994-12-24,7556,多多,特别奖,吃榴连,Eating Durian,萬能
+1994-12-24,7556,多多,特别奖,清沟锄,Drain Cleaning Hoe,多多博彩
+1994-12-24,7556,多多,特别奖,招揽生意,Soliciting Business,大馬彩
+1994-09-29,7556,萬能,安慰奖,吃榴连,Eating Durian,萬能
+1994-09-29,7556,萬能,安慰奖,清沟锄,Drain Cleaning Hoe,多多博彩
+1994-09-29,7556,萬能,安慰奖,招揽生意,Soliciting Business,大馬彩
+1991-06-01,7556,多多,特别奖,吃榴连,Eating Durian,萬能
+1991-06-01,7556,多多,特别奖,清沟锄,Drain Cleaning Hoe,多多博彩
+1991-06-01,7556,多多,特别奖,招揽生意,Soliciting Business,大馬彩
+1987-11-26,7556,多多,特别奖,吃榴连,Eating Durian,萬能
+1987-11-26,7556,多多,特别奖,清沟锄,Drain Cleaning Hoe,多多博彩
+1987-11-26,7556,多多,特别奖,招揽生意,Soliciting Business,大馬彩

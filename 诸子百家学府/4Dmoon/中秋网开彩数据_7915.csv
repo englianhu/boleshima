@@ -1,43 +1,127 @@
-开彩日期,彩号,秦庄,彩金,秦典,英典
-2022-11-02,7915,多多博彩,三奖,大哥成,Brother Cheng
-2022-10-22,7915,多多博彩,特别奖,大哥成,Brother Cheng
-2021-12-22,7915,大馬彩,特别奖,收受利益,Receiving Benefits
-2021-01-10,7915,萬能,安慰奖,卡通人物 Power Ranger,Power Ranger
-2020-11-07,7915,萬能,三奖,卡通人物 Power Ranger,Power Ranger
-2019-10-13,7915,大馬彩,安慰奖,收受利益,Receiving Benefits
-2019-05-05,7915,多多博彩,安慰奖,大哥成,Brother Cheng
-2018-12-29,7915,多多博彩,特别奖,大哥成,Brother Cheng
-2018-11-25,7915,萬能,安慰奖,卡通人物 Power Ranger,Power Ranger
-2018-09-29,7915,萬能,特别奖,卡通人物 Power Ranger,Power Ranger
-2014-05-31,7915,多多博彩,安慰奖,大哥成,Brother Cheng
-2013-12-21,7915,多多博彩,安慰奖,大哥成,Brother Cheng
-2013-09-08,7915,萬能,三奖,卡通人物 Power Ranger,Power Ranger
-2013-06-29,7915,大馬彩,安慰奖,收受利益,Receiving Benefits
-2012-09-19,7915,大馬彩,安慰奖,收受利益,Receiving Benefits
-2012-04-15,7915,星池,特别奖,,
-2011-07-23,7915,萬能,安慰奖,卡通人物 Power Ranger,Power Ranger
-2011-03-16,7915,萬能,特别奖,卡通人物 Power Ranger,Power Ranger
-2010-06-30,7915,星池,特别奖,,
-2010-04-28,7915,萬能,三奖,卡通人物 Power Ranger,Power Ranger
-2009-05-30,7915,多多博彩,特别奖,大哥成,Brother Cheng
-2009-05-23,7915,星池,安慰奖,,
-2008-08-02,7915,大馬彩,特别奖,收受利益,Receiving Benefits
-2007-03-24,7915,大馬彩,安慰奖,收受利益,Receiving Benefits
-2006-10-14,7915,萬能,安慰奖,卡通人物 Power Ranger,Power Ranger
-2005-06-22,7915,萬能,安慰奖,卡通人物 Power Ranger,Power Ranger
-2004-04-04,7915,多多博彩,安慰奖,大哥成,Brother Cheng
-2002-05-15,7915,萬能,首奖,卡通人物 Power Ranger,Power Ranger
-2000-08-20,7915,萬能,安慰奖,卡通人物 Power Ranger,Power Ranger
-1997-03-19,7915,萬能,安慰奖,卡通人物 Power Ranger,Power Ranger
-1995-08-30,7915,大馬彩,安慰奖,收受利益,Receiving Benefits
-1995-04-19,7915,多多博彩,安慰奖,大哥成,Brother Cheng
-1993-07-28,7915,大馬彩,特别奖,收受利益,Receiving Benefits
-1993-07-21,7915,大馬彩,首奖,收受利益,Receiving Benefits
-1992-10-28,7915,萬能,安慰奖,卡通人物 Power Ranger,Power Ranger
-1990-03-03,7915,多多博彩,特别奖,大哥成,Brother Cheng
-1989-04-20,7915,多多博彩,特别奖,大哥成,Brother Cheng
-1988-07-25,7915,多多博彩,特别奖,大哥成,Brother Cheng
-1987-08-29,7915,多多博彩,特别奖,大哥成,Brother Cheng
-1987-01-04,7915,多多博彩,特别奖,大哥成,Brother Cheng
-1986-12-07,7915,多多博彩,安慰奖,大哥成,Brother Cheng
-1985-07-06,7915,多多博彩,安慰奖,大哥成,Brother Cheng
+开彩日期,彩号,秦庄,彩金,史记秦本纪,史记楚辞,史记秦庄
+2022-11-02,7915,多多,三奖,卡通人物 Power Ranger,Power Ranger,萬能
+2022-11-02,7915,多多,三奖,大哥成,Brother Cheng,多多博彩
+2022-11-02,7915,多多,三奖,收受利益,Receiving Benefits,大馬彩
+2022-10-22,7915,多多,特别奖,卡通人物 Power Ranger,Power Ranger,萬能
+2022-10-22,7915,多多,特别奖,大哥成,Brother Cheng,多多博彩
+2022-10-22,7915,多多,特别奖,收受利益,Receiving Benefits,大馬彩
+2021-12-22,7915,大馬彩,特别奖,卡通人物 Power Ranger,Power Ranger,萬能
+2021-12-22,7915,大馬彩,特别奖,大哥成,Brother Cheng,多多博彩
+2021-12-22,7915,大馬彩,特别奖,收受利益,Receiving Benefits,大馬彩
+2021-01-10,7915,萬能,安慰奖,卡通人物 Power Ranger,Power Ranger,萬能
+2021-01-10,7915,萬能,安慰奖,大哥成,Brother Cheng,多多博彩
+2021-01-10,7915,萬能,安慰奖,收受利益,Receiving Benefits,大馬彩
+2020-11-07,7915,萬能,三奖,卡通人物 Power Ranger,Power Ranger,萬能
+2020-11-07,7915,萬能,三奖,大哥成,Brother Cheng,多多博彩
+2020-11-07,7915,萬能,三奖,收受利益,Receiving Benefits,大馬彩
+2019-10-13,7915,大馬彩,安慰奖,卡通人物 Power Ranger,Power Ranger,萬能
+2019-10-13,7915,大馬彩,安慰奖,大哥成,Brother Cheng,多多博彩
+2019-10-13,7915,大馬彩,安慰奖,收受利益,Receiving Benefits,大馬彩
+2019-05-05,7915,多多,安慰奖,卡通人物 Power Ranger,Power Ranger,萬能
+2019-05-05,7915,多多,安慰奖,大哥成,Brother Cheng,多多博彩
+2019-05-05,7915,多多,安慰奖,收受利益,Receiving Benefits,大馬彩
+2018-12-29,7915,多多,特别奖,卡通人物 Power Ranger,Power Ranger,萬能
+2018-12-29,7915,多多,特别奖,大哥成,Brother Cheng,多多博彩
+2018-12-29,7915,多多,特别奖,收受利益,Receiving Benefits,大馬彩
+2018-11-25,7915,萬能,安慰奖,卡通人物 Power Ranger,Power Ranger,萬能
+2018-11-25,7915,萬能,安慰奖,大哥成,Brother Cheng,多多博彩
+2018-11-25,7915,萬能,安慰奖,收受利益,Receiving Benefits,大馬彩
+2018-09-29,7915,萬能,特别奖,卡通人物 Power Ranger,Power Ranger,萬能
+2018-09-29,7915,萬能,特别奖,大哥成,Brother Cheng,多多博彩
+2018-09-29,7915,萬能,特别奖,收受利益,Receiving Benefits,大馬彩
+2014-05-31,7915,多多,安慰奖,卡通人物 Power Ranger,Power Ranger,萬能
+2014-05-31,7915,多多,安慰奖,大哥成,Brother Cheng,多多博彩
+2014-05-31,7915,多多,安慰奖,收受利益,Receiving Benefits,大馬彩
+2013-12-21,7915,多多,安慰奖,卡通人物 Power Ranger,Power Ranger,萬能
+2013-12-21,7915,多多,安慰奖,大哥成,Brother Cheng,多多博彩
+2013-12-21,7915,多多,安慰奖,收受利益,Receiving Benefits,大馬彩
+2013-09-08,7915,萬能,三奖,卡通人物 Power Ranger,Power Ranger,萬能
+2013-09-08,7915,萬能,三奖,大哥成,Brother Cheng,多多博彩
+2013-09-08,7915,萬能,三奖,收受利益,Receiving Benefits,大馬彩
+2013-06-29,7915,大馬彩,安慰奖,卡通人物 Power Ranger,Power Ranger,萬能
+2013-06-29,7915,大馬彩,安慰奖,大哥成,Brother Cheng,多多博彩
+2013-06-29,7915,大馬彩,安慰奖,收受利益,Receiving Benefits,大馬彩
+2012-09-19,7915,大馬彩,安慰奖,卡通人物 Power Ranger,Power Ranger,萬能
+2012-09-19,7915,大馬彩,安慰奖,大哥成,Brother Cheng,多多博彩
+2012-09-19,7915,大馬彩,安慰奖,收受利益,Receiving Benefits,大馬彩
+2012-04-15,7915,星池,特别奖,卡通人物 Power Ranger,Power Ranger,萬能
+2012-04-15,7915,星池,特别奖,大哥成,Brother Cheng,多多博彩
+2012-04-15,7915,星池,特别奖,收受利益,Receiving Benefits,大馬彩
+2011-07-23,7915,萬能,安慰奖,卡通人物 Power Ranger,Power Ranger,萬能
+2011-07-23,7915,萬能,安慰奖,大哥成,Brother Cheng,多多博彩
+2011-07-23,7915,萬能,安慰奖,收受利益,Receiving Benefits,大馬彩
+2011-03-16,7915,萬能,特别奖,卡通人物 Power Ranger,Power Ranger,萬能
+2011-03-16,7915,萬能,特别奖,大哥成,Brother Cheng,多多博彩
+2011-03-16,7915,萬能,特别奖,收受利益,Receiving Benefits,大馬彩
+2010-06-30,7915,星池,特别奖,卡通人物 Power Ranger,Power Ranger,萬能
+2010-06-30,7915,星池,特别奖,大哥成,Brother Cheng,多多博彩
+2010-06-30,7915,星池,特别奖,收受利益,Receiving Benefits,大馬彩
+2010-04-28,7915,萬能,三奖,卡通人物 Power Ranger,Power Ranger,萬能
+2010-04-28,7915,萬能,三奖,大哥成,Brother Cheng,多多博彩
+2010-04-28,7915,萬能,三奖,收受利益,Receiving Benefits,大馬彩
+2009-05-30,7915,多多,特别奖,卡通人物 Power Ranger,Power Ranger,萬能
+2009-05-30,7915,多多,特别奖,大哥成,Brother Cheng,多多博彩
+2009-05-30,7915,多多,特别奖,收受利益,Receiving Benefits,大馬彩
+2009-05-23,7915,星池,安慰奖,卡通人物 Power Ranger,Power Ranger,萬能
+2009-05-23,7915,星池,安慰奖,大哥成,Brother Cheng,多多博彩
+2009-05-23,7915,星池,安慰奖,收受利益,Receiving Benefits,大馬彩
+2008-08-02,7915,大馬彩,特别奖,卡通人物 Power Ranger,Power Ranger,萬能
+2008-08-02,7915,大馬彩,特别奖,大哥成,Brother Cheng,多多博彩
+2008-08-02,7915,大馬彩,特别奖,收受利益,Receiving Benefits,大馬彩
+2007-03-24,7915,大馬彩,安慰奖,卡通人物 Power Ranger,Power Ranger,萬能
+2007-03-24,7915,大馬彩,安慰奖,大哥成,Brother Cheng,多多博彩
+2007-03-24,7915,大馬彩,安慰奖,收受利益,Receiving Benefits,大馬彩
+2006-10-14,7915,萬能,安慰奖,卡通人物 Power Ranger,Power Ranger,萬能
+2006-10-14,7915,萬能,安慰奖,大哥成,Brother Cheng,多多博彩
+2006-10-14,7915,萬能,安慰奖,收受利益,Receiving Benefits,大馬彩
+2005-06-22,7915,萬能,安慰奖,卡通人物 Power Ranger,Power Ranger,萬能
+2005-06-22,7915,萬能,安慰奖,大哥成,Brother Cheng,多多博彩
+2005-06-22,7915,萬能,安慰奖,收受利益,Receiving Benefits,大馬彩
+2004-04-04,7915,多多,安慰奖,卡通人物 Power Ranger,Power Ranger,萬能
+2004-04-04,7915,多多,安慰奖,大哥成,Brother Cheng,多多博彩
+2004-04-04,7915,多多,安慰奖,收受利益,Receiving Benefits,大馬彩
+2002-05-15,7915,萬能,首奖,卡通人物 Power Ranger,Power Ranger,萬能
+2002-05-15,7915,萬能,首奖,大哥成,Brother Cheng,多多博彩
+2002-05-15,7915,萬能,首奖,收受利益,Receiving Benefits,大馬彩
+2000-08-20,7915,萬能,安慰奖,卡通人物 Power Ranger,Power Ranger,萬能
+2000-08-20,7915,萬能,安慰奖,大哥成,Brother Cheng,多多博彩
+2000-08-20,7915,萬能,安慰奖,收受利益,Receiving Benefits,大馬彩
+1997-03-19,7915,萬能,安慰奖,卡通人物 Power Ranger,Power Ranger,萬能
+1997-03-19,7915,萬能,安慰奖,大哥成,Brother Cheng,多多博彩
+1997-03-19,7915,萬能,安慰奖,收受利益,Receiving Benefits,大馬彩
+1995-08-30,7915,大馬彩,安慰奖,卡通人物 Power Ranger,Power Ranger,萬能
+1995-08-30,7915,大馬彩,安慰奖,大哥成,Brother Cheng,多多博彩
+1995-08-30,7915,大馬彩,安慰奖,收受利益,Receiving Benefits,大馬彩
+1995-04-19,7915,多多,安慰奖,卡通人物 Power Ranger,Power Ranger,萬能
+1995-04-19,7915,多多,安慰奖,大哥成,Brother Cheng,多多博彩
+1995-04-19,7915,多多,安慰奖,收受利益,Receiving Benefits,大馬彩
+1993-07-28,7915,大馬彩,特别奖,卡通人物 Power Ranger,Power Ranger,萬能
+1993-07-28,7915,大馬彩,特别奖,大哥成,Brother Cheng,多多博彩
+1993-07-28,7915,大馬彩,特别奖,收受利益,Receiving Benefits,大馬彩
+1993-07-21,7915,大馬彩,首奖,卡通人物 Power Ranger,Power Ranger,萬能
+1993-07-21,7915,大馬彩,首奖,大哥成,Brother Cheng,多多博彩
+1993-07-21,7915,大馬彩,首奖,收受利益,Receiving Benefits,大馬彩
+1992-10-28,7915,萬能,安慰奖,卡通人物 Power Ranger,Power Ranger,萬能
+1992-10-28,7915,萬能,安慰奖,大哥成,Brother Cheng,多多博彩
+1992-10-28,7915,萬能,安慰奖,收受利益,Receiving Benefits,大馬彩
+1990-03-03,7915,多多,特别奖,卡通人物 Power Ranger,Power Ranger,萬能
+1990-03-03,7915,多多,特别奖,大哥成,Brother Cheng,多多博彩
+1990-03-03,7915,多多,特别奖,收受利益,Receiving Benefits,大馬彩
+1989-04-20,7915,多多,特别奖,卡通人物 Power Ranger,Power Ranger,萬能
+1989-04-20,7915,多多,特别奖,大哥成,Brother Cheng,多多博彩
+1989-04-20,7915,多多,特别奖,收受利益,Receiving Benefits,大馬彩
+1988-07-25,7915,多多,特别奖,卡通人物 Power Ranger,Power Ranger,萬能
+1988-07-25,7915,多多,特别奖,大哥成,Brother Cheng,多多博彩
+1988-07-25,7915,多多,特别奖,收受利益,Receiving Benefits,大馬彩
+1987-08-29,7915,多多,特别奖,卡通人物 Power Ranger,Power Ranger,萬能
+1987-08-29,7915,多多,特别奖,大哥成,Brother Cheng,多多博彩
+1987-08-29,7915,多多,特别奖,收受利益,Receiving Benefits,大馬彩
+1987-01-04,7915,多多,特别奖,卡通人物 Power Ranger,Power Ranger,萬能
+1987-01-04,7915,多多,特别奖,大哥成,Brother Cheng,多多博彩
+1987-01-04,7915,多多,特别奖,收受利益,Receiving Benefits,大馬彩
+1986-12-07,7915,多多,安慰奖,卡通人物 Power Ranger,Power Ranger,萬能
+1986-12-07,7915,多多,安慰奖,大哥成,Brother Cheng,多多博彩
+1986-12-07,7915,多多,安慰奖,收受利益,Receiving Benefits,大馬彩
+1985-07-06,7915,多多,安慰奖,卡通人物 Power Ranger,Power Ranger,萬能
+1985-07-06,7915,多多,安慰奖,大哥成,Brother Cheng,多多博彩
+1985-07-06,7915,多多,安慰奖,收受利益,Receiving Benefits,大馬彩

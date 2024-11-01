@@ -1,39 +1,115 @@
-开彩日期,彩号,秦庄,彩金,秦典,英典
-2024-10-05,9295,大馬彩,特别奖,宽频服务受影响,Interrupted Broadband Services
-2024-09-11,9295,大馬彩,安慰奖,宽频服务受影响,Interrupted Broadband Services
-2024-01-07,9295,多多博彩,安慰奖,宜,Suitable
-2023-12-16,9295,星池,特别奖,,
-2023-11-29,9295,萬能,特别奖,商用直升机,Commercial Helicopter
-2022-06-19,9295,星池,安慰奖,,
-2022-04-03,9295,星池,特别奖,,
-2021-02-27,9295,星池,安慰奖,,
-2019-08-18,9295,多多博彩,安慰奖,宜,Suitable
-2019-06-26,9295,大馬彩,三奖,宽频服务受影响,Interrupted Broadband Services
-2018-01-31,9295,多多博彩,特别奖,宜,Suitable
-2017-10-29,9295,多多博彩,安慰奖,宜,Suitable
-2017-01-22,9295,多多博彩,安慰奖,宜,Suitable
-2017-01-08,9295,大馬彩,二奖,宽频服务受影响,Interrupted Broadband Services
-2015-04-01,9295,多多博彩,特别奖,宜,Suitable
-2015-01-17,9295,大馬彩,特别奖,宽频服务受影响,Interrupted Broadband Services
-2014-11-08,9295,多多博彩,安慰奖,宜,Suitable
-2014-06-14,9295,多多博彩,安慰奖,宜,Suitable
-2013-04-03,9295,萬能,安慰奖,商用直升机,Commercial Helicopter
-2013-02-09,9295,萬能,安慰奖,商用直升机,Commercial Helicopter
-2012-08-22,9295,星池,安慰奖,,
-2011-06-18,9295,萬能,特别奖,商用直升机,Commercial Helicopter
-2010-04-10,9295,大馬彩,安慰奖,宽频服务受影响,Interrupted Broadband Services
-2007-07-04,9295,大馬彩,安慰奖,宽频服务受影响,Interrupted Broadband Services
-2007-02-28,9295,大馬彩,安慰奖,宽频服务受影响,Interrupted Broadband Services
-2005-01-16,9295,萬能,特别奖,商用直升机,Commercial Helicopter
-2004-07-18,9295,萬能,安慰奖,商用直升机,Commercial Helicopter
-2002-09-21,9295,大馬彩,特别奖,宽频服务受影响,Interrupted Broadband Services
-1999-11-07,9295,大馬彩,安慰奖,宽频服务受影响,Interrupted Broadband Services
-1999-10-03,9295,多多博彩,安慰奖,宜,Suitable
-1998-01-28,9295,多多博彩,特别奖,宜,Suitable
-1996-11-13,9295,萬能,安慰奖,商用直升机,Commercial Helicopter
-1995-07-22,9295,萬能,特别奖,商用直升机,Commercial Helicopter
-1995-04-12,9295,大馬彩,特别奖,宽频服务受影响,Interrupted Broadband Services
-1993-02-27,9295,多多博彩,三奖,宜,Suitable
-1992-10-08,9295,萬能,特别奖,商用直升机,Commercial Helicopter
-1990-06-18,9295,多多博彩,特别奖,宜,Suitable
-1985-05-18,9295,多多博彩,安慰奖,宜,Suitable
+开彩日期,彩号,秦庄,彩金,史记秦本纪,史记楚辞,史记秦庄
+2024-10-05,9295,大馬彩,特别奖,商用直升机,Commercial Helicopter,萬能
+2024-10-05,9295,大馬彩,特别奖,宜,Suitable,多多博彩
+2024-10-05,9295,大馬彩,特别奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+2024-09-11,9295,大馬彩,安慰奖,商用直升机,Commercial Helicopter,萬能
+2024-09-11,9295,大馬彩,安慰奖,宜,Suitable,多多博彩
+2024-09-11,9295,大馬彩,安慰奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+2024-01-07,9295,多多,安慰奖,商用直升机,Commercial Helicopter,萬能
+2024-01-07,9295,多多,安慰奖,宜,Suitable,多多博彩
+2024-01-07,9295,多多,安慰奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+2023-12-16,9295,星池,特别奖,商用直升机,Commercial Helicopter,萬能
+2023-12-16,9295,星池,特别奖,宜,Suitable,多多博彩
+2023-12-16,9295,星池,特别奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+2023-11-29,9295,萬能,特别奖,商用直升机,Commercial Helicopter,萬能
+2023-11-29,9295,萬能,特别奖,宜,Suitable,多多博彩
+2023-11-29,9295,萬能,特别奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+2022-06-19,9295,星池,安慰奖,商用直升机,Commercial Helicopter,萬能
+2022-06-19,9295,星池,安慰奖,宜,Suitable,多多博彩
+2022-06-19,9295,星池,安慰奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+2022-04-03,9295,星池,特别奖,商用直升机,Commercial Helicopter,萬能
+2022-04-03,9295,星池,特别奖,宜,Suitable,多多博彩
+2022-04-03,9295,星池,特别奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+2021-02-27,9295,星池,安慰奖,商用直升机,Commercial Helicopter,萬能
+2021-02-27,9295,星池,安慰奖,宜,Suitable,多多博彩
+2021-02-27,9295,星池,安慰奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+2019-08-18,9295,多多,安慰奖,商用直升机,Commercial Helicopter,萬能
+2019-08-18,9295,多多,安慰奖,宜,Suitable,多多博彩
+2019-08-18,9295,多多,安慰奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+2019-06-26,9295,大馬彩,三奖,商用直升机,Commercial Helicopter,萬能
+2019-06-26,9295,大馬彩,三奖,宜,Suitable,多多博彩
+2019-06-26,9295,大馬彩,三奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+2018-01-31,9295,多多,特别奖,商用直升机,Commercial Helicopter,萬能
+2018-01-31,9295,多多,特别奖,宜,Suitable,多多博彩
+2018-01-31,9295,多多,特别奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+2017-10-29,9295,多多,安慰奖,商用直升机,Commercial Helicopter,萬能
+2017-10-29,9295,多多,安慰奖,宜,Suitable,多多博彩
+2017-10-29,9295,多多,安慰奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+2017-01-22,9295,多多,安慰奖,商用直升机,Commercial Helicopter,萬能
+2017-01-22,9295,多多,安慰奖,宜,Suitable,多多博彩
+2017-01-22,9295,多多,安慰奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+2017-01-08,9295,大馬彩,二奖,商用直升机,Commercial Helicopter,萬能
+2017-01-08,9295,大馬彩,二奖,宜,Suitable,多多博彩
+2017-01-08,9295,大馬彩,二奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+2015-04-01,9295,多多,特别奖,商用直升机,Commercial Helicopter,萬能
+2015-04-01,9295,多多,特别奖,宜,Suitable,多多博彩
+2015-04-01,9295,多多,特别奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+2015-01-17,9295,大馬彩,特别奖,商用直升机,Commercial Helicopter,萬能
+2015-01-17,9295,大馬彩,特别奖,宜,Suitable,多多博彩
+2015-01-17,9295,大馬彩,特别奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+2014-11-08,9295,多多,安慰奖,商用直升机,Commercial Helicopter,萬能
+2014-11-08,9295,多多,安慰奖,宜,Suitable,多多博彩
+2014-11-08,9295,多多,安慰奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+2014-06-14,9295,多多,安慰奖,商用直升机,Commercial Helicopter,萬能
+2014-06-14,9295,多多,安慰奖,宜,Suitable,多多博彩
+2014-06-14,9295,多多,安慰奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+2013-04-03,9295,萬能,安慰奖,商用直升机,Commercial Helicopter,萬能
+2013-04-03,9295,萬能,安慰奖,宜,Suitable,多多博彩
+2013-04-03,9295,萬能,安慰奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+2013-02-09,9295,萬能,安慰奖,商用直升机,Commercial Helicopter,萬能
+2013-02-09,9295,萬能,安慰奖,宜,Suitable,多多博彩
+2013-02-09,9295,萬能,安慰奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+2012-08-22,9295,星池,安慰奖,商用直升机,Commercial Helicopter,萬能
+2012-08-22,9295,星池,安慰奖,宜,Suitable,多多博彩
+2012-08-22,9295,星池,安慰奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+2011-06-18,9295,萬能,特别奖,商用直升机,Commercial Helicopter,萬能
+2011-06-18,9295,萬能,特别奖,宜,Suitable,多多博彩
+2011-06-18,9295,萬能,特别奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+2010-04-10,9295,大馬彩,安慰奖,商用直升机,Commercial Helicopter,萬能
+2010-04-10,9295,大馬彩,安慰奖,宜,Suitable,多多博彩
+2010-04-10,9295,大馬彩,安慰奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+2007-07-04,9295,大馬彩,安慰奖,商用直升机,Commercial Helicopter,萬能
+2007-07-04,9295,大馬彩,安慰奖,宜,Suitable,多多博彩
+2007-07-04,9295,大馬彩,安慰奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+2007-02-28,9295,大馬彩,安慰奖,商用直升机,Commercial Helicopter,萬能
+2007-02-28,9295,大馬彩,安慰奖,宜,Suitable,多多博彩
+2007-02-28,9295,大馬彩,安慰奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+2005-01-16,9295,萬能,特别奖,商用直升机,Commercial Helicopter,萬能
+2005-01-16,9295,萬能,特别奖,宜,Suitable,多多博彩
+2005-01-16,9295,萬能,特别奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+2004-07-18,9295,萬能,安慰奖,商用直升机,Commercial Helicopter,萬能
+2004-07-18,9295,萬能,安慰奖,宜,Suitable,多多博彩
+2004-07-18,9295,萬能,安慰奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+2002-09-21,9295,大馬彩,特别奖,商用直升机,Commercial Helicopter,萬能
+2002-09-21,9295,大馬彩,特别奖,宜,Suitable,多多博彩
+2002-09-21,9295,大馬彩,特别奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+1999-11-07,9295,大馬彩,安慰奖,商用直升机,Commercial Helicopter,萬能
+1999-11-07,9295,大馬彩,安慰奖,宜,Suitable,多多博彩
+1999-11-07,9295,大馬彩,安慰奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+1999-10-03,9295,多多,安慰奖,商用直升机,Commercial Helicopter,萬能
+1999-10-03,9295,多多,安慰奖,宜,Suitable,多多博彩
+1999-10-03,9295,多多,安慰奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+1998-01-28,9295,多多,特别奖,商用直升机,Commercial Helicopter,萬能
+1998-01-28,9295,多多,特别奖,宜,Suitable,多多博彩
+1998-01-28,9295,多多,特别奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+1996-11-13,9295,萬能,安慰奖,商用直升机,Commercial Helicopter,萬能
+1996-11-13,9295,萬能,安慰奖,宜,Suitable,多多博彩
+1996-11-13,9295,萬能,安慰奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+1995-07-22,9295,萬能,特别奖,商用直升机,Commercial Helicopter,萬能
+1995-07-22,9295,萬能,特别奖,宜,Suitable,多多博彩
+1995-07-22,9295,萬能,特别奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+1995-04-12,9295,大馬彩,特别奖,商用直升机,Commercial Helicopter,萬能
+1995-04-12,9295,大馬彩,特别奖,宜,Suitable,多多博彩
+1995-04-12,9295,大馬彩,特别奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+1993-02-27,9295,多多,三奖,商用直升机,Commercial Helicopter,萬能
+1993-02-27,9295,多多,三奖,宜,Suitable,多多博彩
+1993-02-27,9295,多多,三奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+1992-10-08,9295,萬能,特别奖,商用直升机,Commercial Helicopter,萬能
+1992-10-08,9295,萬能,特别奖,宜,Suitable,多多博彩
+1992-10-08,9295,萬能,特别奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+1990-06-18,9295,多多,特别奖,商用直升机,Commercial Helicopter,萬能
+1990-06-18,9295,多多,特别奖,宜,Suitable,多多博彩
+1990-06-18,9295,多多,特别奖,宽频服务受影响,Interrupted Broadband Services,大馬彩
+1985-05-18,9295,多多,安慰奖,商用直升机,Commercial Helicopter,萬能
+1985-05-18,9295,多多,安慰奖,宜,Suitable,多多博彩
+1985-05-18,9295,多多,安慰奖,宽频服务受影响,Interrupted Broadband Services,大馬彩

@@ -1,39 +1,115 @@
-开彩日期,彩号,秦庄,彩金,秦典,英典
-2024-05-11,4583,多多博彩,特别奖,干吊片,Dried Cuttlefish
-2024-02-11,4583,多多博彩,特别奖,干吊片,Dried Cuttlefish
-2024-01-31,4583,萬能,特别奖,坐火车,Travelling By Train
-2021-12-05,4583,多多博彩,特别奖,干吊片,Dried Cuttlefish
-2019-08-04,4583,萬能,特别奖,坐火车,Travelling By Train
-2019-08-04,4583,多多博彩,特别奖,干吊片,Dried Cuttlefish
-2019-04-20,4583,大馬彩,安慰奖,超模,Supermodel
-2018-07-07,4583,大馬彩,特别奖,超模,Supermodel
-2018-05-12,4583,大馬彩,三奖,超模,Supermodel
-2017-08-09,4583,萬能,安慰奖,坐火车,Travelling By Train
-2017-06-24,4583,多多博彩,二奖,干吊片,Dried Cuttlefish
-2017-03-04,4583,星池,安慰奖,,
-2016-10-09,4583,大馬彩,安慰奖,超模,Supermodel
-2016-04-20,4583,星池,安慰奖,,
-2016-03-26,4583,萬能,特别奖,坐火车,Travelling By Train
-2015-08-12,4583,萬能,特别奖,坐火车,Travelling By Train
-2014-11-19,4583,大馬彩,首奖,超模,Supermodel
-2013-08-14,4583,萬能,安慰奖,坐火车,Travelling By Train
-2012-08-19,4583,星池,安慰奖,,
-2012-05-23,4583,大馬彩,特别奖,超模,Supermodel
-2012-01-17,4583,多多博彩,特别奖,干吊片,Dried Cuttlefish
-2009-02-03,4583,多多博彩,安慰奖,干吊片,Dried Cuttlefish
-2008-07-20,4583,星池,安慰奖,,
-2007-12-29,4583,大馬彩,首奖,超模,Supermodel
-2005-02-19,4583,大馬彩,安慰奖,超模,Supermodel
-2004-09-29,4583,萬能,安慰奖,坐火车,Travelling By Train
-2003-09-06,4583,萬能,安慰奖,坐火车,Travelling By Train
-2000-07-29,4583,萬能,特别奖,坐火车,Travelling By Train
-1999-03-31,4583,萬能,安慰奖,坐火车,Travelling By Train
-1997-07-12,4583,大馬彩,安慰奖,超模,Supermodel
-1993-12-05,4583,大馬彩,特别奖,超模,Supermodel
-1992-12-17,4583,萬能,安慰奖,坐火车,Travelling By Train
-1992-12-13,4583,大馬彩,安慰奖,超模,Supermodel
-1992-06-11,4583,萬能,特别奖,坐火车,Travelling By Train
-1990-10-13,4583,多多博彩,安慰奖,干吊片,Dried Cuttlefish
-1989-11-09,4583,多多博彩,安慰奖,干吊片,Dried Cuttlefish
-1987-11-21,4583,多多博彩,三奖,干吊片,Dried Cuttlefish
-1986-06-15,4583,多多博彩,特别奖,干吊片,Dried Cuttlefish
+开彩日期,彩号,秦庄,彩金,史记秦本纪,史记楚辞,史记秦庄
+2024-05-11,4583,多多,特别奖,坐火车,Travelling By Train,萬能
+2024-05-11,4583,多多,特别奖,干吊片,Dried Cuttlefish,多多博彩
+2024-05-11,4583,多多,特别奖,超模,Supermodel,大馬彩
+2024-02-11,4583,多多,特别奖,坐火车,Travelling By Train,萬能
+2024-02-11,4583,多多,特别奖,干吊片,Dried Cuttlefish,多多博彩
+2024-02-11,4583,多多,特别奖,超模,Supermodel,大馬彩
+2024-01-31,4583,萬能,特别奖,坐火车,Travelling By Train,萬能
+2024-01-31,4583,萬能,特别奖,干吊片,Dried Cuttlefish,多多博彩
+2024-01-31,4583,萬能,特别奖,超模,Supermodel,大馬彩
+2021-12-05,4583,多多,特别奖,坐火车,Travelling By Train,萬能
+2021-12-05,4583,多多,特别奖,干吊片,Dried Cuttlefish,多多博彩
+2021-12-05,4583,多多,特别奖,超模,Supermodel,大馬彩
+2019-08-04,4583,萬能,特别奖,坐火车,Travelling By Train,萬能
+2019-08-04,4583,萬能,特别奖,干吊片,Dried Cuttlefish,多多博彩
+2019-08-04,4583,萬能,特别奖,超模,Supermodel,大馬彩
+2019-08-04,4583,多多,特别奖,坐火车,Travelling By Train,萬能
+2019-08-04,4583,多多,特别奖,干吊片,Dried Cuttlefish,多多博彩
+2019-08-04,4583,多多,特别奖,超模,Supermodel,大馬彩
+2019-04-20,4583,大馬彩,安慰奖,坐火车,Travelling By Train,萬能
+2019-04-20,4583,大馬彩,安慰奖,干吊片,Dried Cuttlefish,多多博彩
+2019-04-20,4583,大馬彩,安慰奖,超模,Supermodel,大馬彩
+2018-07-07,4583,大馬彩,特别奖,坐火车,Travelling By Train,萬能
+2018-07-07,4583,大馬彩,特别奖,干吊片,Dried Cuttlefish,多多博彩
+2018-07-07,4583,大馬彩,特别奖,超模,Supermodel,大馬彩
+2018-05-12,4583,大馬彩,三奖,坐火车,Travelling By Train,萬能
+2018-05-12,4583,大馬彩,三奖,干吊片,Dried Cuttlefish,多多博彩
+2018-05-12,4583,大馬彩,三奖,超模,Supermodel,大馬彩
+2017-08-09,4583,萬能,安慰奖,坐火车,Travelling By Train,萬能
+2017-08-09,4583,萬能,安慰奖,干吊片,Dried Cuttlefish,多多博彩
+2017-08-09,4583,萬能,安慰奖,超模,Supermodel,大馬彩
+2017-06-24,4583,多多,二奖,坐火车,Travelling By Train,萬能
+2017-06-24,4583,多多,二奖,干吊片,Dried Cuttlefish,多多博彩
+2017-06-24,4583,多多,二奖,超模,Supermodel,大馬彩
+2017-03-04,4583,星池,安慰奖,坐火车,Travelling By Train,萬能
+2017-03-04,4583,星池,安慰奖,干吊片,Dried Cuttlefish,多多博彩
+2017-03-04,4583,星池,安慰奖,超模,Supermodel,大馬彩
+2016-10-09,4583,大馬彩,安慰奖,坐火车,Travelling By Train,萬能
+2016-10-09,4583,大馬彩,安慰奖,干吊片,Dried Cuttlefish,多多博彩
+2016-10-09,4583,大馬彩,安慰奖,超模,Supermodel,大馬彩
+2016-04-20,4583,星池,安慰奖,坐火车,Travelling By Train,萬能
+2016-04-20,4583,星池,安慰奖,干吊片,Dried Cuttlefish,多多博彩
+2016-04-20,4583,星池,安慰奖,超模,Supermodel,大馬彩
+2016-03-26,4583,萬能,特别奖,坐火车,Travelling By Train,萬能
+2016-03-26,4583,萬能,特别奖,干吊片,Dried Cuttlefish,多多博彩
+2016-03-26,4583,萬能,特别奖,超模,Supermodel,大馬彩
+2015-08-12,4583,萬能,特别奖,坐火车,Travelling By Train,萬能
+2015-08-12,4583,萬能,特别奖,干吊片,Dried Cuttlefish,多多博彩
+2015-08-12,4583,萬能,特别奖,超模,Supermodel,大馬彩
+2014-11-19,4583,大馬彩,首奖,坐火车,Travelling By Train,萬能
+2014-11-19,4583,大馬彩,首奖,干吊片,Dried Cuttlefish,多多博彩
+2014-11-19,4583,大馬彩,首奖,超模,Supermodel,大馬彩
+2013-08-14,4583,萬能,安慰奖,坐火车,Travelling By Train,萬能
+2013-08-14,4583,萬能,安慰奖,干吊片,Dried Cuttlefish,多多博彩
+2013-08-14,4583,萬能,安慰奖,超模,Supermodel,大馬彩
+2012-08-19,4583,星池,安慰奖,坐火车,Travelling By Train,萬能
+2012-08-19,4583,星池,安慰奖,干吊片,Dried Cuttlefish,多多博彩
+2012-08-19,4583,星池,安慰奖,超模,Supermodel,大馬彩
+2012-05-23,4583,大馬彩,特别奖,坐火车,Travelling By Train,萬能
+2012-05-23,4583,大馬彩,特别奖,干吊片,Dried Cuttlefish,多多博彩
+2012-05-23,4583,大馬彩,特别奖,超模,Supermodel,大馬彩
+2012-01-17,4583,多多,特别奖,坐火车,Travelling By Train,萬能
+2012-01-17,4583,多多,特别奖,干吊片,Dried Cuttlefish,多多博彩
+2012-01-17,4583,多多,特别奖,超模,Supermodel,大馬彩
+2009-02-03,4583,多多,安慰奖,坐火车,Travelling By Train,萬能
+2009-02-03,4583,多多,安慰奖,干吊片,Dried Cuttlefish,多多博彩
+2009-02-03,4583,多多,安慰奖,超模,Supermodel,大馬彩
+2008-07-20,4583,星池,安慰奖,坐火车,Travelling By Train,萬能
+2008-07-20,4583,星池,安慰奖,干吊片,Dried Cuttlefish,多多博彩
+2008-07-20,4583,星池,安慰奖,超模,Supermodel,大馬彩
+2007-12-29,4583,大馬彩,首奖,坐火车,Travelling By Train,萬能
+2007-12-29,4583,大馬彩,首奖,干吊片,Dried Cuttlefish,多多博彩
+2007-12-29,4583,大馬彩,首奖,超模,Supermodel,大馬彩
+2005-02-19,4583,大馬彩,安慰奖,坐火车,Travelling By Train,萬能
+2005-02-19,4583,大馬彩,安慰奖,干吊片,Dried Cuttlefish,多多博彩
+2005-02-19,4583,大馬彩,安慰奖,超模,Supermodel,大馬彩
+2004-09-29,4583,萬能,安慰奖,坐火车,Travelling By Train,萬能
+2004-09-29,4583,萬能,安慰奖,干吊片,Dried Cuttlefish,多多博彩
+2004-09-29,4583,萬能,安慰奖,超模,Supermodel,大馬彩
+2003-09-06,4583,萬能,安慰奖,坐火车,Travelling By Train,萬能
+2003-09-06,4583,萬能,安慰奖,干吊片,Dried Cuttlefish,多多博彩
+2003-09-06,4583,萬能,安慰奖,超模,Supermodel,大馬彩
+2000-07-29,4583,萬能,特别奖,坐火车,Travelling By Train,萬能
+2000-07-29,4583,萬能,特别奖,干吊片,Dried Cuttlefish,多多博彩
+2000-07-29,4583,萬能,特别奖,超模,Supermodel,大馬彩
+1999-03-31,4583,萬能,安慰奖,坐火车,Travelling By Train,萬能
+1999-03-31,4583,萬能,安慰奖,干吊片,Dried Cuttlefish,多多博彩
+1999-03-31,4583,萬能,安慰奖,超模,Supermodel,大馬彩
+1997-07-12,4583,大馬彩,安慰奖,坐火车,Travelling By Train,萬能
+1997-07-12,4583,大馬彩,安慰奖,干吊片,Dried Cuttlefish,多多博彩
+1997-07-12,4583,大馬彩,安慰奖,超模,Supermodel,大馬彩
+1993-12-05,4583,大馬彩,特别奖,坐火车,Travelling By Train,萬能
+1993-12-05,4583,大馬彩,特别奖,干吊片,Dried Cuttlefish,多多博彩
+1993-12-05,4583,大馬彩,特别奖,超模,Supermodel,大馬彩
+1992-12-17,4583,萬能,安慰奖,坐火车,Travelling By Train,萬能
+1992-12-17,4583,萬能,安慰奖,干吊片,Dried Cuttlefish,多多博彩
+1992-12-17,4583,萬能,安慰奖,超模,Supermodel,大馬彩
+1992-12-13,4583,大馬彩,安慰奖,坐火车,Travelling By Train,萬能
+1992-12-13,4583,大馬彩,安慰奖,干吊片,Dried Cuttlefish,多多博彩
+1992-12-13,4583,大馬彩,安慰奖,超模,Supermodel,大馬彩
+1992-06-11,4583,萬能,特别奖,坐火车,Travelling By Train,萬能
+1992-06-11,4583,萬能,特别奖,干吊片,Dried Cuttlefish,多多博彩
+1992-06-11,4583,萬能,特别奖,超模,Supermodel,大馬彩
+1990-10-13,4583,多多,安慰奖,坐火车,Travelling By Train,萬能
+1990-10-13,4583,多多,安慰奖,干吊片,Dried Cuttlefish,多多博彩
+1990-10-13,4583,多多,安慰奖,超模,Supermodel,大馬彩
+1989-11-09,4583,多多,安慰奖,坐火车,Travelling By Train,萬能
+1989-11-09,4583,多多,安慰奖,干吊片,Dried Cuttlefish,多多博彩
+1989-11-09,4583,多多,安慰奖,超模,Supermodel,大馬彩
+1987-11-21,4583,多多,三奖,坐火车,Travelling By Train,萬能
+1987-11-21,4583,多多,三奖,干吊片,Dried Cuttlefish,多多博彩
+1987-11-21,4583,多多,三奖,超模,Supermodel,大馬彩
+1986-06-15,4583,多多,特别奖,坐火车,Travelling By Train,萬能
+1986-06-15,4583,多多,特别奖,干吊片,Dried Cuttlefish,多多博彩
+1986-06-15,4583,多多,特别奖,超模,Supermodel,大馬彩

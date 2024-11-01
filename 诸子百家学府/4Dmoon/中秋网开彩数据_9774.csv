@@ -1,51 +1,151 @@
-开彩日期,彩号,秦庄,彩金,秦典,英典
-2024-04-13,9774,大馬彩,特别奖,素食节,Vegetarian Festival
-2024-02-18,9774,多多博彩,特别奖,叶,Leaf
-2024-01-14,9774,星池,安慰奖,,
-2023-12-20,9774,多多博彩,首奖,叶,Leaf
-2023-01-07,9774,多多博彩,安慰奖,叶,Leaf
-2023-01-04,9774,星池,特别奖,,
-2022-12-28,9774,星池,特别奖,,
-2021-10-10,9774,星池,三奖,,
-2020-12-12,9774,大馬彩,安慰奖,素食节,Vegetarian Festival
-2019-09-15,9774,萬能,安慰奖,包青天,Judge Pao Of Ancient China
-2018-10-03,9774,多多博彩,特别奖,叶,Leaf
-2018-05-02,9774,大馬彩,特别奖,素食节,Vegetarian Festival
-2017-11-12,9774,大馬彩,安慰奖,素食节,Vegetarian Festival
-2017-04-23,9774,多多博彩,安慰奖,叶,Leaf
-2016-08-28,9774,多多博彩,特别奖,叶,Leaf
-2016-06-12,9774,多多博彩,特别奖,叶,Leaf
-2015-09-12,9774,萬能,首奖,包青天,Judge Pao Of Ancient China
-2014-10-12,9774,大馬彩,特别奖,素食节,Vegetarian Festival
-2014-08-09,9774,星池,安慰奖,,
-2013-01-05,9774,多多博彩,安慰奖,叶,Leaf
-2011-03-27,9774,大馬彩,特别奖,素食节,Vegetarian Festival
-2010-09-25,9774,大馬彩,安慰奖,素食节,Vegetarian Festival
-2010-07-27,9774,多多博彩,安慰奖,叶,Leaf
-2009-08-26,9774,星池,特别奖,,
-2009-02-07,9774,多多博彩,安慰奖,叶,Leaf
-2008-05-18,9774,大馬彩,特别奖,素食节,Vegetarian Festival
-2008-04-13,9774,星池,安慰奖,,
-2007-02-28,9774,多多博彩,首奖,叶,Leaf
-2006-10-11,9774,大馬彩,特别奖,素食节,Vegetarian Festival
-2006-09-27,9774,大馬彩,安慰奖,素食节,Vegetarian Festival
-2006-04-30,9774,大馬彩,特别奖,素食节,Vegetarian Festival
-2005-11-13,9774,大馬彩,安慰奖,素食节,Vegetarian Festival
-2005-09-21,9774,萬能,特别奖,包青天,Judge Pao Of Ancient China
-2004-08-03,9774,萬能,特别奖,包青天,Judge Pao Of Ancient China
-2003-11-16,9774,萬能,特别奖,包青天,Judge Pao Of Ancient China
-2003-04-02,9774,萬能,特别奖,包青天,Judge Pao Of Ancient China
-2002-05-15,9774,多多博彩,首奖,叶,Leaf
-1998-10-07,9774,多多博彩,安慰奖,叶,Leaf
-1998-09-23,9774,大馬彩,特别奖,素食节,Vegetarian Festival
-1998-07-01,9774,萬能,特别奖,包青天,Judge Pao Of Ancient China
-1998-05-16,9774,萬能,安慰奖,包青天,Judge Pao Of Ancient China
-1998-03-01,9774,多多博彩,特别奖,叶,Leaf
-1998-01-11,9774,萬能,安慰奖,包青天,Judge Pao Of Ancient China
-1997-12-13,9774,萬能,特别奖,包青天,Judge Pao Of Ancient China
-1996-06-09,9774,萬能,特别奖,包青天,Judge Pao Of Ancient China
-1995-01-28,9774,大馬彩,安慰奖,素食节,Vegetarian Festival
-1993-09-25,9774,多多博彩,首奖,叶,Leaf
-1993-02-07,9774,萬能,安慰奖,包青天,Judge Pao Of Ancient China
-1992-01-12,9774,大馬彩,特别奖,素食节,Vegetarian Festival
-1986-05-17,9774,多多博彩,安慰奖,叶,Leaf
+开彩日期,彩号,秦庄,彩金,史记秦本纪,史记楚辞,史记秦庄
+2024-04-13,9774,大馬彩,特别奖,包青天,Judge Pao Of Ancient China,萬能
+2024-04-13,9774,大馬彩,特别奖,叶,Leaf,多多博彩
+2024-04-13,9774,大馬彩,特别奖,素食节,Vegetarian Festival,大馬彩
+2024-02-18,9774,多多,特别奖,包青天,Judge Pao Of Ancient China,萬能
+2024-02-18,9774,多多,特别奖,叶,Leaf,多多博彩
+2024-02-18,9774,多多,特别奖,素食节,Vegetarian Festival,大馬彩
+2024-01-14,9774,星池,安慰奖,包青天,Judge Pao Of Ancient China,萬能
+2024-01-14,9774,星池,安慰奖,叶,Leaf,多多博彩
+2024-01-14,9774,星池,安慰奖,素食节,Vegetarian Festival,大馬彩
+2023-12-20,9774,多多,首奖,包青天,Judge Pao Of Ancient China,萬能
+2023-12-20,9774,多多,首奖,叶,Leaf,多多博彩
+2023-12-20,9774,多多,首奖,素食节,Vegetarian Festival,大馬彩
+2023-01-07,9774,多多,安慰奖,包青天,Judge Pao Of Ancient China,萬能
+2023-01-07,9774,多多,安慰奖,叶,Leaf,多多博彩
+2023-01-07,9774,多多,安慰奖,素食节,Vegetarian Festival,大馬彩
+2023-01-04,9774,星池,特别奖,包青天,Judge Pao Of Ancient China,萬能
+2023-01-04,9774,星池,特别奖,叶,Leaf,多多博彩
+2023-01-04,9774,星池,特别奖,素食节,Vegetarian Festival,大馬彩
+2022-12-28,9774,星池,特别奖,包青天,Judge Pao Of Ancient China,萬能
+2022-12-28,9774,星池,特别奖,叶,Leaf,多多博彩
+2022-12-28,9774,星池,特别奖,素食节,Vegetarian Festival,大馬彩
+2021-10-10,9774,星池,三奖,包青天,Judge Pao Of Ancient China,萬能
+2021-10-10,9774,星池,三奖,叶,Leaf,多多博彩
+2021-10-10,9774,星池,三奖,素食节,Vegetarian Festival,大馬彩
+2020-12-12,9774,大馬彩,安慰奖,包青天,Judge Pao Of Ancient China,萬能
+2020-12-12,9774,大馬彩,安慰奖,叶,Leaf,多多博彩
+2020-12-12,9774,大馬彩,安慰奖,素食节,Vegetarian Festival,大馬彩
+2019-09-15,9774,萬能,安慰奖,包青天,Judge Pao Of Ancient China,萬能
+2019-09-15,9774,萬能,安慰奖,叶,Leaf,多多博彩
+2019-09-15,9774,萬能,安慰奖,素食节,Vegetarian Festival,大馬彩
+2018-10-03,9774,多多,特别奖,包青天,Judge Pao Of Ancient China,萬能
+2018-10-03,9774,多多,特别奖,叶,Leaf,多多博彩
+2018-10-03,9774,多多,特别奖,素食节,Vegetarian Festival,大馬彩
+2018-05-02,9774,大馬彩,特别奖,包青天,Judge Pao Of Ancient China,萬能
+2018-05-02,9774,大馬彩,特别奖,叶,Leaf,多多博彩
+2018-05-02,9774,大馬彩,特别奖,素食节,Vegetarian Festival,大馬彩
+2017-11-12,9774,大馬彩,安慰奖,包青天,Judge Pao Of Ancient China,萬能
+2017-11-12,9774,大馬彩,安慰奖,叶,Leaf,多多博彩
+2017-11-12,9774,大馬彩,安慰奖,素食节,Vegetarian Festival,大馬彩
+2017-04-23,9774,多多,安慰奖,包青天,Judge Pao Of Ancient China,萬能
+2017-04-23,9774,多多,安慰奖,叶,Leaf,多多博彩
+2017-04-23,9774,多多,安慰奖,素食节,Vegetarian Festival,大馬彩
+2016-08-28,9774,多多,特别奖,包青天,Judge Pao Of Ancient China,萬能
+2016-08-28,9774,多多,特别奖,叶,Leaf,多多博彩
+2016-08-28,9774,多多,特别奖,素食节,Vegetarian Festival,大馬彩
+2016-06-12,9774,多多,特别奖,包青天,Judge Pao Of Ancient China,萬能
+2016-06-12,9774,多多,特别奖,叶,Leaf,多多博彩
+2016-06-12,9774,多多,特别奖,素食节,Vegetarian Festival,大馬彩
+2015-09-12,9774,萬能,首奖,包青天,Judge Pao Of Ancient China,萬能
+2015-09-12,9774,萬能,首奖,叶,Leaf,多多博彩
+2015-09-12,9774,萬能,首奖,素食节,Vegetarian Festival,大馬彩
+2014-10-12,9774,大馬彩,特别奖,包青天,Judge Pao Of Ancient China,萬能
+2014-10-12,9774,大馬彩,特别奖,叶,Leaf,多多博彩
+2014-10-12,9774,大馬彩,特别奖,素食节,Vegetarian Festival,大馬彩
+2014-08-09,9774,星池,安慰奖,包青天,Judge Pao Of Ancient China,萬能
+2014-08-09,9774,星池,安慰奖,叶,Leaf,多多博彩
+2014-08-09,9774,星池,安慰奖,素食节,Vegetarian Festival,大馬彩
+2013-01-05,9774,多多,安慰奖,包青天,Judge Pao Of Ancient China,萬能
+2013-01-05,9774,多多,安慰奖,叶,Leaf,多多博彩
+2013-01-05,9774,多多,安慰奖,素食节,Vegetarian Festival,大馬彩
+2011-03-27,9774,大馬彩,特别奖,包青天,Judge Pao Of Ancient China,萬能
+2011-03-27,9774,大馬彩,特别奖,叶,Leaf,多多博彩
+2011-03-27,9774,大馬彩,特别奖,素食节,Vegetarian Festival,大馬彩
+2010-09-25,9774,大馬彩,安慰奖,包青天,Judge Pao Of Ancient China,萬能
+2010-09-25,9774,大馬彩,安慰奖,叶,Leaf,多多博彩
+2010-09-25,9774,大馬彩,安慰奖,素食节,Vegetarian Festival,大馬彩
+2010-07-27,9774,多多,安慰奖,包青天,Judge Pao Of Ancient China,萬能
+2010-07-27,9774,多多,安慰奖,叶,Leaf,多多博彩
+2010-07-27,9774,多多,安慰奖,素食节,Vegetarian Festival,大馬彩
+2009-08-26,9774,星池,特别奖,包青天,Judge Pao Of Ancient China,萬能
+2009-08-26,9774,星池,特别奖,叶,Leaf,多多博彩
+2009-08-26,9774,星池,特别奖,素食节,Vegetarian Festival,大馬彩
+2009-02-07,9774,多多,安慰奖,包青天,Judge Pao Of Ancient China,萬能
+2009-02-07,9774,多多,安慰奖,叶,Leaf,多多博彩
+2009-02-07,9774,多多,安慰奖,素食节,Vegetarian Festival,大馬彩
+2008-05-18,9774,大馬彩,特别奖,包青天,Judge Pao Of Ancient China,萬能
+2008-05-18,9774,大馬彩,特别奖,叶,Leaf,多多博彩
+2008-05-18,9774,大馬彩,特别奖,素食节,Vegetarian Festival,大馬彩
+2008-04-13,9774,星池,安慰奖,包青天,Judge Pao Of Ancient China,萬能
+2008-04-13,9774,星池,安慰奖,叶,Leaf,多多博彩
+2008-04-13,9774,星池,安慰奖,素食节,Vegetarian Festival,大馬彩
+2007-02-28,9774,多多,首奖,包青天,Judge Pao Of Ancient China,萬能
+2007-02-28,9774,多多,首奖,叶,Leaf,多多博彩
+2007-02-28,9774,多多,首奖,素食节,Vegetarian Festival,大馬彩
+2006-10-11,9774,大馬彩,特别奖,包青天,Judge Pao Of Ancient China,萬能
+2006-10-11,9774,大馬彩,特别奖,叶,Leaf,多多博彩
+2006-10-11,9774,大馬彩,特别奖,素食节,Vegetarian Festival,大馬彩
+2006-09-27,9774,大馬彩,安慰奖,包青天,Judge Pao Of Ancient China,萬能
+2006-09-27,9774,大馬彩,安慰奖,叶,Leaf,多多博彩
+2006-09-27,9774,大馬彩,安慰奖,素食节,Vegetarian Festival,大馬彩
+2006-04-30,9774,大馬彩,特别奖,包青天,Judge Pao Of Ancient China,萬能
+2006-04-30,9774,大馬彩,特别奖,叶,Leaf,多多博彩
+2006-04-30,9774,大馬彩,特别奖,素食节,Vegetarian Festival,大馬彩
+2005-11-13,9774,大馬彩,安慰奖,包青天,Judge Pao Of Ancient China,萬能
+2005-11-13,9774,大馬彩,安慰奖,叶,Leaf,多多博彩
+2005-11-13,9774,大馬彩,安慰奖,素食节,Vegetarian Festival,大馬彩
+2005-09-21,9774,萬能,特别奖,包青天,Judge Pao Of Ancient China,萬能
+2005-09-21,9774,萬能,特别奖,叶,Leaf,多多博彩
+2005-09-21,9774,萬能,特别奖,素食节,Vegetarian Festival,大馬彩
+2004-08-03,9774,萬能,特别奖,包青天,Judge Pao Of Ancient China,萬能
+2004-08-03,9774,萬能,特别奖,叶,Leaf,多多博彩
+2004-08-03,9774,萬能,特别奖,素食节,Vegetarian Festival,大馬彩
+2003-11-16,9774,萬能,特别奖,包青天,Judge Pao Of Ancient China,萬能
+2003-11-16,9774,萬能,特别奖,叶,Leaf,多多博彩
+2003-11-16,9774,萬能,特别奖,素食节,Vegetarian Festival,大馬彩
+2003-04-02,9774,萬能,特别奖,包青天,Judge Pao Of Ancient China,萬能
+2003-04-02,9774,萬能,特别奖,叶,Leaf,多多博彩
+2003-04-02,9774,萬能,特别奖,素食节,Vegetarian Festival,大馬彩
+2002-05-15,9774,多多,首奖,包青天,Judge Pao Of Ancient China,萬能
+2002-05-15,9774,多多,首奖,叶,Leaf,多多博彩
+2002-05-15,9774,多多,首奖,素食节,Vegetarian Festival,大馬彩
+1998-10-07,9774,多多,安慰奖,包青天,Judge Pao Of Ancient China,萬能
+1998-10-07,9774,多多,安慰奖,叶,Leaf,多多博彩
+1998-10-07,9774,多多,安慰奖,素食节,Vegetarian Festival,大馬彩
+1998-09-23,9774,大馬彩,特别奖,包青天,Judge Pao Of Ancient China,萬能
+1998-09-23,9774,大馬彩,特别奖,叶,Leaf,多多博彩
+1998-09-23,9774,大馬彩,特别奖,素食节,Vegetarian Festival,大馬彩
+1998-07-01,9774,萬能,特别奖,包青天,Judge Pao Of Ancient China,萬能
+1998-07-01,9774,萬能,特别奖,叶,Leaf,多多博彩
+1998-07-01,9774,萬能,特别奖,素食节,Vegetarian Festival,大馬彩
+1998-05-16,9774,萬能,安慰奖,包青天,Judge Pao Of Ancient China,萬能
+1998-05-16,9774,萬能,安慰奖,叶,Leaf,多多博彩
+1998-05-16,9774,萬能,安慰奖,素食节,Vegetarian Festival,大馬彩
+1998-03-01,9774,多多,特别奖,包青天,Judge Pao Of Ancient China,萬能
+1998-03-01,9774,多多,特别奖,叶,Leaf,多多博彩
+1998-03-01,9774,多多,特别奖,素食节,Vegetarian Festival,大馬彩
+1998-01-11,9774,萬能,安慰奖,包青天,Judge Pao Of Ancient China,萬能
+1998-01-11,9774,萬能,安慰奖,叶,Leaf,多多博彩
+1998-01-11,9774,萬能,安慰奖,素食节,Vegetarian Festival,大馬彩
+1997-12-13,9774,萬能,特别奖,包青天,Judge Pao Of Ancient China,萬能
+1997-12-13,9774,萬能,特别奖,叶,Leaf,多多博彩
+1997-12-13,9774,萬能,特别奖,素食节,Vegetarian Festival,大馬彩
+1996-06-09,9774,萬能,特别奖,包青天,Judge Pao Of Ancient China,萬能
+1996-06-09,9774,萬能,特别奖,叶,Leaf,多多博彩
+1996-06-09,9774,萬能,特别奖,素食节,Vegetarian Festival,大馬彩
+1995-01-28,9774,大馬彩,安慰奖,包青天,Judge Pao Of Ancient China,萬能
+1995-01-28,9774,大馬彩,安慰奖,叶,Leaf,多多博彩
+1995-01-28,9774,大馬彩,安慰奖,素食节,Vegetarian Festival,大馬彩
+1993-09-25,9774,多多,首奖,包青天,Judge Pao Of Ancient China,萬能
+1993-09-25,9774,多多,首奖,叶,Leaf,多多博彩
+1993-09-25,9774,多多,首奖,素食节,Vegetarian Festival,大馬彩
+1993-02-07,9774,萬能,安慰奖,包青天,Judge Pao Of Ancient China,萬能
+1993-02-07,9774,萬能,安慰奖,叶,Leaf,多多博彩
+1993-02-07,9774,萬能,安慰奖,素食节,Vegetarian Festival,大馬彩
+1992-01-12,9774,大馬彩,特别奖,包青天,Judge Pao Of Ancient China,萬能
+1992-01-12,9774,大馬彩,特别奖,叶,Leaf,多多博彩
+1992-01-12,9774,大馬彩,特别奖,素食节,Vegetarian Festival,大馬彩
+1986-05-17,9774,多多,安慰奖,包青天,Judge Pao Of Ancient China,萬能
+1986-05-17,9774,多多,安慰奖,叶,Leaf,多多博彩
+1986-05-17,9774,多多,安慰奖,素食节,Vegetarian Festival,大馬彩

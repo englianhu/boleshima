@@ -1,34 +1,100 @@
-开彩日期,彩号,秦庄,彩金,秦典,英典
-2023-11-18,0497,大馬彩,特别奖,姐夫,Brother In Law
-2023-07-26,0497,萬能,安慰奖,姐夫或妹夫,Brother- In- Law( Sister's Husband)
-2022-10-30,0497,大馬彩,二奖,姐夫,Brother In Law
-2022-06-29,0497,大馬彩,安慰奖,姐夫,Brother In Law
-2019-08-28,0497,大馬彩,安慰奖,姐夫,Brother In Law
-2019-01-12,0497,多多博彩,特别奖,姐夫,Brother-in-law
-2018-06-03,0497,萬能,特别奖,姐夫或妹夫,Brother- In- Law( Sister's Husband)
-2017-10-03,0497,萬能,安慰奖,姐夫或妹夫,Brother- In- Law( Sister's Husband)
-2016-12-11,0497,多多博彩,安慰奖,姐夫,Brother-in-law
-2016-08-31,0497,多多博彩,安慰奖,姐夫,Brother-in-law
-2016-07-16,0497,萬能,特别奖,姐夫或妹夫,Brother- In- Law( Sister's Husband)
-2014-04-08,0497,萬能,安慰奖,姐夫或妹夫,Brother- In- Law( Sister's Husband)
-2013-11-10,0497,多多博彩,特别奖,姐夫,Brother-in-law
-2012-10-07,0497,多多博彩,安慰奖,姐夫,Brother-in-law
-2012-05-02,0497,星池,特别奖,,
-2011-02-16,0497,星池,特别奖,,
-2010-05-22,0497,大馬彩,安慰奖,姐夫,Brother In Law
-2010-02-17,0497,大馬彩,安慰奖,姐夫,Brother In Law
-2008-01-02,0497,多多博彩,特别奖,姐夫,Brother-in-law
-2007-09-16,0497,萬能,安慰奖,姐夫或妹夫,Brother- In- Law( Sister's Husband)
-2006-09-10,0497,多多博彩,安慰奖,姐夫,Brother-in-law
-2005-02-05,0497,多多博彩,首奖,姐夫,Brother-in-law
-2002-06-05,0497,大馬彩,安慰奖,姐夫,Brother In Law
-2001-07-15,0497,多多博彩,安慰奖,姐夫,Brother-in-law
-2000-05-07,0497,萬能,安慰奖,姐夫或妹夫,Brother- In- Law( Sister's Husband)
-1999-08-03,0497,多多博彩,安慰奖,姐夫,Brother-in-law
-1997-11-02,0497,萬能,特别奖,姐夫或妹夫,Brother- In- Law( Sister's Husband)
-1996-05-04,0497,多多博彩,安慰奖,姐夫,Brother-in-law
-1995-08-02,0497,多多博彩,特别奖,姐夫,Brother-in-law
-1994-06-23,0497,多多博彩,安慰奖,姐夫,Brother-in-law
-1993-09-19,0497,大馬彩,安慰奖,姐夫,Brother In Law
-1993-07-08,0497,多多博彩,特别奖,姐夫,Brother-in-law
-1988-05-30,0497,多多博彩,安慰奖,姐夫,Brother-in-law
+开彩日期,彩号,秦庄,彩金,史记秦本纪,史记楚辞,史记秦庄
+2023-11-18,0497,大馬彩,特别奖,姐夫或妹夫,Brother- In- Law( Sister's Husband),萬能
+2023-11-18,0497,大馬彩,特别奖,姐夫,Brother-in-law,多多博彩
+2023-11-18,0497,大馬彩,特别奖,姐夫,Brother In Law,大馬彩
+2023-07-26,0497,萬能,安慰奖,姐夫或妹夫,Brother- In- Law( Sister's Husband),萬能
+2023-07-26,0497,萬能,安慰奖,姐夫,Brother-in-law,多多博彩
+2023-07-26,0497,萬能,安慰奖,姐夫,Brother In Law,大馬彩
+2022-10-30,0497,大馬彩,二奖,姐夫或妹夫,Brother- In- Law( Sister's Husband),萬能
+2022-10-30,0497,大馬彩,二奖,姐夫,Brother-in-law,多多博彩
+2022-10-30,0497,大馬彩,二奖,姐夫,Brother In Law,大馬彩
+2022-06-29,0497,大馬彩,安慰奖,姐夫或妹夫,Brother- In- Law( Sister's Husband),萬能
+2022-06-29,0497,大馬彩,安慰奖,姐夫,Brother-in-law,多多博彩
+2022-06-29,0497,大馬彩,安慰奖,姐夫,Brother In Law,大馬彩
+2019-08-28,0497,大馬彩,安慰奖,姐夫或妹夫,Brother- In- Law( Sister's Husband),萬能
+2019-08-28,0497,大馬彩,安慰奖,姐夫,Brother-in-law,多多博彩
+2019-08-28,0497,大馬彩,安慰奖,姐夫,Brother In Law,大馬彩
+2019-01-12,0497,多多,特别奖,姐夫或妹夫,Brother- In- Law( Sister's Husband),萬能
+2019-01-12,0497,多多,特别奖,姐夫,Brother-in-law,多多博彩
+2019-01-12,0497,多多,特别奖,姐夫,Brother In Law,大馬彩
+2018-06-03,0497,萬能,特别奖,姐夫或妹夫,Brother- In- Law( Sister's Husband),萬能
+2018-06-03,0497,萬能,特别奖,姐夫,Brother-in-law,多多博彩
+2018-06-03,0497,萬能,特别奖,姐夫,Brother In Law,大馬彩
+2017-10-03,0497,萬能,安慰奖,姐夫或妹夫,Brother- In- Law( Sister's Husband),萬能
+2017-10-03,0497,萬能,安慰奖,姐夫,Brother-in-law,多多博彩
+2017-10-03,0497,萬能,安慰奖,姐夫,Brother In Law,大馬彩
+2016-12-11,0497,多多,安慰奖,姐夫或妹夫,Brother- In- Law( Sister's Husband),萬能
+2016-12-11,0497,多多,安慰奖,姐夫,Brother-in-law,多多博彩
+2016-12-11,0497,多多,安慰奖,姐夫,Brother In Law,大馬彩
+2016-08-31,0497,多多,安慰奖,姐夫或妹夫,Brother- In- Law( Sister's Husband),萬能
+2016-08-31,0497,多多,安慰奖,姐夫,Brother-in-law,多多博彩
+2016-08-31,0497,多多,安慰奖,姐夫,Brother In Law,大馬彩
+2016-07-16,0497,萬能,特别奖,姐夫或妹夫,Brother- In- Law( Sister's Husband),萬能
+2016-07-16,0497,萬能,特别奖,姐夫,Brother-in-law,多多博彩
+2016-07-16,0497,萬能,特别奖,姐夫,Brother In Law,大馬彩
+2014-04-08,0497,萬能,安慰奖,姐夫或妹夫,Brother- In- Law( Sister's Husband),萬能
+2014-04-08,0497,萬能,安慰奖,姐夫,Brother-in-law,多多博彩
+2014-04-08,0497,萬能,安慰奖,姐夫,Brother In Law,大馬彩
+2013-11-10,0497,多多,特别奖,姐夫或妹夫,Brother- In- Law( Sister's Husband),萬能
+2013-11-10,0497,多多,特别奖,姐夫,Brother-in-law,多多博彩
+2013-11-10,0497,多多,特别奖,姐夫,Brother In Law,大馬彩
+2012-10-07,0497,多多,安慰奖,姐夫或妹夫,Brother- In- Law( Sister's Husband),萬能
+2012-10-07,0497,多多,安慰奖,姐夫,Brother-in-law,多多博彩
+2012-10-07,0497,多多,安慰奖,姐夫,Brother In Law,大馬彩
+2012-05-02,0497,星池,特别奖,姐夫或妹夫,Brother- In- Law( Sister's Husband),萬能
+2012-05-02,0497,星池,特别奖,姐夫,Brother-in-law,多多博彩
+2012-05-02,0497,星池,特别奖,姐夫,Brother In Law,大馬彩
+2011-02-16,0497,星池,特别奖,姐夫或妹夫,Brother- In- Law( Sister's Husband),萬能
+2011-02-16,0497,星池,特别奖,姐夫,Brother-in-law,多多博彩
+2011-02-16,0497,星池,特别奖,姐夫,Brother In Law,大馬彩
+2010-05-22,0497,大馬彩,安慰奖,姐夫或妹夫,Brother- In- Law( Sister's Husband),萬能
+2010-05-22,0497,大馬彩,安慰奖,姐夫,Brother-in-law,多多博彩
+2010-05-22,0497,大馬彩,安慰奖,姐夫,Brother In Law,大馬彩
+2010-02-17,0497,大馬彩,安慰奖,姐夫或妹夫,Brother- In- Law( Sister's Husband),萬能
+2010-02-17,0497,大馬彩,安慰奖,姐夫,Brother-in-law,多多博彩
+2010-02-17,0497,大馬彩,安慰奖,姐夫,Brother In Law,大馬彩
+2008-01-02,0497,多多,特别奖,姐夫或妹夫,Brother- In- Law( Sister's Husband),萬能
+2008-01-02,0497,多多,特别奖,姐夫,Brother-in-law,多多博彩
+2008-01-02,0497,多多,特别奖,姐夫,Brother In Law,大馬彩
+2007-09-16,0497,萬能,安慰奖,姐夫或妹夫,Brother- In- Law( Sister's Husband),萬能
+2007-09-16,0497,萬能,安慰奖,姐夫,Brother-in-law,多多博彩
+2007-09-16,0497,萬能,安慰奖,姐夫,Brother In Law,大馬彩
+2006-09-10,0497,多多,安慰奖,姐夫或妹夫,Brother- In- Law( Sister's Husband),萬能
+2006-09-10,0497,多多,安慰奖,姐夫,Brother-in-law,多多博彩
+2006-09-10,0497,多多,安慰奖,姐夫,Brother In Law,大馬彩
+2005-02-05,0497,多多,首奖,姐夫或妹夫,Brother- In- Law( Sister's Husband),萬能
+2005-02-05,0497,多多,首奖,姐夫,Brother-in-law,多多博彩
+2005-02-05,0497,多多,首奖,姐夫,Brother In Law,大馬彩
+2002-06-05,0497,大馬彩,安慰奖,姐夫或妹夫,Brother- In- Law( Sister's Husband),萬能
+2002-06-05,0497,大馬彩,安慰奖,姐夫,Brother-in-law,多多博彩
+2002-06-05,0497,大馬彩,安慰奖,姐夫,Brother In Law,大馬彩
+2001-07-15,0497,多多,安慰奖,姐夫或妹夫,Brother- In- Law( Sister's Husband),萬能
+2001-07-15,0497,多多,安慰奖,姐夫,Brother-in-law,多多博彩
+2001-07-15,0497,多多,安慰奖,姐夫,Brother In Law,大馬彩
+2000-05-07,0497,萬能,安慰奖,姐夫或妹夫,Brother- In- Law( Sister's Husband),萬能
+2000-05-07,0497,萬能,安慰奖,姐夫,Brother-in-law,多多博彩
+2000-05-07,0497,萬能,安慰奖,姐夫,Brother In Law,大馬彩
+1999-08-03,0497,多多,安慰奖,姐夫或妹夫,Brother- In- Law( Sister's Husband),萬能
+1999-08-03,0497,多多,安慰奖,姐夫,Brother-in-law,多多博彩
+1999-08-03,0497,多多,安慰奖,姐夫,Brother In Law,大馬彩
+1997-11-02,0497,萬能,特别奖,姐夫或妹夫,Brother- In- Law( Sister's Husband),萬能
+1997-11-02,0497,萬能,特别奖,姐夫,Brother-in-law,多多博彩
+1997-11-02,0497,萬能,特别奖,姐夫,Brother In Law,大馬彩
+1996-05-04,0497,多多,安慰奖,姐夫或妹夫,Brother- In- Law( Sister's Husband),萬能
+1996-05-04,0497,多多,安慰奖,姐夫,Brother-in-law,多多博彩
+1996-05-04,0497,多多,安慰奖,姐夫,Brother In Law,大馬彩
+1995-08-02,0497,多多,特别奖,姐夫或妹夫,Brother- In- Law( Sister's Husband),萬能
+1995-08-02,0497,多多,特别奖,姐夫,Brother-in-law,多多博彩
+1995-08-02,0497,多多,特别奖,姐夫,Brother In Law,大馬彩
+1994-06-23,0497,多多,安慰奖,姐夫或妹夫,Brother- In- Law( Sister's Husband),萬能
+1994-06-23,0497,多多,安慰奖,姐夫,Brother-in-law,多多博彩
+1994-06-23,0497,多多,安慰奖,姐夫,Brother In Law,大馬彩
+1993-09-19,0497,大馬彩,安慰奖,姐夫或妹夫,Brother- In- Law( Sister's Husband),萬能
+1993-09-19,0497,大馬彩,安慰奖,姐夫,Brother-in-law,多多博彩
+1993-09-19,0497,大馬彩,安慰奖,姐夫,Brother In Law,大馬彩
+1993-07-08,0497,多多,特别奖,姐夫或妹夫,Brother- In- Law( Sister's Husband),萬能
+1993-07-08,0497,多多,特别奖,姐夫,Brother-in-law,多多博彩
+1993-07-08,0497,多多,特别奖,姐夫,Brother In Law,大馬彩
+1988-05-30,0497,多多,安慰奖,姐夫或妹夫,Brother- In- Law( Sister's Husband),萬能
+1988-05-30,0497,多多,安慰奖,姐夫,Brother-in-law,多多博彩
+1988-05-30,0497,多多,安慰奖,姐夫,Brother In Law,大馬彩

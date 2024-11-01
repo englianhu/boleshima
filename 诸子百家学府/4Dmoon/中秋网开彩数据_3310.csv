@@ -1,51 +1,151 @@
-开彩日期,彩号,秦庄,彩金,秦典,英典
-2023-10-11,3310,星池,安慰奖,,
-2023-08-29,3310,萬能,安慰奖,水陆两用直升机,Amphibian Helicopter
-2023-06-28,3310,多多博彩,特别奖,水上直升机,Water Helicopters
-2023-05-28,3310,星池,安慰奖,,
-2023-03-12,3310,星池,安慰奖,,
-2023-01-21,3310,多多博彩,二奖,水上直升机,Water Helicopters
-2022-10-09,3310,大馬彩,安慰奖,水上直升机,Helicopter Spraying Water
-2022-07-26,3310,大馬彩,安慰奖,水上直升机,Helicopter Spraying Water
-2022-05-18,3310,多多博彩,特别奖,水上直升机,Water Helicopters
-2022-02-27,3310,大馬彩,安慰奖,水上直升机,Helicopter Spraying Water
-2022-02-02,3310,萬能,特别奖,水陆两用直升机,Amphibian Helicopter
-2020-11-04,3310,多多博彩,特别奖,水上直升机,Water Helicopters
-2020-02-22,3310,大馬彩,安慰奖,水上直升机,Helicopter Spraying Water
-2019-08-04,3310,多多博彩,安慰奖,水上直升机,Water Helicopters
-2019-04-24,3310,萬能,特别奖,水陆两用直升机,Amphibian Helicopter
-2018-12-26,3310,萬能,安慰奖,水陆两用直升机,Amphibian Helicopter
-2017-10-01,3310,多多博彩,安慰奖,水上直升机,Water Helicopters
-2017-07-26,3310,大馬彩,安慰奖,水上直升机,Helicopter Spraying Water
-2016-10-01,3310,大馬彩,安慰奖,水上直升机,Helicopter Spraying Water
-2016-02-21,3310,星池,二奖,,
-2014-09-28,3310,星池,特别奖,,
-2014-04-16,3310,萬能,二奖,水陆两用直升机,Amphibian Helicopter
-2014-04-12,3310,多多博彩,二奖,水上直升机,Water Helicopters
-2014-01-12,3310,星池,特别奖,,
-2012-09-12,3310,大馬彩,特别奖,水上直升机,Helicopter Spraying Water
-2010-01-10,3310,大馬彩,安慰奖,水上直升机,Helicopter Spraying Water
-2009-06-20,3310,星池,特别奖,,
-2009-01-25,3310,多多博彩,特别奖,水上直升机,Water Helicopters
-2008-09-10,3310,星池,特别奖,,
-2007-10-21,3310,多多博彩,安慰奖,水上直升机,Water Helicopters
-2007-04-28,3310,大馬彩,安慰奖,水上直升机,Helicopter Spraying Water
-2007-02-21,3310,多多博彩,安慰奖,水上直升机,Water Helicopters
-2006-09-03,3310,多多博彩,特别奖,水上直升机,Water Helicopters
-2005-02-01,3310,萬能,安慰奖,水陆两用直升机,Amphibian Helicopter
-2004-08-29,3310,大馬彩,安慰奖,水上直升机,Helicopter Spraying Water
-2002-11-06,3310,大馬彩,安慰奖,水上直升机,Helicopter Spraying Water
-2001-11-04,3310,萬能,安慰奖,水陆两用直升机,Amphibian Helicopter
-2000-12-02,3310,萬能,特别奖,水陆两用直升机,Amphibian Helicopter
-1999-12-15,3310,萬能,二奖,水陆两用直升机,Amphibian Helicopter
-1997-05-24,3310,萬能,安慰奖,水陆两用直升机,Amphibian Helicopter
-1996-08-21,3310,大馬彩,安慰奖,水上直升机,Helicopter Spraying Water
-1996-01-06,3310,萬能,特别奖,水陆两用直升机,Amphibian Helicopter
-1995-08-09,3310,多多博彩,特别奖,水上直升机,Water Helicopters
-1994-10-09,3310,萬能,安慰奖,水陆两用直升机,Amphibian Helicopter
-1994-06-30,3310,多多博彩,安慰奖,水上直升机,Water Helicopters
-1994-04-24,3310,萬能,三奖,水陆两用直升机,Amphibian Helicopter
-1993-05-26,3310,大馬彩,特别奖,水上直升机,Helicopter Spraying Water
-1992-08-16,3310,大馬彩,特别奖,水上直升机,Helicopter Spraying Water
-1991-04-04,3310,多多博彩,安慰奖,水上直升机,Water Helicopters
-1988-05-02,3310,多多博彩,安慰奖,水上直升机,Water Helicopters
+开彩日期,彩号,秦庄,彩金,史记秦本纪,史记楚辞,史记秦庄
+2023-10-11,3310,星池,安慰奖,水陆两用直升机,Amphibian Helicopter,萬能
+2023-10-11,3310,星池,安慰奖,水上直升机,Water Helicopters,多多博彩
+2023-10-11,3310,星池,安慰奖,水上直升机,Helicopter Spraying Water,大馬彩
+2023-08-29,3310,萬能,安慰奖,水陆两用直升机,Amphibian Helicopter,萬能
+2023-08-29,3310,萬能,安慰奖,水上直升机,Water Helicopters,多多博彩
+2023-08-29,3310,萬能,安慰奖,水上直升机,Helicopter Spraying Water,大馬彩
+2023-06-28,3310,多多,特别奖,水陆两用直升机,Amphibian Helicopter,萬能
+2023-06-28,3310,多多,特别奖,水上直升机,Water Helicopters,多多博彩
+2023-06-28,3310,多多,特别奖,水上直升机,Helicopter Spraying Water,大馬彩
+2023-05-28,3310,星池,安慰奖,水陆两用直升机,Amphibian Helicopter,萬能
+2023-05-28,3310,星池,安慰奖,水上直升机,Water Helicopters,多多博彩
+2023-05-28,3310,星池,安慰奖,水上直升机,Helicopter Spraying Water,大馬彩
+2023-03-12,3310,星池,安慰奖,水陆两用直升机,Amphibian Helicopter,萬能
+2023-03-12,3310,星池,安慰奖,水上直升机,Water Helicopters,多多博彩
+2023-03-12,3310,星池,安慰奖,水上直升机,Helicopter Spraying Water,大馬彩
+2023-01-21,3310,多多,二奖,水陆两用直升机,Amphibian Helicopter,萬能
+2023-01-21,3310,多多,二奖,水上直升机,Water Helicopters,多多博彩
+2023-01-21,3310,多多,二奖,水上直升机,Helicopter Spraying Water,大馬彩
+2022-10-09,3310,大馬彩,安慰奖,水陆两用直升机,Amphibian Helicopter,萬能
+2022-10-09,3310,大馬彩,安慰奖,水上直升机,Water Helicopters,多多博彩
+2022-10-09,3310,大馬彩,安慰奖,水上直升机,Helicopter Spraying Water,大馬彩
+2022-07-26,3310,大馬彩,安慰奖,水陆两用直升机,Amphibian Helicopter,萬能
+2022-07-26,3310,大馬彩,安慰奖,水上直升机,Water Helicopters,多多博彩
+2022-07-26,3310,大馬彩,安慰奖,水上直升机,Helicopter Spraying Water,大馬彩
+2022-05-18,3310,多多,特别奖,水陆两用直升机,Amphibian Helicopter,萬能
+2022-05-18,3310,多多,特别奖,水上直升机,Water Helicopters,多多博彩
+2022-05-18,3310,多多,特别奖,水上直升机,Helicopter Spraying Water,大馬彩
+2022-02-27,3310,大馬彩,安慰奖,水陆两用直升机,Amphibian Helicopter,萬能
+2022-02-27,3310,大馬彩,安慰奖,水上直升机,Water Helicopters,多多博彩
+2022-02-27,3310,大馬彩,安慰奖,水上直升机,Helicopter Spraying Water,大馬彩
+2022-02-02,3310,萬能,特别奖,水陆两用直升机,Amphibian Helicopter,萬能
+2022-02-02,3310,萬能,特别奖,水上直升机,Water Helicopters,多多博彩
+2022-02-02,3310,萬能,特别奖,水上直升机,Helicopter Spraying Water,大馬彩
+2020-11-04,3310,多多,特别奖,水陆两用直升机,Amphibian Helicopter,萬能
+2020-11-04,3310,多多,特别奖,水上直升机,Water Helicopters,多多博彩
+2020-11-04,3310,多多,特别奖,水上直升机,Helicopter Spraying Water,大馬彩
+2020-02-22,3310,大馬彩,安慰奖,水陆两用直升机,Amphibian Helicopter,萬能
+2020-02-22,3310,大馬彩,安慰奖,水上直升机,Water Helicopters,多多博彩
+2020-02-22,3310,大馬彩,安慰奖,水上直升机,Helicopter Spraying Water,大馬彩
+2019-08-04,3310,多多,安慰奖,水陆两用直升机,Amphibian Helicopter,萬能
+2019-08-04,3310,多多,安慰奖,水上直升机,Water Helicopters,多多博彩
+2019-08-04,3310,多多,安慰奖,水上直升机,Helicopter Spraying Water,大馬彩
+2019-04-24,3310,萬能,特别奖,水陆两用直升机,Amphibian Helicopter,萬能
+2019-04-24,3310,萬能,特别奖,水上直升机,Water Helicopters,多多博彩
+2019-04-24,3310,萬能,特别奖,水上直升机,Helicopter Spraying Water,大馬彩
+2018-12-26,3310,萬能,安慰奖,水陆两用直升机,Amphibian Helicopter,萬能
+2018-12-26,3310,萬能,安慰奖,水上直升机,Water Helicopters,多多博彩
+2018-12-26,3310,萬能,安慰奖,水上直升机,Helicopter Spraying Water,大馬彩
+2017-10-01,3310,多多,安慰奖,水陆两用直升机,Amphibian Helicopter,萬能
+2017-10-01,3310,多多,安慰奖,水上直升机,Water Helicopters,多多博彩
+2017-10-01,3310,多多,安慰奖,水上直升机,Helicopter Spraying Water,大馬彩
+2017-07-26,3310,大馬彩,安慰奖,水陆两用直升机,Amphibian Helicopter,萬能
+2017-07-26,3310,大馬彩,安慰奖,水上直升机,Water Helicopters,多多博彩
+2017-07-26,3310,大馬彩,安慰奖,水上直升机,Helicopter Spraying Water,大馬彩
+2016-10-01,3310,大馬彩,安慰奖,水陆两用直升机,Amphibian Helicopter,萬能
+2016-10-01,3310,大馬彩,安慰奖,水上直升机,Water Helicopters,多多博彩
+2016-10-01,3310,大馬彩,安慰奖,水上直升机,Helicopter Spraying Water,大馬彩
+2016-02-21,3310,星池,二奖,水陆两用直升机,Amphibian Helicopter,萬能
+2016-02-21,3310,星池,二奖,水上直升机,Water Helicopters,多多博彩
+2016-02-21,3310,星池,二奖,水上直升机,Helicopter Spraying Water,大馬彩
+2014-09-28,3310,星池,特别奖,水陆两用直升机,Amphibian Helicopter,萬能
+2014-09-28,3310,星池,特别奖,水上直升机,Water Helicopters,多多博彩
+2014-09-28,3310,星池,特别奖,水上直升机,Helicopter Spraying Water,大馬彩
+2014-04-16,3310,萬能,二奖,水陆两用直升机,Amphibian Helicopter,萬能
+2014-04-16,3310,萬能,二奖,水上直升机,Water Helicopters,多多博彩
+2014-04-16,3310,萬能,二奖,水上直升机,Helicopter Spraying Water,大馬彩
+2014-04-12,3310,多多,二奖,水陆两用直升机,Amphibian Helicopter,萬能
+2014-04-12,3310,多多,二奖,水上直升机,Water Helicopters,多多博彩
+2014-04-12,3310,多多,二奖,水上直升机,Helicopter Spraying Water,大馬彩
+2014-01-12,3310,星池,特别奖,水陆两用直升机,Amphibian Helicopter,萬能
+2014-01-12,3310,星池,特别奖,水上直升机,Water Helicopters,多多博彩
+2014-01-12,3310,星池,特别奖,水上直升机,Helicopter Spraying Water,大馬彩
+2012-09-12,3310,大馬彩,特别奖,水陆两用直升机,Amphibian Helicopter,萬能
+2012-09-12,3310,大馬彩,特别奖,水上直升机,Water Helicopters,多多博彩
+2012-09-12,3310,大馬彩,特别奖,水上直升机,Helicopter Spraying Water,大馬彩
+2010-01-10,3310,大馬彩,安慰奖,水陆两用直升机,Amphibian Helicopter,萬能
+2010-01-10,3310,大馬彩,安慰奖,水上直升机,Water Helicopters,多多博彩
+2010-01-10,3310,大馬彩,安慰奖,水上直升机,Helicopter Spraying Water,大馬彩
+2009-06-20,3310,星池,特别奖,水陆两用直升机,Amphibian Helicopter,萬能
+2009-06-20,3310,星池,特别奖,水上直升机,Water Helicopters,多多博彩
+2009-06-20,3310,星池,特别奖,水上直升机,Helicopter Spraying Water,大馬彩
+2009-01-25,3310,多多,特别奖,水陆两用直升机,Amphibian Helicopter,萬能
+2009-01-25,3310,多多,特别奖,水上直升机,Water Helicopters,多多博彩
+2009-01-25,3310,多多,特别奖,水上直升机,Helicopter Spraying Water,大馬彩
+2008-09-10,3310,星池,特别奖,水陆两用直升机,Amphibian Helicopter,萬能
+2008-09-10,3310,星池,特别奖,水上直升机,Water Helicopters,多多博彩
+2008-09-10,3310,星池,特别奖,水上直升机,Helicopter Spraying Water,大馬彩
+2007-10-21,3310,多多,安慰奖,水陆两用直升机,Amphibian Helicopter,萬能
+2007-10-21,3310,多多,安慰奖,水上直升机,Water Helicopters,多多博彩
+2007-10-21,3310,多多,安慰奖,水上直升机,Helicopter Spraying Water,大馬彩
+2007-04-28,3310,大馬彩,安慰奖,水陆两用直升机,Amphibian Helicopter,萬能
+2007-04-28,3310,大馬彩,安慰奖,水上直升机,Water Helicopters,多多博彩
+2007-04-28,3310,大馬彩,安慰奖,水上直升机,Helicopter Spraying Water,大馬彩
+2007-02-21,3310,多多,安慰奖,水陆两用直升机,Amphibian Helicopter,萬能
+2007-02-21,3310,多多,安慰奖,水上直升机,Water Helicopters,多多博彩
+2007-02-21,3310,多多,安慰奖,水上直升机,Helicopter Spraying Water,大馬彩
+2006-09-03,3310,多多,特别奖,水陆两用直升机,Amphibian Helicopter,萬能
+2006-09-03,3310,多多,特别奖,水上直升机,Water Helicopters,多多博彩
+2006-09-03,3310,多多,特别奖,水上直升机,Helicopter Spraying Water,大馬彩
+2005-02-01,3310,萬能,安慰奖,水陆两用直升机,Amphibian Helicopter,萬能
+2005-02-01,3310,萬能,安慰奖,水上直升机,Water Helicopters,多多博彩
+2005-02-01,3310,萬能,安慰奖,水上直升机,Helicopter Spraying Water,大馬彩
+2004-08-29,3310,大馬彩,安慰奖,水陆两用直升机,Amphibian Helicopter,萬能
+2004-08-29,3310,大馬彩,安慰奖,水上直升机,Water Helicopters,多多博彩
+2004-08-29,3310,大馬彩,安慰奖,水上直升机,Helicopter Spraying Water,大馬彩
+2002-11-06,3310,大馬彩,安慰奖,水陆两用直升机,Amphibian Helicopter,萬能
+2002-11-06,3310,大馬彩,安慰奖,水上直升机,Water Helicopters,多多博彩
+2002-11-06,3310,大馬彩,安慰奖,水上直升机,Helicopter Spraying Water,大馬彩
+2001-11-04,3310,萬能,安慰奖,水陆两用直升机,Amphibian Helicopter,萬能
+2001-11-04,3310,萬能,安慰奖,水上直升机,Water Helicopters,多多博彩
+2001-11-04,3310,萬能,安慰奖,水上直升机,Helicopter Spraying Water,大馬彩
+2000-12-02,3310,萬能,特别奖,水陆两用直升机,Amphibian Helicopter,萬能
+2000-12-02,3310,萬能,特别奖,水上直升机,Water Helicopters,多多博彩
+2000-12-02,3310,萬能,特别奖,水上直升机,Helicopter Spraying Water,大馬彩
+1999-12-15,3310,萬能,二奖,水陆两用直升机,Amphibian Helicopter,萬能
+1999-12-15,3310,萬能,二奖,水上直升机,Water Helicopters,多多博彩
+1999-12-15,3310,萬能,二奖,水上直升机,Helicopter Spraying Water,大馬彩
+1997-05-24,3310,萬能,安慰奖,水陆两用直升机,Amphibian Helicopter,萬能
+1997-05-24,3310,萬能,安慰奖,水上直升机,Water Helicopters,多多博彩
+1997-05-24,3310,萬能,安慰奖,水上直升机,Helicopter Spraying Water,大馬彩
+1996-08-21,3310,大馬彩,安慰奖,水陆两用直升机,Amphibian Helicopter,萬能
+1996-08-21,3310,大馬彩,安慰奖,水上直升机,Water Helicopters,多多博彩
+1996-08-21,3310,大馬彩,安慰奖,水上直升机,Helicopter Spraying Water,大馬彩
+1996-01-06,3310,萬能,特别奖,水陆两用直升机,Amphibian Helicopter,萬能
+1996-01-06,3310,萬能,特别奖,水上直升机,Water Helicopters,多多博彩
+1996-01-06,3310,萬能,特别奖,水上直升机,Helicopter Spraying Water,大馬彩
+1995-08-09,3310,多多,特别奖,水陆两用直升机,Amphibian Helicopter,萬能
+1995-08-09,3310,多多,特别奖,水上直升机,Water Helicopters,多多博彩
+1995-08-09,3310,多多,特别奖,水上直升机,Helicopter Spraying Water,大馬彩
+1994-10-09,3310,萬能,安慰奖,水陆两用直升机,Amphibian Helicopter,萬能
+1994-10-09,3310,萬能,安慰奖,水上直升机,Water Helicopters,多多博彩
+1994-10-09,3310,萬能,安慰奖,水上直升机,Helicopter Spraying Water,大馬彩
+1994-06-30,3310,多多,安慰奖,水陆两用直升机,Amphibian Helicopter,萬能
+1994-06-30,3310,多多,安慰奖,水上直升机,Water Helicopters,多多博彩
+1994-06-30,3310,多多,安慰奖,水上直升机,Helicopter Spraying Water,大馬彩
+1994-04-24,3310,萬能,三奖,水陆两用直升机,Amphibian Helicopter,萬能
+1994-04-24,3310,萬能,三奖,水上直升机,Water Helicopters,多多博彩
+1994-04-24,3310,萬能,三奖,水上直升机,Helicopter Spraying Water,大馬彩
+1993-05-26,3310,大馬彩,特别奖,水陆两用直升机,Amphibian Helicopter,萬能
+1993-05-26,3310,大馬彩,特别奖,水上直升机,Water Helicopters,多多博彩
+1993-05-26,3310,大馬彩,特别奖,水上直升机,Helicopter Spraying Water,大馬彩
+1992-08-16,3310,大馬彩,特别奖,水陆两用直升机,Amphibian Helicopter,萬能
+1992-08-16,3310,大馬彩,特别奖,水上直升机,Water Helicopters,多多博彩
+1992-08-16,3310,大馬彩,特别奖,水上直升机,Helicopter Spraying Water,大馬彩
+1991-04-04,3310,多多,安慰奖,水陆两用直升机,Amphibian Helicopter,萬能
+1991-04-04,3310,多多,安慰奖,水上直升机,Water Helicopters,多多博彩
+1991-04-04,3310,多多,安慰奖,水上直升机,Helicopter Spraying Water,大馬彩
+1988-05-02,3310,多多,安慰奖,水陆两用直升机,Amphibian Helicopter,萬能
+1988-05-02,3310,多多,安慰奖,水上直升机,Water Helicopters,多多博彩
+1988-05-02,3310,多多,安慰奖,水上直升机,Helicopter Spraying Water,大馬彩

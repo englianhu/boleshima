@@ -1,49 +1,145 @@
-开彩日期,彩号,秦庄,彩金,秦典,英典
-2023-12-16,9191,大馬彩,安慰奖,驱逐出境,Migrant Deportation
-2022-08-27,9191,多多博彩,特别奖,难,Difficult
-2022-07-27,9191,大馬彩,特别奖,驱逐出境,Migrant Deportation
-2022-02-13,9191,星池,特别奖,,
-2021-11-13,9191,大馬彩,安慰奖,驱逐出境,Migrant Deportation
-2020-11-07,9191,多多博彩,首奖,难,Difficult
-2019-12-18,9191,星池,安慰奖,,
-2019-06-05,9191,大馬彩,安慰奖,驱逐出境,Migrant Deportation
-2019-04-24,9191,星池,特别奖,,
-2018-06-06,9191,大馬彩,特别奖,驱逐出境,Migrant Deportation
-2018-04-07,9191,大馬彩,首奖,驱逐出境,Migrant Deportation
-2018-02-25,9191,大馬彩,特别奖,驱逐出境,Migrant Deportation
-2017-06-28,9191,多多博彩,特别奖,难,Difficult
-2016-09-07,9191,萬能,安慰奖,暗恋某人,Secretly Admiring Someone
-2016-05-28,9191,大馬彩,特别奖,驱逐出境,Migrant Deportation
-2015-09-16,9191,多多博彩,安慰奖,难,Difficult
-2014-10-26,9191,多多博彩,特别奖,难,Difficult
-2013-09-15,9191,星池,三奖,,
-2012-08-26,9191,星池,特别奖,,
-2009-11-11,9191,星池,安慰奖,,
-2009-05-10,9191,星池,特别奖,,
-2008-12-07,9191,大馬彩,特别奖,驱逐出境,Migrant Deportation
-2008-05-21,9191,多多博彩,特别奖,难,Difficult
-2008-01-19,9191,多多博彩,安慰奖,难,Difficult
-2006-04-09,9191,大馬彩,特别奖,驱逐出境,Migrant Deportation
-2003-11-04,9191,大馬彩,三奖,驱逐出境,Migrant Deportation
-2002-12-18,9191,多多博彩,特别奖,难,Difficult
-2002-10-01,9191,大馬彩,特别奖,驱逐出境,Migrant Deportation
-2002-09-29,9191,萬能,特别奖,暗恋某人,Secretly Admiring Someone
-1999-05-22,9191,大馬彩,三奖,驱逐出境,Migrant Deportation
-1999-04-14,9191,多多博彩,特别奖,难,Difficult
-1998-07-08,9191,大馬彩,安慰奖,驱逐出境,Migrant Deportation
-1998-05-17,9191,萬能,特别奖,暗恋某人,Secretly Admiring Someone
-1997-04-20,9191,萬能,安慰奖,暗恋某人,Secretly Admiring Someone
-1996-07-31,9191,多多博彩,特别奖,难,Difficult
-1996-04-13,9191,萬能,三奖,暗恋某人,Secretly Admiring Someone
-1995-08-27,9191,萬能,特别奖,暗恋某人,Secretly Admiring Someone
-1995-05-03,9191,多多博彩,安慰奖,难,Difficult
-1995-04-29,9191,多多博彩,安慰奖,难,Difficult
-1995-03-29,9191,多多博彩,特别奖,难,Difficult
-1994-10-30,9191,大馬彩,特别奖,驱逐出境,Migrant Deportation
-1994-05-09,9191,多多博彩,安慰奖,难,Difficult
-1992-12-13,9191,萬能,安慰奖,暗恋某人,Secretly Admiring Someone
-1991-06-10,9191,多多博彩,特别奖,难,Difficult
-1990-04-02,9191,多多博彩,首奖,难,Difficult
-1988-04-07,9191,多多博彩,安慰奖,难,Difficult
-1987-04-26,9191,多多博彩,特别奖,难,Difficult
-1985-05-26,9191,多多博彩,三奖,难,Difficult
+开彩日期,彩号,秦庄,彩金,史记秦本纪,史记楚辞,史记秦庄
+2023-12-16,9191,大馬彩,安慰奖,暗恋某人,Secretly Admiring Someone,萬能
+2023-12-16,9191,大馬彩,安慰奖,难,Difficult,多多博彩
+2023-12-16,9191,大馬彩,安慰奖,驱逐出境,Migrant Deportation,大馬彩
+2022-08-27,9191,多多,特别奖,暗恋某人,Secretly Admiring Someone,萬能
+2022-08-27,9191,多多,特别奖,难,Difficult,多多博彩
+2022-08-27,9191,多多,特别奖,驱逐出境,Migrant Deportation,大馬彩
+2022-07-27,9191,大馬彩,特别奖,暗恋某人,Secretly Admiring Someone,萬能
+2022-07-27,9191,大馬彩,特别奖,难,Difficult,多多博彩
+2022-07-27,9191,大馬彩,特别奖,驱逐出境,Migrant Deportation,大馬彩
+2022-02-13,9191,星池,特别奖,暗恋某人,Secretly Admiring Someone,萬能
+2022-02-13,9191,星池,特别奖,难,Difficult,多多博彩
+2022-02-13,9191,星池,特别奖,驱逐出境,Migrant Deportation,大馬彩
+2021-11-13,9191,大馬彩,安慰奖,暗恋某人,Secretly Admiring Someone,萬能
+2021-11-13,9191,大馬彩,安慰奖,难,Difficult,多多博彩
+2021-11-13,9191,大馬彩,安慰奖,驱逐出境,Migrant Deportation,大馬彩
+2020-11-07,9191,多多,首奖,暗恋某人,Secretly Admiring Someone,萬能
+2020-11-07,9191,多多,首奖,难,Difficult,多多博彩
+2020-11-07,9191,多多,首奖,驱逐出境,Migrant Deportation,大馬彩
+2019-12-18,9191,星池,安慰奖,暗恋某人,Secretly Admiring Someone,萬能
+2019-12-18,9191,星池,安慰奖,难,Difficult,多多博彩
+2019-12-18,9191,星池,安慰奖,驱逐出境,Migrant Deportation,大馬彩
+2019-06-05,9191,大馬彩,安慰奖,暗恋某人,Secretly Admiring Someone,萬能
+2019-06-05,9191,大馬彩,安慰奖,难,Difficult,多多博彩
+2019-06-05,9191,大馬彩,安慰奖,驱逐出境,Migrant Deportation,大馬彩
+2019-04-24,9191,星池,特别奖,暗恋某人,Secretly Admiring Someone,萬能
+2019-04-24,9191,星池,特别奖,难,Difficult,多多博彩
+2019-04-24,9191,星池,特别奖,驱逐出境,Migrant Deportation,大馬彩
+2018-06-06,9191,大馬彩,特别奖,暗恋某人,Secretly Admiring Someone,萬能
+2018-06-06,9191,大馬彩,特别奖,难,Difficult,多多博彩
+2018-06-06,9191,大馬彩,特别奖,驱逐出境,Migrant Deportation,大馬彩
+2018-04-07,9191,大馬彩,首奖,暗恋某人,Secretly Admiring Someone,萬能
+2018-04-07,9191,大馬彩,首奖,难,Difficult,多多博彩
+2018-04-07,9191,大馬彩,首奖,驱逐出境,Migrant Deportation,大馬彩
+2018-02-25,9191,大馬彩,特别奖,暗恋某人,Secretly Admiring Someone,萬能
+2018-02-25,9191,大馬彩,特别奖,难,Difficult,多多博彩
+2018-02-25,9191,大馬彩,特别奖,驱逐出境,Migrant Deportation,大馬彩
+2017-06-28,9191,多多,特别奖,暗恋某人,Secretly Admiring Someone,萬能
+2017-06-28,9191,多多,特别奖,难,Difficult,多多博彩
+2017-06-28,9191,多多,特别奖,驱逐出境,Migrant Deportation,大馬彩
+2016-09-07,9191,萬能,安慰奖,暗恋某人,Secretly Admiring Someone,萬能
+2016-09-07,9191,萬能,安慰奖,难,Difficult,多多博彩
+2016-09-07,9191,萬能,安慰奖,驱逐出境,Migrant Deportation,大馬彩
+2016-05-28,9191,大馬彩,特别奖,暗恋某人,Secretly Admiring Someone,萬能
+2016-05-28,9191,大馬彩,特别奖,难,Difficult,多多博彩
+2016-05-28,9191,大馬彩,特别奖,驱逐出境,Migrant Deportation,大馬彩
+2015-09-16,9191,多多,安慰奖,暗恋某人,Secretly Admiring Someone,萬能
+2015-09-16,9191,多多,安慰奖,难,Difficult,多多博彩
+2015-09-16,9191,多多,安慰奖,驱逐出境,Migrant Deportation,大馬彩
+2014-10-26,9191,多多,特别奖,暗恋某人,Secretly Admiring Someone,萬能
+2014-10-26,9191,多多,特别奖,难,Difficult,多多博彩
+2014-10-26,9191,多多,特别奖,驱逐出境,Migrant Deportation,大馬彩
+2013-09-15,9191,星池,三奖,暗恋某人,Secretly Admiring Someone,萬能
+2013-09-15,9191,星池,三奖,难,Difficult,多多博彩
+2013-09-15,9191,星池,三奖,驱逐出境,Migrant Deportation,大馬彩
+2012-08-26,9191,星池,特别奖,暗恋某人,Secretly Admiring Someone,萬能
+2012-08-26,9191,星池,特别奖,难,Difficult,多多博彩
+2012-08-26,9191,星池,特别奖,驱逐出境,Migrant Deportation,大馬彩
+2009-11-11,9191,星池,安慰奖,暗恋某人,Secretly Admiring Someone,萬能
+2009-11-11,9191,星池,安慰奖,难,Difficult,多多博彩
+2009-11-11,9191,星池,安慰奖,驱逐出境,Migrant Deportation,大馬彩
+2009-05-10,9191,星池,特别奖,暗恋某人,Secretly Admiring Someone,萬能
+2009-05-10,9191,星池,特别奖,难,Difficult,多多博彩
+2009-05-10,9191,星池,特别奖,驱逐出境,Migrant Deportation,大馬彩
+2008-12-07,9191,大馬彩,特别奖,暗恋某人,Secretly Admiring Someone,萬能
+2008-12-07,9191,大馬彩,特别奖,难,Difficult,多多博彩
+2008-12-07,9191,大馬彩,特别奖,驱逐出境,Migrant Deportation,大馬彩
+2008-05-21,9191,多多,特别奖,暗恋某人,Secretly Admiring Someone,萬能
+2008-05-21,9191,多多,特别奖,难,Difficult,多多博彩
+2008-05-21,9191,多多,特别奖,驱逐出境,Migrant Deportation,大馬彩
+2008-01-19,9191,多多,安慰奖,暗恋某人,Secretly Admiring Someone,萬能
+2008-01-19,9191,多多,安慰奖,难,Difficult,多多博彩
+2008-01-19,9191,多多,安慰奖,驱逐出境,Migrant Deportation,大馬彩
+2006-04-09,9191,大馬彩,特别奖,暗恋某人,Secretly Admiring Someone,萬能
+2006-04-09,9191,大馬彩,特别奖,难,Difficult,多多博彩
+2006-04-09,9191,大馬彩,特别奖,驱逐出境,Migrant Deportation,大馬彩
+2003-11-04,9191,大馬彩,三奖,暗恋某人,Secretly Admiring Someone,萬能
+2003-11-04,9191,大馬彩,三奖,难,Difficult,多多博彩
+2003-11-04,9191,大馬彩,三奖,驱逐出境,Migrant Deportation,大馬彩
+2002-12-18,9191,多多,特别奖,暗恋某人,Secretly Admiring Someone,萬能
+2002-12-18,9191,多多,特别奖,难,Difficult,多多博彩
+2002-12-18,9191,多多,特别奖,驱逐出境,Migrant Deportation,大馬彩
+2002-10-01,9191,大馬彩,特别奖,暗恋某人,Secretly Admiring Someone,萬能
+2002-10-01,9191,大馬彩,特别奖,难,Difficult,多多博彩
+2002-10-01,9191,大馬彩,特别奖,驱逐出境,Migrant Deportation,大馬彩
+2002-09-29,9191,萬能,特别奖,暗恋某人,Secretly Admiring Someone,萬能
+2002-09-29,9191,萬能,特别奖,难,Difficult,多多博彩
+2002-09-29,9191,萬能,特别奖,驱逐出境,Migrant Deportation,大馬彩
+1999-05-22,9191,大馬彩,三奖,暗恋某人,Secretly Admiring Someone,萬能
+1999-05-22,9191,大馬彩,三奖,难,Difficult,多多博彩
+1999-05-22,9191,大馬彩,三奖,驱逐出境,Migrant Deportation,大馬彩
+1999-04-14,9191,多多,特别奖,暗恋某人,Secretly Admiring Someone,萬能
+1999-04-14,9191,多多,特别奖,难,Difficult,多多博彩
+1999-04-14,9191,多多,特别奖,驱逐出境,Migrant Deportation,大馬彩
+1998-07-08,9191,大馬彩,安慰奖,暗恋某人,Secretly Admiring Someone,萬能
+1998-07-08,9191,大馬彩,安慰奖,难,Difficult,多多博彩
+1998-07-08,9191,大馬彩,安慰奖,驱逐出境,Migrant Deportation,大馬彩
+1998-05-17,9191,萬能,特别奖,暗恋某人,Secretly Admiring Someone,萬能
+1998-05-17,9191,萬能,特别奖,难,Difficult,多多博彩
+1998-05-17,9191,萬能,特别奖,驱逐出境,Migrant Deportation,大馬彩
+1997-04-20,9191,萬能,安慰奖,暗恋某人,Secretly Admiring Someone,萬能
+1997-04-20,9191,萬能,安慰奖,难,Difficult,多多博彩
+1997-04-20,9191,萬能,安慰奖,驱逐出境,Migrant Deportation,大馬彩
+1996-07-31,9191,多多,特别奖,暗恋某人,Secretly Admiring Someone,萬能
+1996-07-31,9191,多多,特别奖,难,Difficult,多多博彩
+1996-07-31,9191,多多,特别奖,驱逐出境,Migrant Deportation,大馬彩
+1996-04-13,9191,萬能,三奖,暗恋某人,Secretly Admiring Someone,萬能
+1996-04-13,9191,萬能,三奖,难,Difficult,多多博彩
+1996-04-13,9191,萬能,三奖,驱逐出境,Migrant Deportation,大馬彩
+1995-08-27,9191,萬能,特别奖,暗恋某人,Secretly Admiring Someone,萬能
+1995-08-27,9191,萬能,特别奖,难,Difficult,多多博彩
+1995-08-27,9191,萬能,特别奖,驱逐出境,Migrant Deportation,大馬彩
+1995-05-03,9191,多多,安慰奖,暗恋某人,Secretly Admiring Someone,萬能
+1995-05-03,9191,多多,安慰奖,难,Difficult,多多博彩
+1995-05-03,9191,多多,安慰奖,驱逐出境,Migrant Deportation,大馬彩
+1995-04-29,9191,多多,安慰奖,暗恋某人,Secretly Admiring Someone,萬能
+1995-04-29,9191,多多,安慰奖,难,Difficult,多多博彩
+1995-04-29,9191,多多,安慰奖,驱逐出境,Migrant Deportation,大馬彩
+1995-03-29,9191,多多,特别奖,暗恋某人,Secretly Admiring Someone,萬能
+1995-03-29,9191,多多,特别奖,难,Difficult,多多博彩
+1995-03-29,9191,多多,特别奖,驱逐出境,Migrant Deportation,大馬彩
+1994-10-30,9191,大馬彩,特别奖,暗恋某人,Secretly Admiring Someone,萬能
+1994-10-30,9191,大馬彩,特别奖,难,Difficult,多多博彩
+1994-10-30,9191,大馬彩,特别奖,驱逐出境,Migrant Deportation,大馬彩
+1994-05-09,9191,多多,安慰奖,暗恋某人,Secretly Admiring Someone,萬能
+1994-05-09,9191,多多,安慰奖,难,Difficult,多多博彩
+1994-05-09,9191,多多,安慰奖,驱逐出境,Migrant Deportation,大馬彩
+1992-12-13,9191,萬能,安慰奖,暗恋某人,Secretly Admiring Someone,萬能
+1992-12-13,9191,萬能,安慰奖,难,Difficult,多多博彩
+1992-12-13,9191,萬能,安慰奖,驱逐出境,Migrant Deportation,大馬彩
+1991-06-10,9191,多多,特别奖,暗恋某人,Secretly Admiring Someone,萬能
+1991-06-10,9191,多多,特别奖,难,Difficult,多多博彩
+1991-06-10,9191,多多,特别奖,驱逐出境,Migrant Deportation,大馬彩
+1990-04-02,9191,多多,首奖,暗恋某人,Secretly Admiring Someone,萬能
+1990-04-02,9191,多多,首奖,难,Difficult,多多博彩
+1990-04-02,9191,多多,首奖,驱逐出境,Migrant Deportation,大馬彩
+1988-04-07,9191,多多,安慰奖,暗恋某人,Secretly Admiring Someone,萬能
+1988-04-07,9191,多多,安慰奖,难,Difficult,多多博彩
+1988-04-07,9191,多多,安慰奖,驱逐出境,Migrant Deportation,大馬彩
+1987-04-26,9191,多多,特别奖,暗恋某人,Secretly Admiring Someone,萬能
+1987-04-26,9191,多多,特别奖,难,Difficult,多多博彩
+1987-04-26,9191,多多,特别奖,驱逐出境,Migrant Deportation,大馬彩
+1985-05-26,9191,多多,三奖,暗恋某人,Secretly Admiring Someone,萬能
+1985-05-26,9191,多多,三奖,难,Difficult,多多博彩
+1985-05-26,9191,多多,三奖,驱逐出境,Migrant Deportation,大馬彩

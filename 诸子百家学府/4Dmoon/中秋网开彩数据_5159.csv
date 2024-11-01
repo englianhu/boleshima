@@ -1,45 +1,133 @@
-开彩日期,彩号,秦庄,彩金,秦典,英典
-2024-07-07,5159,萬能,特别奖,抓小偷,Catching Thief
-2023-05-17,5159,大馬彩,安慰奖,捉盗,Catch Or Apprehend Robber
-2023-02-22,5159,星池,特别奖,,
-2018-08-28,5159,萬能,首奖,抓小偷,Catching Thief
-2018-07-25,5159,大馬彩,安慰奖,捉盗,Catch Or Apprehend Robber
-2018-03-10,5159,大馬彩,特别奖,捉盗,Catch Or Apprehend Robber
-2018-01-21,5159,多多博彩,特别奖,捉盗,Catch The Robbers
-2017-12-20,5159,萬能,特别奖,抓小偷,Catching Thief
-2017-07-22,5159,星池,特别奖,,
-2016-04-17,5159,大馬彩,特别奖,捉盗,Catch Or Apprehend Robber
-2015-10-14,5159,星池,安慰奖,,
-2013-12-15,5159,多多博彩,特别奖,捉盗,Catch The Robbers
-2013-11-23,5159,星池,特别奖,,
-2013-10-26,5159,大馬彩,安慰奖,捉盗,Catch Or Apprehend Robber
-2013-09-08,5159,星池,特别奖,,
-2012-07-01,5159,萬能,安慰奖,抓小偷,Catching Thief
-2011-09-11,5159,大馬彩,特别奖,捉盗,Catch Or Apprehend Robber
-2009-06-21,5159,多多博彩,特别奖,捉盗,Catch The Robbers
-2009-01-07,5159,多多博彩,特别奖,捉盗,Catch The Robbers
-2008-07-23,5159,多多博彩,安慰奖,捉盗,Catch The Robbers
-2008-02-27,5159,多多博彩,首奖,捉盗,Catch The Robbers
-2008-02-17,5159,星池,特别奖,,
-2006-12-27,5159,大馬彩,安慰奖,捉盗,Catch Or Apprehend Robber
-2006-07-19,5159,萬能,安慰奖,抓小偷,Catching Thief
-2006-05-14,5159,多多博彩,安慰奖,捉盗,Catch The Robbers
-2006-05-13,5159,多多博彩,安慰奖,捉盗,Catch The Robbers
-2005-06-15,5159,大馬彩,特别奖,捉盗,Catch Or Apprehend Robber
-2005-03-02,5159,萬能,特别奖,抓小偷,Catching Thief
-2003-11-19,5159,萬能,二奖,抓小偷,Catching Thief
-2002-12-28,5159,萬能,特别奖,抓小偷,Catching Thief
-2002-07-03,5159,萬能,特别奖,抓小偷,Catching Thief
-2002-02-03,5159,大馬彩,特别奖,捉盗,Catch Or Apprehend Robber
-2001-11-04,5159,萬能,特别奖,抓小偷,Catching Thief
-1998-09-30,5159,大馬彩,二奖,捉盗,Catch Or Apprehend Robber
-1998-01-31,5159,多多博彩,安慰奖,捉盗,Catch The Robbers
-1996-09-11,5159,萬能,特别奖,抓小偷,Catching Thief
-1994-08-29,5159,多多博彩,安慰奖,捉盗,Catch The Robbers
-1993-10-02,5159,大馬彩,二奖,捉盗,Catch Or Apprehend Robber
-1992-11-04,5159,萬能,安慰奖,抓小偷,Catching Thief
-1992-02-24,5159,多多博彩,安慰奖,捉盗,Catch The Robbers
-1990-01-20,5159,多多博彩,特别奖,捉盗,Catch The Robbers
-1989-09-11,5159,多多博彩,二奖,捉盗,Catch The Robbers
-1987-09-20,5159,多多博彩,安慰奖,捉盗,Catch The Robbers
-1986-11-29,5159,多多博彩,特别奖,捉盗,Catch The Robbers
+开彩日期,彩号,秦庄,彩金,史记秦本纪,史记楚辞,史记秦庄
+2024-07-07,5159,萬能,特别奖,抓小偷,Catching Thief,萬能
+2024-07-07,5159,萬能,特别奖,捉盗,Catch The Robbers,多多博彩
+2024-07-07,5159,萬能,特别奖,捉盗,Catch Or Apprehend Robber,大馬彩
+2023-05-17,5159,大馬彩,安慰奖,抓小偷,Catching Thief,萬能
+2023-05-17,5159,大馬彩,安慰奖,捉盗,Catch The Robbers,多多博彩
+2023-05-17,5159,大馬彩,安慰奖,捉盗,Catch Or Apprehend Robber,大馬彩
+2023-02-22,5159,星池,特别奖,抓小偷,Catching Thief,萬能
+2023-02-22,5159,星池,特别奖,捉盗,Catch The Robbers,多多博彩
+2023-02-22,5159,星池,特别奖,捉盗,Catch Or Apprehend Robber,大馬彩
+2018-08-28,5159,萬能,首奖,抓小偷,Catching Thief,萬能
+2018-08-28,5159,萬能,首奖,捉盗,Catch The Robbers,多多博彩
+2018-08-28,5159,萬能,首奖,捉盗,Catch Or Apprehend Robber,大馬彩
+2018-07-25,5159,大馬彩,安慰奖,抓小偷,Catching Thief,萬能
+2018-07-25,5159,大馬彩,安慰奖,捉盗,Catch The Robbers,多多博彩
+2018-07-25,5159,大馬彩,安慰奖,捉盗,Catch Or Apprehend Robber,大馬彩
+2018-03-10,5159,大馬彩,特别奖,抓小偷,Catching Thief,萬能
+2018-03-10,5159,大馬彩,特别奖,捉盗,Catch The Robbers,多多博彩
+2018-03-10,5159,大馬彩,特别奖,捉盗,Catch Or Apprehend Robber,大馬彩
+2018-01-21,5159,多多,特别奖,抓小偷,Catching Thief,萬能
+2018-01-21,5159,多多,特别奖,捉盗,Catch The Robbers,多多博彩
+2018-01-21,5159,多多,特别奖,捉盗,Catch Or Apprehend Robber,大馬彩
+2017-12-20,5159,萬能,特别奖,抓小偷,Catching Thief,萬能
+2017-12-20,5159,萬能,特别奖,捉盗,Catch The Robbers,多多博彩
+2017-12-20,5159,萬能,特别奖,捉盗,Catch Or Apprehend Robber,大馬彩
+2017-07-22,5159,星池,特别奖,抓小偷,Catching Thief,萬能
+2017-07-22,5159,星池,特别奖,捉盗,Catch The Robbers,多多博彩
+2017-07-22,5159,星池,特别奖,捉盗,Catch Or Apprehend Robber,大馬彩
+2016-04-17,5159,大馬彩,特别奖,抓小偷,Catching Thief,萬能
+2016-04-17,5159,大馬彩,特别奖,捉盗,Catch The Robbers,多多博彩
+2016-04-17,5159,大馬彩,特别奖,捉盗,Catch Or Apprehend Robber,大馬彩
+2015-10-14,5159,星池,安慰奖,抓小偷,Catching Thief,萬能
+2015-10-14,5159,星池,安慰奖,捉盗,Catch The Robbers,多多博彩
+2015-10-14,5159,星池,安慰奖,捉盗,Catch Or Apprehend Robber,大馬彩
+2013-12-15,5159,多多,特别奖,抓小偷,Catching Thief,萬能
+2013-12-15,5159,多多,特别奖,捉盗,Catch The Robbers,多多博彩
+2013-12-15,5159,多多,特别奖,捉盗,Catch Or Apprehend Robber,大馬彩
+2013-11-23,5159,星池,特别奖,抓小偷,Catching Thief,萬能
+2013-11-23,5159,星池,特别奖,捉盗,Catch The Robbers,多多博彩
+2013-11-23,5159,星池,特别奖,捉盗,Catch Or Apprehend Robber,大馬彩
+2013-10-26,5159,大馬彩,安慰奖,抓小偷,Catching Thief,萬能
+2013-10-26,5159,大馬彩,安慰奖,捉盗,Catch The Robbers,多多博彩
+2013-10-26,5159,大馬彩,安慰奖,捉盗,Catch Or Apprehend Robber,大馬彩
+2013-09-08,5159,星池,特别奖,抓小偷,Catching Thief,萬能
+2013-09-08,5159,星池,特别奖,捉盗,Catch The Robbers,多多博彩
+2013-09-08,5159,星池,特别奖,捉盗,Catch Or Apprehend Robber,大馬彩
+2012-07-01,5159,萬能,安慰奖,抓小偷,Catching Thief,萬能
+2012-07-01,5159,萬能,安慰奖,捉盗,Catch The Robbers,多多博彩
+2012-07-01,5159,萬能,安慰奖,捉盗,Catch Or Apprehend Robber,大馬彩
+2011-09-11,5159,大馬彩,特别奖,抓小偷,Catching Thief,萬能
+2011-09-11,5159,大馬彩,特别奖,捉盗,Catch The Robbers,多多博彩
+2011-09-11,5159,大馬彩,特别奖,捉盗,Catch Or Apprehend Robber,大馬彩
+2009-06-21,5159,多多,特别奖,抓小偷,Catching Thief,萬能
+2009-06-21,5159,多多,特别奖,捉盗,Catch The Robbers,多多博彩
+2009-06-21,5159,多多,特别奖,捉盗,Catch Or Apprehend Robber,大馬彩
+2009-01-07,5159,多多,特别奖,抓小偷,Catching Thief,萬能
+2009-01-07,5159,多多,特别奖,捉盗,Catch The Robbers,多多博彩
+2009-01-07,5159,多多,特别奖,捉盗,Catch Or Apprehend Robber,大馬彩
+2008-07-23,5159,多多,安慰奖,抓小偷,Catching Thief,萬能
+2008-07-23,5159,多多,安慰奖,捉盗,Catch The Robbers,多多博彩
+2008-07-23,5159,多多,安慰奖,捉盗,Catch Or Apprehend Robber,大馬彩
+2008-02-27,5159,多多,首奖,抓小偷,Catching Thief,萬能
+2008-02-27,5159,多多,首奖,捉盗,Catch The Robbers,多多博彩
+2008-02-27,5159,多多,首奖,捉盗,Catch Or Apprehend Robber,大馬彩
+2008-02-17,5159,星池,特别奖,抓小偷,Catching Thief,萬能
+2008-02-17,5159,星池,特别奖,捉盗,Catch The Robbers,多多博彩
+2008-02-17,5159,星池,特别奖,捉盗,Catch Or Apprehend Robber,大馬彩
+2006-12-27,5159,大馬彩,安慰奖,抓小偷,Catching Thief,萬能
+2006-12-27,5159,大馬彩,安慰奖,捉盗,Catch The Robbers,多多博彩
+2006-12-27,5159,大馬彩,安慰奖,捉盗,Catch Or Apprehend Robber,大馬彩
+2006-07-19,5159,萬能,安慰奖,抓小偷,Catching Thief,萬能
+2006-07-19,5159,萬能,安慰奖,捉盗,Catch The Robbers,多多博彩
+2006-07-19,5159,萬能,安慰奖,捉盗,Catch Or Apprehend Robber,大馬彩
+2006-05-14,5159,多多,安慰奖,抓小偷,Catching Thief,萬能
+2006-05-14,5159,多多,安慰奖,捉盗,Catch The Robbers,多多博彩
+2006-05-14,5159,多多,安慰奖,捉盗,Catch Or Apprehend Robber,大馬彩
+2006-05-13,5159,多多,安慰奖,抓小偷,Catching Thief,萬能
+2006-05-13,5159,多多,安慰奖,捉盗,Catch The Robbers,多多博彩
+2006-05-13,5159,多多,安慰奖,捉盗,Catch Or Apprehend Robber,大馬彩
+2005-06-15,5159,大馬彩,特别奖,抓小偷,Catching Thief,萬能
+2005-06-15,5159,大馬彩,特别奖,捉盗,Catch The Robbers,多多博彩
+2005-06-15,5159,大馬彩,特别奖,捉盗,Catch Or Apprehend Robber,大馬彩
+2005-03-02,5159,萬能,特别奖,抓小偷,Catching Thief,萬能
+2005-03-02,5159,萬能,特别奖,捉盗,Catch The Robbers,多多博彩
+2005-03-02,5159,萬能,特别奖,捉盗,Catch Or Apprehend Robber,大馬彩
+2003-11-19,5159,萬能,二奖,抓小偷,Catching Thief,萬能
+2003-11-19,5159,萬能,二奖,捉盗,Catch The Robbers,多多博彩
+2003-11-19,5159,萬能,二奖,捉盗,Catch Or Apprehend Robber,大馬彩
+2002-12-28,5159,萬能,特别奖,抓小偷,Catching Thief,萬能
+2002-12-28,5159,萬能,特别奖,捉盗,Catch The Robbers,多多博彩
+2002-12-28,5159,萬能,特别奖,捉盗,Catch Or Apprehend Robber,大馬彩
+2002-07-03,5159,萬能,特别奖,抓小偷,Catching Thief,萬能
+2002-07-03,5159,萬能,特别奖,捉盗,Catch The Robbers,多多博彩
+2002-07-03,5159,萬能,特别奖,捉盗,Catch Or Apprehend Robber,大馬彩
+2002-02-03,5159,大馬彩,特别奖,抓小偷,Catching Thief,萬能
+2002-02-03,5159,大馬彩,特别奖,捉盗,Catch The Robbers,多多博彩
+2002-02-03,5159,大馬彩,特别奖,捉盗,Catch Or Apprehend Robber,大馬彩
+2001-11-04,5159,萬能,特别奖,抓小偷,Catching Thief,萬能
+2001-11-04,5159,萬能,特别奖,捉盗,Catch The Robbers,多多博彩
+2001-11-04,5159,萬能,特别奖,捉盗,Catch Or Apprehend Robber,大馬彩
+1998-09-30,5159,大馬彩,二奖,抓小偷,Catching Thief,萬能
+1998-09-30,5159,大馬彩,二奖,捉盗,Catch The Robbers,多多博彩
+1998-09-30,5159,大馬彩,二奖,捉盗,Catch Or Apprehend Robber,大馬彩
+1998-01-31,5159,多多,安慰奖,抓小偷,Catching Thief,萬能
+1998-01-31,5159,多多,安慰奖,捉盗,Catch The Robbers,多多博彩
+1998-01-31,5159,多多,安慰奖,捉盗,Catch Or Apprehend Robber,大馬彩
+1996-09-11,5159,萬能,特别奖,抓小偷,Catching Thief,萬能
+1996-09-11,5159,萬能,特别奖,捉盗,Catch The Robbers,多多博彩
+1996-09-11,5159,萬能,特别奖,捉盗,Catch Or Apprehend Robber,大馬彩
+1994-08-29,5159,多多,安慰奖,抓小偷,Catching Thief,萬能
+1994-08-29,5159,多多,安慰奖,捉盗,Catch The Robbers,多多博彩
+1994-08-29,5159,多多,安慰奖,捉盗,Catch Or Apprehend Robber,大馬彩
+1993-10-02,5159,大馬彩,二奖,抓小偷,Catching Thief,萬能
+1993-10-02,5159,大馬彩,二奖,捉盗,Catch The Robbers,多多博彩
+1993-10-02,5159,大馬彩,二奖,捉盗,Catch Or Apprehend Robber,大馬彩
+1992-11-04,5159,萬能,安慰奖,抓小偷,Catching Thief,萬能
+1992-11-04,5159,萬能,安慰奖,捉盗,Catch The Robbers,多多博彩
+1992-11-04,5159,萬能,安慰奖,捉盗,Catch Or Apprehend Robber,大馬彩
+1992-02-24,5159,多多,安慰奖,抓小偷,Catching Thief,萬能
+1992-02-24,5159,多多,安慰奖,捉盗,Catch The Robbers,多多博彩
+1992-02-24,5159,多多,安慰奖,捉盗,Catch Or Apprehend Robber,大馬彩
+1990-01-20,5159,多多,特别奖,抓小偷,Catching Thief,萬能
+1990-01-20,5159,多多,特别奖,捉盗,Catch The Robbers,多多博彩
+1990-01-20,5159,多多,特别奖,捉盗,Catch Or Apprehend Robber,大馬彩
+1989-09-11,5159,多多,二奖,抓小偷,Catching Thief,萬能
+1989-09-11,5159,多多,二奖,捉盗,Catch The Robbers,多多博彩
+1989-09-11,5159,多多,二奖,捉盗,Catch Or Apprehend Robber,大馬彩
+1987-09-20,5159,多多,安慰奖,抓小偷,Catching Thief,萬能
+1987-09-20,5159,多多,安慰奖,捉盗,Catch The Robbers,多多博彩
+1987-09-20,5159,多多,安慰奖,捉盗,Catch Or Apprehend Robber,大馬彩
+1986-11-29,5159,多多,特别奖,抓小偷,Catching Thief,萬能
+1986-11-29,5159,多多,特别奖,捉盗,Catch The Robbers,多多博彩
+1986-11-29,5159,多多,特别奖,捉盗,Catch Or Apprehend Robber,大馬彩

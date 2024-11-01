@@ -1,53 +1,157 @@
-开彩日期,彩号,秦庄,彩金,秦典,英典
-2024-05-01,5378,大馬彩,安慰奖,打羽球,Playing Badminton
-2024-04-03,5378,萬能,特别奖,在斜坡打羽球,Playing Badminton On Hill Slope
-2023-12-20,5378,多多博彩,安慰奖,打羽球,Playing Badminton
-2023-02-12,5378,星池,安慰奖,,
-2021-12-28,5378,萬能,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope
-2021-03-17,5378,大馬彩,二奖,打羽球,Playing Badminton
-2019-10-20,5378,萬能,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope
-2019-08-10,5378,大馬彩,特别奖,打羽球,Playing Badminton
-2019-08-07,5378,萬能,特别奖,在斜坡打羽球,Playing Badminton On Hill Slope
-2018-09-08,5378,大馬彩,安慰奖,打羽球,Playing Badminton
-2018-07-14,5378,萬能,特别奖,在斜坡打羽球,Playing Badminton On Hill Slope
-2018-01-16,5378,大馬彩,特别奖,打羽球,Playing Badminton
-2016-11-30,5378,萬能,二奖,在斜坡打羽球,Playing Badminton On Hill Slope
-2016-08-06,5378,大馬彩,二奖,打羽球,Playing Badminton
-2015-11-07,5378,萬能,特别奖,在斜坡打羽球,Playing Badminton On Hill Slope
-2015-02-22,5378,萬能,特别奖,在斜坡打羽球,Playing Badminton On Hill Slope
-2014-11-25,5378,萬能,二奖,在斜坡打羽球,Playing Badminton On Hill Slope
-2013-06-22,5378,星池,安慰奖,,
-2013-02-24,5378,大馬彩,特别奖,打羽球,Playing Badminton
-2013-01-26,5378,多多博彩,三奖,打羽球,Playing Badminton
-2012-09-12,5378,星池,特别奖,,
-2012-05-16,5378,星池,安慰奖,,
-2012-04-25,5378,星池,安慰奖,,
-2012-01-01,5378,大馬彩,特别奖,打羽球,Playing Badminton
-2011-09-18,5378,大馬彩,特别奖,打羽球,Playing Badminton
-2011-03-23,5378,萬能,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope
-2010-12-12,5378,大馬彩,安慰奖,打羽球,Playing Badminton
-2010-09-04,5378,萬能,特别奖,在斜坡打羽球,Playing Badminton On Hill Slope
-2010-07-28,5378,星池,安慰奖,,
-2009-10-13,5378,大馬彩,特别奖,打羽球,Playing Badminton
-2009-08-22,5378,萬能,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope
-2009-03-04,5378,多多博彩,安慰奖,打羽球,Playing Badminton
-2008-11-12,5378,大馬彩,特别奖,打羽球,Playing Badminton
-2006-11-28,5378,多多博彩,特别奖,打羽球,Playing Badminton
-2006-03-04,5378,大馬彩,安慰奖,打羽球,Playing Badminton
-2005-01-19,5378,萬能,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope
-2004-11-24,5378,大馬彩,特别奖,打羽球,Playing Badminton
-2004-03-17,5378,大馬彩,安慰奖,打羽球,Playing Badminton
-2002-03-02,5378,多多博彩,安慰奖,打羽球,Playing Badminton
-2001-11-03,5378,大馬彩,特别奖,打羽球,Playing Badminton
-2001-10-28,5378,大馬彩,首奖,打羽球,Playing Badminton
-2000-08-05,5378,多多博彩,安慰奖,打羽球,Playing Badminton
-2000-07-30,5378,萬能,特别奖,在斜坡打羽球,Playing Badminton On Hill Slope
-1999-06-20,5378,大馬彩,三奖,打羽球,Playing Badminton
-1998-07-12,5378,萬能,特别奖,在斜坡打羽球,Playing Badminton On Hill Slope
-1997-10-22,5378,萬能,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope
-1997-07-13,5378,多多博彩,特别奖,打羽球,Playing Badminton
-1996-01-20,5378,萬能,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope
-1992-09-02,5378,萬能,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope
-1992-06-24,5378,萬能,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope
-1992-05-07,5378,萬能,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope
-1988-07-11,5378,多多博彩,安慰奖,打羽球,Playing Badminton
+开彩日期,彩号,秦庄,彩金,史记秦本纪,史记楚辞,史记秦庄
+2024-05-01,5378,大馬彩,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2024-05-01,5378,大馬彩,安慰奖,打羽球,Playing Badminton,多多博彩
+2024-05-01,5378,大馬彩,安慰奖,打羽球,Playing Badminton,大馬彩
+2024-04-03,5378,萬能,特别奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2024-04-03,5378,萬能,特别奖,打羽球,Playing Badminton,多多博彩
+2024-04-03,5378,萬能,特别奖,打羽球,Playing Badminton,大馬彩
+2023-12-20,5378,多多,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2023-12-20,5378,多多,安慰奖,打羽球,Playing Badminton,多多博彩
+2023-12-20,5378,多多,安慰奖,打羽球,Playing Badminton,大馬彩
+2023-02-12,5378,星池,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2023-02-12,5378,星池,安慰奖,打羽球,Playing Badminton,多多博彩
+2023-02-12,5378,星池,安慰奖,打羽球,Playing Badminton,大馬彩
+2021-12-28,5378,萬能,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2021-12-28,5378,萬能,安慰奖,打羽球,Playing Badminton,多多博彩
+2021-12-28,5378,萬能,安慰奖,打羽球,Playing Badminton,大馬彩
+2021-03-17,5378,大馬彩,二奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2021-03-17,5378,大馬彩,二奖,打羽球,Playing Badminton,多多博彩
+2021-03-17,5378,大馬彩,二奖,打羽球,Playing Badminton,大馬彩
+2019-10-20,5378,萬能,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2019-10-20,5378,萬能,安慰奖,打羽球,Playing Badminton,多多博彩
+2019-10-20,5378,萬能,安慰奖,打羽球,Playing Badminton,大馬彩
+2019-08-10,5378,大馬彩,特别奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2019-08-10,5378,大馬彩,特别奖,打羽球,Playing Badminton,多多博彩
+2019-08-10,5378,大馬彩,特别奖,打羽球,Playing Badminton,大馬彩
+2019-08-07,5378,萬能,特别奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2019-08-07,5378,萬能,特别奖,打羽球,Playing Badminton,多多博彩
+2019-08-07,5378,萬能,特别奖,打羽球,Playing Badminton,大馬彩
+2018-09-08,5378,大馬彩,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2018-09-08,5378,大馬彩,安慰奖,打羽球,Playing Badminton,多多博彩
+2018-09-08,5378,大馬彩,安慰奖,打羽球,Playing Badminton,大馬彩
+2018-07-14,5378,萬能,特别奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2018-07-14,5378,萬能,特别奖,打羽球,Playing Badminton,多多博彩
+2018-07-14,5378,萬能,特别奖,打羽球,Playing Badminton,大馬彩
+2018-01-16,5378,大馬彩,特别奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2018-01-16,5378,大馬彩,特别奖,打羽球,Playing Badminton,多多博彩
+2018-01-16,5378,大馬彩,特别奖,打羽球,Playing Badminton,大馬彩
+2016-11-30,5378,萬能,二奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2016-11-30,5378,萬能,二奖,打羽球,Playing Badminton,多多博彩
+2016-11-30,5378,萬能,二奖,打羽球,Playing Badminton,大馬彩
+2016-08-06,5378,大馬彩,二奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2016-08-06,5378,大馬彩,二奖,打羽球,Playing Badminton,多多博彩
+2016-08-06,5378,大馬彩,二奖,打羽球,Playing Badminton,大馬彩
+2015-11-07,5378,萬能,特别奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2015-11-07,5378,萬能,特别奖,打羽球,Playing Badminton,多多博彩
+2015-11-07,5378,萬能,特别奖,打羽球,Playing Badminton,大馬彩
+2015-02-22,5378,萬能,特别奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2015-02-22,5378,萬能,特别奖,打羽球,Playing Badminton,多多博彩
+2015-02-22,5378,萬能,特别奖,打羽球,Playing Badminton,大馬彩
+2014-11-25,5378,萬能,二奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2014-11-25,5378,萬能,二奖,打羽球,Playing Badminton,多多博彩
+2014-11-25,5378,萬能,二奖,打羽球,Playing Badminton,大馬彩
+2013-06-22,5378,星池,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2013-06-22,5378,星池,安慰奖,打羽球,Playing Badminton,多多博彩
+2013-06-22,5378,星池,安慰奖,打羽球,Playing Badminton,大馬彩
+2013-02-24,5378,大馬彩,特别奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2013-02-24,5378,大馬彩,特别奖,打羽球,Playing Badminton,多多博彩
+2013-02-24,5378,大馬彩,特别奖,打羽球,Playing Badminton,大馬彩
+2013-01-26,5378,多多,三奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2013-01-26,5378,多多,三奖,打羽球,Playing Badminton,多多博彩
+2013-01-26,5378,多多,三奖,打羽球,Playing Badminton,大馬彩
+2012-09-12,5378,星池,特别奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2012-09-12,5378,星池,特别奖,打羽球,Playing Badminton,多多博彩
+2012-09-12,5378,星池,特别奖,打羽球,Playing Badminton,大馬彩
+2012-05-16,5378,星池,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2012-05-16,5378,星池,安慰奖,打羽球,Playing Badminton,多多博彩
+2012-05-16,5378,星池,安慰奖,打羽球,Playing Badminton,大馬彩
+2012-04-25,5378,星池,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2012-04-25,5378,星池,安慰奖,打羽球,Playing Badminton,多多博彩
+2012-04-25,5378,星池,安慰奖,打羽球,Playing Badminton,大馬彩
+2012-01-01,5378,大馬彩,特别奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2012-01-01,5378,大馬彩,特别奖,打羽球,Playing Badminton,多多博彩
+2012-01-01,5378,大馬彩,特别奖,打羽球,Playing Badminton,大馬彩
+2011-09-18,5378,大馬彩,特别奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2011-09-18,5378,大馬彩,特别奖,打羽球,Playing Badminton,多多博彩
+2011-09-18,5378,大馬彩,特别奖,打羽球,Playing Badminton,大馬彩
+2011-03-23,5378,萬能,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2011-03-23,5378,萬能,安慰奖,打羽球,Playing Badminton,多多博彩
+2011-03-23,5378,萬能,安慰奖,打羽球,Playing Badminton,大馬彩
+2010-12-12,5378,大馬彩,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2010-12-12,5378,大馬彩,安慰奖,打羽球,Playing Badminton,多多博彩
+2010-12-12,5378,大馬彩,安慰奖,打羽球,Playing Badminton,大馬彩
+2010-09-04,5378,萬能,特别奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2010-09-04,5378,萬能,特别奖,打羽球,Playing Badminton,多多博彩
+2010-09-04,5378,萬能,特别奖,打羽球,Playing Badminton,大馬彩
+2010-07-28,5378,星池,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2010-07-28,5378,星池,安慰奖,打羽球,Playing Badminton,多多博彩
+2010-07-28,5378,星池,安慰奖,打羽球,Playing Badminton,大馬彩
+2009-10-13,5378,大馬彩,特别奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2009-10-13,5378,大馬彩,特别奖,打羽球,Playing Badminton,多多博彩
+2009-10-13,5378,大馬彩,特别奖,打羽球,Playing Badminton,大馬彩
+2009-08-22,5378,萬能,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2009-08-22,5378,萬能,安慰奖,打羽球,Playing Badminton,多多博彩
+2009-08-22,5378,萬能,安慰奖,打羽球,Playing Badminton,大馬彩
+2009-03-04,5378,多多,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2009-03-04,5378,多多,安慰奖,打羽球,Playing Badminton,多多博彩
+2009-03-04,5378,多多,安慰奖,打羽球,Playing Badminton,大馬彩
+2008-11-12,5378,大馬彩,特别奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2008-11-12,5378,大馬彩,特别奖,打羽球,Playing Badminton,多多博彩
+2008-11-12,5378,大馬彩,特别奖,打羽球,Playing Badminton,大馬彩
+2006-11-28,5378,多多,特别奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2006-11-28,5378,多多,特别奖,打羽球,Playing Badminton,多多博彩
+2006-11-28,5378,多多,特别奖,打羽球,Playing Badminton,大馬彩
+2006-03-04,5378,大馬彩,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2006-03-04,5378,大馬彩,安慰奖,打羽球,Playing Badminton,多多博彩
+2006-03-04,5378,大馬彩,安慰奖,打羽球,Playing Badminton,大馬彩
+2005-01-19,5378,萬能,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2005-01-19,5378,萬能,安慰奖,打羽球,Playing Badminton,多多博彩
+2005-01-19,5378,萬能,安慰奖,打羽球,Playing Badminton,大馬彩
+2004-11-24,5378,大馬彩,特别奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2004-11-24,5378,大馬彩,特别奖,打羽球,Playing Badminton,多多博彩
+2004-11-24,5378,大馬彩,特别奖,打羽球,Playing Badminton,大馬彩
+2004-03-17,5378,大馬彩,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2004-03-17,5378,大馬彩,安慰奖,打羽球,Playing Badminton,多多博彩
+2004-03-17,5378,大馬彩,安慰奖,打羽球,Playing Badminton,大馬彩
+2002-03-02,5378,多多,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2002-03-02,5378,多多,安慰奖,打羽球,Playing Badminton,多多博彩
+2002-03-02,5378,多多,安慰奖,打羽球,Playing Badminton,大馬彩
+2001-11-03,5378,大馬彩,特别奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2001-11-03,5378,大馬彩,特别奖,打羽球,Playing Badminton,多多博彩
+2001-11-03,5378,大馬彩,特别奖,打羽球,Playing Badminton,大馬彩
+2001-10-28,5378,大馬彩,首奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2001-10-28,5378,大馬彩,首奖,打羽球,Playing Badminton,多多博彩
+2001-10-28,5378,大馬彩,首奖,打羽球,Playing Badminton,大馬彩
+2000-08-05,5378,多多,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2000-08-05,5378,多多,安慰奖,打羽球,Playing Badminton,多多博彩
+2000-08-05,5378,多多,安慰奖,打羽球,Playing Badminton,大馬彩
+2000-07-30,5378,萬能,特别奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+2000-07-30,5378,萬能,特别奖,打羽球,Playing Badminton,多多博彩
+2000-07-30,5378,萬能,特别奖,打羽球,Playing Badminton,大馬彩
+1999-06-20,5378,大馬彩,三奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+1999-06-20,5378,大馬彩,三奖,打羽球,Playing Badminton,多多博彩
+1999-06-20,5378,大馬彩,三奖,打羽球,Playing Badminton,大馬彩
+1998-07-12,5378,萬能,特别奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+1998-07-12,5378,萬能,特别奖,打羽球,Playing Badminton,多多博彩
+1998-07-12,5378,萬能,特别奖,打羽球,Playing Badminton,大馬彩
+1997-10-22,5378,萬能,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+1997-10-22,5378,萬能,安慰奖,打羽球,Playing Badminton,多多博彩
+1997-10-22,5378,萬能,安慰奖,打羽球,Playing Badminton,大馬彩
+1997-07-13,5378,多多,特别奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+1997-07-13,5378,多多,特别奖,打羽球,Playing Badminton,多多博彩
+1997-07-13,5378,多多,特别奖,打羽球,Playing Badminton,大馬彩
+1996-01-20,5378,萬能,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+1996-01-20,5378,萬能,安慰奖,打羽球,Playing Badminton,多多博彩
+1996-01-20,5378,萬能,安慰奖,打羽球,Playing Badminton,大馬彩
+1992-09-02,5378,萬能,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+1992-09-02,5378,萬能,安慰奖,打羽球,Playing Badminton,多多博彩
+1992-09-02,5378,萬能,安慰奖,打羽球,Playing Badminton,大馬彩
+1992-06-24,5378,萬能,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+1992-06-24,5378,萬能,安慰奖,打羽球,Playing Badminton,多多博彩
+1992-06-24,5378,萬能,安慰奖,打羽球,Playing Badminton,大馬彩
+1992-05-07,5378,萬能,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+1992-05-07,5378,萬能,安慰奖,打羽球,Playing Badminton,多多博彩
+1992-05-07,5378,萬能,安慰奖,打羽球,Playing Badminton,大馬彩
+1988-07-11,5378,多多,安慰奖,在斜坡打羽球,Playing Badminton On Hill Slope,萬能
+1988-07-11,5378,多多,安慰奖,打羽球,Playing Badminton,多多博彩
+1988-07-11,5378,多多,安慰奖,打羽球,Playing Badminton,大馬彩

@@ -1,44 +1,130 @@
-开彩日期,彩号,秦庄,彩金,秦典,英典
-2024-10-16,2354,星池,安慰奖,,
-2024-07-13,2354,星池,特别奖,,
-2023-12-03,2354,多多博彩,安慰奖,油站,Petrol Stations
-2023-07-30,2354,多多博彩,特别奖,油站,Petrol Stations
-2022-11-23,2354,大馬彩,安慰奖,陪葬,Funerary
-2022-03-23,2354,大馬彩,二奖,陪葬,Funerary
-2020-02-16,2354,星池,特别奖,,
-2019-11-24,2354,萬能,特别奖,汽车撞到分界堤,Car Crashed Into Road Divider
-2018-08-26,2354,萬能,首奖,汽车撞到分界堤,Car Crashed Into Road Divider
-2017-01-01,2354,星池,特别奖,,
-2016-08-07,2354,星池,特别奖,,
-2016-05-25,2354,萬能,安慰奖,汽车撞到分界堤,Car Crashed Into Road Divider
-2015-11-25,2354,星池,安慰奖,,
-2015-10-04,2354,萬能,特别奖,汽车撞到分界堤,Car Crashed Into Road Divider
-2015-09-05,2354,星池,安慰奖,,
-2015-04-05,2354,大馬彩,特别奖,陪葬,Funerary
-2014-02-19,2354,萬能,安慰奖,汽车撞到分界堤,Car Crashed Into Road Divider
-2014-01-15,2354,星池,安慰奖,,
-2013-06-05,2354,大馬彩,特别奖,陪葬,Funerary
-2012-12-22,2354,多多博彩,特别奖,油站,Petrol Stations
-2012-06-20,2354,大馬彩,特别奖,陪葬,Funerary
-2011-04-10,2354,大馬彩,特别奖,陪葬,Funerary
-2011-03-01,2354,萬能,安慰奖,汽车撞到分界堤,Car Crashed Into Road Divider
-2010-12-29,2354,多多博彩,特别奖,油站,Petrol Stations
-2010-12-01,2354,萬能,安慰奖,汽车撞到分界堤,Car Crashed Into Road Divider
-2010-11-28,2354,萬能,特别奖,汽车撞到分界堤,Car Crashed Into Road Divider
-2008-11-19,2354,大馬彩,安慰奖,陪葬,Funerary
-2005-02-23,2354,萬能,安慰奖,汽车撞到分界堤,Car Crashed Into Road Divider
-2003-10-08,2354,萬能,特别奖,汽车撞到分界堤,Car Crashed Into Road Divider
-2003-06-29,2354,萬能,特别奖,汽车撞到分界堤,Car Crashed Into Road Divider
-2003-05-06,2354,大馬彩,特别奖,陪葬,Funerary
-2000-08-16,2354,大馬彩,特别奖,陪葬,Funerary
-1999-08-21,2354,多多博彩,特别奖,油站,Petrol Stations
-1996-10-16,2354,萬能,特别奖,汽车撞到分界堤,Car Crashed Into Road Divider
-1995-10-18,2354,大馬彩,安慰奖,陪葬,Funerary
-1994-11-23,2354,多多博彩,安慰奖,油站,Petrol Stations
-1994-11-16,2354,萬能,特别奖,汽车撞到分界堤,Car Crashed Into Road Divider
-1994-01-16,2354,大馬彩,特别奖,陪葬,Funerary
-1993-11-15,2354,多多博彩,特别奖,油站,Petrol Stations
-1993-04-11,2354,大馬彩,安慰奖,陪葬,Funerary
-1993-01-17,2354,大馬彩,特别奖,陪葬,Funerary
-1992-02-08,2354,多多博彩,特别奖,油站,Petrol Stations
-1987-06-21,2354,多多博彩,特别奖,油站,Petrol Stations
+开彩日期,彩号,秦庄,彩金,史记秦本纪,史记楚辞,史记秦庄
+2024-10-16,2354,星池,安慰奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+2024-10-16,2354,星池,安慰奖,油站,Petrol Stations,多多博彩
+2024-10-16,2354,星池,安慰奖,陪葬,Funerary,大馬彩
+2024-07-13,2354,星池,特别奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+2024-07-13,2354,星池,特别奖,油站,Petrol Stations,多多博彩
+2024-07-13,2354,星池,特别奖,陪葬,Funerary,大馬彩
+2023-12-03,2354,多多,安慰奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+2023-12-03,2354,多多,安慰奖,油站,Petrol Stations,多多博彩
+2023-12-03,2354,多多,安慰奖,陪葬,Funerary,大馬彩
+2023-07-30,2354,多多,特别奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+2023-07-30,2354,多多,特别奖,油站,Petrol Stations,多多博彩
+2023-07-30,2354,多多,特别奖,陪葬,Funerary,大馬彩
+2022-11-23,2354,大馬彩,安慰奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+2022-11-23,2354,大馬彩,安慰奖,油站,Petrol Stations,多多博彩
+2022-11-23,2354,大馬彩,安慰奖,陪葬,Funerary,大馬彩
+2022-03-23,2354,大馬彩,二奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+2022-03-23,2354,大馬彩,二奖,油站,Petrol Stations,多多博彩
+2022-03-23,2354,大馬彩,二奖,陪葬,Funerary,大馬彩
+2020-02-16,2354,星池,特别奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+2020-02-16,2354,星池,特别奖,油站,Petrol Stations,多多博彩
+2020-02-16,2354,星池,特别奖,陪葬,Funerary,大馬彩
+2019-11-24,2354,萬能,特别奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+2019-11-24,2354,萬能,特别奖,油站,Petrol Stations,多多博彩
+2019-11-24,2354,萬能,特别奖,陪葬,Funerary,大馬彩
+2018-08-26,2354,萬能,首奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+2018-08-26,2354,萬能,首奖,油站,Petrol Stations,多多博彩
+2018-08-26,2354,萬能,首奖,陪葬,Funerary,大馬彩
+2017-01-01,2354,星池,特别奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+2017-01-01,2354,星池,特别奖,油站,Petrol Stations,多多博彩
+2017-01-01,2354,星池,特别奖,陪葬,Funerary,大馬彩
+2016-08-07,2354,星池,特别奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+2016-08-07,2354,星池,特别奖,油站,Petrol Stations,多多博彩
+2016-08-07,2354,星池,特别奖,陪葬,Funerary,大馬彩
+2016-05-25,2354,萬能,安慰奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+2016-05-25,2354,萬能,安慰奖,油站,Petrol Stations,多多博彩
+2016-05-25,2354,萬能,安慰奖,陪葬,Funerary,大馬彩
+2015-11-25,2354,星池,安慰奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+2015-11-25,2354,星池,安慰奖,油站,Petrol Stations,多多博彩
+2015-11-25,2354,星池,安慰奖,陪葬,Funerary,大馬彩
+2015-10-04,2354,萬能,特别奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+2015-10-04,2354,萬能,特别奖,油站,Petrol Stations,多多博彩
+2015-10-04,2354,萬能,特别奖,陪葬,Funerary,大馬彩
+2015-09-05,2354,星池,安慰奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+2015-09-05,2354,星池,安慰奖,油站,Petrol Stations,多多博彩
+2015-09-05,2354,星池,安慰奖,陪葬,Funerary,大馬彩
+2015-04-05,2354,大馬彩,特别奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+2015-04-05,2354,大馬彩,特别奖,油站,Petrol Stations,多多博彩
+2015-04-05,2354,大馬彩,特别奖,陪葬,Funerary,大馬彩
+2014-02-19,2354,萬能,安慰奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+2014-02-19,2354,萬能,安慰奖,油站,Petrol Stations,多多博彩
+2014-02-19,2354,萬能,安慰奖,陪葬,Funerary,大馬彩
+2014-01-15,2354,星池,安慰奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+2014-01-15,2354,星池,安慰奖,油站,Petrol Stations,多多博彩
+2014-01-15,2354,星池,安慰奖,陪葬,Funerary,大馬彩
+2013-06-05,2354,大馬彩,特别奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+2013-06-05,2354,大馬彩,特别奖,油站,Petrol Stations,多多博彩
+2013-06-05,2354,大馬彩,特别奖,陪葬,Funerary,大馬彩
+2012-12-22,2354,多多,特别奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+2012-12-22,2354,多多,特别奖,油站,Petrol Stations,多多博彩
+2012-12-22,2354,多多,特别奖,陪葬,Funerary,大馬彩
+2012-06-20,2354,大馬彩,特别奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+2012-06-20,2354,大馬彩,特别奖,油站,Petrol Stations,多多博彩
+2012-06-20,2354,大馬彩,特别奖,陪葬,Funerary,大馬彩
+2011-04-10,2354,大馬彩,特别奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+2011-04-10,2354,大馬彩,特别奖,油站,Petrol Stations,多多博彩
+2011-04-10,2354,大馬彩,特别奖,陪葬,Funerary,大馬彩
+2011-03-01,2354,萬能,安慰奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+2011-03-01,2354,萬能,安慰奖,油站,Petrol Stations,多多博彩
+2011-03-01,2354,萬能,安慰奖,陪葬,Funerary,大馬彩
+2010-12-29,2354,多多,特别奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+2010-12-29,2354,多多,特别奖,油站,Petrol Stations,多多博彩
+2010-12-29,2354,多多,特别奖,陪葬,Funerary,大馬彩
+2010-12-01,2354,萬能,安慰奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+2010-12-01,2354,萬能,安慰奖,油站,Petrol Stations,多多博彩
+2010-12-01,2354,萬能,安慰奖,陪葬,Funerary,大馬彩
+2010-11-28,2354,萬能,特别奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+2010-11-28,2354,萬能,特别奖,油站,Petrol Stations,多多博彩
+2010-11-28,2354,萬能,特别奖,陪葬,Funerary,大馬彩
+2008-11-19,2354,大馬彩,安慰奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+2008-11-19,2354,大馬彩,安慰奖,油站,Petrol Stations,多多博彩
+2008-11-19,2354,大馬彩,安慰奖,陪葬,Funerary,大馬彩
+2005-02-23,2354,萬能,安慰奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+2005-02-23,2354,萬能,安慰奖,油站,Petrol Stations,多多博彩
+2005-02-23,2354,萬能,安慰奖,陪葬,Funerary,大馬彩
+2003-10-08,2354,萬能,特别奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+2003-10-08,2354,萬能,特别奖,油站,Petrol Stations,多多博彩
+2003-10-08,2354,萬能,特别奖,陪葬,Funerary,大馬彩
+2003-06-29,2354,萬能,特别奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+2003-06-29,2354,萬能,特别奖,油站,Petrol Stations,多多博彩
+2003-06-29,2354,萬能,特别奖,陪葬,Funerary,大馬彩
+2003-05-06,2354,大馬彩,特别奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+2003-05-06,2354,大馬彩,特别奖,油站,Petrol Stations,多多博彩
+2003-05-06,2354,大馬彩,特别奖,陪葬,Funerary,大馬彩
+2000-08-16,2354,大馬彩,特别奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+2000-08-16,2354,大馬彩,特别奖,油站,Petrol Stations,多多博彩
+2000-08-16,2354,大馬彩,特别奖,陪葬,Funerary,大馬彩
+1999-08-21,2354,多多,特别奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+1999-08-21,2354,多多,特别奖,油站,Petrol Stations,多多博彩
+1999-08-21,2354,多多,特别奖,陪葬,Funerary,大馬彩
+1996-10-16,2354,萬能,特别奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+1996-10-16,2354,萬能,特别奖,油站,Petrol Stations,多多博彩
+1996-10-16,2354,萬能,特别奖,陪葬,Funerary,大馬彩
+1995-10-18,2354,大馬彩,安慰奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+1995-10-18,2354,大馬彩,安慰奖,油站,Petrol Stations,多多博彩
+1995-10-18,2354,大馬彩,安慰奖,陪葬,Funerary,大馬彩
+1994-11-23,2354,多多,安慰奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+1994-11-23,2354,多多,安慰奖,油站,Petrol Stations,多多博彩
+1994-11-23,2354,多多,安慰奖,陪葬,Funerary,大馬彩
+1994-11-16,2354,萬能,特别奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+1994-11-16,2354,萬能,特别奖,油站,Petrol Stations,多多博彩
+1994-11-16,2354,萬能,特别奖,陪葬,Funerary,大馬彩
+1994-01-16,2354,大馬彩,特别奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+1994-01-16,2354,大馬彩,特别奖,油站,Petrol Stations,多多博彩
+1994-01-16,2354,大馬彩,特别奖,陪葬,Funerary,大馬彩
+1993-11-15,2354,多多,特别奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+1993-11-15,2354,多多,特别奖,油站,Petrol Stations,多多博彩
+1993-11-15,2354,多多,特别奖,陪葬,Funerary,大馬彩
+1993-04-11,2354,大馬彩,安慰奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+1993-04-11,2354,大馬彩,安慰奖,油站,Petrol Stations,多多博彩
+1993-04-11,2354,大馬彩,安慰奖,陪葬,Funerary,大馬彩
+1993-01-17,2354,大馬彩,特别奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+1993-01-17,2354,大馬彩,特别奖,油站,Petrol Stations,多多博彩
+1993-01-17,2354,大馬彩,特别奖,陪葬,Funerary,大馬彩
+1992-02-08,2354,多多,特别奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+1992-02-08,2354,多多,特别奖,油站,Petrol Stations,多多博彩
+1992-02-08,2354,多多,特别奖,陪葬,Funerary,大馬彩
+1987-06-21,2354,多多,特别奖,汽车撞到分界堤,Car Crashed Into Road Divider,萬能
+1987-06-21,2354,多多,特别奖,油站,Petrol Stations,多多博彩
+1987-06-21,2354,多多,特别奖,陪葬,Funerary,大馬彩

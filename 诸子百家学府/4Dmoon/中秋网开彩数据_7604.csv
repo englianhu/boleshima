@@ -1,55 +1,163 @@
-开彩日期,彩号,秦庄,彩金,秦典,英典
-2024-05-25,7604,萬能,特别奖,荷兰货币,Netherlands Guilder
-2024-05-22,7604,萬能,特别奖,荷兰货币,Netherlands Guilder
-2024-05-18,7604,星池,安慰奖,,
-2024-01-14,7604,多多博彩,安慰奖,电板,Electric Board
-2023-09-16,7604,萬能,安慰奖,荷兰货币,Netherlands Guilder
-2023-06-04,7604,萬能,安慰奖,荷兰货币,Netherlands Guilder
-2022-12-03,7604,多多博彩,安慰奖,电板,Electric Board
-2021-10-17,7604,多多博彩,特别奖,电板,Electric Board
-2021-05-09,7604,大馬彩,安慰奖,重金属音乐,Heavy Metal Music
-2021-03-31,7604,萬能,安慰奖,荷兰货币,Netherlands Guilder
-2021-01-17,7604,多多博彩,特别奖,电板,Electric Board
-2020-03-07,7604,萬能,安慰奖,荷兰货币,Netherlands Guilder
-2019-12-01,7604,萬能,特别奖,荷兰货币,Netherlands Guilder
-2018-05-27,7604,多多博彩,特别奖,电板,Electric Board
-2018-01-17,7604,多多博彩,三奖,电板,Electric Board
-2017-12-20,7604,星池,安慰奖,,
-2017-07-15,7604,大馬彩,特别奖,重金属音乐,Heavy Metal Music
-2017-05-07,7604,星池,安慰奖,,
-2016-06-01,7604,大馬彩,安慰奖,重金属音乐,Heavy Metal Music
-2016-04-03,7604,多多博彩,三奖,电板,Electric Board
-2015-07-08,7604,星池,安慰奖,,
-2015-06-10,7604,多多博彩,特别奖,电板,Electric Board
-2015-01-07,7604,大馬彩,安慰奖,重金属音乐,Heavy Metal Music
-2014-07-16,7604,星池,特别奖,,
-2014-03-29,7604,萬能,特别奖,荷兰货币,Netherlands Guilder
-2013-12-15,7604,大馬彩,安慰奖,重金属音乐,Heavy Metal Music
-2013-03-02,7604,萬能,特别奖,荷兰货币,Netherlands Guilder
-2012-05-12,7604,多多博彩,特别奖,电板,Electric Board
-2012-04-18,7604,星池,三奖,,
-2012-01-29,7604,大馬彩,安慰奖,重金属音乐,Heavy Metal Music
-2011-11-09,7604,萬能,首奖,荷兰货币,Netherlands Guilder
-2011-09-21,7604,多多博彩,安慰奖,电板,Electric Board
-2010-11-30,7604,萬能,安慰奖,荷兰货币,Netherlands Guilder
-2010-10-24,7604,多多博彩,特别奖,电板,Electric Board
-2009-01-27,7604,大馬彩,三奖,重金属音乐,Heavy Metal Music
-2008-04-23,7604,星池,安慰奖,,
-2008-01-19,7604,萬能,首奖,荷兰货币,Netherlands Guilder
-2007-05-06,7604,萬能,特别奖,荷兰货币,Netherlands Guilder
-2006-03-25,7604,大馬彩,首奖,重金属音乐,Heavy Metal Music
-2004-11-14,7604,大馬彩,特别奖,重金属音乐,Heavy Metal Music
-2001-12-09,7604,大馬彩,安慰奖,重金属音乐,Heavy Metal Music
-2001-11-24,7604,大馬彩,特别奖,重金属音乐,Heavy Metal Music
-2001-10-13,7604,萬能,特别奖,荷兰货币,Netherlands Guilder
-2001-09-12,7604,大馬彩,特别奖,重金属音乐,Heavy Metal Music
-2001-01-24,7604,萬能,安慰奖,荷兰货币,Netherlands Guilder
-2000-05-03,7604,大馬彩,首奖,重金属音乐,Heavy Metal Music
-1998-08-15,7604,多多博彩,安慰奖,电板,Electric Board
-1997-07-16,7604,大馬彩,特别奖,重金属音乐,Heavy Metal Music
-1997-01-05,7604,萬能,安慰奖,荷兰货币,Netherlands Guilder
-1996-09-28,7604,大馬彩,特别奖,重金属音乐,Heavy Metal Music
-1994-10-02,7604,多多博彩,特别奖,电板,Electric Board
-1994-04-17,7604,萬能,特别奖,荷兰货币,Netherlands Guilder
-1994-03-24,7604,萬能,安慰奖,荷兰货币,Netherlands Guilder
-1989-11-23,7604,多多博彩,特别奖,电板,Electric Board
+开彩日期,彩号,秦庄,彩金,史记秦本纪,史记楚辞,史记秦庄
+2024-05-25,7604,萬能,特别奖,荷兰货币,Netherlands Guilder,萬能
+2024-05-25,7604,萬能,特别奖,电板,Electric Board,多多博彩
+2024-05-25,7604,萬能,特别奖,重金属音乐,Heavy Metal Music,大馬彩
+2024-05-22,7604,萬能,特别奖,荷兰货币,Netherlands Guilder,萬能
+2024-05-22,7604,萬能,特别奖,电板,Electric Board,多多博彩
+2024-05-22,7604,萬能,特别奖,重金属音乐,Heavy Metal Music,大馬彩
+2024-05-18,7604,星池,安慰奖,荷兰货币,Netherlands Guilder,萬能
+2024-05-18,7604,星池,安慰奖,电板,Electric Board,多多博彩
+2024-05-18,7604,星池,安慰奖,重金属音乐,Heavy Metal Music,大馬彩
+2024-01-14,7604,多多,安慰奖,荷兰货币,Netherlands Guilder,萬能
+2024-01-14,7604,多多,安慰奖,电板,Electric Board,多多博彩
+2024-01-14,7604,多多,安慰奖,重金属音乐,Heavy Metal Music,大馬彩
+2023-09-16,7604,萬能,安慰奖,荷兰货币,Netherlands Guilder,萬能
+2023-09-16,7604,萬能,安慰奖,电板,Electric Board,多多博彩
+2023-09-16,7604,萬能,安慰奖,重金属音乐,Heavy Metal Music,大馬彩
+2023-06-04,7604,萬能,安慰奖,荷兰货币,Netherlands Guilder,萬能
+2023-06-04,7604,萬能,安慰奖,电板,Electric Board,多多博彩
+2023-06-04,7604,萬能,安慰奖,重金属音乐,Heavy Metal Music,大馬彩
+2022-12-03,7604,多多,安慰奖,荷兰货币,Netherlands Guilder,萬能
+2022-12-03,7604,多多,安慰奖,电板,Electric Board,多多博彩
+2022-12-03,7604,多多,安慰奖,重金属音乐,Heavy Metal Music,大馬彩
+2021-10-17,7604,多多,特别奖,荷兰货币,Netherlands Guilder,萬能
+2021-10-17,7604,多多,特别奖,电板,Electric Board,多多博彩
+2021-10-17,7604,多多,特别奖,重金属音乐,Heavy Metal Music,大馬彩
+2021-05-09,7604,大馬彩,安慰奖,荷兰货币,Netherlands Guilder,萬能
+2021-05-09,7604,大馬彩,安慰奖,电板,Electric Board,多多博彩
+2021-05-09,7604,大馬彩,安慰奖,重金属音乐,Heavy Metal Music,大馬彩
+2021-03-31,7604,萬能,安慰奖,荷兰货币,Netherlands Guilder,萬能
+2021-03-31,7604,萬能,安慰奖,电板,Electric Board,多多博彩
+2021-03-31,7604,萬能,安慰奖,重金属音乐,Heavy Metal Music,大馬彩
+2021-01-17,7604,多多,特别奖,荷兰货币,Netherlands Guilder,萬能
+2021-01-17,7604,多多,特别奖,电板,Electric Board,多多博彩
+2021-01-17,7604,多多,特别奖,重金属音乐,Heavy Metal Music,大馬彩
+2020-03-07,7604,萬能,安慰奖,荷兰货币,Netherlands Guilder,萬能
+2020-03-07,7604,萬能,安慰奖,电板,Electric Board,多多博彩
+2020-03-07,7604,萬能,安慰奖,重金属音乐,Heavy Metal Music,大馬彩
+2019-12-01,7604,萬能,特别奖,荷兰货币,Netherlands Guilder,萬能
+2019-12-01,7604,萬能,特别奖,电板,Electric Board,多多博彩
+2019-12-01,7604,萬能,特别奖,重金属音乐,Heavy Metal Music,大馬彩
+2018-05-27,7604,多多,特别奖,荷兰货币,Netherlands Guilder,萬能
+2018-05-27,7604,多多,特别奖,电板,Electric Board,多多博彩
+2018-05-27,7604,多多,特别奖,重金属音乐,Heavy Metal Music,大馬彩
+2018-01-17,7604,多多,三奖,荷兰货币,Netherlands Guilder,萬能
+2018-01-17,7604,多多,三奖,电板,Electric Board,多多博彩
+2018-01-17,7604,多多,三奖,重金属音乐,Heavy Metal Music,大馬彩
+2017-12-20,7604,星池,安慰奖,荷兰货币,Netherlands Guilder,萬能
+2017-12-20,7604,星池,安慰奖,电板,Electric Board,多多博彩
+2017-12-20,7604,星池,安慰奖,重金属音乐,Heavy Metal Music,大馬彩
+2017-07-15,7604,大馬彩,特别奖,荷兰货币,Netherlands Guilder,萬能
+2017-07-15,7604,大馬彩,特别奖,电板,Electric Board,多多博彩
+2017-07-15,7604,大馬彩,特别奖,重金属音乐,Heavy Metal Music,大馬彩
+2017-05-07,7604,星池,安慰奖,荷兰货币,Netherlands Guilder,萬能
+2017-05-07,7604,星池,安慰奖,电板,Electric Board,多多博彩
+2017-05-07,7604,星池,安慰奖,重金属音乐,Heavy Metal Music,大馬彩
+2016-06-01,7604,大馬彩,安慰奖,荷兰货币,Netherlands Guilder,萬能
+2016-06-01,7604,大馬彩,安慰奖,电板,Electric Board,多多博彩
+2016-06-01,7604,大馬彩,安慰奖,重金属音乐,Heavy Metal Music,大馬彩
+2016-04-03,7604,多多,三奖,荷兰货币,Netherlands Guilder,萬能
+2016-04-03,7604,多多,三奖,电板,Electric Board,多多博彩
+2016-04-03,7604,多多,三奖,重金属音乐,Heavy Metal Music,大馬彩
+2015-07-08,7604,星池,安慰奖,荷兰货币,Netherlands Guilder,萬能
+2015-07-08,7604,星池,安慰奖,电板,Electric Board,多多博彩
+2015-07-08,7604,星池,安慰奖,重金属音乐,Heavy Metal Music,大馬彩
+2015-06-10,7604,多多,特别奖,荷兰货币,Netherlands Guilder,萬能
+2015-06-10,7604,多多,特别奖,电板,Electric Board,多多博彩
+2015-06-10,7604,多多,特别奖,重金属音乐,Heavy Metal Music,大馬彩
+2015-01-07,7604,大馬彩,安慰奖,荷兰货币,Netherlands Guilder,萬能
+2015-01-07,7604,大馬彩,安慰奖,电板,Electric Board,多多博彩
+2015-01-07,7604,大馬彩,安慰奖,重金属音乐,Heavy Metal Music,大馬彩
+2014-07-16,7604,星池,特别奖,荷兰货币,Netherlands Guilder,萬能
+2014-07-16,7604,星池,特别奖,电板,Electric Board,多多博彩
+2014-07-16,7604,星池,特别奖,重金属音乐,Heavy Metal Music,大馬彩
+2014-03-29,7604,萬能,特别奖,荷兰货币,Netherlands Guilder,萬能
+2014-03-29,7604,萬能,特别奖,电板,Electric Board,多多博彩
+2014-03-29,7604,萬能,特别奖,重金属音乐,Heavy Metal Music,大馬彩
+2013-12-15,7604,大馬彩,安慰奖,荷兰货币,Netherlands Guilder,萬能
+2013-12-15,7604,大馬彩,安慰奖,电板,Electric Board,多多博彩
+2013-12-15,7604,大馬彩,安慰奖,重金属音乐,Heavy Metal Music,大馬彩
+2013-03-02,7604,萬能,特别奖,荷兰货币,Netherlands Guilder,萬能
+2013-03-02,7604,萬能,特别奖,电板,Electric Board,多多博彩
+2013-03-02,7604,萬能,特别奖,重金属音乐,Heavy Metal Music,大馬彩
+2012-05-12,7604,多多,特别奖,荷兰货币,Netherlands Guilder,萬能
+2012-05-12,7604,多多,特别奖,电板,Electric Board,多多博彩
+2012-05-12,7604,多多,特别奖,重金属音乐,Heavy Metal Music,大馬彩
+2012-04-18,7604,星池,三奖,荷兰货币,Netherlands Guilder,萬能
+2012-04-18,7604,星池,三奖,电板,Electric Board,多多博彩
+2012-04-18,7604,星池,三奖,重金属音乐,Heavy Metal Music,大馬彩
+2012-01-29,7604,大馬彩,安慰奖,荷兰货币,Netherlands Guilder,萬能
+2012-01-29,7604,大馬彩,安慰奖,电板,Electric Board,多多博彩
+2012-01-29,7604,大馬彩,安慰奖,重金属音乐,Heavy Metal Music,大馬彩
+2011-11-09,7604,萬能,首奖,荷兰货币,Netherlands Guilder,萬能
+2011-11-09,7604,萬能,首奖,电板,Electric Board,多多博彩
+2011-11-09,7604,萬能,首奖,重金属音乐,Heavy Metal Music,大馬彩
+2011-09-21,7604,多多,安慰奖,荷兰货币,Netherlands Guilder,萬能
+2011-09-21,7604,多多,安慰奖,电板,Electric Board,多多博彩
+2011-09-21,7604,多多,安慰奖,重金属音乐,Heavy Metal Music,大馬彩
+2010-11-30,7604,萬能,安慰奖,荷兰货币,Netherlands Guilder,萬能
+2010-11-30,7604,萬能,安慰奖,电板,Electric Board,多多博彩
+2010-11-30,7604,萬能,安慰奖,重金属音乐,Heavy Metal Music,大馬彩
+2010-10-24,7604,多多,特别奖,荷兰货币,Netherlands Guilder,萬能
+2010-10-24,7604,多多,特别奖,电板,Electric Board,多多博彩
+2010-10-24,7604,多多,特别奖,重金属音乐,Heavy Metal Music,大馬彩
+2009-01-27,7604,大馬彩,三奖,荷兰货币,Netherlands Guilder,萬能
+2009-01-27,7604,大馬彩,三奖,电板,Electric Board,多多博彩
+2009-01-27,7604,大馬彩,三奖,重金属音乐,Heavy Metal Music,大馬彩
+2008-04-23,7604,星池,安慰奖,荷兰货币,Netherlands Guilder,萬能
+2008-04-23,7604,星池,安慰奖,电板,Electric Board,多多博彩
+2008-04-23,7604,星池,安慰奖,重金属音乐,Heavy Metal Music,大馬彩
+2008-01-19,7604,萬能,首奖,荷兰货币,Netherlands Guilder,萬能
+2008-01-19,7604,萬能,首奖,电板,Electric Board,多多博彩
+2008-01-19,7604,萬能,首奖,重金属音乐,Heavy Metal Music,大馬彩
+2007-05-06,7604,萬能,特别奖,荷兰货币,Netherlands Guilder,萬能
+2007-05-06,7604,萬能,特别奖,电板,Electric Board,多多博彩
+2007-05-06,7604,萬能,特别奖,重金属音乐,Heavy Metal Music,大馬彩
+2006-03-25,7604,大馬彩,首奖,荷兰货币,Netherlands Guilder,萬能
+2006-03-25,7604,大馬彩,首奖,电板,Electric Board,多多博彩
+2006-03-25,7604,大馬彩,首奖,重金属音乐,Heavy Metal Music,大馬彩
+2004-11-14,7604,大馬彩,特别奖,荷兰货币,Netherlands Guilder,萬能
+2004-11-14,7604,大馬彩,特别奖,电板,Electric Board,多多博彩
+2004-11-14,7604,大馬彩,特别奖,重金属音乐,Heavy Metal Music,大馬彩
+2001-12-09,7604,大馬彩,安慰奖,荷兰货币,Netherlands Guilder,萬能
+2001-12-09,7604,大馬彩,安慰奖,电板,Electric Board,多多博彩
+2001-12-09,7604,大馬彩,安慰奖,重金属音乐,Heavy Metal Music,大馬彩
+2001-11-24,7604,大馬彩,特别奖,荷兰货币,Netherlands Guilder,萬能
+2001-11-24,7604,大馬彩,特别奖,电板,Electric Board,多多博彩
+2001-11-24,7604,大馬彩,特别奖,重金属音乐,Heavy Metal Music,大馬彩
+2001-10-13,7604,萬能,特别奖,荷兰货币,Netherlands Guilder,萬能
+2001-10-13,7604,萬能,特别奖,电板,Electric Board,多多博彩
+2001-10-13,7604,萬能,特别奖,重金属音乐,Heavy Metal Music,大馬彩
+2001-09-12,7604,大馬彩,特别奖,荷兰货币,Netherlands Guilder,萬能
+2001-09-12,7604,大馬彩,特别奖,电板,Electric Board,多多博彩
+2001-09-12,7604,大馬彩,特别奖,重金属音乐,Heavy Metal Music,大馬彩
+2001-01-24,7604,萬能,安慰奖,荷兰货币,Netherlands Guilder,萬能
+2001-01-24,7604,萬能,安慰奖,电板,Electric Board,多多博彩
+2001-01-24,7604,萬能,安慰奖,重金属音乐,Heavy Metal Music,大馬彩
+2000-05-03,7604,大馬彩,首奖,荷兰货币,Netherlands Guilder,萬能
+2000-05-03,7604,大馬彩,首奖,电板,Electric Board,多多博彩
+2000-05-03,7604,大馬彩,首奖,重金属音乐,Heavy Metal Music,大馬彩
+1998-08-15,7604,多多,安慰奖,荷兰货币,Netherlands Guilder,萬能
+1998-08-15,7604,多多,安慰奖,电板,Electric Board,多多博彩
+1998-08-15,7604,多多,安慰奖,重金属音乐,Heavy Metal Music,大馬彩
+1997-07-16,7604,大馬彩,特别奖,荷兰货币,Netherlands Guilder,萬能
+1997-07-16,7604,大馬彩,特别奖,电板,Electric Board,多多博彩
+1997-07-16,7604,大馬彩,特别奖,重金属音乐,Heavy Metal Music,大馬彩
+1997-01-05,7604,萬能,安慰奖,荷兰货币,Netherlands Guilder,萬能
+1997-01-05,7604,萬能,安慰奖,电板,Electric Board,多多博彩
+1997-01-05,7604,萬能,安慰奖,重金属音乐,Heavy Metal Music,大馬彩
+1996-09-28,7604,大馬彩,特别奖,荷兰货币,Netherlands Guilder,萬能
+1996-09-28,7604,大馬彩,特别奖,电板,Electric Board,多多博彩
+1996-09-28,7604,大馬彩,特别奖,重金属音乐,Heavy Metal Music,大馬彩
+1994-10-02,7604,多多,特别奖,荷兰货币,Netherlands Guilder,萬能
+1994-10-02,7604,多多,特别奖,电板,Electric Board,多多博彩
+1994-10-02,7604,多多,特别奖,重金属音乐,Heavy Metal Music,大馬彩
+1994-04-17,7604,萬能,特别奖,荷兰货币,Netherlands Guilder,萬能
+1994-04-17,7604,萬能,特别奖,电板,Electric Board,多多博彩
+1994-04-17,7604,萬能,特别奖,重金属音乐,Heavy Metal Music,大馬彩
+1994-03-24,7604,萬能,安慰奖,荷兰货币,Netherlands Guilder,萬能
+1994-03-24,7604,萬能,安慰奖,电板,Electric Board,多多博彩
+1994-03-24,7604,萬能,安慰奖,重金属音乐,Heavy Metal Music,大馬彩
+1989-11-23,7604,多多,特别奖,荷兰货币,Netherlands Guilder,萬能
+1989-11-23,7604,多多,特别奖,电板,Electric Board,多多博彩
+1989-11-23,7604,多多,特别奖,重金属音乐,Heavy Metal Music,大馬彩

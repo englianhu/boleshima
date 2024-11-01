@@ -1,49 +1,145 @@
-开彩日期,彩号,秦庄,彩金,秦典,英典
-2024-03-03,2950,萬能,首奖,收集甲虫为兴趣,Collecting Beetles As Hobby
-2023-07-01,2950,大馬彩,三奖,烤肉,Roast Meat
-2022-08-06,2950,多多博彩,安慰奖,怪花,Strange Flowers
-2022-07-13,2950,星池,特别奖,,
-2021-11-27,2950,大馬彩,特别奖,烤肉,Roast Meat
-2021-10-30,2950,大馬彩,安慰奖,烤肉,Roast Meat
-2021-08-18,2950,星池,特别奖,,
-2020-12-09,2950,萬能,首奖,收集甲虫为兴趣,Collecting Beetles As Hobby
-2019-11-16,2950,大馬彩,特别奖,烤肉,Roast Meat
-2018-09-12,2950,多多博彩,特别奖,怪花,Strange Flowers
-2017-12-10,2950,大馬彩,安慰奖,烤肉,Roast Meat
-2017-10-21,2950,萬能,特别奖,收集甲虫为兴趣,Collecting Beetles As Hobby
-2017-01-22,2950,萬能,安慰奖,收集甲虫为兴趣,Collecting Beetles As Hobby
-2016-11-13,2950,大馬彩,特别奖,烤肉,Roast Meat
-2016-01-13,2950,多多博彩,安慰奖,怪花,Strange Flowers
-2015-11-24,2950,多多博彩,特别奖,怪花,Strange Flowers
-2015-05-31,2950,萬能,三奖,收集甲虫为兴趣,Collecting Beetles As Hobby
-2015-02-14,2950,多多博彩,特别奖,怪花,Strange Flowers
-2015-02-08,2950,多多博彩,安慰奖,怪花,Strange Flowers
-2015-01-31,2950,大馬彩,安慰奖,烤肉,Roast Meat
-2013-03-09,2950,多多博彩,特别奖,怪花,Strange Flowers
-2012-06-20,2950,大馬彩,安慰奖,烤肉,Roast Meat
-2012-05-20,2950,多多博彩,安慰奖,怪花,Strange Flowers
-2012-04-22,2950,萬能,首奖,收集甲虫为兴趣,Collecting Beetles As Hobby
-2012-02-01,2950,多多博彩,特别奖,怪花,Strange Flowers
-2011-01-16,2950,大馬彩,安慰奖,烤肉,Roast Meat
-2010-08-04,2950,多多博彩,特别奖,怪花,Strange Flowers
-2010-07-17,2950,星池,安慰奖,,
-2009-07-05,2950,萬能,安慰奖,收集甲虫为兴趣,Collecting Beetles As Hobby
-2008-04-27,2950,多多博彩,安慰奖,怪花,Strange Flowers
-2007-10-06,2950,星池,特别奖,,
-2007-08-12,2950,萬能,特别奖,收集甲虫为兴趣,Collecting Beetles As Hobby
-2006-08-13,2950,大馬彩,特别奖,烤肉,Roast Meat
-2006-07-02,2950,多多博彩,特别奖,怪花,Strange Flowers
-2004-01-21,2950,萬能,安慰奖,收集甲虫为兴趣,Collecting Beetles As Hobby
-2002-10-20,2950,大馬彩,二奖,烤肉,Roast Meat
-2001-05-23,2950,萬能,特别奖,收集甲虫为兴趣,Collecting Beetles As Hobby
-1999-08-28,2950,大馬彩,安慰奖,烤肉,Roast Meat
-1999-08-08,2950,多多博彩,安慰奖,怪花,Strange Flowers
-1999-02-03,2950,多多博彩,特别奖,怪花,Strange Flowers
-1997-07-02,2950,多多博彩,安慰奖,怪花,Strange Flowers
-1997-05-18,2950,萬能,特别奖,收集甲虫为兴趣,Collecting Beetles As Hobby
-1994-05-25,2950,大馬彩,首奖,烤肉,Roast Meat
-1993-09-15,2950,萬能,特别奖,收集甲虫为兴趣,Collecting Beetles As Hobby
-1992-12-28,2950,多多博彩,安慰奖,怪花,Strange Flowers
-1992-10-17,2950,多多博彩,安慰奖,怪花,Strange Flowers
-1990-05-24,2950,多多博彩,安慰奖,怪花,Strange Flowers
-1986-10-11,2950,多多博彩,安慰奖,怪花,Strange Flowers
+开彩日期,彩号,秦庄,彩金,史记秦本纪,史记楚辞,史记秦庄
+2024-03-03,2950,萬能,首奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2024-03-03,2950,萬能,首奖,怪花,Strange Flowers,多多博彩
+2024-03-03,2950,萬能,首奖,烤肉,Roast Meat,大馬彩
+2023-07-01,2950,大馬彩,三奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2023-07-01,2950,大馬彩,三奖,怪花,Strange Flowers,多多博彩
+2023-07-01,2950,大馬彩,三奖,烤肉,Roast Meat,大馬彩
+2022-08-06,2950,多多,安慰奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2022-08-06,2950,多多,安慰奖,怪花,Strange Flowers,多多博彩
+2022-08-06,2950,多多,安慰奖,烤肉,Roast Meat,大馬彩
+2022-07-13,2950,星池,特别奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2022-07-13,2950,星池,特别奖,怪花,Strange Flowers,多多博彩
+2022-07-13,2950,星池,特别奖,烤肉,Roast Meat,大馬彩
+2021-11-27,2950,大馬彩,特别奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2021-11-27,2950,大馬彩,特别奖,怪花,Strange Flowers,多多博彩
+2021-11-27,2950,大馬彩,特别奖,烤肉,Roast Meat,大馬彩
+2021-10-30,2950,大馬彩,安慰奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2021-10-30,2950,大馬彩,安慰奖,怪花,Strange Flowers,多多博彩
+2021-10-30,2950,大馬彩,安慰奖,烤肉,Roast Meat,大馬彩
+2021-08-18,2950,星池,特别奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2021-08-18,2950,星池,特别奖,怪花,Strange Flowers,多多博彩
+2021-08-18,2950,星池,特别奖,烤肉,Roast Meat,大馬彩
+2020-12-09,2950,萬能,首奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2020-12-09,2950,萬能,首奖,怪花,Strange Flowers,多多博彩
+2020-12-09,2950,萬能,首奖,烤肉,Roast Meat,大馬彩
+2019-11-16,2950,大馬彩,特别奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2019-11-16,2950,大馬彩,特别奖,怪花,Strange Flowers,多多博彩
+2019-11-16,2950,大馬彩,特别奖,烤肉,Roast Meat,大馬彩
+2018-09-12,2950,多多,特别奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2018-09-12,2950,多多,特别奖,怪花,Strange Flowers,多多博彩
+2018-09-12,2950,多多,特别奖,烤肉,Roast Meat,大馬彩
+2017-12-10,2950,大馬彩,安慰奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2017-12-10,2950,大馬彩,安慰奖,怪花,Strange Flowers,多多博彩
+2017-12-10,2950,大馬彩,安慰奖,烤肉,Roast Meat,大馬彩
+2017-10-21,2950,萬能,特别奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2017-10-21,2950,萬能,特别奖,怪花,Strange Flowers,多多博彩
+2017-10-21,2950,萬能,特别奖,烤肉,Roast Meat,大馬彩
+2017-01-22,2950,萬能,安慰奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2017-01-22,2950,萬能,安慰奖,怪花,Strange Flowers,多多博彩
+2017-01-22,2950,萬能,安慰奖,烤肉,Roast Meat,大馬彩
+2016-11-13,2950,大馬彩,特别奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2016-11-13,2950,大馬彩,特别奖,怪花,Strange Flowers,多多博彩
+2016-11-13,2950,大馬彩,特别奖,烤肉,Roast Meat,大馬彩
+2016-01-13,2950,多多,安慰奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2016-01-13,2950,多多,安慰奖,怪花,Strange Flowers,多多博彩
+2016-01-13,2950,多多,安慰奖,烤肉,Roast Meat,大馬彩
+2015-11-24,2950,多多,特别奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2015-11-24,2950,多多,特别奖,怪花,Strange Flowers,多多博彩
+2015-11-24,2950,多多,特别奖,烤肉,Roast Meat,大馬彩
+2015-05-31,2950,萬能,三奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2015-05-31,2950,萬能,三奖,怪花,Strange Flowers,多多博彩
+2015-05-31,2950,萬能,三奖,烤肉,Roast Meat,大馬彩
+2015-02-14,2950,多多,特别奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2015-02-14,2950,多多,特别奖,怪花,Strange Flowers,多多博彩
+2015-02-14,2950,多多,特别奖,烤肉,Roast Meat,大馬彩
+2015-02-08,2950,多多,安慰奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2015-02-08,2950,多多,安慰奖,怪花,Strange Flowers,多多博彩
+2015-02-08,2950,多多,安慰奖,烤肉,Roast Meat,大馬彩
+2015-01-31,2950,大馬彩,安慰奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2015-01-31,2950,大馬彩,安慰奖,怪花,Strange Flowers,多多博彩
+2015-01-31,2950,大馬彩,安慰奖,烤肉,Roast Meat,大馬彩
+2013-03-09,2950,多多,特别奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2013-03-09,2950,多多,特别奖,怪花,Strange Flowers,多多博彩
+2013-03-09,2950,多多,特别奖,烤肉,Roast Meat,大馬彩
+2012-06-20,2950,大馬彩,安慰奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2012-06-20,2950,大馬彩,安慰奖,怪花,Strange Flowers,多多博彩
+2012-06-20,2950,大馬彩,安慰奖,烤肉,Roast Meat,大馬彩
+2012-05-20,2950,多多,安慰奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2012-05-20,2950,多多,安慰奖,怪花,Strange Flowers,多多博彩
+2012-05-20,2950,多多,安慰奖,烤肉,Roast Meat,大馬彩
+2012-04-22,2950,萬能,首奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2012-04-22,2950,萬能,首奖,怪花,Strange Flowers,多多博彩
+2012-04-22,2950,萬能,首奖,烤肉,Roast Meat,大馬彩
+2012-02-01,2950,多多,特别奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2012-02-01,2950,多多,特别奖,怪花,Strange Flowers,多多博彩
+2012-02-01,2950,多多,特别奖,烤肉,Roast Meat,大馬彩
+2011-01-16,2950,大馬彩,安慰奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2011-01-16,2950,大馬彩,安慰奖,怪花,Strange Flowers,多多博彩
+2011-01-16,2950,大馬彩,安慰奖,烤肉,Roast Meat,大馬彩
+2010-08-04,2950,多多,特别奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2010-08-04,2950,多多,特别奖,怪花,Strange Flowers,多多博彩
+2010-08-04,2950,多多,特别奖,烤肉,Roast Meat,大馬彩
+2010-07-17,2950,星池,安慰奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2010-07-17,2950,星池,安慰奖,怪花,Strange Flowers,多多博彩
+2010-07-17,2950,星池,安慰奖,烤肉,Roast Meat,大馬彩
+2009-07-05,2950,萬能,安慰奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2009-07-05,2950,萬能,安慰奖,怪花,Strange Flowers,多多博彩
+2009-07-05,2950,萬能,安慰奖,烤肉,Roast Meat,大馬彩
+2008-04-27,2950,多多,安慰奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2008-04-27,2950,多多,安慰奖,怪花,Strange Flowers,多多博彩
+2008-04-27,2950,多多,安慰奖,烤肉,Roast Meat,大馬彩
+2007-10-06,2950,星池,特别奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2007-10-06,2950,星池,特别奖,怪花,Strange Flowers,多多博彩
+2007-10-06,2950,星池,特别奖,烤肉,Roast Meat,大馬彩
+2007-08-12,2950,萬能,特别奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2007-08-12,2950,萬能,特别奖,怪花,Strange Flowers,多多博彩
+2007-08-12,2950,萬能,特别奖,烤肉,Roast Meat,大馬彩
+2006-08-13,2950,大馬彩,特别奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2006-08-13,2950,大馬彩,特别奖,怪花,Strange Flowers,多多博彩
+2006-08-13,2950,大馬彩,特别奖,烤肉,Roast Meat,大馬彩
+2006-07-02,2950,多多,特别奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2006-07-02,2950,多多,特别奖,怪花,Strange Flowers,多多博彩
+2006-07-02,2950,多多,特别奖,烤肉,Roast Meat,大馬彩
+2004-01-21,2950,萬能,安慰奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2004-01-21,2950,萬能,安慰奖,怪花,Strange Flowers,多多博彩
+2004-01-21,2950,萬能,安慰奖,烤肉,Roast Meat,大馬彩
+2002-10-20,2950,大馬彩,二奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2002-10-20,2950,大馬彩,二奖,怪花,Strange Flowers,多多博彩
+2002-10-20,2950,大馬彩,二奖,烤肉,Roast Meat,大馬彩
+2001-05-23,2950,萬能,特别奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+2001-05-23,2950,萬能,特别奖,怪花,Strange Flowers,多多博彩
+2001-05-23,2950,萬能,特别奖,烤肉,Roast Meat,大馬彩
+1999-08-28,2950,大馬彩,安慰奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+1999-08-28,2950,大馬彩,安慰奖,怪花,Strange Flowers,多多博彩
+1999-08-28,2950,大馬彩,安慰奖,烤肉,Roast Meat,大馬彩
+1999-08-08,2950,多多,安慰奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+1999-08-08,2950,多多,安慰奖,怪花,Strange Flowers,多多博彩
+1999-08-08,2950,多多,安慰奖,烤肉,Roast Meat,大馬彩
+1999-02-03,2950,多多,特别奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+1999-02-03,2950,多多,特别奖,怪花,Strange Flowers,多多博彩
+1999-02-03,2950,多多,特别奖,烤肉,Roast Meat,大馬彩
+1997-07-02,2950,多多,安慰奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+1997-07-02,2950,多多,安慰奖,怪花,Strange Flowers,多多博彩
+1997-07-02,2950,多多,安慰奖,烤肉,Roast Meat,大馬彩
+1997-05-18,2950,萬能,特别奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+1997-05-18,2950,萬能,特别奖,怪花,Strange Flowers,多多博彩
+1997-05-18,2950,萬能,特别奖,烤肉,Roast Meat,大馬彩
+1994-05-25,2950,大馬彩,首奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+1994-05-25,2950,大馬彩,首奖,怪花,Strange Flowers,多多博彩
+1994-05-25,2950,大馬彩,首奖,烤肉,Roast Meat,大馬彩
+1993-09-15,2950,萬能,特别奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+1993-09-15,2950,萬能,特别奖,怪花,Strange Flowers,多多博彩
+1993-09-15,2950,萬能,特别奖,烤肉,Roast Meat,大馬彩
+1992-12-28,2950,多多,安慰奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+1992-12-28,2950,多多,安慰奖,怪花,Strange Flowers,多多博彩
+1992-12-28,2950,多多,安慰奖,烤肉,Roast Meat,大馬彩
+1992-10-17,2950,多多,安慰奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+1992-10-17,2950,多多,安慰奖,怪花,Strange Flowers,多多博彩
+1992-10-17,2950,多多,安慰奖,烤肉,Roast Meat,大馬彩
+1990-05-24,2950,多多,安慰奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+1990-05-24,2950,多多,安慰奖,怪花,Strange Flowers,多多博彩
+1990-05-24,2950,多多,安慰奖,烤肉,Roast Meat,大馬彩
+1986-10-11,2950,多多,安慰奖,收集甲虫为兴趣,Collecting Beetles As Hobby,萬能
+1986-10-11,2950,多多,安慰奖,怪花,Strange Flowers,多多博彩
+1986-10-11,2950,多多,安慰奖,烤肉,Roast Meat,大馬彩

@@ -1,58 +1,172 @@
-开彩日期,彩号,秦庄,彩金,秦典,英典
-2024-07-07,8000,星池,三奖,,
-2023-10-18,8000,大馬彩,安慰奖,世纪婚礼,Century Wedding Ceremony
-2023-10-01,8000,多多博彩,安慰奖,成功时代广场,Berjaya Times Square
-2023-08-05,8000,多多博彩,安慰奖,成功时代广场,Berjaya Times Square
-2022-12-25,8000,多多博彩,安慰奖,成功时代广场,Berjaya Times Square
-2022-01-01,8000,萬能,安慰奖,新山市,Johor Bahru
-2021-03-27,8000,萬能,安慰奖,新山市,Johor Bahru
-2019-12-04,8000,大馬彩,特别奖,世纪婚礼,Century Wedding Ceremony
-2018-11-18,8000,星池,特别奖,,
-2018-10-30,8000,萬能,特别奖,新山市,Johor Bahru
-2017-08-05,8000,星池,特别奖,,
-2017-02-11,8000,大馬彩,安慰奖,世纪婚礼,Century Wedding Ceremony
-2017-01-07,8000,萬能,特别奖,新山市,Johor Bahru
-2015-05-27,8000,大馬彩,安慰奖,世纪婚礼,Century Wedding Ceremony
-2015-03-04,8000,多多博彩,特别奖,成功时代广场,Berjaya Times Square
-2015-01-17,8000,多多博彩,特别奖,成功时代广场,Berjaya Times Square
-2014-11-02,8000,多多博彩,安慰奖,成功时代广场,Berjaya Times Square
-2014-10-01,8000,大馬彩,二奖,世纪婚礼,Century Wedding Ceremony
-2014-03-22,8000,星池,安慰奖,,
-2014-01-25,8000,大馬彩,特别奖,世纪婚礼,Century Wedding Ceremony
-2013-08-31,8000,星池,安慰奖,,
-2013-05-22,8000,萬能,安慰奖,新山市,Johor Bahru
-2013-04-02,8000,多多博彩,安慰奖,成功时代广场,Berjaya Times Square
-2013-03-31,8000,大馬彩,特别奖,世纪婚礼,Century Wedding Ceremony
-2012-11-18,8000,大馬彩,安慰奖,世纪婚礼,Century Wedding Ceremony
-2011-12-25,8000,多多博彩,安慰奖,成功时代广场,Berjaya Times Square
-2011-01-19,8000,萬能,安慰奖,新山市,Johor Bahru
-2009-11-14,8000,大馬彩,特别奖,世纪婚礼,Century Wedding Ceremony
-2007-09-16,8000,大馬彩,特别奖,世纪婚礼,Century Wedding Ceremony
-2006-10-25,8000,大馬彩,特别奖,世纪婚礼,Century Wedding Ceremony
-2006-04-26,8000,多多博彩,特别奖,成功时代广场,Berjaya Times Square
-2006-02-18,8000,大馬彩,安慰奖,世纪婚礼,Century Wedding Ceremony
-2003-11-02,8000,萬能,安慰奖,新山市,Johor Bahru
-2003-05-10,8000,萬能,安慰奖,新山市,Johor Bahru
-2003-03-26,8000,多多博彩,三奖,成功时代广场,Berjaya Times Square
-2003-02-05,8000,多多博彩,安慰奖,成功时代广场,Berjaya Times Square
-2002-09-29,8000,萬能,安慰奖,新山市,Johor Bahru
-2002-01-12,8000,大馬彩,安慰奖,世纪婚礼,Century Wedding Ceremony
-2001-07-21,8000,萬能,特别奖,新山市,Johor Bahru
-2001-02-21,8000,大馬彩,安慰奖,世纪婚礼,Century Wedding Ceremony
-2000-07-01,8000,多多博彩,三奖,成功时代广场,Berjaya Times Square
-1999-09-15,8000,大馬彩,特别奖,世纪婚礼,Century Wedding Ceremony
-1997-06-04,8000,萬能,特别奖,新山市,Johor Bahru
-1997-03-29,8000,多多博彩,首奖,成功时代广场,Berjaya Times Square
-1995-12-24,8000,多多博彩,安慰奖,成功时代广场,Berjaya Times Square
-1995-11-18,8000,萬能,安慰奖,新山市,Johor Bahru
-1995-11-15,8000,萬能,特别奖,新山市,Johor Bahru
-1995-08-05,8000,多多博彩,安慰奖,成功时代广场,Berjaya Times Square
-1995-05-10,8000,多多博彩,特别奖,成功时代广场,Berjaya Times Square
-1994-05-18,8000,萬能,特别奖,新山市,Johor Bahru
-1993-04-10,8000,大馬彩,特别奖,世纪婚礼,Century Wedding Ceremony
-1992-06-28,8000,大馬彩,特别奖,世纪婚礼,Century Wedding Ceremony
-1992-04-11,8000,多多博彩,安慰奖,成功时代广场,Berjaya Times Square
-1991-04-06,8000,多多博彩,安慰奖,成功时代广场,Berjaya Times Square
-1987-10-15,8000,多多博彩,安慰奖,成功时代广场,Berjaya Times Square
-1987-09-20,8000,多多博彩,二奖,成功时代广场,Berjaya Times Square
-1985-08-22,8000,多多博彩,安慰奖,成功时代广场,Berjaya Times Square
+开彩日期,彩号,秦庄,彩金,史记秦本纪,史记楚辞,史记秦庄
+2024-07-07,8000,星池,三奖,新山市,Johor Bahru,萬能
+2024-07-07,8000,星池,三奖,成功时代广场,Berjaya Times Square,多多博彩
+2024-07-07,8000,星池,三奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2023-10-18,8000,大馬彩,安慰奖,新山市,Johor Bahru,萬能
+2023-10-18,8000,大馬彩,安慰奖,成功时代广场,Berjaya Times Square,多多博彩
+2023-10-18,8000,大馬彩,安慰奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2023-10-01,8000,多多,安慰奖,新山市,Johor Bahru,萬能
+2023-10-01,8000,多多,安慰奖,成功时代广场,Berjaya Times Square,多多博彩
+2023-10-01,8000,多多,安慰奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2023-08-05,8000,多多,安慰奖,新山市,Johor Bahru,萬能
+2023-08-05,8000,多多,安慰奖,成功时代广场,Berjaya Times Square,多多博彩
+2023-08-05,8000,多多,安慰奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2022-12-25,8000,多多,安慰奖,新山市,Johor Bahru,萬能
+2022-12-25,8000,多多,安慰奖,成功时代广场,Berjaya Times Square,多多博彩
+2022-12-25,8000,多多,安慰奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2022-01-01,8000,萬能,安慰奖,新山市,Johor Bahru,萬能
+2022-01-01,8000,萬能,安慰奖,成功时代广场,Berjaya Times Square,多多博彩
+2022-01-01,8000,萬能,安慰奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2021-03-27,8000,萬能,安慰奖,新山市,Johor Bahru,萬能
+2021-03-27,8000,萬能,安慰奖,成功时代广场,Berjaya Times Square,多多博彩
+2021-03-27,8000,萬能,安慰奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2019-12-04,8000,大馬彩,特别奖,新山市,Johor Bahru,萬能
+2019-12-04,8000,大馬彩,特别奖,成功时代广场,Berjaya Times Square,多多博彩
+2019-12-04,8000,大馬彩,特别奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2018-11-18,8000,星池,特别奖,新山市,Johor Bahru,萬能
+2018-11-18,8000,星池,特别奖,成功时代广场,Berjaya Times Square,多多博彩
+2018-11-18,8000,星池,特别奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2018-10-30,8000,萬能,特别奖,新山市,Johor Bahru,萬能
+2018-10-30,8000,萬能,特别奖,成功时代广场,Berjaya Times Square,多多博彩
+2018-10-30,8000,萬能,特别奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2017-08-05,8000,星池,特别奖,新山市,Johor Bahru,萬能
+2017-08-05,8000,星池,特别奖,成功时代广场,Berjaya Times Square,多多博彩
+2017-08-05,8000,星池,特别奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2017-02-11,8000,大馬彩,安慰奖,新山市,Johor Bahru,萬能
+2017-02-11,8000,大馬彩,安慰奖,成功时代广场,Berjaya Times Square,多多博彩
+2017-02-11,8000,大馬彩,安慰奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2017-01-07,8000,萬能,特别奖,新山市,Johor Bahru,萬能
+2017-01-07,8000,萬能,特别奖,成功时代广场,Berjaya Times Square,多多博彩
+2017-01-07,8000,萬能,特别奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2015-05-27,8000,大馬彩,安慰奖,新山市,Johor Bahru,萬能
+2015-05-27,8000,大馬彩,安慰奖,成功时代广场,Berjaya Times Square,多多博彩
+2015-05-27,8000,大馬彩,安慰奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2015-03-04,8000,多多,特别奖,新山市,Johor Bahru,萬能
+2015-03-04,8000,多多,特别奖,成功时代广场,Berjaya Times Square,多多博彩
+2015-03-04,8000,多多,特别奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2015-01-17,8000,多多,特别奖,新山市,Johor Bahru,萬能
+2015-01-17,8000,多多,特别奖,成功时代广场,Berjaya Times Square,多多博彩
+2015-01-17,8000,多多,特别奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2014-11-02,8000,多多,安慰奖,新山市,Johor Bahru,萬能
+2014-11-02,8000,多多,安慰奖,成功时代广场,Berjaya Times Square,多多博彩
+2014-11-02,8000,多多,安慰奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2014-10-01,8000,大馬彩,二奖,新山市,Johor Bahru,萬能
+2014-10-01,8000,大馬彩,二奖,成功时代广场,Berjaya Times Square,多多博彩
+2014-10-01,8000,大馬彩,二奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2014-03-22,8000,星池,安慰奖,新山市,Johor Bahru,萬能
+2014-03-22,8000,星池,安慰奖,成功时代广场,Berjaya Times Square,多多博彩
+2014-03-22,8000,星池,安慰奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2014-01-25,8000,大馬彩,特别奖,新山市,Johor Bahru,萬能
+2014-01-25,8000,大馬彩,特别奖,成功时代广场,Berjaya Times Square,多多博彩
+2014-01-25,8000,大馬彩,特别奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2013-08-31,8000,星池,安慰奖,新山市,Johor Bahru,萬能
+2013-08-31,8000,星池,安慰奖,成功时代广场,Berjaya Times Square,多多博彩
+2013-08-31,8000,星池,安慰奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2013-05-22,8000,萬能,安慰奖,新山市,Johor Bahru,萬能
+2013-05-22,8000,萬能,安慰奖,成功时代广场,Berjaya Times Square,多多博彩
+2013-05-22,8000,萬能,安慰奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2013-04-02,8000,多多,安慰奖,新山市,Johor Bahru,萬能
+2013-04-02,8000,多多,安慰奖,成功时代广场,Berjaya Times Square,多多博彩
+2013-04-02,8000,多多,安慰奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2013-03-31,8000,大馬彩,特别奖,新山市,Johor Bahru,萬能
+2013-03-31,8000,大馬彩,特别奖,成功时代广场,Berjaya Times Square,多多博彩
+2013-03-31,8000,大馬彩,特别奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2012-11-18,8000,大馬彩,安慰奖,新山市,Johor Bahru,萬能
+2012-11-18,8000,大馬彩,安慰奖,成功时代广场,Berjaya Times Square,多多博彩
+2012-11-18,8000,大馬彩,安慰奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2011-12-25,8000,多多,安慰奖,新山市,Johor Bahru,萬能
+2011-12-25,8000,多多,安慰奖,成功时代广场,Berjaya Times Square,多多博彩
+2011-12-25,8000,多多,安慰奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2011-01-19,8000,萬能,安慰奖,新山市,Johor Bahru,萬能
+2011-01-19,8000,萬能,安慰奖,成功时代广场,Berjaya Times Square,多多博彩
+2011-01-19,8000,萬能,安慰奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2009-11-14,8000,大馬彩,特别奖,新山市,Johor Bahru,萬能
+2009-11-14,8000,大馬彩,特别奖,成功时代广场,Berjaya Times Square,多多博彩
+2009-11-14,8000,大馬彩,特别奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2007-09-16,8000,大馬彩,特别奖,新山市,Johor Bahru,萬能
+2007-09-16,8000,大馬彩,特别奖,成功时代广场,Berjaya Times Square,多多博彩
+2007-09-16,8000,大馬彩,特别奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2006-10-25,8000,大馬彩,特别奖,新山市,Johor Bahru,萬能
+2006-10-25,8000,大馬彩,特别奖,成功时代广场,Berjaya Times Square,多多博彩
+2006-10-25,8000,大馬彩,特别奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2006-04-26,8000,多多,特别奖,新山市,Johor Bahru,萬能
+2006-04-26,8000,多多,特别奖,成功时代广场,Berjaya Times Square,多多博彩
+2006-04-26,8000,多多,特别奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2006-02-18,8000,大馬彩,安慰奖,新山市,Johor Bahru,萬能
+2006-02-18,8000,大馬彩,安慰奖,成功时代广场,Berjaya Times Square,多多博彩
+2006-02-18,8000,大馬彩,安慰奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2003-11-02,8000,萬能,安慰奖,新山市,Johor Bahru,萬能
+2003-11-02,8000,萬能,安慰奖,成功时代广场,Berjaya Times Square,多多博彩
+2003-11-02,8000,萬能,安慰奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2003-05-10,8000,萬能,安慰奖,新山市,Johor Bahru,萬能
+2003-05-10,8000,萬能,安慰奖,成功时代广场,Berjaya Times Square,多多博彩
+2003-05-10,8000,萬能,安慰奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2003-03-26,8000,多多,三奖,新山市,Johor Bahru,萬能
+2003-03-26,8000,多多,三奖,成功时代广场,Berjaya Times Square,多多博彩
+2003-03-26,8000,多多,三奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2003-02-05,8000,多多,安慰奖,新山市,Johor Bahru,萬能
+2003-02-05,8000,多多,安慰奖,成功时代广场,Berjaya Times Square,多多博彩
+2003-02-05,8000,多多,安慰奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2002-09-29,8000,萬能,安慰奖,新山市,Johor Bahru,萬能
+2002-09-29,8000,萬能,安慰奖,成功时代广场,Berjaya Times Square,多多博彩
+2002-09-29,8000,萬能,安慰奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2002-01-12,8000,大馬彩,安慰奖,新山市,Johor Bahru,萬能
+2002-01-12,8000,大馬彩,安慰奖,成功时代广场,Berjaya Times Square,多多博彩
+2002-01-12,8000,大馬彩,安慰奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2001-07-21,8000,萬能,特别奖,新山市,Johor Bahru,萬能
+2001-07-21,8000,萬能,特别奖,成功时代广场,Berjaya Times Square,多多博彩
+2001-07-21,8000,萬能,特别奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2001-02-21,8000,大馬彩,安慰奖,新山市,Johor Bahru,萬能
+2001-02-21,8000,大馬彩,安慰奖,成功时代广场,Berjaya Times Square,多多博彩
+2001-02-21,8000,大馬彩,安慰奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+2000-07-01,8000,多多,三奖,新山市,Johor Bahru,萬能
+2000-07-01,8000,多多,三奖,成功时代广场,Berjaya Times Square,多多博彩
+2000-07-01,8000,多多,三奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+1999-09-15,8000,大馬彩,特别奖,新山市,Johor Bahru,萬能
+1999-09-15,8000,大馬彩,特别奖,成功时代广场,Berjaya Times Square,多多博彩
+1999-09-15,8000,大馬彩,特别奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+1997-06-04,8000,萬能,特别奖,新山市,Johor Bahru,萬能
+1997-06-04,8000,萬能,特别奖,成功时代广场,Berjaya Times Square,多多博彩
+1997-06-04,8000,萬能,特别奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+1997-03-29,8000,多多,首奖,新山市,Johor Bahru,萬能
+1997-03-29,8000,多多,首奖,成功时代广场,Berjaya Times Square,多多博彩
+1997-03-29,8000,多多,首奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+1995-12-24,8000,多多,安慰奖,新山市,Johor Bahru,萬能
+1995-12-24,8000,多多,安慰奖,成功时代广场,Berjaya Times Square,多多博彩
+1995-12-24,8000,多多,安慰奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+1995-11-18,8000,萬能,安慰奖,新山市,Johor Bahru,萬能
+1995-11-18,8000,萬能,安慰奖,成功时代广场,Berjaya Times Square,多多博彩
+1995-11-18,8000,萬能,安慰奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+1995-11-15,8000,萬能,特别奖,新山市,Johor Bahru,萬能
+1995-11-15,8000,萬能,特别奖,成功时代广场,Berjaya Times Square,多多博彩
+1995-11-15,8000,萬能,特别奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+1995-08-05,8000,多多,安慰奖,新山市,Johor Bahru,萬能
+1995-08-05,8000,多多,安慰奖,成功时代广场,Berjaya Times Square,多多博彩
+1995-08-05,8000,多多,安慰奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+1995-05-10,8000,多多,特别奖,新山市,Johor Bahru,萬能
+1995-05-10,8000,多多,特别奖,成功时代广场,Berjaya Times Square,多多博彩
+1995-05-10,8000,多多,特别奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+1994-05-18,8000,萬能,特别奖,新山市,Johor Bahru,萬能
+1994-05-18,8000,萬能,特别奖,成功时代广场,Berjaya Times Square,多多博彩
+1994-05-18,8000,萬能,特别奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+1993-04-10,8000,大馬彩,特别奖,新山市,Johor Bahru,萬能
+1993-04-10,8000,大馬彩,特别奖,成功时代广场,Berjaya Times Square,多多博彩
+1993-04-10,8000,大馬彩,特别奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+1992-06-28,8000,大馬彩,特别奖,新山市,Johor Bahru,萬能
+1992-06-28,8000,大馬彩,特别奖,成功时代广场,Berjaya Times Square,多多博彩
+1992-06-28,8000,大馬彩,特别奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+1992-04-11,8000,多多,安慰奖,新山市,Johor Bahru,萬能
+1992-04-11,8000,多多,安慰奖,成功时代广场,Berjaya Times Square,多多博彩
+1992-04-11,8000,多多,安慰奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+1991-04-06,8000,多多,安慰奖,新山市,Johor Bahru,萬能
+1991-04-06,8000,多多,安慰奖,成功时代广场,Berjaya Times Square,多多博彩
+1991-04-06,8000,多多,安慰奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+1987-10-15,8000,多多,安慰奖,新山市,Johor Bahru,萬能
+1987-10-15,8000,多多,安慰奖,成功时代广场,Berjaya Times Square,多多博彩
+1987-10-15,8000,多多,安慰奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+1987-09-20,8000,多多,二奖,新山市,Johor Bahru,萬能
+1987-09-20,8000,多多,二奖,成功时代广场,Berjaya Times Square,多多博彩
+1987-09-20,8000,多多,二奖,世纪婚礼,Century Wedding Ceremony,大馬彩
+1985-08-22,8000,多多,安慰奖,新山市,Johor Bahru,萬能
+1985-08-22,8000,多多,安慰奖,成功时代广场,Berjaya Times Square,多多博彩
+1985-08-22,8000,多多,安慰奖,世纪婚礼,Century Wedding Ceremony,大馬彩

@@ -1,39 +1,115 @@
-开彩日期,彩号,秦庄,彩金,秦典,英典
-2022-12-24,5130,星池,安慰奖,,
-2021-02-21,5130,星池,安慰奖,,
-2019-04-20,5130,萬能,安慰奖,车桥上跌下,Car Fell Off Bridge
-2018-09-02,5130,星池,安慰奖,,
-2017-09-10,5130,星池,特别奖,,
-2017-08-08,5130,多多博彩,特别奖,汽车撞桥,Car Hits Bridge
-2015-09-30,5130,大馬彩,安慰奖,汽车撞桥,Car Crash Into Bridge
-2015-09-19,5130,星池,安慰奖,,
-2012-10-13,5130,萬能,特别奖,车桥上跌下,Car Fell Off Bridge
-2012-02-14,5130,多多博彩,安慰奖,汽车撞桥,Car Hits Bridge
-2010-08-29,5130,大馬彩,特别奖,汽车撞桥,Car Crash Into Bridge
-2009-11-04,5130,星池,安慰奖,,
-2009-02-28,5130,多多博彩,安慰奖,汽车撞桥,Car Hits Bridge
-2008-12-13,5130,多多博彩,安慰奖,汽车撞桥,Car Hits Bridge
-2008-06-28,5130,星池,特别奖,,
-2008-03-01,5130,大馬彩,安慰奖,汽车撞桥,Car Crash Into Bridge
-2007-01-24,5130,萬能,安慰奖,车桥上跌下,Car Fell Off Bridge
-2006-12-27,5130,萬能,安慰奖,车桥上跌下,Car Fell Off Bridge
-2006-10-11,5130,大馬彩,二奖,汽车撞桥,Car Crash Into Bridge
-2006-01-22,5130,萬能,安慰奖,车桥上跌下,Car Fell Off Bridge
-2005-11-09,5130,大馬彩,特别奖,汽车撞桥,Car Crash Into Bridge
-2005-03-01,5130,萬能,特别奖,车桥上跌下,Car Fell Off Bridge
-2004-10-30,5130,多多博彩,安慰奖,汽车撞桥,Car Hits Bridge
-2004-04-03,5130,大馬彩,安慰奖,汽车撞桥,Car Crash Into Bridge
-2003-05-06,5130,大馬彩,安慰奖,汽车撞桥,Car Crash Into Bridge
-2003-01-26,5130,多多博彩,特别奖,汽车撞桥,Car Hits Bridge
-2001-03-21,5130,大馬彩,安慰奖,汽车撞桥,Car Crash Into Bridge
-2001-03-04,5130,萬能,特别奖,车桥上跌下,Car Fell Off Bridge
-2001-01-21,5130,大馬彩,安慰奖,汽车撞桥,Car Crash Into Bridge
-2000-06-17,5130,多多博彩,特别奖,汽车撞桥,Car Hits Bridge
-1999-06-15,5130,大馬彩,特别奖,汽车撞桥,Car Crash Into Bridge
-1998-11-01,5130,多多博彩,特别奖,汽车撞桥,Car Hits Bridge
-1998-05-02,5130,萬能,特别奖,车桥上跌下,Car Fell Off Bridge
-1995-07-15,5130,多多博彩,特别奖,汽车撞桥,Car Hits Bridge
-1994-06-29,5130,萬能,二奖,车桥上跌下,Car Fell Off Bridge
-1992-02-15,5130,大馬彩,安慰奖,汽车撞桥,Car Crash Into Bridge
-1987-04-02,5130,多多博彩,特别奖,汽车撞桥,Car Hits Bridge
-1986-10-16,5130,多多博彩,安慰奖,汽车撞桥,Car Hits Bridge
+开彩日期,彩号,秦庄,彩金,史记秦本纪,史记楚辞,史记秦庄
+2022-12-24,5130,星池,安慰奖,车桥上跌下,Car Fell Off Bridge,萬能
+2022-12-24,5130,星池,安慰奖,汽车撞桥,Car Hits Bridge,多多博彩
+2022-12-24,5130,星池,安慰奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+2021-02-21,5130,星池,安慰奖,车桥上跌下,Car Fell Off Bridge,萬能
+2021-02-21,5130,星池,安慰奖,汽车撞桥,Car Hits Bridge,多多博彩
+2021-02-21,5130,星池,安慰奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+2019-04-20,5130,萬能,安慰奖,车桥上跌下,Car Fell Off Bridge,萬能
+2019-04-20,5130,萬能,安慰奖,汽车撞桥,Car Hits Bridge,多多博彩
+2019-04-20,5130,萬能,安慰奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+2018-09-02,5130,星池,安慰奖,车桥上跌下,Car Fell Off Bridge,萬能
+2018-09-02,5130,星池,安慰奖,汽车撞桥,Car Hits Bridge,多多博彩
+2018-09-02,5130,星池,安慰奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+2017-09-10,5130,星池,特别奖,车桥上跌下,Car Fell Off Bridge,萬能
+2017-09-10,5130,星池,特别奖,汽车撞桥,Car Hits Bridge,多多博彩
+2017-09-10,5130,星池,特别奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+2017-08-08,5130,多多,特别奖,车桥上跌下,Car Fell Off Bridge,萬能
+2017-08-08,5130,多多,特别奖,汽车撞桥,Car Hits Bridge,多多博彩
+2017-08-08,5130,多多,特别奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+2015-09-30,5130,大馬彩,安慰奖,车桥上跌下,Car Fell Off Bridge,萬能
+2015-09-30,5130,大馬彩,安慰奖,汽车撞桥,Car Hits Bridge,多多博彩
+2015-09-30,5130,大馬彩,安慰奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+2015-09-19,5130,星池,安慰奖,车桥上跌下,Car Fell Off Bridge,萬能
+2015-09-19,5130,星池,安慰奖,汽车撞桥,Car Hits Bridge,多多博彩
+2015-09-19,5130,星池,安慰奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+2012-10-13,5130,萬能,特别奖,车桥上跌下,Car Fell Off Bridge,萬能
+2012-10-13,5130,萬能,特别奖,汽车撞桥,Car Hits Bridge,多多博彩
+2012-10-13,5130,萬能,特别奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+2012-02-14,5130,多多,安慰奖,车桥上跌下,Car Fell Off Bridge,萬能
+2012-02-14,5130,多多,安慰奖,汽车撞桥,Car Hits Bridge,多多博彩
+2012-02-14,5130,多多,安慰奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+2010-08-29,5130,大馬彩,特别奖,车桥上跌下,Car Fell Off Bridge,萬能
+2010-08-29,5130,大馬彩,特别奖,汽车撞桥,Car Hits Bridge,多多博彩
+2010-08-29,5130,大馬彩,特别奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+2009-11-04,5130,星池,安慰奖,车桥上跌下,Car Fell Off Bridge,萬能
+2009-11-04,5130,星池,安慰奖,汽车撞桥,Car Hits Bridge,多多博彩
+2009-11-04,5130,星池,安慰奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+2009-02-28,5130,多多,安慰奖,车桥上跌下,Car Fell Off Bridge,萬能
+2009-02-28,5130,多多,安慰奖,汽车撞桥,Car Hits Bridge,多多博彩
+2009-02-28,5130,多多,安慰奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+2008-12-13,5130,多多,安慰奖,车桥上跌下,Car Fell Off Bridge,萬能
+2008-12-13,5130,多多,安慰奖,汽车撞桥,Car Hits Bridge,多多博彩
+2008-12-13,5130,多多,安慰奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+2008-06-28,5130,星池,特别奖,车桥上跌下,Car Fell Off Bridge,萬能
+2008-06-28,5130,星池,特别奖,汽车撞桥,Car Hits Bridge,多多博彩
+2008-06-28,5130,星池,特别奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+2008-03-01,5130,大馬彩,安慰奖,车桥上跌下,Car Fell Off Bridge,萬能
+2008-03-01,5130,大馬彩,安慰奖,汽车撞桥,Car Hits Bridge,多多博彩
+2008-03-01,5130,大馬彩,安慰奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+2007-01-24,5130,萬能,安慰奖,车桥上跌下,Car Fell Off Bridge,萬能
+2007-01-24,5130,萬能,安慰奖,汽车撞桥,Car Hits Bridge,多多博彩
+2007-01-24,5130,萬能,安慰奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+2006-12-27,5130,萬能,安慰奖,车桥上跌下,Car Fell Off Bridge,萬能
+2006-12-27,5130,萬能,安慰奖,汽车撞桥,Car Hits Bridge,多多博彩
+2006-12-27,5130,萬能,安慰奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+2006-10-11,5130,大馬彩,二奖,车桥上跌下,Car Fell Off Bridge,萬能
+2006-10-11,5130,大馬彩,二奖,汽车撞桥,Car Hits Bridge,多多博彩
+2006-10-11,5130,大馬彩,二奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+2006-01-22,5130,萬能,安慰奖,车桥上跌下,Car Fell Off Bridge,萬能
+2006-01-22,5130,萬能,安慰奖,汽车撞桥,Car Hits Bridge,多多博彩
+2006-01-22,5130,萬能,安慰奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+2005-11-09,5130,大馬彩,特别奖,车桥上跌下,Car Fell Off Bridge,萬能
+2005-11-09,5130,大馬彩,特别奖,汽车撞桥,Car Hits Bridge,多多博彩
+2005-11-09,5130,大馬彩,特别奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+2005-03-01,5130,萬能,特别奖,车桥上跌下,Car Fell Off Bridge,萬能
+2005-03-01,5130,萬能,特别奖,汽车撞桥,Car Hits Bridge,多多博彩
+2005-03-01,5130,萬能,特别奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+2004-10-30,5130,多多,安慰奖,车桥上跌下,Car Fell Off Bridge,萬能
+2004-10-30,5130,多多,安慰奖,汽车撞桥,Car Hits Bridge,多多博彩
+2004-10-30,5130,多多,安慰奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+2004-04-03,5130,大馬彩,安慰奖,车桥上跌下,Car Fell Off Bridge,萬能
+2004-04-03,5130,大馬彩,安慰奖,汽车撞桥,Car Hits Bridge,多多博彩
+2004-04-03,5130,大馬彩,安慰奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+2003-05-06,5130,大馬彩,安慰奖,车桥上跌下,Car Fell Off Bridge,萬能
+2003-05-06,5130,大馬彩,安慰奖,汽车撞桥,Car Hits Bridge,多多博彩
+2003-05-06,5130,大馬彩,安慰奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+2003-01-26,5130,多多,特别奖,车桥上跌下,Car Fell Off Bridge,萬能
+2003-01-26,5130,多多,特别奖,汽车撞桥,Car Hits Bridge,多多博彩
+2003-01-26,5130,多多,特别奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+2001-03-21,5130,大馬彩,安慰奖,车桥上跌下,Car Fell Off Bridge,萬能
+2001-03-21,5130,大馬彩,安慰奖,汽车撞桥,Car Hits Bridge,多多博彩
+2001-03-21,5130,大馬彩,安慰奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+2001-03-04,5130,萬能,特别奖,车桥上跌下,Car Fell Off Bridge,萬能
+2001-03-04,5130,萬能,特别奖,汽车撞桥,Car Hits Bridge,多多博彩
+2001-03-04,5130,萬能,特别奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+2001-01-21,5130,大馬彩,安慰奖,车桥上跌下,Car Fell Off Bridge,萬能
+2001-01-21,5130,大馬彩,安慰奖,汽车撞桥,Car Hits Bridge,多多博彩
+2001-01-21,5130,大馬彩,安慰奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+2000-06-17,5130,多多,特别奖,车桥上跌下,Car Fell Off Bridge,萬能
+2000-06-17,5130,多多,特别奖,汽车撞桥,Car Hits Bridge,多多博彩
+2000-06-17,5130,多多,特别奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+1999-06-15,5130,大馬彩,特别奖,车桥上跌下,Car Fell Off Bridge,萬能
+1999-06-15,5130,大馬彩,特别奖,汽车撞桥,Car Hits Bridge,多多博彩
+1999-06-15,5130,大馬彩,特别奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+1998-11-01,5130,多多,特别奖,车桥上跌下,Car Fell Off Bridge,萬能
+1998-11-01,5130,多多,特别奖,汽车撞桥,Car Hits Bridge,多多博彩
+1998-11-01,5130,多多,特别奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+1998-05-02,5130,萬能,特别奖,车桥上跌下,Car Fell Off Bridge,萬能
+1998-05-02,5130,萬能,特别奖,汽车撞桥,Car Hits Bridge,多多博彩
+1998-05-02,5130,萬能,特别奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+1995-07-15,5130,多多,特别奖,车桥上跌下,Car Fell Off Bridge,萬能
+1995-07-15,5130,多多,特别奖,汽车撞桥,Car Hits Bridge,多多博彩
+1995-07-15,5130,多多,特别奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+1994-06-29,5130,萬能,二奖,车桥上跌下,Car Fell Off Bridge,萬能
+1994-06-29,5130,萬能,二奖,汽车撞桥,Car Hits Bridge,多多博彩
+1994-06-29,5130,萬能,二奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+1992-02-15,5130,大馬彩,安慰奖,车桥上跌下,Car Fell Off Bridge,萬能
+1992-02-15,5130,大馬彩,安慰奖,汽车撞桥,Car Hits Bridge,多多博彩
+1992-02-15,5130,大馬彩,安慰奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+1987-04-02,5130,多多,特别奖,车桥上跌下,Car Fell Off Bridge,萬能
+1987-04-02,5130,多多,特别奖,汽车撞桥,Car Hits Bridge,多多博彩
+1987-04-02,5130,多多,特别奖,汽车撞桥,Car Crash Into Bridge,大馬彩
+1986-10-16,5130,多多,安慰奖,车桥上跌下,Car Fell Off Bridge,萬能
+1986-10-16,5130,多多,安慰奖,汽车撞桥,Car Hits Bridge,多多博彩
+1986-10-16,5130,多多,安慰奖,汽车撞桥,Car Crash Into Bridge,大馬彩

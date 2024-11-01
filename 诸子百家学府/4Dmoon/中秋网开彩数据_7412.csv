@@ -1,57 +1,169 @@
-开彩日期,彩号,秦庄,彩金,秦典,英典
-2023-01-29,7412,多多博彩,安慰奖,眼镜架,Spectacle Frame
-2022-10-30,7412,大馬彩,安慰奖,谚语,Proverb
-2022-07-10,7412,星池,特别奖,,
-2021-04-14,7412,星池,二奖,,
-2020-12-19,7412,多多博彩,安慰奖,眼镜架,Spectacle Frame
-2020-08-05,7412,多多博彩,安慰奖,眼镜架,Spectacle Frame
-2019-12-21,7412,星池,特别奖,,
-2019-10-06,7412,星池,特别奖,,
-2019-09-04,7412,萬能,安慰奖,外公去世,Maternal Grandfather Passed Away
-2019-05-08,7412,萬能,特别奖,外公去世,Maternal Grandfather Passed Away
-2016-02-27,7412,萬能,特别奖,外公去世,Maternal Grandfather Passed Away
-2016-01-03,7412,多多博彩,特别奖,眼镜架,Spectacle Frame
-2015-10-25,7412,萬能,安慰奖,外公去世,Maternal Grandfather Passed Away
-2014-08-17,7412,星池,安慰奖,,
-2014-04-27,7412,星池,安慰奖,,
-2014-01-05,7412,星池,特别奖,,
-2013-09-21,7412,大馬彩,特别奖,谚语,Proverb
-2013-08-31,7412,星池,特别奖,,
-2013-04-14,7412,星池,二奖,,
-2013-03-26,7412,多多博彩,安慰奖,眼镜架,Spectacle Frame
-2012-11-24,7412,多多博彩,二奖,眼镜架,Spectacle Frame
-2012-09-12,7412,星池,特别奖,,
-2012-06-27,7412,萬能,特别奖,外公去世,Maternal Grandfather Passed Away
-2011-04-23,7412,萬能,特别奖,外公去世,Maternal Grandfather Passed Away
-2010-05-23,7412,多多博彩,特别奖,眼镜架,Spectacle Frame
-2010-01-24,7412,星池,特别奖,,
-2010-01-10,7412,星池,特别奖,,
-2009-09-16,7412,萬能,首奖,外公去世,Maternal Grandfather Passed Away
-2009-08-26,7412,萬能,安慰奖,外公去世,Maternal Grandfather Passed Away
-2007-11-06,7412,萬能,安慰奖,外公去世,Maternal Grandfather Passed Away
-2007-07-22,7412,大馬彩,安慰奖,谚语,Proverb
-2005-12-03,7412,大馬彩,首奖,谚语,Proverb
-2005-07-17,7412,萬能,特别奖,外公去世,Maternal Grandfather Passed Away
-2004-11-28,7412,大馬彩,特别奖,谚语,Proverb
-2004-05-26,7412,多多博彩,特别奖,眼镜架,Spectacle Frame
-2004-03-31,7412,多多博彩,特别奖,眼镜架,Spectacle Frame
-2003-01-22,7412,大馬彩,安慰奖,谚语,Proverb
-2002-03-10,7412,萬能,安慰奖,外公去世,Maternal Grandfather Passed Away
-2000-11-22,7412,萬能,特别奖,外公去世,Maternal Grandfather Passed Away
-2000-03-25,7412,多多博彩,特别奖,眼镜架,Spectacle Frame
-2000-02-27,7412,大馬彩,安慰奖,谚语,Proverb
-1998-08-22,7412,萬能,特别奖,外公去世,Maternal Grandfather Passed Away
-1998-02-22,7412,多多博彩,特别奖,眼镜架,Spectacle Frame
-1997-05-04,7412,萬能,特别奖,外公去世,Maternal Grandfather Passed Away
-1997-04-05,7412,大馬彩,安慰奖,谚语,Proverb
-1997-03-29,7412,多多博彩,特别奖,眼镜架,Spectacle Frame
-1996-08-28,7412,多多博彩,首奖,眼镜架,Spectacle Frame
-1996-03-31,7412,萬能,安慰奖,外公去世,Maternal Grandfather Passed Away
-1994-08-04,7412,多多博彩,特别奖,眼镜架,Spectacle Frame
-1993-12-08,7412,萬能,特别奖,外公去世,Maternal Grandfather Passed Away
-1993-12-05,7412,萬能,安慰奖,外公去世,Maternal Grandfather Passed Away
-1993-11-10,7412,大馬彩,二奖,谚语,Proverb
-1993-02-24,7412,萬能,安慰奖,外公去世,Maternal Grandfather Passed Away
-1992-11-12,7412,萬能,特别奖,外公去世,Maternal Grandfather Passed Away
-1985-08-22,7412,多多博彩,特别奖,眼镜架,Spectacle Frame
-1985-08-15,7412,多多博彩,安慰奖,眼镜架,Spectacle Frame
+开彩日期,彩号,秦庄,彩金,史记秦本纪,史记楚辞,史记秦庄
+2023-01-29,7412,多多,安慰奖,外公去世,Maternal Grandfather Passed Away,萬能
+2023-01-29,7412,多多,安慰奖,眼镜架,Spectacle Frame,多多博彩
+2023-01-29,7412,多多,安慰奖,谚语,Proverb,大馬彩
+2022-10-30,7412,大馬彩,安慰奖,外公去世,Maternal Grandfather Passed Away,萬能
+2022-10-30,7412,大馬彩,安慰奖,眼镜架,Spectacle Frame,多多博彩
+2022-10-30,7412,大馬彩,安慰奖,谚语,Proverb,大馬彩
+2022-07-10,7412,星池,特别奖,外公去世,Maternal Grandfather Passed Away,萬能
+2022-07-10,7412,星池,特别奖,眼镜架,Spectacle Frame,多多博彩
+2022-07-10,7412,星池,特别奖,谚语,Proverb,大馬彩
+2021-04-14,7412,星池,二奖,外公去世,Maternal Grandfather Passed Away,萬能
+2021-04-14,7412,星池,二奖,眼镜架,Spectacle Frame,多多博彩
+2021-04-14,7412,星池,二奖,谚语,Proverb,大馬彩
+2020-12-19,7412,多多,安慰奖,外公去世,Maternal Grandfather Passed Away,萬能
+2020-12-19,7412,多多,安慰奖,眼镜架,Spectacle Frame,多多博彩
+2020-12-19,7412,多多,安慰奖,谚语,Proverb,大馬彩
+2020-08-05,7412,多多,安慰奖,外公去世,Maternal Grandfather Passed Away,萬能
+2020-08-05,7412,多多,安慰奖,眼镜架,Spectacle Frame,多多博彩
+2020-08-05,7412,多多,安慰奖,谚语,Proverb,大馬彩
+2019-12-21,7412,星池,特别奖,外公去世,Maternal Grandfather Passed Away,萬能
+2019-12-21,7412,星池,特别奖,眼镜架,Spectacle Frame,多多博彩
+2019-12-21,7412,星池,特别奖,谚语,Proverb,大馬彩
+2019-10-06,7412,星池,特别奖,外公去世,Maternal Grandfather Passed Away,萬能
+2019-10-06,7412,星池,特别奖,眼镜架,Spectacle Frame,多多博彩
+2019-10-06,7412,星池,特别奖,谚语,Proverb,大馬彩
+2019-09-04,7412,萬能,安慰奖,外公去世,Maternal Grandfather Passed Away,萬能
+2019-09-04,7412,萬能,安慰奖,眼镜架,Spectacle Frame,多多博彩
+2019-09-04,7412,萬能,安慰奖,谚语,Proverb,大馬彩
+2019-05-08,7412,萬能,特别奖,外公去世,Maternal Grandfather Passed Away,萬能
+2019-05-08,7412,萬能,特别奖,眼镜架,Spectacle Frame,多多博彩
+2019-05-08,7412,萬能,特别奖,谚语,Proverb,大馬彩
+2016-02-27,7412,萬能,特别奖,外公去世,Maternal Grandfather Passed Away,萬能
+2016-02-27,7412,萬能,特别奖,眼镜架,Spectacle Frame,多多博彩
+2016-02-27,7412,萬能,特别奖,谚语,Proverb,大馬彩
+2016-01-03,7412,多多,特别奖,外公去世,Maternal Grandfather Passed Away,萬能
+2016-01-03,7412,多多,特别奖,眼镜架,Spectacle Frame,多多博彩
+2016-01-03,7412,多多,特别奖,谚语,Proverb,大馬彩
+2015-10-25,7412,萬能,安慰奖,外公去世,Maternal Grandfather Passed Away,萬能
+2015-10-25,7412,萬能,安慰奖,眼镜架,Spectacle Frame,多多博彩
+2015-10-25,7412,萬能,安慰奖,谚语,Proverb,大馬彩
+2014-08-17,7412,星池,安慰奖,外公去世,Maternal Grandfather Passed Away,萬能
+2014-08-17,7412,星池,安慰奖,眼镜架,Spectacle Frame,多多博彩
+2014-08-17,7412,星池,安慰奖,谚语,Proverb,大馬彩
+2014-04-27,7412,星池,安慰奖,外公去世,Maternal Grandfather Passed Away,萬能
+2014-04-27,7412,星池,安慰奖,眼镜架,Spectacle Frame,多多博彩
+2014-04-27,7412,星池,安慰奖,谚语,Proverb,大馬彩
+2014-01-05,7412,星池,特别奖,外公去世,Maternal Grandfather Passed Away,萬能
+2014-01-05,7412,星池,特别奖,眼镜架,Spectacle Frame,多多博彩
+2014-01-05,7412,星池,特别奖,谚语,Proverb,大馬彩
+2013-09-21,7412,大馬彩,特别奖,外公去世,Maternal Grandfather Passed Away,萬能
+2013-09-21,7412,大馬彩,特别奖,眼镜架,Spectacle Frame,多多博彩
+2013-09-21,7412,大馬彩,特别奖,谚语,Proverb,大馬彩
+2013-08-31,7412,星池,特别奖,外公去世,Maternal Grandfather Passed Away,萬能
+2013-08-31,7412,星池,特别奖,眼镜架,Spectacle Frame,多多博彩
+2013-08-31,7412,星池,特别奖,谚语,Proverb,大馬彩
+2013-04-14,7412,星池,二奖,外公去世,Maternal Grandfather Passed Away,萬能
+2013-04-14,7412,星池,二奖,眼镜架,Spectacle Frame,多多博彩
+2013-04-14,7412,星池,二奖,谚语,Proverb,大馬彩
+2013-03-26,7412,多多,安慰奖,外公去世,Maternal Grandfather Passed Away,萬能
+2013-03-26,7412,多多,安慰奖,眼镜架,Spectacle Frame,多多博彩
+2013-03-26,7412,多多,安慰奖,谚语,Proverb,大馬彩
+2012-11-24,7412,多多,二奖,外公去世,Maternal Grandfather Passed Away,萬能
+2012-11-24,7412,多多,二奖,眼镜架,Spectacle Frame,多多博彩
+2012-11-24,7412,多多,二奖,谚语,Proverb,大馬彩
+2012-09-12,7412,星池,特别奖,外公去世,Maternal Grandfather Passed Away,萬能
+2012-09-12,7412,星池,特别奖,眼镜架,Spectacle Frame,多多博彩
+2012-09-12,7412,星池,特别奖,谚语,Proverb,大馬彩
+2012-06-27,7412,萬能,特别奖,外公去世,Maternal Grandfather Passed Away,萬能
+2012-06-27,7412,萬能,特别奖,眼镜架,Spectacle Frame,多多博彩
+2012-06-27,7412,萬能,特别奖,谚语,Proverb,大馬彩
+2011-04-23,7412,萬能,特别奖,外公去世,Maternal Grandfather Passed Away,萬能
+2011-04-23,7412,萬能,特别奖,眼镜架,Spectacle Frame,多多博彩
+2011-04-23,7412,萬能,特别奖,谚语,Proverb,大馬彩
+2010-05-23,7412,多多,特别奖,外公去世,Maternal Grandfather Passed Away,萬能
+2010-05-23,7412,多多,特别奖,眼镜架,Spectacle Frame,多多博彩
+2010-05-23,7412,多多,特别奖,谚语,Proverb,大馬彩
+2010-01-24,7412,星池,特别奖,外公去世,Maternal Grandfather Passed Away,萬能
+2010-01-24,7412,星池,特别奖,眼镜架,Spectacle Frame,多多博彩
+2010-01-24,7412,星池,特别奖,谚语,Proverb,大馬彩
+2010-01-10,7412,星池,特别奖,外公去世,Maternal Grandfather Passed Away,萬能
+2010-01-10,7412,星池,特别奖,眼镜架,Spectacle Frame,多多博彩
+2010-01-10,7412,星池,特别奖,谚语,Proverb,大馬彩
+2009-09-16,7412,萬能,首奖,外公去世,Maternal Grandfather Passed Away,萬能
+2009-09-16,7412,萬能,首奖,眼镜架,Spectacle Frame,多多博彩
+2009-09-16,7412,萬能,首奖,谚语,Proverb,大馬彩
+2009-08-26,7412,萬能,安慰奖,外公去世,Maternal Grandfather Passed Away,萬能
+2009-08-26,7412,萬能,安慰奖,眼镜架,Spectacle Frame,多多博彩
+2009-08-26,7412,萬能,安慰奖,谚语,Proverb,大馬彩
+2007-11-06,7412,萬能,安慰奖,外公去世,Maternal Grandfather Passed Away,萬能
+2007-11-06,7412,萬能,安慰奖,眼镜架,Spectacle Frame,多多博彩
+2007-11-06,7412,萬能,安慰奖,谚语,Proverb,大馬彩
+2007-07-22,7412,大馬彩,安慰奖,外公去世,Maternal Grandfather Passed Away,萬能
+2007-07-22,7412,大馬彩,安慰奖,眼镜架,Spectacle Frame,多多博彩
+2007-07-22,7412,大馬彩,安慰奖,谚语,Proverb,大馬彩
+2005-12-03,7412,大馬彩,首奖,外公去世,Maternal Grandfather Passed Away,萬能
+2005-12-03,7412,大馬彩,首奖,眼镜架,Spectacle Frame,多多博彩
+2005-12-03,7412,大馬彩,首奖,谚语,Proverb,大馬彩
+2005-07-17,7412,萬能,特别奖,外公去世,Maternal Grandfather Passed Away,萬能
+2005-07-17,7412,萬能,特别奖,眼镜架,Spectacle Frame,多多博彩
+2005-07-17,7412,萬能,特别奖,谚语,Proverb,大馬彩
+2004-11-28,7412,大馬彩,特别奖,外公去世,Maternal Grandfather Passed Away,萬能
+2004-11-28,7412,大馬彩,特别奖,眼镜架,Spectacle Frame,多多博彩
+2004-11-28,7412,大馬彩,特别奖,谚语,Proverb,大馬彩
+2004-05-26,7412,多多,特别奖,外公去世,Maternal Grandfather Passed Away,萬能
+2004-05-26,7412,多多,特别奖,眼镜架,Spectacle Frame,多多博彩
+2004-05-26,7412,多多,特别奖,谚语,Proverb,大馬彩
+2004-03-31,7412,多多,特别奖,外公去世,Maternal Grandfather Passed Away,萬能
+2004-03-31,7412,多多,特别奖,眼镜架,Spectacle Frame,多多博彩
+2004-03-31,7412,多多,特别奖,谚语,Proverb,大馬彩
+2003-01-22,7412,大馬彩,安慰奖,外公去世,Maternal Grandfather Passed Away,萬能
+2003-01-22,7412,大馬彩,安慰奖,眼镜架,Spectacle Frame,多多博彩
+2003-01-22,7412,大馬彩,安慰奖,谚语,Proverb,大馬彩
+2002-03-10,7412,萬能,安慰奖,外公去世,Maternal Grandfather Passed Away,萬能
+2002-03-10,7412,萬能,安慰奖,眼镜架,Spectacle Frame,多多博彩
+2002-03-10,7412,萬能,安慰奖,谚语,Proverb,大馬彩
+2000-11-22,7412,萬能,特别奖,外公去世,Maternal Grandfather Passed Away,萬能
+2000-11-22,7412,萬能,特别奖,眼镜架,Spectacle Frame,多多博彩
+2000-11-22,7412,萬能,特别奖,谚语,Proverb,大馬彩
+2000-03-25,7412,多多,特别奖,外公去世,Maternal Grandfather Passed Away,萬能
+2000-03-25,7412,多多,特别奖,眼镜架,Spectacle Frame,多多博彩
+2000-03-25,7412,多多,特别奖,谚语,Proverb,大馬彩
+2000-02-27,7412,大馬彩,安慰奖,外公去世,Maternal Grandfather Passed Away,萬能
+2000-02-27,7412,大馬彩,安慰奖,眼镜架,Spectacle Frame,多多博彩
+2000-02-27,7412,大馬彩,安慰奖,谚语,Proverb,大馬彩
+1998-08-22,7412,萬能,特别奖,外公去世,Maternal Grandfather Passed Away,萬能
+1998-08-22,7412,萬能,特别奖,眼镜架,Spectacle Frame,多多博彩
+1998-08-22,7412,萬能,特别奖,谚语,Proverb,大馬彩
+1998-02-22,7412,多多,特别奖,外公去世,Maternal Grandfather Passed Away,萬能
+1998-02-22,7412,多多,特别奖,眼镜架,Spectacle Frame,多多博彩
+1998-02-22,7412,多多,特别奖,谚语,Proverb,大馬彩
+1997-05-04,7412,萬能,特别奖,外公去世,Maternal Grandfather Passed Away,萬能
+1997-05-04,7412,萬能,特别奖,眼镜架,Spectacle Frame,多多博彩
+1997-05-04,7412,萬能,特别奖,谚语,Proverb,大馬彩
+1997-04-05,7412,大馬彩,安慰奖,外公去世,Maternal Grandfather Passed Away,萬能
+1997-04-05,7412,大馬彩,安慰奖,眼镜架,Spectacle Frame,多多博彩
+1997-04-05,7412,大馬彩,安慰奖,谚语,Proverb,大馬彩
+1997-03-29,7412,多多,特别奖,外公去世,Maternal Grandfather Passed Away,萬能
+1997-03-29,7412,多多,特别奖,眼镜架,Spectacle Frame,多多博彩
+1997-03-29,7412,多多,特别奖,谚语,Proverb,大馬彩
+1996-08-28,7412,多多,首奖,外公去世,Maternal Grandfather Passed Away,萬能
+1996-08-28,7412,多多,首奖,眼镜架,Spectacle Frame,多多博彩
+1996-08-28,7412,多多,首奖,谚语,Proverb,大馬彩
+1996-03-31,7412,萬能,安慰奖,外公去世,Maternal Grandfather Passed Away,萬能
+1996-03-31,7412,萬能,安慰奖,眼镜架,Spectacle Frame,多多博彩
+1996-03-31,7412,萬能,安慰奖,谚语,Proverb,大馬彩
+1994-08-04,7412,多多,特别奖,外公去世,Maternal Grandfather Passed Away,萬能
+1994-08-04,7412,多多,特别奖,眼镜架,Spectacle Frame,多多博彩
+1994-08-04,7412,多多,特别奖,谚语,Proverb,大馬彩
+1993-12-08,7412,萬能,特别奖,外公去世,Maternal Grandfather Passed Away,萬能
+1993-12-08,7412,萬能,特别奖,眼镜架,Spectacle Frame,多多博彩
+1993-12-08,7412,萬能,特别奖,谚语,Proverb,大馬彩
+1993-12-05,7412,萬能,安慰奖,外公去世,Maternal Grandfather Passed Away,萬能
+1993-12-05,7412,萬能,安慰奖,眼镜架,Spectacle Frame,多多博彩
+1993-12-05,7412,萬能,安慰奖,谚语,Proverb,大馬彩
+1993-11-10,7412,大馬彩,二奖,外公去世,Maternal Grandfather Passed Away,萬能
+1993-11-10,7412,大馬彩,二奖,眼镜架,Spectacle Frame,多多博彩
+1993-11-10,7412,大馬彩,二奖,谚语,Proverb,大馬彩
+1993-02-24,7412,萬能,安慰奖,外公去世,Maternal Grandfather Passed Away,萬能
+1993-02-24,7412,萬能,安慰奖,眼镜架,Spectacle Frame,多多博彩
+1993-02-24,7412,萬能,安慰奖,谚语,Proverb,大馬彩
+1992-11-12,7412,萬能,特别奖,外公去世,Maternal Grandfather Passed Away,萬能
+1992-11-12,7412,萬能,特别奖,眼镜架,Spectacle Frame,多多博彩
+1992-11-12,7412,萬能,特别奖,谚语,Proverb,大馬彩
+1985-08-22,7412,多多,特别奖,外公去世,Maternal Grandfather Passed Away,萬能
+1985-08-22,7412,多多,特别奖,眼镜架,Spectacle Frame,多多博彩
+1985-08-22,7412,多多,特别奖,谚语,Proverb,大馬彩
+1985-08-15,7412,多多,安慰奖,外公去世,Maternal Grandfather Passed Away,萬能
+1985-08-15,7412,多多,安慰奖,眼镜架,Spectacle Frame,多多博彩
+1985-08-15,7412,多多,安慰奖,谚语,Proverb,大馬彩

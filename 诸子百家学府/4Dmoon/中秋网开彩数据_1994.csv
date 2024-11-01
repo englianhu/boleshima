@@ -1,58 +1,172 @@
-开彩日期,彩号,秦庄,彩金,秦典,英典
-2024-07-03,1994,多多博彩,安慰奖,短木尺,Short Wooden Ruler
-2024-06-09,1994,多多博彩,安慰奖,短木尺,Short Wooden Ruler
-2024-01-06,1994,大馬彩,安慰奖,短木尺,Short Wooden Ruler
-2023-12-02,1994,星池,安慰奖,,
-2022-11-27,1994,大馬彩,安慰奖,短木尺,Short Wooden Ruler
-2021-11-20,1994,星池,安慰奖,,
-2020-10-11,1994,萬能,特别奖,短尺,Short Ruler
-2019-05-18,1994,星池,安慰奖,,
-2018-03-18,1994,大馬彩,二奖,短木尺,Short Wooden Ruler
-2017-06-03,1994,多多博彩,安慰奖,短木尺,Short Wooden Ruler
-2017-02-04,1994,星池,安慰奖,,
-2017-02-01,1994,星池,安慰奖,,
-2016-11-26,1994,多多博彩,特别奖,短木尺,Short Wooden Ruler
-2016-11-19,1994,多多博彩,安慰奖,短木尺,Short Wooden Ruler
-2015-12-01,1994,多多博彩,特别奖,短木尺,Short Wooden Ruler
-2015-01-18,1994,星池,特别奖,,
-2014-08-26,1994,多多博彩,特别奖,短木尺,Short Wooden Ruler
-2014-05-25,1994,星池,安慰奖,,
-2014-03-23,1994,多多博彩,安慰奖,短木尺,Short Wooden Ruler
-2014-02-26,1994,星池,安慰奖,,
-2013-12-15,1994,多多博彩,特别奖,短木尺,Short Wooden Ruler
-2013-12-11,1994,多多博彩,安慰奖,短木尺,Short Wooden Ruler
-2013-07-06,1994,大馬彩,安慰奖,短木尺,Short Wooden Ruler
-2013-02-24,1994,星池,特别奖,,
-2012-01-22,1994,大馬彩,安慰奖,短木尺,Short Wooden Ruler
-2010-06-06,1994,多多博彩,特别奖,短木尺,Short Wooden Ruler
-2009-12-06,1994,星池,安慰奖,,
-2009-07-26,1994,大馬彩,特别奖,短木尺,Short Wooden Ruler
-2009-05-16,1994,大馬彩,安慰奖,短木尺,Short Wooden Ruler
-2008-04-27,1994,星池,特别奖,,
-2007-09-26,1994,萬能,特别奖,短尺,Short Ruler
-2004-08-22,1994,萬能,特别奖,短尺,Short Ruler
-2003-07-12,1994,萬能,安慰奖,短尺,Short Ruler
-2003-06-11,1994,萬能,特别奖,短尺,Short Ruler
-2001-08-26,1994,大馬彩,特别奖,短木尺,Short Wooden Ruler
-2001-01-27,1994,大馬彩,安慰奖,短木尺,Short Wooden Ruler
-2000-09-05,1994,萬能,安慰奖,短尺,Short Ruler
-2000-03-01,1994,多多博彩,安慰奖,短木尺,Short Wooden Ruler
-1999-10-06,1994,多多博彩,特别奖,短木尺,Short Wooden Ruler
-1999-06-13,1994,萬能,特别奖,短尺,Short Ruler
-1999-04-18,1994,多多博彩,三奖,短木尺,Short Wooden Ruler
-1997-01-04,1994,多多博彩,特别奖,短木尺,Short Wooden Ruler
-1996-07-07,1994,多多博彩,安慰奖,短木尺,Short Wooden Ruler
-1996-06-19,1994,萬能,安慰奖,短尺,Short Ruler
-1996-02-14,1994,多多博彩,安慰奖,短木尺,Short Wooden Ruler
-1995-10-18,1994,萬能,安慰奖,短尺,Short Ruler
-1995-05-28,1994,萬能,安慰奖,短尺,Short Ruler
-1993-04-22,1994,多多博彩,特别奖,短木尺,Short Wooden Ruler
-1993-03-25,1994,萬能,三奖,短尺,Short Ruler
-1993-02-17,1994,萬能,特别奖,短尺,Short Ruler
-1992-06-07,1994,大馬彩,特别奖,短木尺,Short Wooden Ruler
-1992-05-20,1994,大馬彩,安慰奖,短木尺,Short Wooden Ruler
-1988-08-29,1994,多多博彩,安慰奖,短木尺,Short Wooden Ruler
-1986-09-06,1994,多多博彩,特别奖,短木尺,Short Wooden Ruler
-1986-07-03,1994,多多博彩,安慰奖,短木尺,Short Wooden Ruler
-1986-06-07,1994,多多博彩,首奖,短木尺,Short Wooden Ruler
-1986-02-06,1994,多多博彩,特别奖,短木尺,Short Wooden Ruler
+开彩日期,彩号,秦庄,彩金,史记秦本纪,史记楚辞,史记秦庄
+2024-07-03,1994,多多,安慰奖,短尺,Short Ruler,萬能
+2024-07-03,1994,多多,安慰奖,短木尺,Short Wooden Ruler,多多博彩
+2024-07-03,1994,多多,安慰奖,短木尺,Short Wooden Ruler,大馬彩
+2024-06-09,1994,多多,安慰奖,短尺,Short Ruler,萬能
+2024-06-09,1994,多多,安慰奖,短木尺,Short Wooden Ruler,多多博彩
+2024-06-09,1994,多多,安慰奖,短木尺,Short Wooden Ruler,大馬彩
+2024-01-06,1994,大馬彩,安慰奖,短尺,Short Ruler,萬能
+2024-01-06,1994,大馬彩,安慰奖,短木尺,Short Wooden Ruler,多多博彩
+2024-01-06,1994,大馬彩,安慰奖,短木尺,Short Wooden Ruler,大馬彩
+2023-12-02,1994,星池,安慰奖,短尺,Short Ruler,萬能
+2023-12-02,1994,星池,安慰奖,短木尺,Short Wooden Ruler,多多博彩
+2023-12-02,1994,星池,安慰奖,短木尺,Short Wooden Ruler,大馬彩
+2022-11-27,1994,大馬彩,安慰奖,短尺,Short Ruler,萬能
+2022-11-27,1994,大馬彩,安慰奖,短木尺,Short Wooden Ruler,多多博彩
+2022-11-27,1994,大馬彩,安慰奖,短木尺,Short Wooden Ruler,大馬彩
+2021-11-20,1994,星池,安慰奖,短尺,Short Ruler,萬能
+2021-11-20,1994,星池,安慰奖,短木尺,Short Wooden Ruler,多多博彩
+2021-11-20,1994,星池,安慰奖,短木尺,Short Wooden Ruler,大馬彩
+2020-10-11,1994,萬能,特别奖,短尺,Short Ruler,萬能
+2020-10-11,1994,萬能,特别奖,短木尺,Short Wooden Ruler,多多博彩
+2020-10-11,1994,萬能,特别奖,短木尺,Short Wooden Ruler,大馬彩
+2019-05-18,1994,星池,安慰奖,短尺,Short Ruler,萬能
+2019-05-18,1994,星池,安慰奖,短木尺,Short Wooden Ruler,多多博彩
+2019-05-18,1994,星池,安慰奖,短木尺,Short Wooden Ruler,大馬彩
+2018-03-18,1994,大馬彩,二奖,短尺,Short Ruler,萬能
+2018-03-18,1994,大馬彩,二奖,短木尺,Short Wooden Ruler,多多博彩
+2018-03-18,1994,大馬彩,二奖,短木尺,Short Wooden Ruler,大馬彩
+2017-06-03,1994,多多,安慰奖,短尺,Short Ruler,萬能
+2017-06-03,1994,多多,安慰奖,短木尺,Short Wooden Ruler,多多博彩
+2017-06-03,1994,多多,安慰奖,短木尺,Short Wooden Ruler,大馬彩
+2017-02-04,1994,星池,安慰奖,短尺,Short Ruler,萬能
+2017-02-04,1994,星池,安慰奖,短木尺,Short Wooden Ruler,多多博彩
+2017-02-04,1994,星池,安慰奖,短木尺,Short Wooden Ruler,大馬彩
+2017-02-01,1994,星池,安慰奖,短尺,Short Ruler,萬能
+2017-02-01,1994,星池,安慰奖,短木尺,Short Wooden Ruler,多多博彩
+2017-02-01,1994,星池,安慰奖,短木尺,Short Wooden Ruler,大馬彩
+2016-11-26,1994,多多,特别奖,短尺,Short Ruler,萬能
+2016-11-26,1994,多多,特别奖,短木尺,Short Wooden Ruler,多多博彩
+2016-11-26,1994,多多,特别奖,短木尺,Short Wooden Ruler,大馬彩
+2016-11-19,1994,多多,安慰奖,短尺,Short Ruler,萬能
+2016-11-19,1994,多多,安慰奖,短木尺,Short Wooden Ruler,多多博彩
+2016-11-19,1994,多多,安慰奖,短木尺,Short Wooden Ruler,大馬彩
+2015-12-01,1994,多多,特别奖,短尺,Short Ruler,萬能
+2015-12-01,1994,多多,特别奖,短木尺,Short Wooden Ruler,多多博彩
+2015-12-01,1994,多多,特别奖,短木尺,Short Wooden Ruler,大馬彩
+2015-01-18,1994,星池,特别奖,短尺,Short Ruler,萬能
+2015-01-18,1994,星池,特别奖,短木尺,Short Wooden Ruler,多多博彩
+2015-01-18,1994,星池,特别奖,短木尺,Short Wooden Ruler,大馬彩
+2014-08-26,1994,多多,特别奖,短尺,Short Ruler,萬能
+2014-08-26,1994,多多,特别奖,短木尺,Short Wooden Ruler,多多博彩
+2014-08-26,1994,多多,特别奖,短木尺,Short Wooden Ruler,大馬彩
+2014-05-25,1994,星池,安慰奖,短尺,Short Ruler,萬能
+2014-05-25,1994,星池,安慰奖,短木尺,Short Wooden Ruler,多多博彩
+2014-05-25,1994,星池,安慰奖,短木尺,Short Wooden Ruler,大馬彩
+2014-03-23,1994,多多,安慰奖,短尺,Short Ruler,萬能
+2014-03-23,1994,多多,安慰奖,短木尺,Short Wooden Ruler,多多博彩
+2014-03-23,1994,多多,安慰奖,短木尺,Short Wooden Ruler,大馬彩
+2014-02-26,1994,星池,安慰奖,短尺,Short Ruler,萬能
+2014-02-26,1994,星池,安慰奖,短木尺,Short Wooden Ruler,多多博彩
+2014-02-26,1994,星池,安慰奖,短木尺,Short Wooden Ruler,大馬彩
+2013-12-15,1994,多多,特别奖,短尺,Short Ruler,萬能
+2013-12-15,1994,多多,特别奖,短木尺,Short Wooden Ruler,多多博彩
+2013-12-15,1994,多多,特别奖,短木尺,Short Wooden Ruler,大馬彩
+2013-12-11,1994,多多,安慰奖,短尺,Short Ruler,萬能
+2013-12-11,1994,多多,安慰奖,短木尺,Short Wooden Ruler,多多博彩
+2013-12-11,1994,多多,安慰奖,短木尺,Short Wooden Ruler,大馬彩
+2013-07-06,1994,大馬彩,安慰奖,短尺,Short Ruler,萬能
+2013-07-06,1994,大馬彩,安慰奖,短木尺,Short Wooden Ruler,多多博彩
+2013-07-06,1994,大馬彩,安慰奖,短木尺,Short Wooden Ruler,大馬彩
+2013-02-24,1994,星池,特别奖,短尺,Short Ruler,萬能
+2013-02-24,1994,星池,特别奖,短木尺,Short Wooden Ruler,多多博彩
+2013-02-24,1994,星池,特别奖,短木尺,Short Wooden Ruler,大馬彩
+2012-01-22,1994,大馬彩,安慰奖,短尺,Short Ruler,萬能
+2012-01-22,1994,大馬彩,安慰奖,短木尺,Short Wooden Ruler,多多博彩
+2012-01-22,1994,大馬彩,安慰奖,短木尺,Short Wooden Ruler,大馬彩
+2010-06-06,1994,多多,特别奖,短尺,Short Ruler,萬能
+2010-06-06,1994,多多,特别奖,短木尺,Short Wooden Ruler,多多博彩
+2010-06-06,1994,多多,特别奖,短木尺,Short Wooden Ruler,大馬彩
+2009-12-06,1994,星池,安慰奖,短尺,Short Ruler,萬能
+2009-12-06,1994,星池,安慰奖,短木尺,Short Wooden Ruler,多多博彩
+2009-12-06,1994,星池,安慰奖,短木尺,Short Wooden Ruler,大馬彩
+2009-07-26,1994,大馬彩,特别奖,短尺,Short Ruler,萬能
+2009-07-26,1994,大馬彩,特别奖,短木尺,Short Wooden Ruler,多多博彩
+2009-07-26,1994,大馬彩,特别奖,短木尺,Short Wooden Ruler,大馬彩
+2009-05-16,1994,大馬彩,安慰奖,短尺,Short Ruler,萬能
+2009-05-16,1994,大馬彩,安慰奖,短木尺,Short Wooden Ruler,多多博彩
+2009-05-16,1994,大馬彩,安慰奖,短木尺,Short Wooden Ruler,大馬彩
+2008-04-27,1994,星池,特别奖,短尺,Short Ruler,萬能
+2008-04-27,1994,星池,特别奖,短木尺,Short Wooden Ruler,多多博彩
+2008-04-27,1994,星池,特别奖,短木尺,Short Wooden Ruler,大馬彩
+2007-09-26,1994,萬能,特别奖,短尺,Short Ruler,萬能
+2007-09-26,1994,萬能,特别奖,短木尺,Short Wooden Ruler,多多博彩
+2007-09-26,1994,萬能,特别奖,短木尺,Short Wooden Ruler,大馬彩
+2004-08-22,1994,萬能,特别奖,短尺,Short Ruler,萬能
+2004-08-22,1994,萬能,特别奖,短木尺,Short Wooden Ruler,多多博彩
+2004-08-22,1994,萬能,特别奖,短木尺,Short Wooden Ruler,大馬彩
+2003-07-12,1994,萬能,安慰奖,短尺,Short Ruler,萬能
+2003-07-12,1994,萬能,安慰奖,短木尺,Short Wooden Ruler,多多博彩
+2003-07-12,1994,萬能,安慰奖,短木尺,Short Wooden Ruler,大馬彩
+2003-06-11,1994,萬能,特别奖,短尺,Short Ruler,萬能
+2003-06-11,1994,萬能,特别奖,短木尺,Short Wooden Ruler,多多博彩
+2003-06-11,1994,萬能,特别奖,短木尺,Short Wooden Ruler,大馬彩
+2001-08-26,1994,大馬彩,特别奖,短尺,Short Ruler,萬能
+2001-08-26,1994,大馬彩,特别奖,短木尺,Short Wooden Ruler,多多博彩
+2001-08-26,1994,大馬彩,特别奖,短木尺,Short Wooden Ruler,大馬彩
+2001-01-27,1994,大馬彩,安慰奖,短尺,Short Ruler,萬能
+2001-01-27,1994,大馬彩,安慰奖,短木尺,Short Wooden Ruler,多多博彩
+2001-01-27,1994,大馬彩,安慰奖,短木尺,Short Wooden Ruler,大馬彩
+2000-09-05,1994,萬能,安慰奖,短尺,Short Ruler,萬能
+2000-09-05,1994,萬能,安慰奖,短木尺,Short Wooden Ruler,多多博彩
+2000-09-05,1994,萬能,安慰奖,短木尺,Short Wooden Ruler,大馬彩
+2000-03-01,1994,多多,安慰奖,短尺,Short Ruler,萬能
+2000-03-01,1994,多多,安慰奖,短木尺,Short Wooden Ruler,多多博彩
+2000-03-01,1994,多多,安慰奖,短木尺,Short Wooden Ruler,大馬彩
+1999-10-06,1994,多多,特别奖,短尺,Short Ruler,萬能
+1999-10-06,1994,多多,特别奖,短木尺,Short Wooden Ruler,多多博彩
+1999-10-06,1994,多多,特别奖,短木尺,Short Wooden Ruler,大馬彩
+1999-06-13,1994,萬能,特别奖,短尺,Short Ruler,萬能
+1999-06-13,1994,萬能,特别奖,短木尺,Short Wooden Ruler,多多博彩
+1999-06-13,1994,萬能,特别奖,短木尺,Short Wooden Ruler,大馬彩
+1999-04-18,1994,多多,三奖,短尺,Short Ruler,萬能
+1999-04-18,1994,多多,三奖,短木尺,Short Wooden Ruler,多多博彩
+1999-04-18,1994,多多,三奖,短木尺,Short Wooden Ruler,大馬彩
+1997-01-04,1994,多多,特别奖,短尺,Short Ruler,萬能
+1997-01-04,1994,多多,特别奖,短木尺,Short Wooden Ruler,多多博彩
+1997-01-04,1994,多多,特别奖,短木尺,Short Wooden Ruler,大馬彩
+1996-07-07,1994,多多,安慰奖,短尺,Short Ruler,萬能
+1996-07-07,1994,多多,安慰奖,短木尺,Short Wooden Ruler,多多博彩
+1996-07-07,1994,多多,安慰奖,短木尺,Short Wooden Ruler,大馬彩
+1996-06-19,1994,萬能,安慰奖,短尺,Short Ruler,萬能
+1996-06-19,1994,萬能,安慰奖,短木尺,Short Wooden Ruler,多多博彩
+1996-06-19,1994,萬能,安慰奖,短木尺,Short Wooden Ruler,大馬彩
+1996-02-14,1994,多多,安慰奖,短尺,Short Ruler,萬能
+1996-02-14,1994,多多,安慰奖,短木尺,Short Wooden Ruler,多多博彩
+1996-02-14,1994,多多,安慰奖,短木尺,Short Wooden Ruler,大馬彩
+1995-10-18,1994,萬能,安慰奖,短尺,Short Ruler,萬能
+1995-10-18,1994,萬能,安慰奖,短木尺,Short Wooden Ruler,多多博彩
+1995-10-18,1994,萬能,安慰奖,短木尺,Short Wooden Ruler,大馬彩
+1995-05-28,1994,萬能,安慰奖,短尺,Short Ruler,萬能
+1995-05-28,1994,萬能,安慰奖,短木尺,Short Wooden Ruler,多多博彩
+1995-05-28,1994,萬能,安慰奖,短木尺,Short Wooden Ruler,大馬彩
+1993-04-22,1994,多多,特别奖,短尺,Short Ruler,萬能
+1993-04-22,1994,多多,特别奖,短木尺,Short Wooden Ruler,多多博彩
+1993-04-22,1994,多多,特别奖,短木尺,Short Wooden Ruler,大馬彩
+1993-03-25,1994,萬能,三奖,短尺,Short Ruler,萬能
+1993-03-25,1994,萬能,三奖,短木尺,Short Wooden Ruler,多多博彩
+1993-03-25,1994,萬能,三奖,短木尺,Short Wooden Ruler,大馬彩
+1993-02-17,1994,萬能,特别奖,短尺,Short Ruler,萬能
+1993-02-17,1994,萬能,特别奖,短木尺,Short Wooden Ruler,多多博彩
+1993-02-17,1994,萬能,特别奖,短木尺,Short Wooden Ruler,大馬彩
+1992-06-07,1994,大馬彩,特别奖,短尺,Short Ruler,萬能
+1992-06-07,1994,大馬彩,特别奖,短木尺,Short Wooden Ruler,多多博彩
+1992-06-07,1994,大馬彩,特别奖,短木尺,Short Wooden Ruler,大馬彩
+1992-05-20,1994,大馬彩,安慰奖,短尺,Short Ruler,萬能
+1992-05-20,1994,大馬彩,安慰奖,短木尺,Short Wooden Ruler,多多博彩
+1992-05-20,1994,大馬彩,安慰奖,短木尺,Short Wooden Ruler,大馬彩
+1988-08-29,1994,多多,安慰奖,短尺,Short Ruler,萬能
+1988-08-29,1994,多多,安慰奖,短木尺,Short Wooden Ruler,多多博彩
+1988-08-29,1994,多多,安慰奖,短木尺,Short Wooden Ruler,大馬彩
+1986-09-06,1994,多多,特别奖,短尺,Short Ruler,萬能
+1986-09-06,1994,多多,特别奖,短木尺,Short Wooden Ruler,多多博彩
+1986-09-06,1994,多多,特别奖,短木尺,Short Wooden Ruler,大馬彩
+1986-07-03,1994,多多,安慰奖,短尺,Short Ruler,萬能
+1986-07-03,1994,多多,安慰奖,短木尺,Short Wooden Ruler,多多博彩
+1986-07-03,1994,多多,安慰奖,短木尺,Short Wooden Ruler,大馬彩
+1986-06-07,1994,多多,首奖,短尺,Short Ruler,萬能
+1986-06-07,1994,多多,首奖,短木尺,Short Wooden Ruler,多多博彩
+1986-06-07,1994,多多,首奖,短木尺,Short Wooden Ruler,大馬彩
+1986-02-06,1994,多多,特别奖,短尺,Short Ruler,萬能
+1986-02-06,1994,多多,特别奖,短木尺,Short Wooden Ruler,多多博彩
+1986-02-06,1994,多多,特别奖,短木尺,Short Wooden Ruler,大馬彩
