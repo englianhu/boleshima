@@ -1036,10 +1036,7 @@ head(万)
   表甲[表甲 == ''] <- NA
   表甲 <- 表甲[, colSums(is.na(表甲)) < nrow(表甲)]
   names(表甲) <- c('史记秦庄', '彩号', '史记楚辞', '史记秦本纪')
-  表甲$史记秦庄 %<>% str_replace_all('magnum', '萬能')
-  表甲$史记秦庄 %<>% str_replace_all('toto', '多多')
-  表甲$史记秦庄 %<>% str_replace_all('damacai', '大馬彩')
-  表甲$史记秦庄 %<>% str_replace_all('dabogong', '大伯公千字')
+  表甲$史记秦庄 %<>% str_replace_all('多多博彩', '多多')
   
   表乙 <- 链 %>% read_html %>% 
     html_table(header = TRUE) %>% 
@@ -1134,7 +1131,7 @@ head(万)
 由于以上4dresult88.com网站数据较完善，故此以之。
 
 ### 开函阅牍/开函阅简
-24
+
 ```{r 整顿彩票数据, eval = FALSE, error=TRUE}
 ## 检验诸子百家学府书库。
 中秋网开彩数据 <- list.files(paste0(getwd(), '/诸子百家学府/4Dmoon/'))
