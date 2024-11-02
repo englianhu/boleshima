@@ -804,6 +804,7 @@ rm(程序包)
 - [田忌賽馬](https://www.scribd.com/document/672468435/田忌賽馬)
 - [「成語．故事」田忌賽馬](https://www.merit-times.com.tw/NewsPage.aspx?unid=845873)
 - [「博客园」田忌赛马，贪心算法](https://www.cnblogs.com/Liwker/p/14141186.html)
+- [「猫城」田忌赛马背后的算法决策::labuladong的算法小抄#一零一四](https://github.com/labuladong/fucking-algorithm/discussions/1014)
 
 - [](https://englianhu.wordpress.com/sportsbook/)
 - [](https://englianhu.wordpress.com/2020/08/18/%e5%ba%9e%e7%89%b9%e4%bf%b1%e4%b9%90%e9%83%a8%ef%bc%9a%e4%b8%89%e5%b9%b4%e7%8b%82%e8%b5%9a156%e4%ba%bf%e7%a5%9e%e7%a7%98%e8%b5%8c%e5%8d%9a%e9%9b%86%e5%9b%a2%e5%a6%82%e4%bd%95%e5%8d%81/)
@@ -1060,6 +1061,13 @@ head(万)
     as_tibble() %>% 
     mutate(开彩日期 = ymd(开彩日期))
   表 %<>% .[c('开彩日期', '彩号', '秦庄', '彩金', '史记秦本纪', '史记楚辞', '史记秦庄')]
+  表$史记楚辞 %<>% 
+    str_replace_all(., '\\\"', '') %>% 
+    str_replace_all(., '\\- ', '-') %>% 
+    str_replace_all(., '^ ', '') %>% 
+    str_replace_all(., '\\( ', '(') %>% 
+    str_replace_all(., '\\/ ', '/') %>% 
+    str_replace_all(., '\\)', ')')
   
   if(!dir.exists(paste0(getwd(), '/诸子百家学府/4Dmoon/'))) dir.create('./诸子百家学府/4Dmoon/')
   fwrite(表, paste0('./诸子百家学府/4Dmoon/中秋网开彩数据_', 迭, '.csv'))
@@ -1162,6 +1170,33 @@ range(中秋网开彩数据$开彩日期)
 range(秦人牧马网开彩数据$开彩日期)
 ```
 
+```{r 绘制中秋网开彩数据图表, eval = FALSE, results = 'asis'}
+## 绘制中秋网开彩数据图表
+中秋网开彩数据 |> 
+  {\(.) kbl(., caption = '中秋网开彩数据', escape = FALSE)}() |> 
+  ## https://www.w3schools.com/cssref/css_colors.asp
+  ## https://public.tableau.com/en-us/gallery/100-color-palettes?gallery=votd 
+  {\(.) row_spec(., 0, background = 'DimGrey', 
+                 color = 'gold', bold = TRUE)}() |> 
+  {\(.) column_spec(., 1, background = 'CornflowerBlue')}() |> 
+  {\(.) column_spec(., 2, background = 'Gray')}() |> 
+  {\(.) column_spec(., 3, background = 'DarkGrey')}() |> 
+  {\(.) column_spec(., 4, background = 'Gray')}() |> 
+  {\(.) column_spec(., 5, background = 'DarkGrey')}() |> 
+  {\(.) column_spec(., 6, background = '#4897D8')}() |> 
+  {\(.) column_spec(., 7, background = '#92AAC7')}() |> 
+  {\(.) column_spec(., 8, background = '#375E97')}() |> 
+  {\(.) column_spec(., 9, background = 'CornflowerBlue')}() |> 
+  {\(.) column_spec(., 10, background = 'LightGray', 
+                    color = 'goldenrod')}() |> 
+  {\(.) kable_styling(., bootstrap_options = 
+                        c('striped', 'hover', 'condensed', 'responsive'))}() |> 
+  ##`full_width = FALSE`是将每列设置为伸缩性自动调整宽度。
+  {\(.) kable_material(., full_width = FALSE)}() |> 
+  {\(.) scroll_box(., width = '100%', fixed_thead = TRUE, 
+                   height = '490px')}()
+```
+
 ```{r 绘制秦人牧马网开彩数据图表, eval = FALSE, results = 'asis'}
 ## 绘制秦人牧马网开彩数据图表
 秦人牧马网开彩数据 |> 
@@ -1193,17 +1228,29 @@ range(秦人牧马网开彩数据$开彩日期)
 
 ### 编函成册
 
-```{r eval = FALSE, error = TRUE}
+```{r error = TRUE}
 中秋网开彩数据 %<>% 
-  dplyr::filter(秦庄 != '星池') %>% 
+  dplyr::filter(秦庄 == 史记秦庄) |> 
+  dplyr::arrange(desc(开彩日期)) |> 
   dplyr::mutate(计 = 1)
-
-累计 <- 中秋网开彩数据 |> 
-  dplyr::count(开彩日期, 彩号)
 
 秦人牧马网开彩数据 %<>% 
-  dplyr::filter(秦庄 == 史记秦庄) %>% 
+  dplyr::filter(秦庄 == 史记秦庄) |> 
+  dplyr::arrange(desc(开彩日期)) |> 
   dplyr::mutate(计 = 1)
+
+中秋海内外数据 <- join(中秋网开彩数据, 秦人牧马网开彩数据)
+中秋海内外数据 %<>% 
+  .[秦庄 == 史记秦庄] %>% 
+  .[order(开彩日期)]
+中秋海内外数据[, 计 := 1][]
+setcolorder(中秋海内外数据, names(秦人牧马海内外数据))
+
+秦人牧马海内外数据 <- join(秦人牧马网开彩数据, 中秋网开彩数据)
+秦人牧马海内外数据 %<>% 
+  .[秦庄 == 史记秦庄] %>% 
+  .[order(开彩日期)]
+秦人牧马海内外数据[, 计 := 1][]
 ```
 
 由于牍简中的秦本纪与秦庄开彩记录参差不齐，故此。
@@ -1212,7 +1259,6 @@ range(秦人牧马网开彩数据$开彩日期)
 
 ```{r error = TRUE}
 中秋网开彩数据 |> 
-  dplyr::filter(秦庄 != '星池') |> 
   dplyr::count(彩号) |> 
   arrange(n) |> 
   dplyr::mutate(百分比 = n/sum(n)) |> 
@@ -1262,8 +1308,33 @@ range(秦人牧马网开彩数据$开彩日期)
 
 ### 添加黄历参数
 
+#### 天干地支
+
+![](诸子百家考工记/鄀语言 - 制作干支对照表.png){width=400}
+
+```{r 天干地支, error = TRUE}
+## 辑写此篇论文的时间二零二四年为甲辰年
+## 从公元前七七零年到公元前二二一年，由于公元第一年为元年，故此扣除元年前的零年。
+## 2024 - (-770) - 1 = 2793
+## 2024 - (-221) - 1 = 2244
+
+if (!exists('天干')) 天干 <- c('甲', '乙', '丙', '丁', '戊', '己', '庾', '辛', '壬', '癸')
+if (!exists('地支')) 地支 <- c('子', '丑', '寅', '卯', '辰', '巳', '午', '未', '申', '酉', '戌', '亥')
+if (!exists('干支')) 干支 <- paste0(rep(天干, 6), rep(地支, 5))
+干支 |> 
+  matrix(nrow = 12, dimnames = list(
+    地支, paste0(天干[1:5], 天干[6:10])))
+cat('天干：', 天干, '\n地支：', 地支, '\n干支：', 干支, '\n')
+
+天下简史 <- readRDS("~/文档/猫城/zhongkehongqi-cangku/诸子百家学府/中国年号通史/天下简史.rds")
+
+```
+
 以天文学公转周期与自转周期的概念，。
 
+```{r error = TRUE}
+
+```
 
 <br>
 
