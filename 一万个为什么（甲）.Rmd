@@ -3,7 +3,7 @@ title: "![](诸子百家考工记/大秦赋 - 时空转移春秋战国（中科�
 subtitle: "[「猫城」世袭制道教徒赢家黄氏江夏堂十二生肖秦人牧马之道家易经](https://github.com/englianhu/lottery)：[]()与一万个为什么？（甲）"
 author: "道家笔者：[<ruby>赢<rp>(</rp><rt>yíng</rt><rp>)</rp>家<rp>(</rp><rt>jiā</rt><rp>)</rp>黄<rp>(</rp><rt>huáng</rt><rp>)</rp>氏<rp>(</rp><rt>shì</rt><rp>)</rp>江<rp>(</rp><rt>jiānɡ</rt><rp>)</rp>夏<rp>(</rp><rt>xià</rt><rp>)</rp>堂<rp>(</rp><rt>táng</rt><rp>)</rp></ruby> ®γσ, ξηg Lιαη Ημ，<ruby>黄<rp>(</rp><rt>huáng</rt><rp>)</rp>联<rp>(</rp><rt>lián</rt><rp>)</rp>富<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>（<ruby>雷<rp>(</rp><rt>léi</rt><rp>)</rp>欧<rp>(</rp><rt>ōu</rt><rp>)</rp></ruby>∪ <ruby>瑞<rp>(</rp><rt>ruì</rt><rp>)</rp>欧<rp>(</rp><rt>ōu</rt><rp>)</rp></ruby>）](https://englianhu.wordpress.com.com) ![](诸子百家考工记/大秦赋 - 北京大学.png){height=14}![](诸子百家考工记/赢家ξng黄氏江夏堂 - 量化对冲（中）.png){height=14}®"
 date: "🔆民国日期：民国一百一十三年菊月廿八<br>☯道家节日：[农历二零二四龙年菊月廿八 甲辰年（龙年）甲戌月丁卯日（愚生生日）](https://mobile.51wnl-cq.com/huangli_tab_h5/?posId=BDSS&STIME=2024-10-30)长寿面，红鸡蛋；阖家平安"
-mainfont: DejaVu Sans
+mainfont: 方正小篆
 output:
   html_document: 
     mathjax: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
@@ -16,7 +16,7 @@ output:
     code_folding: hide
     css: 秦谏典范与楷模.css
     fig_caption: true
-font-family: Times New Roman
+font-family: 方正小篆
 ---
 
 # 主题
@@ -1245,8 +1245,6 @@ range(秦人牧马网开彩数据$开彩日期)
 中秋海内外数据 %<>% 
   .[秦庄 == 史记秦庄] %>% 
   .[order(开彩日期)]
-中秋海内外数据[, 计 := 1][]
-setcolorder(中秋海内外数据, names(秦人牧马海内外数据))
 中秋海内外数据$史记楚辞 %<>% 
   str_replace_all('\"', '')
 
@@ -1254,10 +1252,12 @@ setcolorder(中秋海内外数据, names(秦人牧马海内外数据))
 秦人牧马海内外数据 %<>% 
   .[秦庄 == 史记秦庄] %>% 
   .[order(开彩日期)]
-秦人牧马海内外数据[, 计 := 1][]
 秦人牧马海内外数据$史记楚辞 %<>% 
   str_replace_all('\"', '')
 
+setcolorder(中秋海内外数据, names(秦人牧马海内外数据))
+中秋海内外数据[, 计 := 1][]
+秦人牧马海内外数据[, 计 := 1][]
 ```
 
 由于牍简中的秦本纪与秦庄开彩记录参差不齐，故此。
