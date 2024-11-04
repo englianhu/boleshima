@@ -3,7 +3,7 @@ title: "![](诸子百家考工记/大秦赋 - 时空转移春秋战国（中科�
 subtitle: "[「猫城」世袭制道教徒赢家黄氏江夏堂十二生肖秦人牧马之道家易经](https://github.com/englianhu/lottery)：[]()与一万个为什么？（甲）"
 author: "道家笔者：[<ruby>赢<rp>(</rp><rt>yíng</rt><rp>)</rp>家<rp>(</rp><rt>jiā</rt><rp>)</rp>黄<rp>(</rp><rt>huáng</rt><rp>)</rp>氏<rp>(</rp><rt>shì</rt><rp>)</rp>江<rp>(</rp><rt>jiānɡ</rt><rp>)</rp>夏<rp>(</rp><rt>xià</rt><rp>)</rp>堂<rp>(</rp><rt>táng</rt><rp>)</rp></ruby> ®γσ, ξηg Lιαη Ημ，<ruby>黄<rp>(</rp><rt>huáng</rt><rp>)</rp>联<rp>(</rp><rt>lián</rt><rp>)</rp>富<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>（<ruby>雷<rp>(</rp><rt>léi</rt><rp>)</rp>欧<rp>(</rp><rt>ōu</rt><rp>)</rp></ruby>∪ <ruby>瑞<rp>(</rp><rt>ruì</rt><rp>)</rp>欧<rp>(</rp><rt>ōu</rt><rp>)</rp></ruby>）](https://englianhu.wordpress.com.com) ![](诸子百家考工记/大秦赋 - 北京大学.png){height=14}![](诸子百家考工记/赢家ξng黄氏江夏堂 - 量化对冲（中）.png){height=14}®"
 date: "🔆民国日期：民国一百一十三年菊月廿八<br>☯道家节日：[农历二零二四龙年菊月廿八 甲辰年（龙年）甲戌月丁卯日（愚生生日）](https://mobile.51wnl-cq.com/huangli_tab_h5/?posId=BDSS&STIME=2024-10-30)长寿面，红鸡蛋；阖家平安"
-mainfont: FZXiaoZhuanTi-S13T
+mainfont: 'FZXiaoZhuanTi-S13T'
 output:
   html_document: 
     mathjax: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
@@ -14,9 +14,9 @@ output:
       collapsed: true
       smooth_scroll: true
     code_folding: hide
-    css: 秦谏典范与楷模.css
+    css: 赢家黄氏江夏堂.css
     fig_caption: true
-font-family: FZXiaoZhuanTi-S13T
+font-family: 'FZXiaoZhuanTi-S13T'
 ---
 
 # 主题
@@ -799,7 +799,7 @@ rm(程序包)
 - [「问百度」赌博中的数学](https://wenku.baidu.com/view/e37ce9eab8f67c1cfad6b89f)
 - [中国彩票销售数据简介](https://www.cnopendata.com/data/chinese-lottery-sales.html)
 
-[雪兰莪赛马公会历代主席](https://www.selangorturfclub.com/zh-hans/corporate/history/past-chairman/)有提及雪兰莪赛马公会当初是坐落于安邦，一九八二年开始有提议搬迁赛马场的课题，然后一九九三年搬迁到新街场，欲知更多详情请查阅[雪州马会历史](https://www.selangorturfclub.com/zh-hans/corporate/history/)。九零年代前后是个人电脑科技行业、博彩行业、亚盘和高频量化对冲基金崛起的时候。
+[雪兰莪赛马公会历代主席](https://www.selangorturfclub.com/zh-hans/corporate/history/past-chairman/)有提及雪兰莪赛马公会当初是坐落于安邦，一九八二年开始有提议搬迁赛马场的课题，然后一九九三年搬迁到新街场，欲知更多详情请查阅[雪州马会历史](https://www.selangorturfclub.com/zh-hans/corporate/history/)。九零年代前后是个人电脑科技行业、博彩行业、亚盘和高频量化对冲基金崛起的时候，欲知更多详情可查阅个人随手记事本[「文派」赢家黄氏江夏堂，联富（雷欧）](https://englianhu.wordpress.com)。而最近才知道原来二零零六/零七年到菲律宾客世博工作，遇到一位戴幅眼镜、斯斯文文的台籍新宝老板（新宝一、新宝二、TA-IN、SBB-IN）杨嘉贤（最近才知道名叫杨嘉贤，如果公司上市都会成为台湾首富）拥有全资股份的独资公司，而管理员新加坡籍欧阳金泰是靠关系才认识到东亚中华民国/台湾黑白两道亿万富豪杨总，杨总身家好几千亿美元。自从二零二零年从克拉克阳城辞职后这两年继续自修高频量化对冲，有天春节期间到适耕庄到一家南昌摩哆（双轮机车在南洋一带外来语称Motor为摩哆）打听之下才知道原来适耕庄有许多亿万土豪，有位拥有三四万亩稻田的土豪估计时适耕庄首富在二零一五年左右就在丁宜河边建立了一间太阳能发电厂兼二战的失落宝藏迷宫，详情可查阅[「南洋」覃永健:员工需要归属感，专业团队造就世金企业](https://www.enanyang.my/专题/覃永健员工需要归属感-专业团队造就世金企业)，而C村第三巷角落间退休老村长黄运财家（女婿刘善义经营太阳能光合瓦生意）安装并销售太阳能光合瓦。而咱们峇东新村一个小村落都有七八个身家过亿的土豪，其中峇东新村首富郭鹤眛也拥有超过一万亩油棕闾园不动产身家千亿元，最近有天到瓜雪巴西不能帮新村民国卌九年建立的李童子府庙偶然听一些土豪闲聊，也和郭鹤眛年轻时期被英国政府诈骗，在银行提款时由于填写姓名不清楚就被银行家卡款了好几亿，还被银行家联合当时公安局和警署威胁如果不服就得吃牢饭。外号“啊看”和“啊戆”（民智国民华文小学同学珍妮的爸爸）林氏土豪俩的身家也有超过百亿，外号“安那”（大姐莲碧的民智国民华文小学同学郭胜友）的身家也有好几十亿。
 
 ## 博彩与算卜
 

@@ -90,11 +90,8 @@ body {
   background-size: cover; 
   background-position: center center;
   background-attachment: fixed; 
-  font-family: 'FZKai-Z03T', 'FZKai-Z03S', 'FZXiaoZhuanTi-S13T'; 
-}
-
-p {
-  color: brown;
+  font-family: 'FZXiaoZhuanTi-S13T', 'FZKai-Z03T', 'FZKai-Z03S', cursive; 
+  color: brown; 
 }
 
 div {
