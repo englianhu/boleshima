@@ -1380,43 +1380,45 @@ cat('天干：', 天干, '\n地支：', 地支, '\n干支：', 干支, '\n')
       str_replace_all('9', '九') %>% 
       paste0('年', collapse = '')
     
-      黄历甲 <- 万年历[迭] %>% 
-        read_html() %>% 
-        html_nodes(xpath = '//*[@id="wnrl_k_you_id_1"]') %>% 
-        html_text()
+    黄历甲 <- 万年历[迭] %>% 
+      read_html() %>% 
+      html_nodes(xpath = '//*[@id="wnrl_k_you_id_1"]') %>% 
+      html_text()
       
-      黄历乙 <- 万年历[迭] %>% 
-        read_html() %>% 
-        html_nodes(xpath = '//*[@id="wnrl_k_xia_id_1"]/div[2]') %>% 
-        html_text2()
-      
-      黄道吉日 <- 黄历甲 |> 
-        str_split(' ') %>% 
-        .[[1]] %>% 
-        str_replace_all('【|】|\\(大\\)|\\(小\\)', '') %>% 
-        str_split('[0-9]') %>% 
-        unlist() %>% 
-        .[. != '']
-      
-      黄历日期 <- 黄历甲 |> 
-        str_split(' ') %>% 
-        .[[1]] %>% 
-        .[1:4] %>% 
-        str_extract_all('[0-9]') %>% 
-        .[c(1, 2, 4)] %>% 
-        paste(collapse = '-') %>% 
-        str_replace_all('c\\(|\"|, |\\)', '')
-      
-      干支年 <- 黄历甲 |> 
-        str_split(' ') %>% 
-        .[[1]] %>% 
-        .[4] %>% 
-        str_split('[0-9]') %>% 
-        .[[1]] %>% 
-        .[3] %>% 
-        substring(nchar(.) - 2)
-      
-      农历月份 <- 黄历甲 |> 
+    黄历乙 <- 万年历[迭] %>% 
+      read_html() %>% 
+      html_nodes(xpath = '//*[@id="wnrl_k_xia_id_1"]/div[2]') %>% 
+      html_text2()
+    
+    黄道吉日 <- 黄历甲 |> 
+      str_split(' ') %>% 
+      .[[1]] %>% 
+      str_replace_all('【|】|\\(大\\)|\\(小\\)', '') %>% 
+      str_split('[0-9]') %>% 
+      unlist() %>% 
+      .[. != ''] %>% 
+      str_replace_all('宜', '宜 ') %>% 
+      str_replace_all('忌', '忌 ')
+    
+    黄历日期 <- 黄历甲 |> 
+      str_split(' ') %>% 
+      .[[1]] %>% 
+      .[1:4] %>% 
+      str_extract_all('[0-9]') %>% 
+      .[c(1, 2, 4)] %>% 
+      paste(collapse = '-') %>% 
+      str_replace_all('c\\(|\"|, |\\)', '')
+    
+    干支年 <- 黄历甲 |> 
+      str_split(' ') %>% 
+      .[[1]] %>% 
+      .[4] %>% 
+      str_split('[0-9]') %>% 
+      .[[1]] %>% 
+      .[3] %>% 
+      substring(nchar(.) - 2)
+    
+    农历月份 <- 黄历甲 |> 
         str_split(' ') %>% 
         .[[1]] %>% 
         .[4] %>% 
@@ -1424,17 +1426,7 @@ cat('天干：', 天干, '\n地支：', 地支, '\n干支：', 干支, '\n')
         .[[1]] %>% 
         .[3] %>% 
         substr(1, nchar(.) - 3)
-      
-      宜 <- 黄历甲 |> 
-        str_split(' ') %>% 
-        .[[1]] %>% 
-        .[7] %>% 
-        str_split('宜') %>% 
-        .[[1]]
-      
-      忌 <- 黄道吉日[grep('忌', 黄道吉日)] |> 
-        str_replace_all('忌', '')
-      
+     
       黄道吉日 <- c(
         黄历日期, 黄道吉日[3], 黄道吉日[5], 年份, 农历月份, 干支年, 
         黄道吉日[6], 宜[1], '宜', 宜[2], 黄道吉日[
