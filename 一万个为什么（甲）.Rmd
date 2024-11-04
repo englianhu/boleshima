@@ -14,7 +14,7 @@ output:
       collapsed: true
       smooth_scroll: true
     code_folding: hide
-    css: 赢家黄氏江夏堂.css
+    css: 秦谏典范与楷模.css
     fig_caption: true
 font-family: 'FZXiaoZhuanTi-S13T'
 ---
