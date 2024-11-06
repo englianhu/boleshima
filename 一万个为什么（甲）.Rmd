@@ -1080,10 +1080,10 @@ head(万)
   表$史记楚辞 %<>% 
     str_replace_all(., '\\\"', '') %>% 
     str_replace_all(., '\\- ', '-') %>% 
-    str_replace_all(., '^ ', '') %>% 
     str_replace_all(., '\\( ', '(') %>% 
     str_replace_all(., '\\/ ', '/') %>% 
-    str_replace_all(., '\\)', ')')
+    str_replace_all(., '\\)', ')') %>% 
+    str_replace_all(., '^ ', '')
   
   if(!dir.exists(paste0(getwd(), '/诸子百家学府/4Dmoon/'))) dir.create('./诸子百家学府/4Dmoon/')
   fwrite(表, paste0('./诸子百家学府/4Dmoon/中秋网开彩数据_', 迭, '.csv'))
@@ -1357,6 +1357,8 @@ cat('天干：', 天干, '\n地支：', 地支, '\n干支：', 干支, '\n')
 中秋海内外数据开彩日期 <- unique(中秋海内外数据$开彩日期)[!unique(秦人牧马海内外数据$开彩日期) %in% unique(中秋海内外数据$开彩日期)]
 
 秦人牧马海内外数据开彩日期 <- unique(秦人牧马海内外数据$开彩日期)[!unique(中秋海内外数据$开彩日期) %in% unique(秦人牧马海内外数据$开彩日期)]
+
+秦开彩期 <- unique(秦人牧马海内外数据$开彩日期)
 
 
 阳历日期 <- unique(中秋海内外数据$开彩日期) %>% 
