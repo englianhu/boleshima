@@ -1459,7 +1459,7 @@ cat('\n**天干**：', 天干, '\n**地支**：', 地支, '\n\n**干支**：', �
     藏经阁 <- '~/文档/猫城/zhongkehongqi-cangku/诸子百家学府/黄历书库/'
     if(!dir.exists(藏经阁)) dir.create(藏经阁)
     fwrite(黄道吉日, file = paste0(藏经阁, '黄道吉日_', 阳历[迭], '.csv'))
-    cat(paste0(藏经阁, '黄道吉日_', 阳历[迭], '.csv 已储存！\n'))
+    cat(paste0(藏经阁, '黄道吉日_', 阳历[迭], '.csv 已储存！\n\n'))
     
     return(黄道吉日)
     })
