@@ -1303,13 +1303,13 @@ cat('\n**天干**：', 天干, '\n**地支**：', 地支, '\n\n**干支**：', �
   llply(., function(迭) paste(as.numeric(迭), collapse = '-')) %>% 
   unlist()
 
-
 问黄历 <- function(阳历) {
   
   万年历 <- paste0('https://wannianrili.bmcx.com/', 阳历, '__wannianrili/')
   
   llply(1:length(万年历), function(迭) {
     
+    cat(paste0('第', num2c(迭), '：读取 https://wannianrili.bmcx.com/', 阳历[迭], '__wannianrili/\n'))
     年份 <- str_split(阳历, '-')[[迭]][1] %>% 
       str_replace_all('0', '零') %>% 
       str_replace_all('1', '一') %>% 
@@ -1335,16 +1335,18 @@ cat('\n**天干**：', 天干, '\n**地支**：', 地支, '\n\n**干支**：', �
         str_replace_all(
             paste0(干支[迭], '年'), paste0(' ', 干支[迭], '年'))
     }) %>% 
-      unique() %>% 
-      .[[2]]
+      unique()
+    if(length(黄历甲) == 1) 黄历甲 <- 黄历甲[[1]]
+    if(length(黄历甲) > 1) 黄历甲 <- 黄历甲[[2]]
     
     黄历甲 <- llply(1:length(干支), function(迭) {
       牍 <- 黄历甲 %>% 
         str_replace_all(
             paste0(干支[迭], '日'), paste0(干支[迭], '日 '))
     }) %>% 
-      unique() %>% 
-      .[[2]]
+      unique()
+    if(length(黄历甲) == 1) 黄历甲 <- 黄历甲[[1]]
+    if(length(黄历甲) > 1) 黄历甲 <- 黄历甲[[2]]
     
     黄历乙 <- 万年历[迭] %>% 
       read_html() %>% 
