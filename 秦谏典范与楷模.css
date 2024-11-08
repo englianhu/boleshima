@@ -111,12 +111,14 @@ body {
   background-position: center center;
   background-attachment: fixed; 
   color: brown; 
+  /* 可以手动调整字体的顺序排位，左边优先，由左到右。 */
   font-family: 'FZXiaoZhuanTi-S13T', 'FZKai-Z03T', 'FZKai-Z03S', cursive; 
 }
 
 div {
   background-color: rgba(255, 255, 255, 0.35)   /* 35% opaque white */;
   padding: 0.25em; 
+  /* 可以手动调整字体的顺序排位，左边优先，由左到右。 */
   font-family: 'FZXiaoZhuanTi-S13T', 'FZKai-Z03T', 'FZKai-Z03S', cursive; 
 }
 </style>

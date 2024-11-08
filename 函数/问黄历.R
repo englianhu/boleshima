@@ -170,11 +170,12 @@
   }
   ## 道家老子黄历的《老黄历》
   if(黄历 == '老黄历') {
-    万年历 <- paste0('https://wannianrili.bmcx.com/', 阳历, '__wannianrili/')
+    万年历 <- paste0('https://laohuangli.bmcx.com/', 阳历, '__laohuangli/')
     
     llply(1:length(万年历), function(迭) {
       
-      cat(paste0('第', num2c(迭), '：读取 https://wannianrili.bmcx.com/', 阳历[迭], '__wannianrili/\n'))
+      cat(paste0('第', num2c(迭), '：读取 https://laohuangli.bmcx.com/', 
+                 阳历[迭], '__laohuangli/\n'))
       年份 <- str_split(阳历, '-')[[迭]][1] %>% 
         str_replace_all('0', '零') %>% 
         str_replace_all('1', '一') %>% 
