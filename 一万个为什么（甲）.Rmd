@@ -415,6 +415,8 @@ font-family: 'FZXiaoZhuanTi-S13T'
 
 #### 天下大势
 
+![](诸子百家考工记/中科红旗，量化对冲（乙）.png)
+
 有关[<span style='color:#DE5D83; background-color:black;'>金融衍生</span> - 筛选日内高频量化交易计数尤物 <span style='color:#4E79A7'>第三部•乙（春秋战国《晏子春秋》——总结平滑指数尤物）</span>>> 天下简史](https://englianhu.github.io/民国一百一十三年（甲辰年）/寒月/binary-Q1Inter-HFT-RV3E.html#324_天下简史)显示天下大势一些时间序列事件与名人生肖。
 
 - [「雪球」大乱局！中国迎来重要战略机遇](https://xueqiu.com/5577552039/264887743)
@@ -1069,8 +1071,26 @@ rm(程序包)
 
 古有凶悍的草原游牧民族匈奴，攻城夺邑；今有高学问的学术份子，电脑、科学、科技、高频量化对冲基金。
 
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/131479015?h=aa6fa97f7f" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+*出处：[「微妙」澳大利亚天才数学家组团赌博狂赢](https://vimeo.com/131479015)*
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=767472330&bvid=BV17r4y1q75c&cid=554715867&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+*出处：[「β站」抖音：I am a Quantitative Trader](https://www.bilibili.com/list/690266950?oid=767472330)*
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=594939556&bvid=BV1Lq4y1v7mT&cid=554715869&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+*出处：[「β站」抖音：我是量化交易员](https://www.bilibili.com/video/BV1Lq4y1v7mT/)*
+
+- [揭秘神秘的英超布莱顿老板和顶尖的“蜥蜴之星”彩票投注顾问公司](https://www.ppsport.com/article/news/823589.html)
+- [赌坛人物志一：“卖料”届的王者-托尼布鲁姆和他的蜥蜴之星帝国](https://www.bocai.news/blog/08376e916c5)
+- [蜥蜴之星足球咨询有限公司](https://www.statsperform.com.cn/site/672.html)
+- [「油管」蜥蜴之星会员须知](https://www.youtube.com/watch?v=qOsVo9gWqGQ)
+- [「抖音」蜥蜴之星布鲁姆](https://www.douyin.com/search/蜥蜴之星布鲁姆)
+- [「β站」解密世界上最成功的足彩玩家——托尼·布鲁姆和他的蜥蜴之星](https://www.bilibili.com/video/BV1rb421n7rq)
 - [「文派」](https://englianhu.wordpress.com/sportsbook/)
-- [「文派」庞特俱乐部：三年狂赚156亿神秘赌博集团如何“十赌九赢”？](https://englianhu.wordpress.com/2020/08/18/庞特俱乐部：三年狂赚156亿神秘赌博集团如何十/)
+- [「文派」庞特俱乐部：三年狂赚一百圩六亿神秘赌博集团如何“十赌九赢”？](https://englianhu.wordpress.com/2020/08/18/庞特俱乐部：三年狂赚156亿神秘赌博集团如何十/)
 - [「文派」伝説的な色彩に富んだ賭博狙撃會社EM2（最优推定）](https://englianhu.wordpress.com/sportsbook/em2-company/)
 
 引用愚生旧作[「猫城」Bookdown竞赛参赛作品：赔率计数|机数造物（打造尤物）建模与试探体育彩券商的昏庸、无能、腐败与破绽（英）](https://github.com/scibrokes/odds-modelling-and-testing-inefficiency-of-sports-bookmakers/blob/世博量化研究院/bookdown-contest-submission-odds-modelling-and-testing-inefficiency-of-sports-bookmakers.pdf)，将加权指数分类为四项来回测：
@@ -1225,6 +1245,7 @@ rm(程序包)
 
 - [「腾讯」QQ浏览器在线工具平台小帮手](https://tool.browser.qq.com/)
 - [机领特色实用工具分类](https://www.jlwz.cn/wapindex-1000-81.html)
+- [欢迎使用飞跃圆三工具箱](https://fly63.com/)（有关源代码，请查阅[「猫城」飞跃圆三工具箱](https://github.com/englianhu/fly63)）
 
 ## <ruby>椠<rp>(</rp><rt>qiàn</rt><rp>)</rp></ruby>
 
@@ -1479,10 +1500,6 @@ range(海外秦人彩券$开彩日期)
 
 ## 排版牍简
 
-### 计数分布
-
-
-
 ### 添加黄历参数
 
 #### 天干地支
@@ -1506,25 +1523,28 @@ cat('\n**天干**：', 天干, '\n**地支**：', 地支, '\n\n**干支**：', �
 
 借鉴[金融衍生 - 筛选日内高频量化交易统计模型 （第III部）](https://englianhu.github.io/民国一百一十三年（甲辰年）/杏月/binary-Q1Inter-HFT-RV3.html)以天文学公转周期与自转周期的概念，将半个时辰为一个公转干支甲子年（圆进制分钟）、一分钟为为另一个自转干支甲子年（圆进制秒钟），也就是一公转等于二次元甲子年（三千六百秒钟），不过日期还是阳历。
 
-#### 黄历
+正所谓“城门失火，殃及池鱼。”，综合以上信息几乎都有误，与其使用在线不知名的任何信息，倒不如使用咱们全球秦人祖国秦国北斗卫星数据为标准，倘若官方数据有误，咱们全球秦人天文历法、各行各业气象、水文学、地图气候、包括金融高频量化对冲一律出事儿。
 
-而此科研论文则加入黄历元素，比方说生肖年、干支年月日、五行年月日、宜忌、一些黄历元素、星宿、节气、儒略日、回历、冲煞等，由于春节当天才是咱们农历新年，而[便民查询网>>万年日历查询](https://wannianrili.bmcx.com/2024-10-30__wannianrili/)中的农历新年并非从每一年的春节当天计算起，故此数据来源有误。咱们正确的道家农历日期可查阅[「中華民國」農業部版權所有>>月曆小工具](https://ppg.naif.org.tw/naif/MarketInformation/Other/Calendar_V3.aspx)，不过缺少咱们黄埔军校黄种人的黄历。
+[欢迎使用飞跃圆三工具箱](https://fly63.com/)（有关源代码，请查阅[「猫城」飞跃圆三工具箱](https://github.com/englianhu/fly63)）。
 
-```{r 问黄历, eval=FALSE, error=TRUE}
-天下简史 <- readRDS("~/文档/猫城/zhongkehongqi-cangku/诸子百家学府/中国年号通史/天下简史.rds")
+有关时间轴数据，可查阅。
 
-阳历日期 <- 海外秦人彩券$开彩日期 %>% 
-  unique() %>% 
-  str_split('-') %>% 
-  llply(., function(迭) paste(as.numeric(迭), collapse = '-')) %>% 
-  unlist()
+- [「飞跃圆三工具箱」历史上的今天](https://fly63.com/php/todayHistory/)
+- [「噗」赢家黄氏江夏堂，联富（雷欧）](https://www.plurk.com/englianhu)网站的时间轴。
 
-## 採撷万年历数据
-## https://wannianrili.bmcx.com/
-黄道吉日 <- 问黄历(阳历日期, 黄历 = '老黄历')
-```
+#### 北斗卫星
 
-[「噗」赢家黄氏江夏堂，联富（雷欧）](https://www.plurk.com/englianhu)网站的时间轴。
+借鉴殡涓之争史、楚国（美国）庞氏骗局史、十七世纪楚国（英法）殖民天下与目前楚国国君查尔斯，还有商鞅变法中的知情不报者以同谋之罪治之，目前江湖上所获的资源有许多庞氏产品，故此得查证信息与数据真伪。
+
+佚民
+
+- [「中科院」中国科学院紫金山天文台](http://www.pmo.cas.cn/xwdt2019/kpdt2019/202203/t20220317_6399980.html)
+- [「淘宝」北斗卫星授时万年历（共找到一百件商品）](https://www.taobao.com/list/product/北斗卫星授时万年历.htm)
+- [中国卫星导航系统管理办公室测试评估研究中心](https://www.csno-tarc.cn/announcement/notice20240004)
+
+### 计数分布
+
+
 
 <br>
 
@@ -1732,6 +1752,39 @@ options(warn = 0)
 # 附录
 
 ## 幕后花絮
+
+### 搜索资源>>黄历
+
+而此科研论文则加入黄历元素，比方说生肖年、干支年月日、五行年月日、宜忌、一些黄历元素、星宿、节气、儒略日、回历、冲煞等，由于春节当天才是咱们农历新年，而[便民查询网>>万年日历查询](https://wannianrili.bmcx.com/2024-10-30__wannianrili/)中的农历新年并非从每一年的春节当天计算起，故此数据来源有误。咱们正确的道家农历日期可查阅[「中華民國」農業部版權所有>>月曆小工具](https://ppg.naif.org.tw/naif/MarketInformation/Other/Calendar_V3.aspx)，不过缺少咱们黄埔军校黄种人的黄历。
+
+```{r 问黄历, eval=FALSE, error=TRUE}
+source('函数/问黄历.R')
+source('函数/问词典.R')
+
+天下简史 <- readRDS("~/文档/猫城/zhongkehongqi-cangku/诸子百家学府/中国年号通史/天下简史.rds")
+
+阳历日期 <- 海外秦人彩券$开彩日期 %>% 
+  unique() %>% 
+  str_split('-') %>% 
+  llply(., function(迭) paste(as.numeric(迭), collapse = '-')) %>% 
+  unlist()
+
+日期 <- seq(from = as.Date('1912-1-1'), to = today(), by = 'day') %>% 
+  str_split('-') %>% 
+  llply(., function(迭) paste(as.numeric(迭), collapse = '-')) %>% 
+  unlist()
+
+## 採撷万年历数据 https://wannianrili.bmcx.com/
+## 採撷老黄历数据 https://laohuangli.bmcx.com/
+黄道吉日 <- 问黄历(阳历日期, 黄历 = '老黄历')
+黄道吉日 <- 问词典(日期)
+```
+
+- 如上所述，[「便民查询网」万年日历查询](https://wannianrili.bmcx.com/)中的农历信息有误。
+- [「便民查询网」老黄历](https://laohuangli.bmcx.com/)的农历数据虽然无误，但从二零零八年一月开始，并不齐全。
+- [「日历四一一」马来西亚黄历](https://www.calendar411.com/my2/huangli/1901/1)与**便民查询网**中的农历信息一样有误。
+- [「词典网」周公解梦](https://www.cidianwang.com/zhougongjiemeng/)
+- [「词典网」黄道吉日](https://www.cidianwang.com/nongli/)
 
 ## 文书明细
 

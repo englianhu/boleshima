@@ -1,18 +1,19 @@
 问黄历 <- function(阳历, 黄历 = '老黄历') {
   
-  ## 黄历分为道家老子黄历的《老黄历》与道家始祖春秋万载的《万年历》
+  ## 黄历分为道家老子黄历的《老黄历》与道家始祖春秋万载的《万年历》----------
   道家历法 <- c('老黄历', '万年历')
   if(!黄历 %in% 道家历法) {
     stop('黄历 = "老黄历"？黄历 = "万年历"？')
   }
   
-  ## 道家始祖春秋万载的《万年历》
+  ## 道家始祖春秋万载的《万年历》----------
   if(黄历 == '万年历') {
     万年历 <- paste0('https://wannianrili.bmcx.com/', 阳历, '__wannianrili/')
     
     llply(1:length(万年历), function(迭) {
       
-      cat(paste0('第', num2c(迭), '：读取 https://wannianrili.bmcx.com/', 阳历[迭], '__wannianrili/\n'))
+      cat(paste0('第', num2c(迭), '：读取 https://wannianrili.bmcx.com/', 
+                 阳历[迭], '__wannianrili/\n'))
       年份 <- str_split(阳历, '-')[[迭]][1] %>% 
         str_replace_all('0', '零') %>% 
         str_replace_all('1', '一') %>% 
@@ -160,19 +161,23 @@
       rm(黄历甲, 黄历乙, 黄历日期, 黄道吉日甲, 黄道吉日乙)
       
       藏经阁 <- '~/文档/猫城/zhongkehongqi-cangku/诸子百家学府/黄历书库/万年历/'
-      if(!dir.exists(藏经阁)) dir.create('~/文档/猫城/zhongkehongqi-cangku/诸子百家学府/黄历书库/')
-      if(!dir.exists(藏经阁)) dir.create('~/文档/猫城/zhongkehongqi-cangku/诸子百家学府/黄历书库/万年历/')
+      if(!dir.exists(藏经阁)) 
+        dir.create(
+          '~/文档/猫城/zhongkehongqi-cangku/诸子百家学府/黄历书库/')
+      if(!dir.exists(藏经阁)) 
+        dir.create(
+          '~/文档/猫城/zhongkehongqi-cangku/诸子百家学府/黄历书库/万年历/')
       fwrite(黄道吉日, file = paste0(藏经阁, '黄道吉日_', 阳历[迭], '.csv'))
       cat(paste0(藏经阁, '黄道吉日_', 阳历[迭], '.csv 已储存！\n\n'))
       
       return(黄道吉日)
     })
   }
-  ## 道家老子黄历的《老黄历》
+  ## 道家老子黄历的《老黄历》----------
   if(黄历 == '老黄历') {
-    万年历 <- paste0('https://laohuangli.bmcx.com/', 阳历, '__laohuangli/')
+    老黄历 <- paste0('https://laohuangli.bmcx.com/', 阳历, '__laohuangli/')
     
-    llply(1:length(万年历), function(迭) {
+    llply(1:length(老黄历), function(迭) {
       
       cat(paste0('第', num2c(迭), '：读取 https://laohuangli.bmcx.com/', 
                  阳历[迭], '__laohuangli/\n'))
@@ -189,7 +194,7 @@
         str_replace_all('9', '九') %>% 
         paste0('年', collapse = '')
       
-      黄历甲 <- 万年历[迭] %>% 
+      黄历甲 <- 老黄历[迭] %>% 
         read_html() %>% 
         html_nodes(xpath = '//*[@id="wnrl_k_you_id_1"]') %>% 
         html_text() %>% 
