@@ -906,16 +906,16 @@ conflicted::conflicts_prefer(Ipaper::chunk, .quiet = TRUE)
 conflicted::conflicts_prefer(formattable::percent, .quiet = TRUE)
 
 程序包 <- c(
-  'devtools', 'Ipaper', 'knitr', 'kableExtra', 'tint', 'furrr', 'DT', 
+  'devtools', 'Ipaper', 'knitr', 'kableExtra', 'tint', 'furrr', 'DT', 'gam', 
   'tidyr', 'readr', 'lubridate', 'reprex', 'stringr', 'feather', 'lunar', 
   'purrr', 'quantmod', 'tidyquant', 'tibbletime', 'timetk', 'readxl', 
-  'plyr', 'dplyr', 'dbplyr', 'dtplyr', 'cnum', 'arabic2kansuji', 
+  'plyr', 'dplyr', 'dbplyr', 'dtplyr', 'cnum', 'arabic2kansuji', 'keras', 
   'sarima', 'tidyverse', 'memoise', 'htmltools', 'formattable', 'tidyr', 
-  'zoo', 'forecast', 'seasonal', 'magrittr', 'hms', 'seasonalview', 
+  'zoo', 'forecast', 'seasonal', 'magrittr', 'hms', 'seasonalview', 'feather', 
   'rjson', 'rugarch', 'rmgarch', 'mfGARCH', 'tidymodels', 'googleVis', 
-  'feather', 'sparklyr', 'jcolors', 'microbenchmark', 'dendextend', 
-  'vembedr', 'lhmetools', 'gtools', 'stringi', 'pacman', 'rlist', 
-  'profmem', 'ggthemes', 'flyingfox', 'highcharter', 'echarts4r', 
+  'sparklyr', 'jcolors', 'microbenchmark', 'dendextend', 'tidyverts', 
+  'vembedr', 'lhmetools', 'gtools', 'stringi', 'pacman',  'tensorflow', 
+  'profmem', 'ggthemes', 'flyingfox', 'highcharter', 'echarts4r', 'rlist',
   'viridis', 'hrbrthemes', 'profvis', 'fable', 'fabletools', 'rvest', 
   'fable.prophet', 'Metrics', 'MLmetrics', 'data.table')#, 'Rfast', 'Rfast2')
 
@@ -1616,15 +1616,37 @@ cat('\n**天干**：', 天干, '\n**地支**：', 地支, '\n\n**干支**：', �
 
 ## 计数尤物
 
-### 数据计数分布
+### 广义型尤物
 
+```{r error=TRUE}
+海外秦人彩券
+
+广经堂尤物 <- glm(as.numeric(彩号) ~ 秦庄 + 彩金 + 史记秦本纪, data = 海外秦人彩券)
+predict(广经堂尤物, n.ahead = 1)
+
+## 广经堂尤物
+# gam()
+```
+
+- [Using General Linear Modeling on time series data](https://www.fieldtriptoolbox.org/example/glm_timeseries/)
+- [Do Time Series Models fall under GLM?](https://stats.stackexchange.com/a/553079/68357)
+- [GLM for longitudinal or time-series -- how to model and interpret a binary logistic regression over time controlling for covariates using R](https://stats.stackexchange.com/a/650763/68357)
+- [Is it wise to use a Generalized Linear Model (GLM) to investigate trends in abundance over time?](https://stats.stackexchange.com/a/600778/68357)
 
 
 ### `forecast`
 
 ```{r error=TRUE}
 海外秦人彩券
+
+尤物 <- 海外秦人彩券 %>% 
+  as_tibble() %>% 
+  model(指数平滑 = ETS(log(彩号) ~ error("M") + trend("Ad") + season("A"))) %>% 
+  forecast(h = "3 years")
+
 ```
+
+- [fabletools](https://fabletools.tidyverts.org/reference/forecast.html)
 
 ### `fable`
 
@@ -1737,7 +1759,7 @@ cat('\n**天干**：', 天干, '\n**地支**：', 地支, '\n\n**干支**：', �
 
 ![[**近期招聘一览表:**<span style='color:#3C5C; background-color:black;'>*全网Quant都在看!</span>](https://wemp.app/posts/31dffe83-68af-4e3f-a1f7-c49baf9a24cb?fbclid=IwAR1x3DOjThsEKG0CHVghFnIPAAcraM8kimXa_G9-xG070CiLDyXWj6_6Izs)](诸子百家考工记/量化投资与机器学习.png){width=400}
 
-![*计数/机数学系、数术系、物理学系、天文学系、统筹法天文历法风水学、易经道教徒算卜*](林艳迎（课外家庭日语班女同学）/计量经济学系学霸.png){width=400}
+![*计数/机数学系、数术系、物理学系、天文学系、统筹法天文历法风水学、易经道教徒算卜*](诸子百家考工记/计量经济学系学霸.png){width=400}
 
 > #春秋战国 #诸子百家 #算筹 #十二生肖 #科学数学博弈概率论 #中华复兴运动 #中华五千年习俗文化宗教语言法规 #万般皆下品唯有读书高 #中华国卒 #咱们中华民族和越族世袭制道教徒姓氏堂号烧香祭祖张灯结彩题字春联中医中华庙宇 #公元前只有农历和国际标准中文北京话没有阳历洋番 #全球洋番都是祖籍以色列或住森林山洞的泰山 #世袭制道教徒法家商鞅以商君书奠定一统天下之道 #世袭制道教徒吕不韦以吕氏春秋的务农金融股票商品市场和娱乐圈来一统天下 #世袭制道教徒法家李斯以中华庙宇习俗文化宗教语言法规和各集团组织理事治天下来一统天下 #关雎 #求贤令 #礼贤馆 #秦 #马华公会借鉴越南国旗和欧盟以一颗夜空中最亮的星来立国🌟
 > 
