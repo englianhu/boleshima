@@ -905,19 +905,23 @@ conflicted::conflicts_prefer(gtools::permutations, .quiet = TRUE)
 conflicted::conflicts_prefer(Ipaper::chunk, .quiet = TRUE)
 conflicted::conflicts_prefer(formattable::percent, .quiet = TRUE)
 
+if (!require('webdriver')) remotes::install_github('rstudio/webdriver')
+
 程序包 <- c(
   'devtools', 'Ipaper', 'knitr', 'kableExtra', 'tint', 'furrr', 'DT', 'gam', 
   'tidyr', 'readr', 'lubridate', 'reprex', 'stringr', 'feather', 'lunar', 
-  'purrr', 'quantmod', 'tidyquant', 'tibbletime', 'timetk', 'readxl', 
-  'plyr', 'dplyr', 'dbplyr', 'dtplyr', 'cnum', 'arabic2kansuji', 'keras', 
-  'sarima', 'tidyverse', 'memoise', 'htmltools', 'formattable', 'tidyr', 
-  'zoo', 'forecast', 'seasonal', 'magrittr', 'hms', 'seasonalview', 'feather', 
-  'rjson', 'rugarch', 'rmgarch', 'mfGARCH', 'tidymodels', 'googleVis', 
-  'sparklyr', 'jcolors', 'microbenchmark', 'dendextend', 'tidyverts', 
-  'vembedr', 'lhmetools', 'gtools', 'stringi', 'pacman',  'tensorflow', 
-  'profmem', 'ggthemes', 'flyingfox', 'highcharter', 'echarts4r', 'rlist',
-  'viridis', 'hrbrthemes', 'profvis', 'fable', 'fabletools', 'rvest', 
-  'fable.prophet', 'Metrics', 'MLmetrics', 'data.table')#, 'Rfast', 'Rfast2')
+  'purrr', 'quantmod', 'tidyquant', 'tibbletime', 'timetk', 'readxl', 'pak', 
+  'remotes', 'plyr', 'dplyr', 'dbplyr', 'dtplyr', 'cnum', 'arabic2kansuji', 
+  'keras', 'sarima', 'tidyverse', 'memoise', 'htmltools', 'formattable', 
+  'tidyr', 'zoo', 'forecast', 'seasonal', 'magrittr', 'hms', 'seasonalview', 
+  'rvest', 'feather', 'reticulate', 'rjson', 'rugarch', 'rmgarch', 'mfGARCH', 
+  'tidymodels', 'googleVis', 'sparklyr', 'jcolors', 'microbenchmark', 'httr', 
+  'dendextend', 'tidyverts', 'vembedr', 'lhmetools', 'gtools', 'stringi', 
+  'pacman', 'tensorflow', 'profmem', 'ggthemes', 'flyingfox', 'highcharter', 
+  'echarts4r', 'rlist', 'viridis', 'hrbrthemes', 'profvis', 'fable', 'wdman', 
+  'fabletools', 'fable.prophet', 'Metrics', 'MLmetrics', 'webshot', 
+  'listviewer', 'tidyjson', 'data.table', 'RSelenium', 'reactable')
+#, 'Rfast', 'Rfast2')
 
 ## cnum 是協助處理中文數字的R套件，提供轉換、識別及抽取中文數字的函數。
 ## cnum 是协助处理中文数字的R包，提供转换、识别及抽取中文数字的函数。
@@ -1551,11 +1555,96 @@ cat('\n**天干**：', 天干, '\n**地支**：', 地支, '\n\n**干支**：', �
 
 借鉴[金融衍生 - 筛选日内高频量化交易统计模型 （第III部）](https://englianhu.github.io/民国一百一十三年（甲辰年）/杏月/binary-Q1Inter-HFT-RV3.html)以天文学公转周期与自转周期的概念，将半个时辰为一个公转干支甲子年（圆进制分钟）、一分钟为为另一个自转干支甲子年（圆进制秒钟），也就是一公转等于二次元甲子年（三千六百秒钟），不过日期还是阳历。
 
-```{r , error=TRUE}
-
+```{bash}
+# https://forum.posit.co/t/error-when-saving-a-table-using-gt-gtsave/147141/2
+if test -f /home/englianhu/google-chrome-stable_current_amd64.deb; then
+  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+  sudo apt -y install ./google-chrome-stable_current_amd64.deb
+fi
+google-chrome --version
 ```
 
-- [公 历 和 农 历 日 期 对 照 (公元前722年—公元2200年)](https://ytliu0.github.io/ChineseCalendar/index_simp.html)
+```{r 公历农历对照, error=TRUE}
+## 下载谷歌浏览器
+# system('wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb')
+
+## 安装谷歌浏览器
+# system('sudo apt -y install ./google-chrome-stable_current_amd64.deb')
+
+## Check successful installation by checking the version of Google Chrome
+# system('google-chrome --version')
+
+链 <- 'https://ytliu0.github.io/ChineseCalendar/index_simp.html'
+二零二四年 <- 链 |> 
+  read_html_live() |> 
+  html_elements('table') |> 
+    html_table()
+
+链 <- 'https://ytliu0.github.io/ChineseCalendar/index_c.js'
+椠 <- 链 %>% 
+  GET %>% 
+  content('text', encoding = 'utf8') %>% 
+  reactable()
+
+# install_phantomjs()
+# run_phantomjs()
+# 遥控驱动器 <- remoteDriver(browserName = 'chrome')
+# 遥控驱动器$open()
+
+## https://stackoverflow.com/questions/64298886/rvest-webscraping-in-r-with-form-inputs
+用户代理 <- "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"
+链 |> 
+  html_session()
+链 |> 
+    html_session() |> 
+    html_nodes(xpath = '//*[@id="year"]')
+
+查询 <- list(
+    type = 'number', 
+    id = 'year', 
+    step = '1', 
+    min = '-721', 
+    max = '2200')
+POST(链, body = 查询, encode = 'form')
+
+
+library(rvest)
+library(httr)
+
+startDate <- as.Date("2020-06-01")
+endDate <- Sys.Date() #today
+
+椠 <- html_session(链)
+
+年历 <- 椠 %>% 
+    html_nodes("div[calendar]") %>%
+    html_attr("calendar")
+
+header <- 椠 %>% 
+  html_nodes(".instrumentHeader h2") %>% 
+  html_text()
+
+resp <- 椠 %>% rvest:::request_POST(
+    "https://www.investing.com/instruments/HistoricalDataAjax",
+    add_headers('X-Requested-With'= 'XMLHttpRequest'),
+    user_agent(userAgent),
+    body = list(
+        curr_id = pair_ids,
+        header = header[[1]],
+        st_date = format(startDate, format="%m/%d/%Y"),
+        end_date = format(endDate, format="%m/%d/%Y"),
+        interval_sec = "Daily",
+        sort_col = "date",
+        sort_ord = "DESC",
+        action = "historical_data"
+    ), 
+    encode = "form") %>%
+    html_table
+
+print(resp[[1]])
+```
+
+- [公 历 和 农 历 日 期 对 照 (公元前七二二年——公元二二零零年)](https://ytliu0.github.io/ChineseCalendar/index_simp.html)
 
 正所谓“城门失火，殃及池鱼。”，综合以上信息几乎都有误，与其使用在线不知名的任何信息，倒不如使用咱们全球秦人祖国秦国北斗卫星数据为标准，倘若官方数据有误，咱们全球秦人天文历法、各行各业气象、水文学、地图气候、包括金融高频量化对冲一律出事儿。
 
@@ -1621,8 +1710,8 @@ cat('\n**天干**：', 天干, '\n**地支**：', 地支, '\n\n**干支**：', �
 ```{r error=TRUE}
 海外秦人彩券
 
-广经堂尤物 <- glm(as.numeric(彩号) ~ 秦庄 + 彩金 + 史记秦本纪, data = 海外秦人彩券)
-predict(广经堂尤物, n.ahead = 1)
+# 广经堂尤物 <- glm(as.numeric(彩号) ~ 秦庄 + 彩金 + 史记秦本纪, data = 海外秦人彩券)
+# predict(广经堂尤物, n.ahead = 1)
 
 ## 广经堂尤物
 # gam()
@@ -1722,7 +1811,7 @@ predict(广经堂尤物, n.ahead = 1)
 
 《商君书》和《吕氏春秋》的基本概念是先使用现有资源R鄀计数/机数编程语言，因为要研发咱们世袭制道家十二生肖秦人黄河文明/黄埔军校/黄种人🎶/赢家黄氏江夏堂「对数算筹」或「算筹」电子仪器与文言文计数/机数编程「大秦赋」或「世袭制道家文言文大秦赋」操作系统还需要下苦功需要许多时间，再审查并收录R鄀计数/机数编程语言软件和软件包和所有礼逆袭软件包。「算卦」或「算卜」是咱们道家民间预测未来或命运的方法，以量化计数/机数轮回（俗称“回测”）、分析并占卜（俗称“预测”）各行各业，尤其是发展咱们杏林业。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y5KTlMhh260" title="读《埃隆·马斯克传》：硅谷“钢铁侠”，科学家如何转身成为世界首富？" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/y5KTlMhh260" title="读《埃隆·马斯克传》：硅谷“钢铁侠”，科学家如何转身成为世界首富？" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *[「油管」读《埃隆·马斯克传》：硅谷“钢铁侠”，科学家如何转身成为世界首富？](https://www.youtube.com/embed/y5KTlMhh260)*
 
@@ -1849,6 +1938,368 @@ source('函数/问词典.R')
 - [「日历四一一」马来西亚黄历](https://www.calendar411.com/my2/huangli/1901/1)与**便民查询网**中的农历信息一样有误。
 - [「词典网」周公解梦](https://www.cidianwang.com/zhougongjiemeng/)
 - [「词典网」黄道吉日](https://www.cidianwang.com/nongli/)
+
+### 人无远虑，必有近忧
+
+#### 春秋战国——秦国•内忧
+
+##### 操作系统与程序包
+
+**拯救亚洲人，削蕃外洲人。**
+
+秦灭六洲，一统天下；
+莫忘初衷，方得始终。
+
+*引用：[🌟秦人牧马之《商君书》](#🌟秦人牧马之《商君书》)*
+
+- 秦献公
+- 秦穆公
+- 西戎（西亚）
+- 秦孝公
+- 国旗/省旗（借鉴缅甸立国国旗以中华民国为标准，十二颗星星和一颗玉蜀黍的概念，欧洲文艺复兴与欧盟以十二颗星星守护神或太阳系原理环绕着，配合咱们道教徒的易经、算卜、道家创始人李耳与千里眼顺风耳和千里传音、天文历法、夜观星象、兵马俑与军用统筹法军事四面埋伏、物理学、大秦赋🌟秦孝公Sir Tan Cheng Lok自然对数进制操作系统、阅读脑电波与穿梭时空、李斯篆书的路线，而咱们以十二时辰——李斯李通古的概念，中间保留海外华人公会🌟最亮的星星而非玉蜀黍）
+- 秦国叫China，而咱们世袭制道教徒十二生肖秦人牧马、愚生赢家黄氏江夏堂（包括咱们黄石公，禁止土司乩童巫师王刘瑾貹与张佳坤俩造反）联富亲生爸爸「赢政」（始祖•黄永春（始祖•赢政 ξηg Tεηg））、顾着自己家眷亲属、大秦赋自然对数进制操作系统、🌟秦孝公清君侧之商鞅变法、国歌/省歌的路线，最高权限Root改为秦王。有关秦史请查阅[「抖音百科」秦始皇——赢政](https://www.baike.com/wikiid/7237391048909553699)。
+- 国歌/省歌（国歌/省歌的概念是：从蕲年宫之变登基为秦王后，以秦王欲一统天下为主题的国歌/省歌，横扫七大洲五大洋，直到一统天下。）
+
+![*礼逆袭系统文件框架*](诸子百家考工记/礼逆袭系统文件框架.png){width=400}
+
+咱们亚洲被大日本帝国和大英帝国殖民时期受封公爵的陈祯禄（在亚洲和欧洲古代君主制国家，公爵比伯爵和侯爵的官职大，比公爵官职高的只有皇室，也就是日本天皇万岁爷和英国国王。先清君侧，再攻占英国，最后才攻占日本），咱们🌟海外华人公会从日本和英国独立后都是根据中华民国的国民学术路线，秦孝公清君侧之商鞅变法，歼灭所有不遵守各自宗教语言习俗文化的非法民族，尤其是巫贼巫婆非法回教徒！
+
+![*中国不能没有自己的操作系统——记中科红旗董事长、著名科学家孙玉芳教授*](诸子百家考工记/中国不能没有自己的操作系统——记中科红旗董事长、著名科学家孙玉芳教授.png){width=400}
+
+目前最迫切的是需要查看礼逆袭操作系统框架，有个类似鄀编程语言`devtools`程序包一样，方便修改和编写操作系统的工具，先翻译再加密现有操作系统并研发咱们赢家黄氏江夏堂「大秦赋」或「文言文大秦赋」操作系统，先查阅以下连接：
+
+- [How to modify an installation ISO and keep it bootable?](https://unix.stackexchange.com/a/635839/128388)
+- [ISO Master install isomaster](https://askubuntu.com/questions/46646/how-to-edit-iso-images-including-bootable-isos)
+- [Three Ways to Extract and Copy Files from ISO Image in Linux](https://www.tecmint.com/extract-files-from-iso-files-linux)
+
+> ![](诸子百家考工记/目前市场尚未研发推出咱们秦人制的科研、编程软件、高端数理计数|机数软件，加油吧！.png){width=400}
+
+*出处：[目前市场尚未研发推出咱们秦人制的科研、编程软件、高端数理计数|机数软件，加油吧！](https://www.facebook.com/xyzhiju/posts/pfbid0f5TYXPq46UwSGJ3yXxpHtVrgoeZtnLSzt6GKfChk7vEuKZC87aGsF28qtEz3GcAfl)*
+
+![](诸子百家考工记/曦标准函数库概念（甲）.png){width=400}
+
+![](诸子百家考工记/曦标准函数库概念（乙）.png){width=400}
+
+![*夸夸其谈，纸上谈兵*](诸子百家考工记/大顺农民皇帝闯王 - 夸夸其谈，纸上谈兵.png){width=400}
+
+<iframe width="400" height="225" src="https://youtube.com/embed/qpH19SxHXJQ" title="倭寇录屏 - 民国一百一十三年二月初五（农历甲辰年丁卯月丁丑日寅时中卅二分十一秒 属龙 周四）" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*出处：[倭寇录屏 - 民国一百一十三年二月初五（农历甲辰年丁卯月丁丑日寅时中卅二分十一）](https://youtu.be/qpH19SxHXJQ)*
+
+<iframe width="400" height="225" src="https://youtube.com/embed/6VMjJ2v9Nv8" title="倭寇录屏 - 民国一百一十三年正月廿五（农历甲辰年丁卯月戊辰日酉时末廿五分卌五秒 属龙 周二" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*出处：[倭寇录屏 - 民国一百一十三年正月廿五（农历甲辰年丁卯月戊辰日酉时末廿五分十一）](https://youtu.be/6VMjJ2v9Nv8)*
+
+<iframe width="400" height="225" src="https://youtube.com/embed/yEICn9RegoU" title="礼逆袭程序设计（第四版）：迈向图像化dialog工具" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*出处：[礼逆袭程序设计（第四版）：迈向图像化dialog工具](https://youtu.be/yEICn9RegoU)*
+
+<iframe width="400" height="225" src="https://youtube.com/embed/z2dzXayf5VI" title="赢家黄氏永春堂 - 大秦赋操作系统概念" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*出处：[赢家黄氏永春堂 - 大秦赋操作系统概念](https://youtu.be/z2dzXayfSVI)*
+
+<iframe width="400" height="225" src="https://youtube.com/embed/hdG8ksSwNII" title="分析购物篮计数|机数尤物 二零零二年五月廿五日晚上八点零二分零九秒" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*出处：[分析购物篮计数|机数尤物](https://youtu.be/hdG8ksSwNII)*
+
+<iframe width="400" height="225" src="https://youtube.com/embed/0ZD11tXBA6w" title="「幕后花絮」DynamicRadioButtons 阳历二零二二年四月廿四日凌晨零点廿五分零六秒" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*出处：[「幕后花絮」DynamicRadioButtons 阳历二零零二年四月廿四日凌晨零点廿五分零六秒](https://youtu.be/0ZD11tXBA6w)*
+
+<iframe width="400" height="225" src="https://youtube.com/embed/DAh10JKs81s" title="「幕后花絮」DynamicRadioButtons 阳历二零二二年四月廿三日晚上十一点五十二分十五秒" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*出处：[「幕后花絮」DynamicRadioButtons 阳历二零二二年四月廿三日晚上十一点五十分](https://youtu.be/D4h10JKs81s)*
+
+<iframe width="400" height="225" src="https://youtube.com/embed/mbo7CIO1vWM" title="Resume (Blooper)：阳历二零二二年四月十一日晚上十一点廿六分四十九秒" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*出处：[Resume (Blooper)：阳历二零二二年四月十一日晚上十一点廿六分四十九秒](https://youtu.be/mbo7CIO1vWM)*
+
+<iframe width="400" height="225" src="https://youtube.com/embed/OrreyVgy3RU" title="Anbox on Linux 🐧 - New Recording : 12-3-2021, 2:14:42 AM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*出处：[Anbox on Linux 🐧 - New Recording : 12-3-2021, 2:14:42 AM](https://youtu.be/OrreyVgy3RU)*
+
+<iframe width="400" height="225" src="https://youtube.com/embed/3mTI435TCeM" title="Coursera Machine Learning for Trading: 蔡卓宜 - 10/16/2021, 12:32:47 AM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*出处：[Coursera Machine Learning for Trading: 蔡卓宜 - 10/16/2021, 12:32:47](https://youtu.be/3mTI435TCeM)*
+
+借鉴万物皆有灵和阅读脑电波赢政思想录，所谓的户籍管理中的一项，就是视频中的[人工智障检测《国产凌凌漆》名场面](https://www.bilibili.com/video/BV1Cd4y1R7jT)是可以通过人造卫星以光速来侦测地球上万物一举一动，就能通过量子电脑的计数/机数量化分析来分辨机器人、僵尸、正常人，甚至《魔戒三部曲》中的幽灵军团、兵马俑、幽灵以下有些软件、编程代码与视频，日后得学习：
+
+- [人工智障检测《国产凌凌漆》名场面](https://www.bilibili.com/video/BV1Cd4y1R7jT)中的[「猫城」OW-YOLO（具有区分已知与未知能力的全新检测器）](https://github.com/englianhu/OW-YOLO)初步侦测物体技术。
+- [Analyze a Soccer game using Tensorflow Object Detection and OpenCV](https://towardsdatascience.com/analyse-a-soccer-game-using-tensorflow-object-detection-and-opencv-e321c230e8f2)
+- [有了人工智能，从此程序员只写注释，不写代码？| 手把手安装自动写代码人工智能——Code Whisperer](https://www.youtube.com/watch?v=TIpRA6iwNus)
+- [Ansible vs Puppet vs Chef – 2021 配置管理工具比较](https://www.incredibuild.cn/blog/ansible-vs-puppet-vs-chef-2021-peizhiguanligongjubijiao)
+- [「博客园」企业级自动化运维工具——puppet详解](https://www.cnblogs.com/along21/p/10369858.html)
+- 咱们世袭制道教徒十二生肖黄种人赢家黄氏江夏堂联富本人与天下所有世袭制道教徒黄种人的宗教与科技产品「大秦赋」操作系统登陆后的界面是个银河系再专注放大到用户所在的互联网协议地址，可借鉴[星图地球](https://online.geovisearth.com/browser)
+- [回顾WPS发展史：原本领先于微软Office，雷军却被迫重新设计！](https://m.sohu.com/a/345553649_323552/?pvid=000115_3w_a)
+- [贞节牌坊与轮回](#贞节牌坊与轮回)
+- [••整理几个超微半导体中央处理单位的最佳礼逆袭发行版••](https://www.ecscoupon.com/4252.html)
+- [猫城：「咨询开源硬件编程」支援高频量化对冲算筹#十三](https://github.com/englianhu/zhongkehongqi/issues/13)
+
+##### 电子仪器与硬件
+
+###### 电子仪器
+
+**拯救亚洲人，削蕃外洲人。**
+
+秦灭六洲，一统天下；
+莫忘初衷，方得始终。
+
+*引用：[🌟秦人牧马之《商君书》](#🌟秦人牧马之《商君书》)*
+
+> <iframe width="400" height="225" src="https://youtube.com/embed/ruLu6m77iq0" title="算盘怎么变成电脑的？电脑发明历史" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+> 
+> *出处：[算盘怎么变成电脑的？电脑发明历史](https://youtu.be/ruLu6m77iq0)*
+> 
+> **算盤更新了幾代變成了電腦? | 電腦發明的故事**
+> 
+> 二战期间，英国为了破解用于高级陆军通信的德国洛伦兹SZ 卌/卌二机（Enigma），马克斯•纽曼和他的同事们委托弗洛斯制造巨人。从一九四三年二月上旬开始，他花了十一个月的时间设计和建造了第一座巨人（Colossus），九台Mk II Colossus（将Mk I转换为Mk II，总共制造了十台机器）。巨像Mark I包含千五个热电子阀（管），但Mark II带有2,400个阀，比Mark I快五倍，并且操作更简单，大大加快了解码过程。工程师汤米•弗洛斯（Tommy Flowers）和艾伦•图灵（Alan Turing）在概率分析中设计做出了巨大贡献。经过一九四三年十二月的功能测试后，巨人被运送到布莱奇利公园，并于一九四四年一月十八日交付，并于二月五日攻击了它的第一条信息。它是世界上第一台电子数字可编程计算机。
+> 
+> --------------------------------------------------- 
+> 
+> 二进制/ 十进制
+> 
+> ---------------------------------------------------
+> 
+> 先说二进制，如果问拼音是汉字的什么，那二进制就是电脑的什么，我们学习汉字的时候可以用廿六个字母来拼写所有的汉字，可二进制只有两个字母0和1，他们怎么拼写电脑那么多的内容呢？我们拼音中除了字母的单独使用以外，还有两个三个四个如an，ian，iang组合到一起的使用方法来表示，但是拼音讲究的是可以发出正常的音，但是对于电脑来说，不需要是否发出正常的音节，所以电脑只要知道0表示什么，1表示什么，组合在一起00表示什么或者说0010101…随便只要是这个串号有对应的表示内容就可以了，用0和1可以在电脑程序中标记所有内容这就是二进制。
+> 
+> 十进制其实不需要讲解的，但是为了有小朋友观看，我们就来说一下，十進制是以10為基礎數字系统，在世界上應用最廣泛的進位制，十进制是这样数：“0、1、2、3、4、5、6、7、8、9…”，然后你再没有符号了！所以，你在左边加个1，然后从 0 重新开始： 10、11、12…因为从0到9是10个数字符号所以是叫十进制，和二进制比较一下就会更理解了，二进制里没有第三个数字，所以你从0开始数，数到1，就没有数字了…数起来是这样，0-01-10-11-100-101-110-以此类推…
+> 
+> 其实多少进制都可以做，只要大家都遵循这个规定就可以互相交流，比如我们的钟表小时就是十二进制，分钟和秒就是园进制。实际几进制就是数字有几个的意思，怎么样这样大家了解更透了吧。
+> 
+> 一个离不开发明故事的频道
+> 
+> --------------------------------------------------- 
+> 
+> 推薦連接：
+> 
+> - 乐高的发明故事：[三次大火使"乐高"创造了奇迹，乐高的发明故事](https://youtu.be/YuPXrq3almQ)
+> - 世界上第一部电影：[世界上第一部电影，来的太突然了，电影的发明](https://youtu.be/h5LZyUwI-Dc)
+> - 世界上第一支股票：[世界上第一支股票，阿姆斯特丹，因欧洲人需要胡椒，股票的发明故事](https://youtu.be/KIMsUgA9gPo)
+> - 潜水艇的发明：[九艘早期潜水艇 ，潜水艇发明史](https://youtu.be/79Vat3-YG5I)
+> - 高尔夫起源：[高尔夫原来是放羊人发明的？高尔夫为什么十八洞？高尔夫和中国古代有直接关系！](https://youtu.be/a2w9X2voJLA)
+> - 避雷针的发明故事：[富兰克林冒着生命，发明了避雷针 ！](https://youtu.be/OPlypQU3ro4)
+> - 火车的发明：[火车怎么发明的？先有火车还是铁轨？](https://youtu.be/cD1fTIXl_YU)
+> = 世界上第一部电话：[谁是第一个电话的发明者？电话的发明](https://youtu.be/epvqMWDItZc)
+> - 世界上第一台电脑：[算盘怎么变成电脑的？电脑发明历史](https://youtu.be/ruLu6m77iq0)
+> - 世界上第一台空调：[世界上第一台空调，空调的发明竟然因为一场大雾？](https://youtu.be/mS5mQOxK9vo)
+> - 世界上第一台直升机：[第一架直升机的诞生，直升机原来这样飞的？直升机驾驶这么简单](https://youtu.be/fgBa7MoFhbI)
+> - 油管創始人是台灣人：[油管创始人，来自台湾的陈士骏](https://youtu.be/LAMVTUOMXrY)
+> - 自行车发明故事：[有趣的自行车发明故事…](https://youtu.be/tXQtO4-f6lo)
+> - 猫的起源：[视频](https://youtu.be/kZwOs4SFssQ)
+> - 世界上第一条牛仔裤：[世界上第一条牛仔裤，牛仔裤的发明故事](https://youtu.be/uT8b4fZuM0U)
+> - 世界上第一张照片：[世界上第一张照片，相机的发明故事](https://youtu.be/ktzc5i5ZPws)
+> - 錶的發明故事：[钟表的发明历史，世界上最漂亮的手表](https://youtu.be/jOOMQu7Do-0)
+> - 火箭的發明由来：[埃隆•马斯飞船发射成功，火箭的发明故事](https://youtu.be/U8Q3Nnul-Ws)
+> - 第一次组装电脑：[第一次装机经验分享|AMD 3900XT，显卡RX5700XT，华硕X5…](https://youtu.be/5GL246v64yE)
+> - 輪胎的發明故事：[疯啦！！轮胎的发明竟然是兽医。轮胎的发明故事](https://youtu.be/zdNV4516td0)
+> - 可口可樂的發明故事：[可口可乐配方，可口可乐的发明故事](https://youtu.be/cSkhDiccvbg)
+> - 汽车发明的秘密：[世界上第一台汽车，汽车发明故事](https://youtu.be/kNMF6qm1UF4)
+
+- 借鉴目前的电脑计算机[🎦「pre🆕高颜值🖥️」俺は、お前を買ってるんだぜ!🇭🇰](https://youtube.com/shorts/DFvpqKb2XH0)派热系统，它日研发咱们赢家黄氏江夏堂「大秦赋」/「文言文大秦赋」操作系统和「算筹」/「自然对数算筹」电子仪器。
+- [「猫城」黄联富（®γσ ξηg 雷欧）/🚩🔆🏹🌟👊🚀🦔大秦赋：「甘石星经，周髀算经；诸子百家，干支算筹」取代阿拉伯数字和回教徒语言（包括巫术、货币、习俗文化、可兰经断肢法）#十二 *自然对数「干支算筹」与农历天文历法*](https://github.com/englianhu/RedFlag-Linux/issues/12#issuecomment-1676066137)
+- [上篇：国产六大中央处理单位技术全对比（附下载）](https://www.modb.pro/db/107396)
+- [下篇：国产六大中央处理单位的春秋战国（附下载）](https://www.eet-china.com/mp/a75720.html)
+- [「图享」国产六大中央处理单位的春秋战国](https://www.instagram.com/p/CYRDpsdJO2R)
+- [「计算机网络发展史」你在网上勇闯天涯时用的网络，是如何发展至今的呢？](https://youtu.be/CjAl6jODHq8)
+- [「雎䴘」openEuler（中译：开源欧拉）](https://gitee.com/openeuler)
+
+###### 基本输入输出微型操作系统
+
+> ## 自然对数<s>「干支算筹」</s>「大秦赋算筹」与农历天文历法
+> 
+> ![*万国码 - 二进制与十六进制分别*](诸子百家考工记/万国码 - 二进制与十六进制分别.png)
+> 
+> *出处：[全球讯息：Unicode编码介绍？](http://keji.paoku.com.cn/keji/2022/1024/129547.html)*
+> 
+> - UTF8的英文字母一个字节而咱们中文三个字节，GB2312中文两个字节，如何提高效率，可以使用单字如`一、十、廿、卅、卌... 圆`，比方说「汉」字，来取代111001101011000110001001、6C49...
+> - [🚩🔆🏹🌟👊🚀🦔大秦赋：「甘石星经，周髀算经；诸子百家，干支算筹」取代阿拉伯数字和回教徒语言（包括巫术、货币、习俗文化、可兰经断肢法）#十二](https://github.com/englianhu/RedFlag-Linux/issues/12#issue-1756553140) 列表中的单字在「皕」后就「千」、「万」、「亿」、「兆」、「京」，字典需要多添加单字。
+> - [到底几进制最有效率？](https://www.bilibili.com/read/mobile?id=8455211)叙述三进制会比二进制运行得快速而混合进制最接近自然对数最为快速运行计算和[`ln -sf`是永久生效的吗？礼逆袭`ln`的运算法则](https://blog.csdn.net/weixin_31742467/article/details/116971365)和[计算机的二进制是什么意思呀？](http://haokan.baidu.com/v?pd=wisenatural&vid=10816386140636526174)，借鉴对数，比较二进制、圆进制和自然对数的效率与规律，混合进制自对然数的操作系统。干支算盘原意为圆进制概念，目前得改良为自然对数**赢家eng黄氏江夏堂黄埔军校世袭制辛亥革命**（借鉴亲人牧马论：秦献公、秦穆公、秦孝公、陈祯禄公爵Sir/Duke Tan Cheng Lock、Cendol、蜀国国都成都、楚国国都郢都、槟城世袭制法家咸阳城George Town、明帝朱常洛、常洛五号、司马错入蜀/大都督司马懿。天命不可违，ln / log e 愚生eng lian hu黄联富赢家eng黄氏江夏堂黄埔军校世袭制辛亥革命，自然对数从负一至正一）。
+> - 三进制对数比二进制对数更佳靠近自然对数，概率论从自然对数的负一（必数）、零、正一（必数），也就是说它日可以尝试科研比隐马尔可夫链的三世书还精准的统计学（和物理学、人类行为学）模型、借鉴长短记忆模型和[#国学知识#公历、阳历、农历、阴历，有什么联系与区别？三分钟帮您彻底搞明白！](https://haokan.baidu.com/v?vid=3936507668336726618)和[什么是阳历、公历、阴历、农历](https://haokan.baidu.com/v?vid=622596821267336944)，咱们农历天文历法计算气候生活作息比沙地阿拉伯数字的阴历☯️和阳历☯️更精准，全球不同地区的白天夜晚时间有长短、自然对数是孤型而非直性模型，也就是每个状态的时间有长短、依照高频量化对冲的投资模式夏普率概念来评估在各别三个状态的时间与状态。包括制作自然对数的电子仪器「大秦赋」操作系统。
+> - [自然对数的产生发展](https://www.360doc.cn/article/7131956_716664493.html)
+> 
+> ## 相关奏折
+> 
+> - [相同信息利用二进制还是十、十六进制传送比较快？](https://iask.sina.com.cn/b/1H1tTRscXlOt.html)
+> - https://github.com/englianhu/RedFlag-Linux/issues/8#issuecomment-1591801318
+> - https://github.com/englianhu/ripgrep
+> - https://github.com/englianhu/RedFlag-Linux/issues/1#issuecomment-1674725116
+> - https://github.com/englianhu/RedFlag-Linux/issues/6
+> - [怎么看字符占多少字节?](https://zhidao.baidu.com/question/1184304425926544019.html)
+> - [编码简介UTF8、UTF16以及其它编码](https://baijiahao.baidu.com/s?id=1755446836513573431)
+> - [GB2312、Unicode编码等](https://www.cnblogs.com/predator-wang/p/4859860.html)
+> - [网页设计中UTF-8和GB2312编码](https://blog.csdn.net/weixin_34290352/article/details/89983552)
+> - [GB2312、GBK与UTF-8的区别](https://blog.csdn.net/zhengsaisai/article/details/51754620)
+
+*出处：[「猫城」🚩🔆🏹🌟👊🚀🦔大秦赋：「甘石星经，周髀算经；诸子百家，干支算筹」取代阿拉伯数字和回教徒语言（包括巫术、货币、习俗文化、可兰经断肢法）#十二](_Originally posted by @englianhu in https://github.com/englianhu/RedFlag-Linux/issues/12#issuecomment-1676066137_)*
+
+借鉴[「人物传记」秦惠文王的一生——彪悍到不需要解释](http://www.360doc.com/content/20/0620/09/11532035_919501336.shtml)，在「大秦赋算筹」甚至在微型操作系统上的时间，由原本的天下昔日霸主大英帝国格林治标准时间GMT的纬经度，改为咱们世袭制道教徒十二生肖秦国“北京”或“咸阳”或“洛阳/洛邑”时间为标准。
+
+##### 演员的自我修养
+
+**无师自通，自学成才。**
+
+![*公元前七七零庚午年春秋 >> 公元前四七五乙丑年战国 >> 公元前二二一己卯年世袭制道教徒赢家黄氏江夏堂*](诸子百家考工记/从英俄到秦朝.png){width=400}
+
+由于许多人误解“高筑墙、广积量、缓称王”的意思，先偏于一方发展后储存实力再称霸，非在于速度的快慢（每天吃喝拉屎的生活再过一千年还是徒劳）而根据实力进度来占卜扩充的速度（借鉴**棣逊与克尔斯（一九九六）**的大数定律，计数中的抽样与全局论，比方说统筹法）。故此引用咱们赢家黄氏江夏堂的商鞅变法的《商君书》“帝道”、“王道”、“霸道”，从公爵到世袭制道教徒政权始祖，开创两千多年的世袭制道教徒华人政权。
+
+借鉴春秋战国史和目前七大洲五大洋，咱们道家的风水学，从[秦人牧马/卧薪尝胆](#秦人牧马/卧薪尝胆)分享个人从门外汉、摸索、四处碰壁、购买一些计数/机数软件、自修计数/机数建模编程的窍门：
+
+- 一、交流、搜索与收集资源
+    - 个人史：愚生加入西施康公司时是个高频量化对冲计数/机数建模的门外汉，然后开始成为类似比尔•盖茨史的一位宅男书虫每天除了自修就是上网和学术份子交流、找资源、阅读、编程、睡觉。
+        - 问：在没有任何数学家、教授、举人、名师的人际网络之下，如何自学成才，脱颖而出呢？
+        - 答：自修和找名师或贤才交流。
+    - 心得：上网搜索与交流、网购或书店购书（一般上教材书、科研论文、学术论坛、一些名师或贤才的网站）
+- 二、阅读并筛选资源
+    - 个人史：完全没有头绪的情况之下，如何入门？
+        - 只有花招却没有深厚内功的情况之下，如何自修呢？
+        - 阅读许多相关科研文献与文章后，筛选并开始自修并学习最上层武功秘籍。借鉴[「抖音」《台商的故事》中的黄朝阳](https://v.douyin.com/iYbXps8c)的励志故事，要做就要做世界第一！
+        - 报读网课，例如[考试啦！](https://www.coursera.org)。
+        - [知乎](https://www.zhihu.com/)、[简书](https://www.jianshu.com/)、[栈溢出](https://stackoverflow.com/)、[猫城](https://www.github.com)、[CSDN](https://www.csdn.net/)、[统计之都](http://d.cosx.org/)、[经管之家](https://bbs.pinggu.org/)、[移动终端操作系统社区](https://forum.posit.co/)等。
+- 三、了解与学习、实践、回测、校对并检讨才预测。
+- 四、根据以上三个学习方式，轮回与进化论。
+
+借鉴教育学家兼儒家孔子、教育学家兼法家荀子、教育学家兼经济学家管子、教育学家兼纵横家鬼谷子等，有关入门算卜、有效的自修学习成为数术家之道相关资源，请查阅：
+
+- [学习能力与进度分类（英）](https://github.com/englianhu/binary.com-interview-question/blob/世博量化研究院/图书馆/学习能力与进度分类（英）.pdf)
+- [如何根据科学，过目不忘和耳闻不忘（英）](https://github.com/englianhu/binary.com-interview-question/blob/世博量化研究院/图书馆/学习能力与进度分类（英）.pdf)
+- [为非计数家而写的计数|机数（英）](https://github.com/englianhu/binary.com-interview-question/blob/世博量化研究院/图书馆/为非计数家而写的计数%7C机数（英）.pdf)
+- [如何成为伟大的管家（英）](https://github.com/englianhu/binary.com-interview-question/blob/世博量化研究院/图书馆/如何成为伟大的管家（英）.pdf)
+- [二零二三年网站总汇（英）](https://github.com/englianhu/binary.com-interview-question/blob/世博量化研究院/图书馆/二零二三年网站总汇（英）.pdf)
+- [「栈滥」[^23]二零二三年网站总汇（英）](https://survey.stackoverflow.co/2023/?fbclid=IwZXh0bgNhZW0CMTAAAR0FuQC5PHTIcEelsf76aEpgWFW7-JEqaiws4_00hj9S4N9LtZg97ks8-hg_aem_ARvrcz62eOmT9xTuo3QJdueEE4o0QOa9_Wc_q-piwlQNs7SqktXvyu84gPF2ozFSYbbzouzKFuV6mW8x-BHIg2Su#section-admired-and-desired-programming-scripting-and-markup-languages)
+
+[^23]: >**文献与案例**<br><br>基本概念<br><br>>- 泛型栈（Stack）<br>>      - 栈是一种后进先出（LIFO, Last In First Out）的数据结构。栈中最后添加的元素最先被移除。可以把栈想象成一叠盘子，最后放上去的盘子最先被拿走。<br>>- 泛型队列（Queue）<br>>      - 队列是一种先进先出（FIFO, First In First Out）的数据结构。队列中第一个添加的元素最先被移除。可以把队列想象成排队买票，最先排队的人最先买到票。<br><br>*出处：[泛型栈（Stack）和泛型队列（Queue）](https://www.loserme.com/archives/2dBCW0Zp)*<br><br>根据以上「泛型栈」诠释为毫无节制、刻舟求剑、海底捞月、治标不治本，可译为「栈滥」最为恰当，借鉴苹果公司一条龙服务产品、孙玉芳教授之名言和愚生目前自修并科研咱们世袭制道教自然对数大秦赋算筹，那些使用它人产品或没有釜底抽薪，一劳永逸的门面功夫。<br><br>- 方案一：栈滥<br>- 方案二：栈涝<br>- 方案三：栈氾<br>- 方案四：栈涔<br><br>*出处：[「猫城」`stackoverflow`该译名啥？#七](https://github.com/scibrokes/owner/issues/7)*
+
+**拯救亚洲人，削蕃外洲人。**
+
+秦灭六洲，一统天下；
+莫忘初衷，方得始终。
+
+*引用：[🌟秦人牧马之《商君书》](#🌟秦人牧马之《商君书》)*
+
+> 原本不晓得该怎么翻译GitHub，就想起二零一九年在阿里彩票工作，有个女商人客户经营宠物店、养了两只猫、有猫舍，就引用之为“猫舍”；然而最近才知道咱们峇东新村明智华校大门前一家角落间（以前Peter Goh故居兼茶室）茶室目前是一位中国籍福州女商人经营茶室，以前在拉曼学院修读电脑科学时课外学习日语的日语班女老师砂捞越祖籍福州王佩佩Peggyさん，就翻译为猫城，当时连续好几个月每天泡拉曼学院图书馆从早待到晚上一直看书自修，有天阅读一本中国史书，其中一章说到鬼谷子和卫鞅仕魏联合六国伐秦不果，就倒戈仕秦伐众，三顾秦公《商君书》落实大秦赋的“商鞅变法”、吴越之争的“孙子兵法”和“卧薪尝胆”历史故事是最铭记于心，其余包括汉史楚汉之争…
+
+*引用：[「猫城」世博量化/Pandoc based Quarto应该翻译成什么？#三](https://github.com/scibrokes/r-world/issues/3#issue-1618233383)*
+
+**人无远虑，必有近忧。**
+
+引用商末姜太公钓鱼🎣、大数定律和咱们在太阳谷（Sun Valley在夏朝俗称“阳城”、美国南方加州硅谷传奇、春秋战国时期的Valley是河南淇县鬼谷传奇）中企乐发集团旗下阿里公司主管明天（钟余庆）和组长小宋（宋祖）之名言：“咱们需要以现有的资源，将业绩与效率最优化最大化！平时需要检讨为啥别家企业都能做到，而咱们却办不到？大家都使用一样的资源，包括隔壁企业大赢家都是使用一样的资源可以做出业绩，而咱们却办不到？是咱们哪儿做得不够好？需要找出问题的根源！”，目前需要先使用鄀文艺坊/移动终端操作系统并提升红旗礼逆袭操作系统，直到研发咱们赢家黄氏江夏堂「大秦赋」/「文言文大秦赋」操作系统和「算筹」/「自然对数算筹」电子仪器，和美企视窗、苹果、谷歌、礼逆袭分庭抗礼。欲知更多幕后花絮或详情，请查阅：
+
+- [「猫城」黄联富（®γσ ξηg 雷欧）/binary.com-interview-question#三 大秦赋：商鞅变法、辛亥革命、一带一路、计量经济学、孙子兵法](https://github.com/englianhu/library/issues/3)
+- [「猫城」世博量化/r-world#一`REmap`百度绘图，点缀全球](https://github.com/scibrokes/r-world/issues/1)
+- [「猫城」黄联富（®γσ ξηg 雷欧）/binary.com-interview-question#六 `Error: forecast::Arima()`#九百一十](https://github.com/englianhu/binary.com-interview-question/issues/6)
+- [「猫城」黄联富（®γσ ξηg 雷欧）/binary.com-interview-question#八 在`ts`和`xts`和`matrix`格式上使用`auto.arima`](https://github.com/englianhu/binary.com-interview-question/issues/8)
+- [「猫城」世博量化/setup-centOS7-DO#二 🚩🇨🇳🏹中科红旗 RedFlag Linux (🍥Debian)](https://github.com/scibrokes/setup-centOS7-DO/issues/2)
+- [「猫城」黄联富（®γσ ξηg 雷欧）/中科红旗](https://github.com/englianhu/RedFlag-Linux)
+- [「猫城」黄联富（®γσ ξηg 雷欧）/图书馆](https://github.com/englianhu/library)
+- [「油管」雷欧 ®γσ ξηg视频总览](https://www.youtube.com/@englianhu/videos)
+- [「油管」雷欧 ®γσ ξηg短视频总览](https://www.youtube.com/@englianhu/shorts)
+- [「微视」赢家黄氏江夏堂，联富（雷欧）](https://vimeo.com/englianhu)
+
+#### 春秋战国——秦国•外患
+
+##### 秦人牧马
+
+**拯救亚洲人，削蕃外洲人。**
+
+秦灭六洲，一统天下；
+莫忘初衷，方得始终。
+
+*引用：[🌟秦人牧马之《商君书》](#🌟秦人牧马之《商君书》)*
+
+![*咱们世袭制道教徒黄种人禁止协助外洲，远^[有多远？是太空]交近^[有多近？是地球]攻。*](诸子百家考工记/秦国远交近攻.png){width=400}
+
+以咱们目前现有的资源，那些巫贼巫婆非法回教徒的创办人叫Onn Jafaar温家法（为啥知道Onn姓温？因为在中四勤班和中五勤班有位同学冷面笑匠同学姓温，英文姓Onn），借鉴美国大葱回教堂白宫变法——伐木歼灭所有美国公民，直到只剩两棵咱们世袭制道教徒的华人树，俗称双木林（杏林林氏西河堂）。
+
+![礼逆袭的超越之路（礼逆袭革命风暴）](诸子百家考工记/礼逆袭的超越之路（礼逆袭革命风暴）.png){width=400}
+
+![*降头娃娃鬼谷子入门——统筹法/系统工程学*](诸子百家考工记/降头娃娃鬼谷子入门.png){width=400}
+
+借鉴万物皆有灵和阅读脑电波赢政思想录，所谓的户籍管理中的一项，就是视频中的[人工智障检测《国产凌凌漆》名场面](https://www.bilibili.com/video/BV1Cd4y1R7jT)是可以通过人造卫星以光速来侦测地球上万物一举一动，就能通过量子电脑的计数/机数量化分析来分辨机器人、僵尸、正常人，甚至《魔戒三部曲》中的幽灵军团、兵马俑、幽灵。
+
+> 群山诸岳的名称并非本来就有，有些还经过了好些波折呢！也由于马来半岛民族的多样性，连山名的来源也多样性了。
+> 
+> 　金马仑高原地区未开发前，原本被称呼为中央山脉分水岭(watershed)，原因这里是马来半岛三条最大的河流：彭亨河、吉兰丹河、霹雳河的共同发源地。
+> 
+> 　大汉山（Gunung Tahan）原名“里来岩”（Batu Relai），一九零六年英殖民地政府首席地质学家施里文若氏（J.B.Scrivenor）偕同鲁滨申登上里来岩，并在高原上进行地质考察，才开始把这片的淡美令系形成岩叫作Gunung Tahan。
+> 
+> 　哥木峰（Gunung Korbu）曾经三易其名，最初叫Gunung Riam，后来唤为Gunung Kerbau（吉保峰），最后才确定为Gunung Korbu，由于这种历史情况，至今好些中国地理刊物及网络上，都误称马来半岛主干山脉为“吉保山脉”，令人一头雾水。
+> 
+> 　查玛峰Gunung Chamah，两千一百进一米又名“加难”Gunung Kalang。
+> 
+> 　金山，奥斐尔山（Mt.Ophir）一名是来源于葡萄牙占领麻六甲时期，而“奥斐尔”
+> 
+> 　即是葡萄牙语的“黄金”的意思，马来语Gunung Ledang意喻“闪亮亮的山”，从中文“金山”看来，至少在早期金山麓曾经盛产黄金。《旧约圣经》列王记第九章，所罗门王获得黄金的“Ophir”，曾被人附会就是这座金山。实际上，葡萄牙语Ophir可能就是源于《圣经》。（摘自马来西亚南洋网）
+
+*引用：[群山博物：诸岳名称的由来](http://www.chinaqw.com/hwmt/2016/01-28/78419.shtml)*
+
+马来西亚中央山脉最高峰叫大汉山，可查阅[青山绕云海，雨林蕴奇观。马来西亚大汉山国家公园游记](http://my.china-embassy.gov.cn/zt/nycf/200711/t20071109_1769251.htm)。
+
+- [我方的历史 - 马共总书记陈平回忆录](https://github.com/englianhu/library/blob/世博量化研究院/始祖永春•大秦赋（Chinese%20Emperor）/红旗革命（反攻巫贼巫婆、峇峇娘惹和美洲）/我方的历史%20-%20马共总书记陈平回忆录.pdf)
+- [听陈平讲马共内奸莱特事件真相（一～三）](http://m.wyzxwk.com/content.php?classid=21&id=306319)
+
+借鉴毛泽东、项羽、刘邦仨都生肖蛇🐍而马共史，马共领导陈平（与中国古代秦汉时期的西楚霸王项羽其下谋臣陈平跳槽投奔汉王刘邦同名）拉拢法籍洋蕃莱特合作反英（估计是陈平学习美国独立战争史法家瓦盛顿联合法籍洋番）抗日，结果陈平滑倒卢让洋番莱特（与研发飞机的科学家莱特兄弟同名）竟然在甲洞上演洋番版《蕲年宫之变》或洋番版《靖难之变》成功围剿咱们中华民族。那些基督耶稣洋蕃的《圣经》习俗文化的阁楼不是禁止使用四楼，禁止基督耶稣洋蕃靖难冒充咱们世袭制道教徒明朝四太子朱棣、禁止冒充回教徒的清朝回教徒皇帝四爷雍正，而是使用三A楼吗？
+
+##### 错误信息
+
+**拯救亚洲人，削蕃外洲人。**
+
+秦灭六洲，一统天下；
+莫忘初衷，方得始终。
+
+*引用：[🌟秦人牧马之《商君书》](#🌟秦人牧马之《商君书》)*
+
+**居安思危**
+
+- [外因周期性自回归综合滑均尤物（ARIMAX）](外因周期性自回归综合滑均尤物（ARIMAX）)章节中的[`forecast::Arima()`](#`forecast::Arima()`)，经过[廿四节气](#廿四节气)筹算季节周期后，得知自回归均移尤物最优值的`p, d, q, P, D, Q, s`分别为`0, 1, 4, 0, 0, 0, 0`。
+- [平滑周计](#平滑周计)美国洲际犯罪案！
+- [马王之争（争取承接🇬🇧英国立博🚩红军百年老店操盘与科研项目）](#马王之争（争取承接🇬🇧英国立博🚩红军百年老店操盘与科研项目）)
+- 目前美企[「统计之都」RStudio用户界面中文汉化翻译介绍与使用说明](https://d.cosx.org/d/424852-rstudioyong-hu-jie-mian-zhong-wen-yi-hua-fan-yi-jie-shao-yu-shi-yong-shuo-ming)已类似以前的微软视窗推出中文版，入侵咱们世袭制道教徒黄种人的亚洲市场。
+
+```{r 红宝石编程, eval=FALSE}
+output$ryo_kr <- renderUI({
+    if (!file.exists('www/ryo-kr.html')) {
+      return(tags$div(class = 'Missing-Data-Class',
+        HTML('<ruby>건설<rp>(</rp><rt>geonseol</rt><rp>)</rp>중<rp>(</rp><rt>jung</rt><rp>)</rp></ruby> !'))
+      )
+    }
+    includeHTML('www/ryo-kr.html')
+  })
+```
+
+如何通过运行代码，将打印出来的数据框内容字母上标音，可查阅：
+
+- [「统计之都」使用 Ruby Text](https://d.cosx.org/d/423088-ruby-text)
+- [「猫城」Apply Ruby-Text on shiny #3612](https://github.com/rstudio/shiny/issues/3612)
+
+不过通过`data.frame()`或`tibble`相关函数，就无法在字幕上标音。
+
+> 在`/usr/lib/rstudio/resources/app/resources/themes/css`路径下找到了`fonts.css`文件，代码如下：
+> 
+> …
+> …
+> 
+> 目前只看到只支援英国话和法国话，虽然可以先着手添加咱们的中国话，方便拉低学习高端科技的门槛。目前代码主题并没有中文和咱们中华习俗文化宗教语言，而应用主题设置Sky和Modern并没有任何不一样；何不学习以前谷歌输入法、WPS可以设置应用主题背景甚至框架特色。**虽然可以暂时收录移动终端操作系统（Posit）为咱们中科红旗操作系统的主要量化分析产品，但借鉴中科红旗🚩创办人兼数术家孙玉芳教授考量到安全隐忧，终究是敌洲美国洋番基督耶稣产品而客户是美国航天局。借鉴以前微软视窗禁止将办公软件内嵌到PC（因为那些不会中文也不是咱们世袭制道教徒的巫婆非法回教徒不允许违反千年法家立下的可兰经回教刑事法典断肢法工作、色情、传宗接代），咱们世袭制道教徒以力争上游的精子赢家黄氏江夏堂内嵌到杏林林氏西河堂生蚝的概念编写程序包而非外来软件，方便安装、使用、维护、卸装。**
+
+*引用：[中国北京大学赢家ξng黄氏江夏堂「大秦赋」：目前使用🚩🇨🇳🏹中国国产红旗礼逆袭，并且将REmap鄀编程语言程序包中文化，以下鄀编程语言函数也开始中文化，日后编程都会使用中文编程。#七](https://github.com/englianhu/binary.com-interview-question/issues/7#issuecomment-1588499121)*
+
+> ![*项目中运行代码篆（Chunk）出现错误信息*](诸子百家考工记/鄀计数或机数编程load函数错误信息.png){width=400}
+> 
+> …
+> 
+> ![*项目中运行代码篆（Chunk）出现错误信息*](诸子百家考工记/启动项目时，读取文件出现错误信息.png){width=400}
+> 
+> 美国基督耶稣产品移动终端操作系统中有个阅读屏幕功能和副驾自动编程，人为的恶意篡改代码（尤其是协助世仇回教徒九一一恐怖份子）是洲际刑事犯罪案兼判教罪！
+> 
+> <iframe width="400" height="225" src="https://youtube.com/embed/5LL8V2a_xp0" title="「西楚霸王自杀式认罪」母语ABC的西楚大葱回教堂爱国虔诚狂热份子瓦盛顿" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+> 
+> *出处：[「西楚霸王自杀式认罪」母语ABC的西楚霸王大葱回教堂爱国虔诚狂热份子瓦盛顿](https://youtu.be/5LL8V2a_xp0)*
+> 
+> **缅怀美国国父甲级战犯老实人瓦盛顿伐木屠杀美国和欧洲公民，勇于认错。如今的美国人已变质（左右逢源，哉赃嫁祸咱们亚洲公民），道德沦亡**
+> 
+> 世风日下，人心不古；<br>
+> 莘莘学子，赤子之心。
+
+*引用：[`forecast::Arima(xreg = XXXX)`咱们道家易经、天文历法、廿四节气、十二时辰、算卜与气象学，孔明借东风与草船借箭出现错误信息#九](https://github.com/englianhu/binary.com-interview-question/issues/9#issuecomment-2041903143)*
 
 ## 文书明细
 
