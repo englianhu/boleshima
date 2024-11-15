@@ -1640,9 +1640,9 @@ predict(广经堂尤物, n.ahead = 1)
 海外秦人彩券
 
 尤物 <- 海外秦人彩券 %>% 
-  as_tibble() %>% 
-  model(指数平滑 = ETS(log(彩号) ~ error("M") + trend("Ad") + season("A"))) %>% 
-  forecast(h = "3 years")
+  data.frame() %>% 
+  model(指数平滑 = ETS(log(彩号) ~ error('M') + trend('Ad') + season('A'))) %>% 
+  forecast(h = '3 years')
 
 ```
 
