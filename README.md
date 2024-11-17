@@ -1,5 +1,14 @@
-[福彩三码分析](http://rpubs.com/englianhu/lottery-3D-analysis)
+周易、易经、算卜、秦彩庄
 =======================
+
+# 清史与复兴公元前秦史
+
+![](诸子百家考工记/中科红旗，量化对冲（乙）.png)
+
+咱们秦人（英译：Chinese）在清末时期，从祖国（目前的东亚秦国——中国，英译：China）飘洋过海到东南亚南洋或星洲。公元一九四九己丑年国共（中国国民党与中国共产党）内战时期，海外华人公会建党、家慈出生、中国共产党建国。
+郜国
+
+- [「文派」《赢家黄氏江夏堂》 – 始祖赢政ξηg Tεηg·黄永春家谱](https://englianhu.wordpress.com/2022/02/22/《雪隆江夏堂》-家谱/)
 
 # 第一篇、秦彩庄
 
@@ -7,7 +16,7 @@
 
 ### 第一章第二节、介绍
 
-彩票市场在中国内地甚至全球的市场占有份额日益增加，越来越多赌徒热爱购买彩票。今天僕尝试分析随机内地彩票---**福彩3D**为数据，分析是否可能从中获利。
+彩票市场在中国内地甚至全球的市场占有份额日益增加，越来越多赌徒热爱购买彩票。今天愚生尝试分析随机内地彩票---**福彩3D**为数据，分析是否可能从中获利。
 
 ### 第一章第三节、读取数据
 
@@ -20,7 +29,7 @@
 - `poilog`：[<span style='color:blue'>poilog</span>](https://cran.r-project.org/package=poilog)程序包分析双变量泊松模式
 - `mvrpois`：[<span style='color:blue'>mvrpois</span>](https://github.com/alekdimi/mvrpois)程序包分析多变量泊松模式
 
-在此，僕使用`mvrpois`多变量泊松模式分析**仨变量泊松**三码彩票数据，有关详情请查阅*Dimitris Karlis and Loukia Meligkotsidou (2005)^[**7.3 参考文献**中的4th文献]*和*Dimitris Karlis (2002)^[**7.3 参考文献**中的3rd文献]*。
+在此，愚生使用`mvrpois`多变量泊松模式分析**仨变量泊松**三码彩票数据，有关详情请查阅*Dimitris Karlis and Loukia Meligkotsidou (2005)^[**7.3 参考文献**中的4th文献]*和*Dimitris Karlis (2002)^[**7.3 参考文献**中的3rd文献]*。
 
 $$(X_{1},X_{2},X_{3})_{i} ~ 3 - Pois(\theta_{1i},\theta_{2i},\theta_{3i},\theta_{12i},\theta_{13i},\theta_{23i}) \dots equation\ 3.1$$
 

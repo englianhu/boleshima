@@ -1,6 +1,6 @@
 ---
-title: "Lottery 3D Analysis 彩票分析"
-subtitle: "福彩3D"
+title: "![](诸子百家考工记/大秦赋 - 时空转移春秋战国（中科红旗中国妞儿）.png){height=240}"
+subtitle: "秦彩庄福彩三码分析"
 author: "[®γσ, Lian Hu](https://englianhu.github.io/) <img src='figure/ENG.jpg' width='24'> <img src='figure/RYO.jpg' width='24'>®"
 date: "`r lubridate::today('Asia/Tokyo')`"
 output:
