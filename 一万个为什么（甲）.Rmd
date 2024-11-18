@@ -1650,11 +1650,14 @@ google-chrome --version
 链 <- 'https://ytliu0.github.io/ChineseCalendar/index_c.js'
 椠 <- 链 %>% 
   GET %>% 
-  content('text', encoding = 'utf8') %>% 
-  reactable()
+  content('text', encoding = 'utf8')
+
+椠 <- 链 %>% 
+    read_html()
 
 数据甲 <- 椠 %>% 
-    str_extract_all('公曆年+(*.+)+function ancient_calendar_description')
+    html_text() %>% 
+    strsplit(., split = '\\{|\\}')
 
 # install_phantomjs()
 # run_phantomjs()
@@ -1694,21 +1697,21 @@ header <- 椠 %>%
   html_nodes(".instrumentHeader h2") %>% 
   html_text()
 
-resp <- 椠 %>% rvest:::request_POST(
-    "https://www.investing.com/instruments/HistoricalDataAjax",
+resp <- 椠 %>% 
+  rvest:::request_POST(
+    'https://www.investing.com/instruments/HistoricalDataAjax',
     add_headers('X-Requested-With'= 'XMLHttpRequest'),
     user_agent(userAgent),
     body = list(
         curr_id = pair_ids,
         header = header[[1]],
-        st_date = format(startDate, format="%m/%d/%Y"),
-        end_date = format(endDate, format="%m/%d/%Y"),
-        interval_sec = "Daily",
-        sort_col = "date",
-        sort_ord = "DESC",
-        action = "historical_data"
-    ), 
-    encode = "form") %>%
+        st_date = format(startDate, format='%m/%d/%Y'),
+        end_date = format(endDate, format='%m/%d/%Y'),
+        interval_sec = 'Daily',
+        sort_col = 'date',
+        sort_ord = 'DESC',
+        action = 'historical_data'), 
+    encode = 'form') %>%
     html_table
 
 print(resp[[1]])
