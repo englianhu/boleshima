@@ -1,7 +1,7 @@
 ---
 title: "![](诸子百家考工记/大秦赋 - 时空转移春秋战国（中科红旗中国妞儿）.png){height=240}"
 subtitle: "秦彩庄三码福彩分析"
-author: "[®γσ, Lian Hu](https://englianhu.github.io/) <img src='figure/ENG.jpg' width='24'> <img src='figure/RYO.jpg' width='24'>®"
+author: "[®γσ, Lian Hu](https://englianhu.github.io/) <img src='figure/ENG.png' width='24'> <img src='figure/RYO.png' width='24'>®"
 date: "`r lubridate::today('Asia/Tokyo')`"
 output:
   html_document: 
@@ -17,7 +17,7 @@ output:
 
 彩票市场在中国内地甚至全球的市场占有份额日益增加，越来越多赌徒热爱购买彩票。今天僕尝试分析随机内地彩票---**三码福彩（千字、福彩3D）**为数据，分析是否可能从中获利。
 
-**美国马萨诸塞州 Cash Winfall 彩票有漏洞!**文献中阐述：
+**美国马萨诸塞州`Cash Winfall`彩票有漏洞!**文献中阐述：
 
 > `Cash Winfall`彩票有一条特殊的规则：当头奖达到两百万美元而无人领取后，较小的奖项奖金金额将会变大，比如末奖能从5美元增加到几十美元。统计学家称，任何人只要购买十万美元以上的彩票就要保证盈利。因此每隔几个月，当头奖金额累积到两百万美元后，由精明的赌徒组成的小团体就会短暂控制整个博彩，他们有的来自美国麻省理工大学，有的来自东北大学，训练有素，他们会投入数十万美元购买彩票，每次能获得几十万美元的收入，这些盈利还没有计算获得头奖的可能性。麻州的博彩官员正开始采取行动限制大量购买，比如每个彩票点每天只能出售五千美元的彩票...
 
