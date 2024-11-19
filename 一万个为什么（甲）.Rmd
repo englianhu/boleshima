@@ -1786,10 +1786,6 @@ POST(链, body = 查询, encode = 'form')
 ```{r 公历农历对照乙, error=TRUE}
 链 <- c('https://ytliu0.github.io/ChineseCalendar/index_c.js', 'https://ytliu0.github.io/ChineseCalendar/Julian_c.js')
 
-if (!file.exists('诸子百家学府/index_c.js')) download.file('https://raw.githubusercontent.com/ytliu0/ChineseCalendar/refs/heads/master/index_c.js', '诸子百家学府/index_c.js')
-
-if (!file.exists('诸子百家学府/Julian_c.js')) download.file('https://raw.githubusercontent.com/ytliu0/ChineseCalendar/refs/heads/master/Julian_c.js', '诸子百家学府/Julian_c.js')
-
 椠 <- 链[1] %>% 
   GET %>% 
   content('text', encoding = 'utf8')
@@ -1804,9 +1800,28 @@ if (!file.exists('诸子百家学府/Julian_c.js')) download.file('https://raw.g
 
 公曆年 <- grep('公曆年', 数据甲)
 # 数据甲[grep('公曆年', 数据甲)]
-数据甲[公曆年[1]:公曆年[2]]
+# 数据甲[公曆年[1]:公曆年[2]]
 # 数据甲[公曆年[1]:公曆年[2]][1001:length(数据甲[公曆年[1]:公曆年[2]])]
 # 数据甲[公曆年[2]:length(数据甲)]
+
+```
+
+```{r 公历农历对照丙, error=TRUE}
+if (!file.exists('诸子百家学府/index_c.js')) download.file('https://raw.githubusercontent.com/ytliu0/ChineseCalendar/refs/heads/master/index_c.js', '诸子百家学府/index_c.js')
+
+if (!file.exists('诸子百家学府/Julian_c.js')) download.file('https://raw.githubusercontent.com/ytliu0/ChineseCalendar/refs/heads/master/Julian_c.js', '诸子百家学府/Julian_c.js')
+
+公历系列 <- V8()
+公历系列$source('诸子百家学府/index_c.js')
+jscode <- ctx$call('CoffeeScript.compile', 'square = (x) -> x * x', list(bare = TRUE))
+ctx$eval(jscode)
+ctx$call('square', 9)
+
+儒略历系列 <- V8()
+公历系列$source('诸子百家学府/Julian_c.js')
+jscode <- ctx$call('CoffeeScript.compile', 'square = (x) -> x * x', list(bare = TRUE))
+ctx$eval(jscode)
+ctx$call('square', 9)
 
 ```
 
