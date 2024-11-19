@@ -1813,10 +1813,15 @@ if (!file.exists('诸子百家学府/Julian_c.js')) download.file('https://raw.g
 
 公历系列 <- v8()
 公历系列$source('诸子百家学府/index_c.js')
-jscode <- ctx$call('CoffeeScript.compile', 'square = (x) -> x * x', list(bare = TRUE))
+jscode <- 公历系列$call('calendar', 'square = (x) -> x * x', list(bare = TRUE))
 
 儒略历系列$source('诸子百家学府/Julian_c.js')
-jscode <- ctx$call('CoffeeScript.compile', 'square = (x) -> x * x', list(bare = TRUE))
+jscode <- 儒略历系列$call('init', 'square = (x) -> x * x', list(bare = TRUE))
+
+公历表系列$source('诸子百家学府/table_c.js')
+jscode <- 公历表系列$call('ancient_calendar_menu', 'square = (x) -> x * x', list(bare = TRUE))
+
+
 ctx$eval(jscode)
 ctx$call('square', 9)
 
