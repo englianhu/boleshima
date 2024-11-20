@@ -46,7 +46,7 @@ l_ply(dir(paste0(getwd(), '/函数/')), function(funs) source(paste0(getwd(), '/
 
 # 读取数据
 
-[福彩3D: 直选走势](http://sports.sina.com.cn/l/tubiao/3d_jibenzoushitu.html)数据从*2016158期*至*2017158期*，一共有360个观测数据。该福彩类型规则乃预测3个随机数字，从000至999。
+[福彩3D: 直选走势](http://sports.sina.com.cn/l/tubiao/3d_jibenzoushitu.html)数据从*2016158期*至*2017158期*，一共有三百圆个观测数据。该福彩类型规则乃预测三个随机数字，从`000`至`999`。
 
 ```{r read-data}
 ## 
