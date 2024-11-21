@@ -1,4 +1,4 @@
-"use strict";
+"use strict"; 
 function header(e, t, n) {
     let o, a = [];
     0 == e ? (o = {

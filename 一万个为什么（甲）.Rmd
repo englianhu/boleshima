@@ -984,7 +984,8 @@ if (!require('webdriver')) remotes::install_github('rstudio/webdriver')
   'pacman', 'tensorflow', 'profmem', 'ggthemes', 'flyingfox', 'highcharter', 
   'echarts4r', 'rlist', 'viridis', 'hrbrthemes', 'profvis', 'fable', 'wdman', 
   'fabletools', 'fable.prophet', 'Metrics', 'MLmetrics', 'webshot', 'ragg', 
-  'listviewer', 'tidyjson', 'data.table', 'RSelenium', 'reactable', 'pkgdown')
+  'listviewer', 'tidyjson', 'data.table', 'RSelenium', 'reactable', 'pkgdown', 
+  'js')
 #, 'Rfast', 'Rfast2')
 
 ## cnum 是協助處理中文數字的R套件，提供轉換、識別及抽取中文數字的函數。
@@ -1833,23 +1834,29 @@ if (!file.exists('诸子百家学府/index_c.js')) download.file('https://raw.gi
 
 if (!file.exists('诸子百家学府/Julian_c.js')) download.file('https://raw.githubusercontent.com/ytliu0/ChineseCalendar/refs/heads/master/Julian_c.js', '诸子百家学府/Julian_c.js')
 
+## Using NPM packages in V8
+# https://cran.r-project.org/web/packages/V8/vignettes/npm.html#what_is_v8_(not)
 公历系列 <- v8()
 公历系列$source('诸子百家学府/index_c.js')
+公历系列$get(JS('Object.keys(global)')) %>% sort()
 公历表 <- 公历系列$call('calendar', 'calendar(e=-721,t=1)', list(bare = TRUE))
 
+儒略历系列 <- v8()
 儒略历系列$source('诸子百家学府/Julian_c.js')
+儒略历系列$get(JS('Object.keys(global)')) %>% sort()
 儒略历表 <- 儒略历系列$call('init', 'square = (x) -> x * x', list(bare = TRUE))
 
+公历表系列 <- v8()
 公历表系列$source('诸子百家学府/table_c.js')
-jscode <- 公历表系列$call('ancient_calendar_menu', 'square = (x) -> x * x', list(bare = TRUE))
+公历表系列$get(JS('Object.keys(global)')) %>% sort()
+公历表 <- 公历表系列$call('ancient_calendar_menu', 'square = (x) -> x * x', list(bare = TRUE))
 
-
-ctx$eval(jscode)
-ctx$call('square', 9)
+# ctx$eval(jscode)
+# ctx$call('square', 9)
 
 ```
 
-借鉴秦国一统天下后才焚经坑儒（在借鉴商鞅变法、美国独立战争史、戊戌变法、辛亥革命都是种族灭绝那些世袭制可兰经法家回教徒，咱们学术份子才能茁壮发展），咱们现实生活中的百姓与家眷亲属都只是顾好各自家眷亲属和学业学术士农工商而已，详情请查阅[岂曰无衣，与子同袍](#岂曰无衣，与子同袍)。在超过八国联军（东亚、欧美大洋洲）故意篡改谷歌搜索条件的因素之下，谷歌搜索引擎搜索到爪哇脚本和春秋战国时期的天文历法，奈何[「猫城个人记事本随笔」廖育棟：公历和农历日期对照（公元前七二二年——公元二二零零年）](https://ytliu0.github.io/ChineseCalendar/index_simp.html)中春秋战国时期的历法只有儒家孔子的鲁国历法，就顺势善用咱们海外华人公会陈祯禄公爵与邱德拔公爵（由于受到大英帝国时期受封的公爵是合法正规的爵位：
+借鉴秦国一统天下后才焚经坑儒（在借鉴商鞅变法、美国独立战争史、戊戌变法、黄埔军校、辛亥革命都是种族灭绝那些世袭制可兰经法家回教徒，咱们学术份子才能茁壮发展），咱们现实生活中的百姓与家眷亲属都只是顾好各自家眷亲属和学业学术士农工商而已，详情请查阅[岂曰无衣，与子同袍](#岂曰无衣，与子同袍)。在超过八国联军（东亚、欧美大洋洲）故意篡改谷歌搜索条件的因素之下，谷歌搜索引擎搜索到爪哇脚本和春秋战国时期的天文历法，奈何[「猫城个人记事本随笔」廖育棟：公历和农历日期对照（公元前七二二年——公元二二零零年）](https://ytliu0.github.io/ChineseCalendar/index_simp.html)中春秋战国时期的历法只有儒家孔子的鲁国历法，就顺势善用咱们海外华人公会陈祯禄公爵与邱德拔公爵（由于受到大英帝国时期受封的公爵是合法正规的爵位：
 
 - 英系学术造诣与科技目前几乎垄断全球。
 - 英系北美和大洋洲两大洲。
