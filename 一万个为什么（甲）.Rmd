@@ -44,7 +44,7 @@ Under the wide heaven, All belong to ξng Jiangxia Wonderland.
 - **世袭制张氏清湖堂/世袭制张氏清河堂/土司乩童巫师王青巾贼螳螂张佳坤/世袭制可兰经法家回教徒嫪毐。**
 - **世袭制可兰经法家刘氏彭城堂土司乩童巫师王白骨精刘瑾貹/世袭制可兰经法家巫贼巫婆回教徒/世袭制吠陀经阿拉丁神灯屠妖节兴都教徒与世袭制可兰经法家回教徒印度裔/世袭制巫术份子屠夫赤印度人/世袭制可兰经法家女回教徒泰姬。**
 - **科研高频量化对冲、科学科技产品、计数编程、易经算卜、愚生世袭制道教徒十二生肖学术份子赢家黄氏江夏堂联富和家眷亲属（包括全球所有英系洋人和咱们所有世袭制道教徒黄种人）、黄河文明、黄历、黄道吉日、黄埔军校、黄种人。**
-- **世袭制道教徒十二生肖赢家黄氏江夏堂。螳螂捕蝉，黄雀在后。**
+- **世袭制道教徒十二生肖学术份子科学科技赢家黄氏江夏堂。螳螂捕蝉，黄雀在后。**
 
 ![](诸子百家考工记/段奕宏、朱珠主演的电视剧《大秦赋》信陵君是个扶姐魔！.gif)
 
@@ -985,7 +985,7 @@ if (!require('webdriver')) remotes::install_github('rstudio/webdriver')
   'echarts4r', 'rlist', 'viridis', 'hrbrthemes', 'profvis', 'fable', 'wdman', 
   'fabletools', 'fable.prophet', 'Metrics', 'MLmetrics', 'webshot', 'ragg', 
   'tidyjson', 'data.table', 'RSelenium', 'reactable', 'pkgdown', 'keras', 
-  'listviewer', 'jsdom', 'canvas')
+  'listviewer', 'jsdom', 'canvas', 'chromote')
 #, 'Rfast', 'Rfast2')
 
 ## cnum 是協助處理中文數字的R套件，提供轉換、識別及抽取中文數字的函數。
@@ -1418,9 +1418,9 @@ rm(程序包)
 
 > #春秋战国 #七大洲五大洋 #诸子百家 #大港村民和瓜雪RHU花园一律死刑 #抄家灭门冒充中国公民肖黎希的大港巴列特新村村民第十三巷门牌卅一号慰安妇李嘉琪和所有党羽
 > Our more than Eight Military Unions (Scholars, Academics, Technology, ), genocide all South East Asian Mulims, especially Sungai Besar Taman Ballete thirteen street all wizards and the sex doll Lee Kah Khee!
-> 咱们超过八国联军（学术份子、学术学业、科学科技），歼灭所有东南亚世袭制可兰经法家回教徒，尤其是敌人大港巴列特新村村民第十三巷土司乩童性爱份子，尤其是慰安妇李嘉琪！
+> 咱们超过八国联军（学术份子、学术学业、科学科技），核武器歼灭所有东南亚世袭制可兰经法家回教徒、马来西亚回教执法机构https://www.facebook.com/pttchenglap，敌人新加坡公民金宝博博彩庄失心疯猥亵淫魔欧阳金泰兄弟仨、大港巴列特新村村民第十三巷土司乩童性爱份子，尤其是慰安妇李嘉琪！
 > 
-> englianhu@gmail.com I am a scholar never register any scibrokes.demo@gmail.com account and get involved whatsoever Hindus', hackers' and Muslims' criminal activities, execute the enemies UMNO racial hereditary Al-Quran Islamic LAW using an fake account scibrokes.demo@gmail.com and all followers.
+> englianhu@gmail.com I am a scholar never register any scibrokes.demo@gmail.com account and get involved whatsoever Hindus', hackers' and Muslims' criminal activities, nuclear weapons execute the enemies UMNO racial hereditary Al-Quran Islamic LAW using an fake account scibrokes.demo@gmail.com and all followers.
 > 
 > #百姓民用个人电脑大多数使用微软视窗操作系统 #全球科技产品从安卓手机和交通工具和电器到超级电脑服务器和人造卫星几乎都使用礼逆袭操作系统
 > 
@@ -1838,6 +1838,9 @@ POST(链, body = 查询, encode = 'form')
 # 数据甲[公曆年[1]:公曆年[2]][1001:length(数据甲[公曆年[1]:公曆年[2]])]
 # 数据甲[公曆年[2]:length(数据甲)]
 
+## Webdriver - Web Scraping
+# https://rpubs.com/englianhu/rPython-vs-RSelenium
+
 ## 无名纪元
 # https://github.com/dhamaniasad/HeadlessBrowsers#fake-browser-engine
 无名纪元 <- remoteDriver(
@@ -1847,11 +1850,21 @@ POST(链, body = 查询, encode = 'form')
 无名纪元 <- remoteDriver(browserName = 'phantomjs')
 无名纪元$open()
 
+无名纪元$close()
+
+
+
 ```
 
-```{python, error=TRUE}
-## Webdriver - Web Scraping
-# https://rpubs.com/englianhu/rPython-vs-RSelenium
+```{r, error=TRUE}
+链 <- 'https://ytliu0.github.io/ChineseCalendar/index_simp.html'
+无名纪元 <- ChromoteSession$new()
+无名纪元$parent
+无名纪元$get_sessions()
+
+无名纪元$view()
+无名纪元$Browser$getVersion()
+无名纪元$Page$navigate(链)
 
 ```
 
