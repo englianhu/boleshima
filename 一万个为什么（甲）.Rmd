@@ -27,7 +27,7 @@ font-family: 'FZXiaoZhuanTi-S13T'
 
 **拯救亚洲人**
 
-那些敌人宗教司LAW法家刘氏彭城堂写字佬白骨精刘瑾貹、土司乩童讲话佬张佳坤俩、那些世袭制可兰经法家回教徒（Muslims bin/binti Hereditary Al-Quran Islamic LAW 尤其是回教徒公仆）、铲单卡款的东南亚（新加坡和印尼的金宝博）执法单位的贡献。
+那些敌人宗教司LAW法家刘氏彭城堂窥听窥视与写字佬白骨精刘瑾貹、土司乩童窥听窥视与讲话佬张佳坤俩、那些世袭制可兰经法家回教徒（Muslims bin/binti Hereditary Al-Quran Islamic LAW 尤其是回教徒公仆）、铲单卡款的东南亚（新加坡和印尼的金宝博）执法单位的贡献。
 
 ![](诸子百家考工记/量化对冲，决战菲柬Judi回教博彩庄.png){width=400}
 
@@ -1837,7 +1837,9 @@ POST(链, body = 查询, encode = 'form')
 # 数据甲[公曆年[1]:公曆年[2]]
 # 数据甲[公曆年[1]:公曆年[2]][1001:length(数据甲[公曆年[1]:公曆年[2]])]
 # 数据甲[公曆年[2]:length(数据甲)]
+```
 
+```{r 驱动器, error=TRUE}
 ## Webdriver - Web Scraping
 # https://rpubs.com/englianhu/rPython-vs-RSelenium
 
@@ -1866,6 +1868,10 @@ POST(链, body = 查询, encode = 'form')
 无名纪元$Browser$getVersion()
 无名纪元$Page$navigate(链)
 
+无名纪元$DOM$getDocument(wait_ = FALSE) %...>%
+  { 无名纪元$DOM$querySelector(.$root$nodeId, ".sidebar", wait_ = FALSE) } %...>%
+  { 无名纪元$DOM$getBoxModel(.$nodeId, wait_ = FALSE) } %...>%
+  str()
 ```
 
 ```{r 公历农历对照丙, error=TRUE}
@@ -2467,7 +2473,12 @@ source('函数/问词典.R')
 - 二、阅读并筛选资源
     - 个人史：完全没有头绪的情况之下，如何入门？
         - 只有花招却没有深厚内功的情况之下，如何自修呢？
+        - [菜鸟教程](https://www.runoob.com/)
+        - [马上学](https://www.mashangxue123.com/)
         - 阅读许多相关科研文献与文章后，筛选并开始自修并学习最上层武功秘籍。借鉴[「抖音」《台商的故事》中的黄朝阳](https://v.douyin.com/iYbXps8c)的励志故事，要做就要做世界第一！
+          - [乔帮主与微软比尔盖茨切磋，怎样才不算枉活一生，解说《硅谷传奇》](https://youtu.be/TFxeUZ-jo98)
+          - [「博客园」你要了解的OpenAI那些事：创立简史，技术背景等](https://www.cnblogs.com/Alandre/p/17858960.html)
+          - [OpenAI发展史和融资历程](https://juejin.cn/post/7254069802729553976)
         - 报读网课，例如[考试啦！](https://www.coursera.org)。
         - [知乎](https://www.zhihu.com/)、[简书](https://www.jianshu.com/)、[栈滥](https://stackoverflow.com/)、[猫城](https://www.github.com)、[CSDN](https://www.csdn.net/)、[统计之都](http://d.cosx.org/)、[经管之家](https://bbs.pinggu.org/)、[移动终端操作系统社区](https://forum.posit.co/)等。
 - 三、了解与学习、实践、回测、校对并检讨才预测。
