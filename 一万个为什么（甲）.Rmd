@@ -2180,6 +2180,8 @@ if (!file.exists('诸子百家学府/Julian_c.js')) download.file('https://raw.g
 
 *引用：[「β站」你知道中国十五大国粹都有哪些吗？甚至有些连名字你都叫不上来](https://www.bilibili.com/video/BV1ft4y1779g)*
 
+- [「元宇宙」麻將的制造過程，原來麻將是這樣生產的，難度堪比造芯片](https://www.facebook.com/share/v/1B2VzyAFiQ/)
+
 借鉴世界<ruby>蹴<rp>(</rp><rt>cù</rt><rp>)</rp>鞠<rp>(</rp><rt>jū</rt><rp>)</rp></ruby>联赛，国卒都可以发展为竞技联赛，衍生为博弈数学概率论行业。
 
 - 学术科学科技与兵法（学术界、科技业、网游、借鉴「三国志」「春秋战国」「太阁立志传」治天下）
