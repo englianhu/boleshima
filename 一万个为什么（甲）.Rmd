@@ -1177,8 +1177,8 @@ rm(程序包)
 *引用：[The Full History of Ladbrokes](https://www.paddockpunter.co.uk/the-full-history-of-ladbrokes)*叙述全球五百强之一的英国百年老点是从英格兰牧马开始。
 
 - [Ladbrokes Bookmaker History (Arthur Bendir)](https://www.onlinebookiesoffers.co.uk/bookmakers/ladbrokes-bookmaker-history-arthur-bendir/)
-- [「Milngavie」Ladbrokes](https://milngavie.co.uk/businessdirectory/ladbrokes/)，Gambling, Online betting and Casino Company. Ladbrokes founded in 1886 offers sports betting from football to horse racing.
-- [](https://corporate.ladbrokes.be/en/calender) founding of Ladbrokes in England. The name was inspired by the founder, Arthur Bendir after his first visit to Ladbroke Hall in London.
+- [「Milngavie」立博（英）](https://milngavie.co.uk/businessdirectory/ladbrokes/)，Gambling, Online betting and Casino Company. Ladbrokes founded in 1886 offers sports betting from football to horse racing.
+- [「官网」立博企业日历（英）](https://corporate.ladbrokes.be/en/calender) founding of Ladbrokes in England. The name was inspired by the founder, Arthur Bendir after his first visit to Ladbroke Hall in London.
 - [立博博彩公司介绍](https://answer.baidu.com/answer/land?params=9Yu335r2pOjhHSCfjhcafegnDGjhoZ3sP7BcFyerIrJRvnM5obHz%2FNEPV8jna6VlM%2Bi%2BLvPTxMVB%2Bg2a2WuWTpop1BjtGjqXcBTaPW6TZ9SS1l5seLErQH%2FiTSKNijJDMQNj6ehXnuLkEyDgIsQE4hkD2hdSjBYJ9jRHRZ4m3WNuvm4xf9YvVjGddAjoPCU9VLM2W9gFxE7sUT3uO6gnyg%3D%3D&from=dqa&lid=10064574934779726863&word=%E7%AB%8B%E5%8D%9A%E5%8D%9A%E5%BD%A9%E5%85%AC%E5%8F%B8%E4%BB%8B%E7%BB%8D)‌。立博博彩公司（Ladbrokes）是全球知名的博彩公司之一，尤其在英国和爱尔兰拥有广泛的业务网络。
 - [「抖音百科」立博有限公司](https://www.baike.com/wikiid/2587119687268301421)。立博由Schwind先生和Pennington先生于1886年创立，起初作为训练马匹的委托代理人。1902年，Arthur Bendir加入公司后，公司采用了“立博”这一名称，并将业务迁至伦敦。立博的伦敦办事处最初位于斯特兰德附近，后来搬至汉诺威广场，再到梅菲尔德的Six Old Burlington Street。从1913年到1956年，立博的客户群主要来自英国贵族和上层阶级，其中许多人是伦敦中央圣詹姆斯区的精英绅士俱乐部的成员。
 
@@ -1870,6 +1870,8 @@ POST(链, body = 查询, encode = 'form')
 ```
 
 ```{r, error=TRUE}
+# How can I use Javascript library in R language via "V8" packages?
+# https://stackoverflow.com/a/40891859/3806250
 链 <- 'https://ytliu0.github.io/ChineseCalendar/index_simp.html'
 无名纪元 <- ChromoteSession$new()
 无名纪元$parent
