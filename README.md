@@ -12,6 +12,7 @@
 - [「文派」《赢家黄氏江夏堂》 – 始祖赢政ξηg Tεηg·黄永春家谱](https://englianhu.wordpress.com/2022/02/22/《雪隆江夏堂》-家谱/)
 - [「维基百科」匹配下注](https://zh.m.wikipedia.org/zh-my/匹配下注)，`Back` and `Lay`，道家赢家黄氏江夏堂（秦孝公商鞅变法，不赢则输）。
 - [「竞彩提点」盘口的起源、意义及运用](https://m.sohu.com/a/236550475_100180399)
+- [公历和农历日期对照（公元前七二二年——公元二二零零年）](https://ytliu0.github.io/ChineseCalendar/index_simp.html)
 
 # 第一篇、秦彩庄
 
