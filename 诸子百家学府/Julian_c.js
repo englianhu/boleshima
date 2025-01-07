@@ -1,4 +1,4 @@
-"use strict";
+"use strict"; //倘若浏览器支援之下，则启动ECMAScript五之严师出高徒模式
 function header(e, t, n) {
     let l, a = [];
     0 == e ? (l = {
