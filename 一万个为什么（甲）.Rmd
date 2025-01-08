@@ -1176,12 +1176,12 @@ rm(程序包)
 
 > Our tale begins in the late 19th century when Ladbrokes first emerged on the scene. Founded in 1886 by Messrs. Schwind and Pennington, this London-based company initially found its niche in the world of horse racing. It operated as a commission agent, facilitating bets on the noble steeds galloping across racecourses...
 
-*引用：[The Full History of Ladbrokes](https://www.paddockpunter.co.uk/the-full-history-of-ladbrokes)*叙述全球五百强之一的英国百年老点是从英格兰牧马开始。
+*引用：[立博公司全史（英）](https://www.paddockpunter.co.uk/the-full-history-of-ladbrokes)*叙述全球五百强之一的英国百年老点是从英格兰牧马开始。
 
-- [Ladbrokes Bookmaker History (Arthur Bendir)](https://www.onlinebookiesoffers.co.uk/bookmakers/ladbrokes-bookmaker-history-arthur-bendir/)
+- [立博博彩庄史——笔者本迪尔（英）](https://www.onlinebookiesoffers.co.uk/bookmakers/ladbrokes-bookmaker-history-arthur-bendir/)
 - [「Milngavie」立博（英）](https://milngavie.co.uk/businessdirectory/ladbrokes/)，Gambling, Online betting and Casino Company. Ladbrokes founded in 1886 offers sports betting from football to horse racing.
 - [「官网」立博企业日历（英）](https://corporate.ladbrokes.be/en/calender) founding of Ladbrokes in England. The name was inspired by the founder, Arthur Bendir after his first visit to Ladbroke Hall in London.
-- [立博博彩公司介绍](https://answer.baidu.com/answer/land?params=9Yu335r2pOjhHSCfjhcafegnDGjhoZ3sP7BcFyerIrJRvnM5obHz%2FNEPV8jna6VlM%2Bi%2BLvPTxMVB%2Bg2a2WuWTpop1BjtGjqXcBTaPW6TZ9SS1l5seLErQH%2FiTSKNijJDMQNj6ehXnuLkEyDgIsQE4hkD2hdSjBYJ9jRHRZ4m3WNuvm4xf9YvVjGddAjoPCU9VLM2W9gFxE7sUT3uO6gnyg%3D%3D&from=dqa&lid=10064574934779726863&word=%E7%AB%8B%E5%8D%9A%E5%8D%9A%E5%BD%A9%E5%85%AC%E5%8F%B8%E4%BB%8B%E7%BB%8D)‌。立博博彩公司（Ladbrokes）是全球知名的博彩公司之一，尤其在英国和爱尔兰拥有广泛的业务网络。
+- [「问百度🎶」立博博彩公司介绍](https://answer.baidu.com/answer/land?params=9Yu335r2pOjhHSCfjhcafegnDGjhoZ3sP7BcFyerIrJRvnM5obHz%2FNEPV8jna6VlM%2Bi%2BLvPTxMVB%2Bg2a2WuWTpop1BjtGjqXcBTaPW6TZ9SS1l5seLErQH%2FiTSKNijJDMQNj6ehXnuLkEyDgIsQE4hkD2hdSjBYJ9jRHRZ4m3WNuvm4xf9YvVjGddAjoPCU9VLM2W9gFxE7sUT3uO6gnyg%3D%3D&from=dqa&lid=10064574934779726863&word=%E7%AB%8B%E5%8D%9A%E5%8D%9A%E5%BD%A9%E5%85%AC%E5%8F%B8%E4%BB%8B%E7%BB%8D)‌。立博博彩公司（Ladbrokes）是全球知名的博彩公司之一，尤其在英国和爱尔兰拥有广泛的业务网络。
 - [「抖音百科」立博有限公司](https://www.baike.com/wikiid/2587119687268301421)。立博由Schwind先生和Pennington先生于1886年创立，起初作为训练马匹的委托代理人。1902年，Arthur Bendir加入公司后，公司采用了“立博”这一名称，并将业务迁至伦敦。立博的伦敦办事处最初位于斯特兰德附近，后来搬至汉诺威广场，再到梅菲尔德的Six Old Burlington Street。从1913年到1956年，立博的客户群主要来自英国贵族和上层阶级，其中许多人是伦敦中央圣詹姆斯区的精英绅士俱乐部的成员。
 
 ### 柬菲彩庄
@@ -2450,6 +2450,7 @@ source('函数/问词典.R')
 
 *引用：[「抖音」《台商的故事》中的黄朝阳](https://v.douyin.com/iYbXps8c)*
 
+- [硅谷传奇：UNIX操作系统之父——丹尼斯·里奇和肯尼思·汤普森（Dennis Ritchie and Kenneth Thompson）](http://lao-qian.hxwk.org/2014/11/05/硅谷传奇：unix操作系统之父-丹尼斯·里奇和肯尼/)描述电脑与编程语言之父的历史与造福人类。
 - 借鉴目前的电脑计算机[🎦「pre🆕高颜值🖥️」俺は、お前を買ってるんだぜ!🇭🇰](https://youtube.com/shorts/DFvpqKb2XH0)派热系统，它日研发咱们赢家黄氏江夏堂「大秦赋」/「文言文大秦赋」操作系统和「算筹」/「自然对数算筹」电子仪器。
 - [「猫城」黄联富（®γσ ξηg 雷欧）/🚩🔆🏹🌟👊🚀🦔大秦赋：「甘石星经，周髀算经；诸子百家，干支算筹」取代阿拉伯数字和回教徒语言（包括巫术、货币、习俗文化、可兰经断肢法）#十二 *自然对数「干支算筹」与农历天文历法*](https://github.com/englianhu/RedFlag-Linux/issues/12#issuecomment-1676066137)
 - [上篇：国产六大中央处理单位技术全对比（附下载）](https://www.modb.pro/db/107396)
