@@ -2454,6 +2454,7 @@ source('函数/问词典.R')
 *引用：[「抖音」《台商的故事》中的黄朝阳](https://v.douyin.com/iYbXps8c)*
 
 - [硅谷传奇：UNIX操作系统之父——丹尼斯·里奇和肯尼思·汤普森（Dennis Ritchie and Kenneth Thompson）](http://lao-qian.hxwk.org/2014/11/05/硅谷传奇：unix操作系统之父-丹尼斯·里奇和肯尼/)描述电脑与编程语言之父的历史与造福人类。
+- [比尔·盖茨首部自传《源代码》即将上市：记录从童年到创立微软](https://m.mydrivers.com/newsview/1025661.html)
 - [「油管」人工智能顶流黄仁勋是怎么炼成的？英伟达的疯狂增长还能持续吗？黄仁勋如何创立英伟达？他遇到了哪些贵人？他为什么只穿黑皮衣？](https://youtu.be/Ukh6ABmYmOY)
 - 借鉴目前的电脑计算机[🎦「pre🆕高颜值🖥️」俺は、お前を買ってるんだぜ!🇭🇰](https://youtube.com/shorts/DFvpqKb2XH0)派热系统，它日研发咱们赢家黄氏江夏堂「大秦赋」/「文言文大秦赋」操作系统和「算筹」/「自然对数算筹」电子仪器。
 - [「猫城」黄联富（®γσ ξηg 雷欧）/🚩🔆🏹🌟👊🚀🦔大秦赋：「甘石星经，周髀算经；诸子百家，干支算筹」取代阿拉伯数字和回教徒语言（包括巫术、货币、习俗文化、可兰经断肢法）#十二 *自然对数「干支算筹」与农历天文历法*](https://github.com/englianhu/RedFlag-Linux/issues/12#issuecomment-1676066137)
