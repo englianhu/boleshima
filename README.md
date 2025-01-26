@@ -117,5 +117,9 @@ It's useful to record some information about how your file was created.
 - [人工智能网课系列](https://www.mltut.com/best-resources-to-learn-artificial-intelligence)
 - [RISC-V 平台上编程（一）](https://kalorona.com/computer-science/risc-v-1/)
 - [星球：礼逆袭的知识星球](https://tinylab.org/riscv-uefi-part1/)
+<br><br>
 
+---
 
+[<img src='诸子百家考工记/世博量化.png' height='14'/> Sςιβrοκεrs Trαdιηg®](http://www.scibrokes.com)<br>
+<span style='color:RoyalBlue'>**[<img src='诸子百家考工记/世博量化.png' height='14'/> 世博量化®](http://www.scibrokes.com)企业知识产权®及版权®所有，盗版必究。**</span>
