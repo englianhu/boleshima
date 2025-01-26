@@ -577,6 +577,8 @@ nameserver 114.114.114.114
 - [臺灣好廟網——廟宇APP平臺](https://apps.temple01.com/tdap/client)
 - [一庙一路](https://www.angkongkeng.com/malaysia)
 - [银同文研社](https://www.yt-cs.com/)
+- [寺庙信息网](https://xlhc.net/)
+- [佛宝网](https://www.fobao.cn/mobile/)
 
 #### 文艺家
 
