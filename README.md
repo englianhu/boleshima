@@ -15,6 +15,10 @@
 - [公历和农历日期对照（公元前七二二年——公元二二零零年）](https://ytliu0.github.io/ChineseCalendar/index_simp.html)
 - [臺灣好廟網——廟宇APP平臺](https://apps.temple01.com/tdap/client)
 - [一庙一路](https://www.angkongkeng.com/malaysia)
+- 
+- [寺庙信息网](https://xlhc.net/)
+- [佛宝网](https://www.fobao.cn/mobile/)
+
 
 
 # 第一篇、秦彩庄
