@@ -576,6 +576,7 @@ nameserver 114.114.114.114
 - [WWW發明人伯納斯李Tim Berners-Lee：我不要專利！](https://www.cw.com.tw/article/5106484)
 - [臺灣好廟網——廟宇APP平臺](https://apps.temple01.com/tdap/client)
 - [一庙一路](https://www.angkongkeng.com/malaysia)
+- [银同文研社](https://www.yt-cs.com/)
 
 #### 文艺家
 
