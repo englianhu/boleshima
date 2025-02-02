@@ -1985,6 +1985,7 @@ if (!file.exists('诸子百家学府/Julian_c.js')) download.file('https://raw.g
 - [「中科院」中国科学院紫金山天文台](http://www.pmo.cas.cn/xwdt2019/kpdt2019/202203/t20220317_6399980.html)
 - [「淘宝」北斗卫星授时万年历（共找到一百件商品）](https://www.taobao.com/list/product/北斗卫星授时万年历.htm)
 - [中国卫星导航系统管理办公室测试评估研究中心](https://www.csno-tarc.cn/announcement/notice20240004)
+- []http://www.beidou.gov.cn/zy/kpyd/201710/t20171011_4645.html)
 
 ### 计数分布
 
@@ -2613,7 +2614,7 @@ source('函数/问词典.R')
    - 自带/内嵌智能自动编程软件。
    - 自带/内嵌智能编程进化程序。
    - 谷歌公司的puppet服务器管理与服务器中心，亦可应用于监管、维护、确保科技产品全年无休正常运行、低失误率和损坏率的“风水学”。
-   - 研发自家电子仪器，借鉴并将[「猫城」spaceX REST API](https://github.com/r-spacex/SpaceX-API)编译为咱们秦人赢家黄氏江夏堂「大秦赋」算筹文言计数编程语言，创办民企宇航业务。
+   - 研发自家电子仪器，借鉴并将[「猫城」spaceX REST API](https://github.com/r-spacex/SpaceX-API)编译为咱们秦人赢家黄氏江夏堂「大秦赋」算筹文言计数编程语言、[](http://www.beidou.gov.cn/zy/kpyd/201710/t20171011_4645.html)，创办民企宇航业务。
 
 #### 春秋战国——秦国•外患
 
