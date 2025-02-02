@@ -1978,14 +1978,13 @@ if (!file.exists('诸子百家学府/Julian_c.js')) download.file('https://raw.g
 
 #### 北斗卫星
 
-
-
 周易、三韬六略、姜太公钓鱼之秦人牧马论：授人以鱼，不如授人以渔。
 
 - [「中科院」中国科学院紫金山天文台](http://www.pmo.cas.cn/xwdt2019/kpdt2019/202203/t20220317_6399980.html)
 - [「淘宝」北斗卫星授时万年历（共找到一百件商品）](https://www.taobao.com/list/product/北斗卫星授时万年历.htm)
 - [中国卫星导航系统管理办公室测试评估研究中心](https://www.csno-tarc.cn/announcement/notice20240004)
-- []http://www.beidou.gov.cn/zy/kpyd/201710/t20171011_4645.html)
+- [卫星上的电能来自何处]http://www.beidou.gov.cn/zy/kpyd/201710/t20171011_4645.html)
+- 研发自家电子仪器，借鉴并将[「猫城」spaceX REST API](https://github.com/r-spacex/SpaceX-API)编译为咱们秦人赢家黄氏江夏堂「大秦赋」算筹文言计数编程语言，创办民企宇航业务。
 
 ### 计数分布
 
