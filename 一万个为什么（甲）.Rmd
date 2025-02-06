@@ -2549,6 +2549,8 @@ source('函数/问词典.R')
         - [菜鸟教程](https://www.runoob.com/)
         - [马上学](https://www.mashangxue123.com/)
         - 阅读许多相关科研文献与文章后，筛选并开始自修并学习最上层武功秘籍。借鉴[「抖音」《台商的故事》中的黄朝阳](https://v.douyin.com/iYbXps8c)的励志故事，要做就要做世界第一！
+       - [「微博」国际标准智力测试表](https://weibo.com/7814261925/5100289436683282)
+        - [能力值]()
           - [乔帮主与微软比尔盖茨切磋，怎样才不算枉活一生，解说《硅谷传奇》](https://youtu.be/TFxeUZ-jo98)
           - [「博客园」你要了解的OpenAI那些事：创立简史，技术背景等](https://www.cnblogs.com/Alandre/p/17858960.html)
           - [OpenAI发展史和融资历程](https://juejin.cn/post/7254069802729553976)
