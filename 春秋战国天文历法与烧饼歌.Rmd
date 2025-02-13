@@ -16,4 +16,86 @@
 
 #### 天文历法
 
+## 文书明细
 
+以下乃此文书的文件信息。
+
+- 文集建立日：农历二零二四年菊月廿八 甲辰年（龙年）甲戌月丁卯日（阳历二零二四年十月三十日 / 民国一百一十三年菊月廿八）[^14]
+- 文集最新更新日：`r today('Asia/Shanghai')`
+- `r R.version.string`
+- [**rmarkdown**](https://github.com/rstudio/rmarkdown) 程序包版本：`r packageVersion('rmarkdown')`
+- 文集版本：一零一
+- 文集作者：[®γσ, ξηg Lιαη Ημ](https://rpubs.com/englianhu/ryo-cn)
+- 猫城：[源代码](https://github.com/englianhu/lottery)
+- 追加附属信息
+
+[^14]: 欲知更多阳历/民国/农历日历详情，请登录中华民国农业部官网查询日历查询[阳历/农历/民国查询](https://ppg.naif.org.tw/naif/MarketInformation/Other/Calendar_V3.aspx)。
+
+```{r 信息, error=TRUE}
+suppressAll(lib(c('formattable', 'knitr', 'kableExtra', 'magittr', 'devtools', 'rsconnect')))
+
+系统信息甲 <- session_info()$platform |> 
+    unlist() |> 
+    {\(.) data.frame(row.names = 1:length(.), 
+                     Category = names(.), session_info = .)}()
+
+系统信息乙 <- data.frame(Sys.info()) |> 
+    {\(.) data.frame(Category = row.names(.), Sys.info = .[,1])}()
+
+#remarks, dim(系统信息甲), dim(系统信息乙)
+if (nrow(系统信息甲) == 11 && nrow(系统信息乙) == 8) {
+  系统信息乙 <- 系统信息乙 |> 
+    {\(.) rbind(., data.frame(
+    Category = c('rmarkdown', 'rsconnect', '当前时间'), 
+    Sys.info = c(as.character(getwd()), 
+                 as.character(packageVersion('rsconnect')), 
+                 paste(as.character(
+                   lubridate::now('Asia/Shanghai')), 'CST 中国标准时间 🗺'))))}()
+  
+} else if (nrow(系统信息甲) == 10 && nrow(系统信息乙) == 8) {
+  系统信息甲 <- rbind(系统信息甲, data.frame(Category = '', session_info = ''))
+  
+  系统信息乙 <- 系统信息乙 |> 
+    {\(.) rbind(., data.frame(
+    Category = c('rmarkdown', 'rsconnect', '当前时间'), 
+    Sys.info = c(as.character(getwd()), 
+                 as.character(packageVersion('rsconnect')), 
+                 paste(as.character(
+                   lubridate::now('Asia/Shanghai')), 'CST 中国标准时间 🗺'))))}()
+}
+
+系统信息 <- cbind(系统信息甲, 系统信息乙)
+names(系统信息) <- c('分类甲', '访谈信息甲', '分类乙', '访谈信息乙')
+系统信息$分类甲 <- c('版本', '操作系统', '系统', '界面', '语言', '核对', 
+              '©标准库', '时区', '日期', '®文艺坊版本', 'Pandoc瑞士军刀')
+系统信息$分类乙 <- c('系统名称', '发布', '版本', '元素节点', '机器', '登录', 
+              '用户', '活跃用户', 'rmarkdown (®降价编译)', 
+              'rsconnect (®s联通)', '当前时间')
+rm(系统信息甲, 系统信息乙)
+
+系统信息 |> 
+  {\(.) 
+    kbl(., caption = '附加访谈信息：')}() |> 
+  {\(.) 
+    kable_styling(
+      ., bootstrap_options = c('striped', 'hover', 'condensed', 'responsive'))}() |> 
+  {\(.) 
+    row_spec(., 0, background = 'DimGrey', color = '#7b1113')}() |> 
+  {\(.) 
+    column_spec(., 1, background = 'CornflowerBlue', color = 'red')}() |> 
+  {\(.) 
+    column_spec(., 2, background = 'grey', color = '#8B0000')}() |> 
+  {\(.) 
+    column_spec(., 3, background = 'CornflowerBlue', color = 'blue')}() |> 
+  {\(.) 
+    column_spec(., 4, background = 'grey', color = 'white')}() |> 
+  {\(.) 
+    row_spec(., 11, bold = TRUE, color = 'yellow', background = '#D7261E')}()
+```
+
+## 参考文献
+
+---
+
+[![](诸子百家考工记/世博量化.png){height=14} Sςιβrοκεrs Trαdιηg®](http://www.scibrokes.com)<br>
+[![](诸子百家考工记/世博量化.png){height=14} 世博量化®](http://www.scibrokes.com)企业知识产权及版权所有，盗版必究。**]{style="color:RoyalBlue"}
