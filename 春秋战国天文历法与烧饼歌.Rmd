@@ -1,6 +1,45 @@
+---
+title: "![](诸子百家考工记/大秦赋 - 时空转移春秋战国（中科红旗中国妞儿）.png){height=240}"
+subtitle: "[<span style='color:#000000; background-color:#c61d1d;'>道家易经算卜</span>——世袭制道教徒赢家黄氏江夏堂十二生肖秦人牧马](https://github.com/englianhu/lottery)之春秋战国天文历法"
+author: "道家笔者：[<ruby>赢<rp>(</rp><rt>yíng</rt><rp>)</rp>家<rp>(</rp><rt>jiā</rt><rp>)</rp>黄<rp>(</rp><rt>huáng</rt><rp>)</rp>氏<rp>(</rp><rt>shì</rt><rp>)</rp>江<rp>(</rp><rt>jiānɡ</rt><rp>)</rp>夏<rp>(</rp><rt>xià</rt><rp>)</rp>堂<rp>(</rp><rt>táng</rt><rp>)</rp></ruby> ®γσ, ξηg Lιαη Ημ，![](诸子百家考工记/ENG.png){height=14}<ruby>黄<rp>(</rp><rt>huáng</rt><rp>)</rp>联<rp>(</rp><rt>lián</rt><rp>)</rp>富<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>（<ruby>雷<rp>(</rp><rt>léi</rt><rp>)</rp>欧<rp>(</rp><rt>ōu</rt><rp>)</rp></ruby>∪ <ruby>瑞<rp>(</rp><rt>ruì</rt><rp>)</rp>欧<rp>(</rp><rt>ōu</rt><rp>)</rp></ruby>）](https://englianhu.wordpress.com.com) ![](诸子百家考工记/大秦赋 - 北京大学.png){height=14}![](诸子百家考工记/赢家ξng黄氏江夏堂 - 量化对冲（中）.png){height=14}®"
+date: "🔆民国日期：民国一百一十四年正月十六<br>☯道家节日：[农历二零二五蛇年正月十六 乙巳年（蛇年）XX月XX日（元宵节的明天兼西方情人节前夕）"
+mainfont: 'FZXiaoZhuanTi-S13T'
+output:
+  html_document: 
+    mathjax: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+    number_sections: true
+    toc: true
+    toc_depth: 6
+    toc_float:
+      collapsed: true
+      smooth_scroll: true
+    code_folding: hide
+    css: 秦谏典范与楷模.css
+    fig_caption: true
+font-family: 'FZXiaoZhuanTi-S13T'
+---
 
+# 主题
 
-（包括工匠、细腻的工作工程、专业食谱）世袭制道教徒的百姓，都只求阖家安康、出入平安、安居乐业、学业学术、士农工商、守住家业、振兴家业，不要沦为任何东南亚回教徒政府公仆与政客、世袭制可兰经法家回教徒、世袭制吠陀经大宝森节与屠妖节兴都教徒、土司乩童张佳坤和刘瑾貹、博彩行业尤其是新加坡博彩庄金宝博、新加坡公民的代罪羔羊。有关个人《家谱》详情请查阅[《赢家黄氏江夏堂》 – 始祖赢政ξηg Tεηg∙黄永春家谱](https://englianhu.wordpress.com/2022/02/22/《雪隆江夏堂》-家谱/)，自从二零零七年来平时都会到「众仙洞」和「天皇宫」祈福保佑身体健康、出入平安、安居乐业，可查阅[採撷数据](#採撷数据)。
+## 大秦赋
+
+### 岂曰无衣，与子同袍
+
+**拯救亚洲人**
+
+那些敌人宗教司LAW法家刘氏彭城堂窥听窥视与写字佬白骨精刘瑾貹、土司乩童窥听窥视与讲话佬张佳坤俩、那些世袭制可兰经法家回教徒（Muslims bin/binti Hereditary Al-Quran Islamic LAW 尤其是回教徒公仆）、铲单卡款的东南亚（新加坡和印尼的金宝博）执法单位的贡献。
+
+![](诸子百家考工记/量化对冲，决战菲柬Judi回教博彩庄.png){width=400}
+
+🚩🇬🇧🏳️‍🌈🇹🇼🇻🇳🇨🇳🇲🇾 The Raise of Chinese Taoist Winner ξng Jiangxia Ancestral Hall 
+
+🚩🇬🇧🏳️‍🌈🇹🇼🇻🇳🇨🇳🇲🇾 大秦赋世袭制道教徒十二生肖赢家ξng黄氏江夏堂
+
+Under the wide heaven, All belong to ξng Jiangxia Wonderland.
+
+普天之下，莫非黄土。
+
+愚生世袭制道教徒十二生肖秦人（祖籍东亚，包括越族、朝鲜族、京族、苗族等，那些冒充祖籍东亚的一律死刑）学术份子赢家黄氏江夏堂联富（雷欧）个人自小独来独往无需利用任何情色、任何姻缘、任何肌肤之亲、只参与咱们世袭制道教徒家眷亲属亲朋戚友和东亚欧美大洋洲同胞以学术为主而非任何外教徒、屠夫，现实生活中家眷亲属全是学术科学科技（包括工匠、细腻的工作工程、专业食谱）世袭制道教徒的百姓，都只求阖家安康、出入平安、安居乐业、学业学术、士农工商、守住家业、振兴家业，不要沦为任何东南亚回教徒政府公仆与政客、世袭制可兰经法家回教徒、世袭制吠陀经大宝森节与屠妖节兴都教徒、土司乩童张佳坤和刘瑾貹、博彩行业尤其是新加坡博彩庄金宝博、新加坡公民的代罪羔羊。有关个人《家谱》详情请查阅[《赢家黄氏江夏堂》 – 始祖赢政ξηg Tεηg∙黄永春家谱](https://englianhu.wordpress.com/2022/02/22/《雪隆江夏堂》-家谱/)，自从二零零七年来平时都会到「众仙洞」和「天皇宫」祈福保佑身体健康、出入平安、安居乐业，可查阅[採撷数据](#採撷数据)。
 
 - **世袭制张氏清湖堂/世袭制张氏清河堂/土司乩童巫师王青巾贼螳螂张佳坤/世袭制可兰经法家回教徒嫪毐。**
 - **世袭制可兰经法家刘氏彭城堂土司乩童巫师王白骨精刘瑾貹/世袭制可兰经法家巫贼巫婆回教徒/世袭制吠陀经阿拉丁神灯屠妖节兴都教徒与世袭制可兰经法家回教徒印度裔/世袭制巫术份子屠夫赤印度人/世袭制可兰经法家女回教徒泰姬。**
