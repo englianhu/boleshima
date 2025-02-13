@@ -1,6 +1,6 @@
 ---
 title: "![](诸子百家考工记/大秦赋 - 时空转移春秋战国（中科红旗中国妞儿）.png){height=240}"
-subtitle: "[<span style='color:#000000; background-color:#c61d1d;'>道家易经算卜</span>——世袭制道教徒赢家黄氏江夏堂十二生肖秦人牧马](https://github.com/englianhu/lottery)之春秋战国天文历法"
+subtitle: "[<span style='color:#000000; background-color:#c61d1d;'>道家易经算卜</span>——世袭制道教徒赢家黄氏江夏堂十二生肖秦人牧马](https://github.com/englianhu/lottery)之春秋战国天文历法与烧饼歌"
 author: "道家笔者：[<ruby>赢<rp>(</rp><rt>yíng</rt><rp>)</rp>家<rp>(</rp><rt>jiā</rt><rp>)</rp>黄<rp>(</rp><rt>huáng</rt><rp>)</rp>氏<rp>(</rp><rt>shì</rt><rp>)</rp>江<rp>(</rp><rt>jiānɡ</rt><rp>)</rp>夏<rp>(</rp><rt>xià</rt><rp>)</rp>堂<rp>(</rp><rt>táng</rt><rp>)</rp></ruby> ®γσ, ξηg Lιαη Ημ，![](诸子百家考工记/ENG.png){height=14}<ruby>黄<rp>(</rp><rt>huáng</rt><rp>)</rp>联<rp>(</rp><rt>lián</rt><rp>)</rp>富<rp>(</rp><rt>fù</rt><rp>)</rp></ruby>（<ruby>雷<rp>(</rp><rt>léi</rt><rp>)</rp>欧<rp>(</rp><rt>ōu</rt><rp>)</rp></ruby>∪ <ruby>瑞<rp>(</rp><rt>ruì</rt><rp>)</rp>欧<rp>(</rp><rt>ōu</rt><rp>)</rp></ruby>）](https://englianhu.wordpress.com.com) ![](诸子百家考工记/大秦赋 - 北京大学.png){height=14}![](诸子百家考工记/赢家ξng黄氏江夏堂 - 量化对冲（中）.png){height=14}®"
 date: "🔆民国日期：民国一百一十四年正月十六<br>☯道家节日：[农历二零二五蛇年正月十六 乙巳年（蛇年）XX月XX日（元宵节的明天兼西方情人节前夕）"
 mainfont: 'FZXiaoZhuanTi-S13T'
