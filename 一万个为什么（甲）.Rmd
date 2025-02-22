@@ -2556,6 +2556,7 @@ source('函数/问词典.R')
           - [「博客园」你要了解的OpenAI那些事：创立简史，技术背景等](https://www.cnblogs.com/Alandre/p/17858960.html)
           - [OpenAI发展史和融资历程](https://juejin.cn/post/7254069802729553976)
         - 报读网课，例如[考试啦！](https://www.coursera.org)。
+        - [如何修改礼逆袭内核源码](https://docs.pingcode.com/baike/3216243)
         - [知乎](https://www.zhihu.com/)、[简书](https://www.jianshu.com/)、[栈滥](https://stackoverflow.com/)、[猫城](https://www.github.com)、[CSDN](https://www.csdn.net/)、[统计之都](http://d.cosx.org/)、[经管之家](https://bbs.pinggu.org/)、[移动终端操作系统社区](https://forum.posit.co/)等。
 - 三、了解与学习、实践、回测、校对并检讨才预测。
 - 四、根据以上三个学习方式，轮回与进化论。
