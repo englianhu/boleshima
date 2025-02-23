@@ -44,6 +44,7 @@
       - [「南洋商报」星链大马正式启动，网速100mbps，月费rm220起](https://www.enanyang.my/财经新闻/星链大马正式启动-网速100mbps·月费rm220起)
       - [「BBC」什么是星链 Starlink？成千上万颗低轨卫星布局的背后](https://www.bbc.com/zhongwen/simp/science-62377847)
       - [「早报」星链互联网服务是什么？](https://www.zaobao.com.sg/news/sea/story20230915-1433802)
+      - [「中国报」马斯克募资268亿，打造全球最大数据中心](https://www.chinapress.com.my/20241117/马斯克募资268亿-打造全球最大数据中心/)
 
 # 易经算卜
 
