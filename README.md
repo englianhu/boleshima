@@ -38,7 +38,9 @@
    - 自带/内嵌智能自动编程软件。
    - 自带/内嵌智能编程进化程序。
    - 谷歌公司的puppet服务器管理与服务器中心，亦可应用于监管、维护、确保科技产品全年无休正常运行、低失误率和损坏率的“风水学”。
-   - 研发自家电子仪器，借鉴并将[「猫城」spaceX REST API](https://github.com/r-spacex/SpaceX-API)编译为咱们秦人赢家黄氏江夏堂「大秦赋」算筹文言计数编程语言，创办民企宇航业务。
+   - 研发自家电子仪器，借鉴并统一所有目前市场上所有编程语言（包括爪哇脚本中的openai）编译为咱们秦人赢家黄氏江夏堂「大秦赋」算筹文言计数编程语言，创办民企宇航业务。
+      - [「猫城」spaceX REST API](https://github.com/r-spacex/SpaceX-API)
+      - [星链计划电信业](https://www.starlink.com/residential)
 
 # 易经算卜
 
