@@ -46,7 +46,7 @@
       - [「早报」星链互联网服务是什么？](https://www.zaobao.com.sg/news/sea/story20230915-1433802)
       - [「中国报」马斯克募资268亿，打造全球最大数据中心](https://www.chinapress.com.my/20241117/马斯克募资268亿-打造全球最大数据中心/)
       - [外太空定居，氧气先搞起来](http://www.xinhuanet.com/tech/20220216/6333840bdbc14966b3a1d4e042fd5665/c.html)
-      - []()
+      - [研究发现，月球的顶层有足够的氧气供80亿人使用10万年](https://m.163.com/dy/article/HIK87TSL0553BF5P.html)
 
 # 易经算卜
 
