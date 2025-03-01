@@ -50,8 +50,8 @@
       - [「凤凰网」“预计五年赶上SpaceX” 这家中国火箭公司引美媒关注](https://i.ifeng.com/c/8hEUQNg1sgl#google_vignette)
       - [如果咱们住在月亮会怎样？（英）](https://science.howstuffworks.com/what-if-moon-colony.htm)
       - [咱们怎么才能在月亮生活？（英）](https://www.iop.org/explore-physics/moon/how-could-we-live-on-the-moon)
-      - [也许在妳有生之年，人类会生活在月亮，然后是火星。](https://www.nytimes.com/2023/10/01/realestate/nasa-homes-moon-3-d-printing.html)
-      - []()
+      - [也许在妳有生之年，人类会生活在月亮，然后是火星。（英）](https://www.nytimes.com/2023/10/01/realestate/nasa-homes-moon-3-d-printing.html)
+      - [人类将如何在月球上生活？（英）](https://www.polytechnique-insights.com/en/columns/space/how-humans-will-live-on-the-moon/)
       - 
 
 # 易经算卜
