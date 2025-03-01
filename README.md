@@ -49,6 +49,9 @@
       - [研究发现，月球的顶层有足够的氧气供圆亿人使用十万年](https://m.163.com/dy/article/HIK87TSL0553BF5P.html)
       - [「凤凰网」“预计五年赶上SpaceX” 这家中国火箭公司引美媒关注](https://i.ifeng.com/c/8hEUQNg1sgl#google_vignette)
       - [如果咱们住在月亮会怎样？（英）](https://science.howstuffworks.com/what-if-moon-colony.htm)
+      - [咱们怎么才能在月亮生活？（英）](https://www.iop.org/explore-physics/moon/how-could-we-live-on-the-moon)
+      - [也许在妳有生之年，人类会生活在月亮，然后是火星。](https://www.nytimes.com/2023/10/01/realestate/nasa-homes-moon-3-d-printing.html)
+      - []()
       - 
 
 # 易经算卜
