@@ -161,10 +161,12 @@ It's useful to record some information about how your file was created.
 - [如何修改礼逆袭内核源码](https://docs.pingcode.com/baike/3216243)
 - [曦语言入门手册：几小时内就能学会的曦语言基础](https://www.freecodecamp.org/chinese/news/the-c-beginners-handbook/)
 - [「猫城」礼逆袭命令大全搜索工具](https://github.com/englianhu/linux-command/)
+- [「猫城」礼逆袭应急响应手册](https://github.com/Just-Hack-For-Fun/Linux-INCIDENT-RESPONSE-COOKBOOK)
 - [「油管」内核开发指南系列](https://youtu.be/triv8bcVLSQ)
 - [人工智能网课系列](https://www.mltut.com/best-resources-to-learn-artificial-intelligence)
 - [RISC-V 平台上编程（一）](https://kalorona.com/computer-science/risc-v-1/)
 - [星球：礼逆袭的知识星球](https://tinylab.org/riscv-uefi-part1/)
+
 <br><br>
 
 ---
