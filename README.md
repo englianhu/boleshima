@@ -175,6 +175,7 @@ It's useful to record some information about how your file was created.
 - [人工智能网课系列](https://www.mltut.com/best-resources-to-learn-artificial-intelligence)
 - [RISC-V 平台上编程（一）](https://kalorona.com/computer-science/risc-v-1/)
 - [星球：礼逆袭的知识星球](https://tinylab.org/riscv-uefi-part1/)
+- [「博客园」礼逆袭内核分析第二周学习总结：操作系统是如何工作的？ ](https://www.cnblogs.com/hyq20135317/p/5243754.html)
 
 <br><br>
 
